@@ -1,0 +1,14 @@
+!autotrain llm
+--train
+--project_name LLAMA_2_Sentiment
+--model TinyPixel/Llama-2-7B-bf16-sharded
+--data_path AdiOO7/Llama-2
+--use_peft
+--use_int4
+--learning_rate 2e-4
+--train_batch_size 2
+--num_train_epochs 1
+--trainer sft
+--model_max_length 2048
+--push_to_hub
+--repo_id magnus42/LLAMA2-Sentiment
