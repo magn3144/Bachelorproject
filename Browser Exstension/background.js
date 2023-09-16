@@ -9,6 +9,7 @@ chrome.runtime.onConnect.addListener(function(port) {
   if (port.name === "popup") {
     port.onMessage.addListener(function(msg) {
       if (msg === "getLatest") {
+        console.log("background.js: sending latest message");
         port.postMessage(latestMessage);
       }
     });

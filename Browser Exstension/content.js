@@ -33,10 +33,10 @@ function removeClickListener() {
 }
 
 chrome.runtime.onMessage.addListener(function(message, sender, sendResponse) {
-  if (message === "start") {
+  if (message.message === "start") {
     addClickListener();
   }
-  else if (message === "stop") {
+  else if (message.message === "stop") {
     removeClickListener();
   }
 });
