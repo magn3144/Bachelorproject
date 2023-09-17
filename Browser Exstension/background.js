@@ -1,13 +1,13 @@
 let latestMessage = null;
 
-chrome.runtime.onMessage.addListener(function(message, sender, sendResponse) {
+chrome.runtime.onMessage.addListener(function (message, sender, sendResponse) {
   latestMessage = message;
   console.log("background.js: " + message);
 });
 
-chrome.runtime.onConnect.addListener(function(port) {
+chrome.runtime.onConnect.addListener(function (port) {
   if (port.name === "popup") {
-    port.onMessage.addListener(function(msg) {
+    port.onMessage.addListener(function (msg) {
       if (msg === "getLatest") {
         console.log("background.js: sending latest message");
         port.postMessage(latestMessage);
