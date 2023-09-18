@@ -1,18 +1,12 @@
-function sendStartMessage() {
-    chrome.tabs.query({ active: true, currentWindow: true }, function (tabs) {
-        let activeTab = tabs[0];
-        chrome.tabs.sendMessage(activeTab.id, { "message": "start" });
-    });
+function sendStartMessage(tabId) {
+    chrome.tabs.sendMessage(tabId, { "message": "start" });
 }
 
-function sendStopMessage() {
-    chrome.tabs.query({ active: true, currentWindow: true }, function (tabs) {
-        let activeTab = tabs[0];
-        chrome.tabs.sendMessage(activeTab.id, { "message": "stop" });
-    });
+function sendStopMessage(tabId) {
+    chrome.tabs.sendMessage(tabId, { "message": "stop" });
 }
 
-function initializeStartButton() {
+function initializeStartButton(tabId) {
     const port = chrome.runtime.connect({ name: "popup" });
     port.postMessage("getLatest");
     console.log("popup.js: initializing start button");
@@ -24,13 +18,13 @@ function initializeStartButton() {
         if (window.selectionMode) {
             // If already in selection mode, and the button is clicked, then stop selection mode
             startButton.textContent = "Start Selecting";
-            sendStopMessage();
+            sendStopMessage(tabId);
             window.selectionMode = false;
         }
         else {
             // If not in selection mode, and the button is clicked, then start selection mode
             startButton.textContent = "Stop Selecting";
-            sendStartMessage();
+            sendStartMessage(tabId);
             window.selectionMode = true;
         }
     });
@@ -55,5 +49,5 @@ console.log("popup.js: tabId: " + tabId);
 console.log("popup.js: tabUrl: " + tabUrl);
 console.log("popup.js: targetTabId: " + targetTabId);
 
-initializeStartButton();
+initializeStartButton(targetTabId);
 initializeMessageListener();
