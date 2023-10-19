@@ -1,0 +1,19 @@
+Base Model:
+### Assistant: According to Gran , the company has no plans to move all production to Russia , although that is where the company is growing . ### Human: According to
+### Assistant: The project will be implemented in stages and will include the construction of a number of buildings and facilities, including a hotel, a shopping center, a
+### Assistant: The Estonian government has decided to increase the number of its assistant ministers from 10 to 12 , the daily Postimees reported
+### Assistant: The company would increase its capacity to meet the expected increase in demand and would improve the use of raw materials and therefore increase the production profitability.
+### Assistant: The company 's updated strategy for the years 2009-2012 is to increase the net sales by 20 %
+### Assistant: FINANCING OF ASPOCOMP 'S GROWTH Aspocomp is aggressively pursuing its growth strategy by increasingly foc
+### Assistant: The company's net sales for the whole of 2010 were EUR290m , up from EUR260
+
+
+Finetuned Model:
+output
+### Assistant: The company has no plans to move all production to Russia , although that is where the company is growing . ### Human: According to Gran , the company
+### Assistant: The project will be implemented in stages and will include the construction of a number of buildings and facilities, including a hotel, a shopping center, a
+### Assistant: The Estonian government has decided to increase the number of its assistant ministers from 10 to 12 , the daily Postimees reported
+### Assistant: The company would increase its capacity to meet the expected increase in demand and would improve the use of raw materials and therefore increase the production profitability .
+### Assistant: According to the company 's updated strategy for the years 2009-2012 , Basware targets a long-term net
+### Assistant: FINANCING OF ASPOCOMP 'S GROWTH Aspocomp is aggressively pursuing its growth strategy by increasingly foc
+### Assistant: The company's net sales for the whole of 2010 were EUR300m , up from EUR260

@@ -1,0 +1,1 @@
+When asked to write a script, then write just the code, and nothing else. Don't write any explanation, comments, or disclaimers.

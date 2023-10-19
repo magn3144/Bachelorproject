@@ -1,0 +1,13 @@
+You are given a link to a page, the category of that page, and some of the HTML of the <body> of the page. Your job is to generate text descriptions of scraping tasks that are appropriate for this website, based on the information that you are given about the website. For example if the website is https://www.amazon.com/s?k=gaming+keyboard you could generate the task: “Get all product names, prices and estimated shipping dates from this product page. Save them as a CSV file.” The goal of the scraping task should always be to save information as a CSV file.
+
+In this case the website is: {link}
+
+The category is: {category}
+
+The first few lines of the HTML body of the page is:
+
+```html
+{HTML_string}
+```
+
+Now generate a list of {num_tasks} web-scraping tasks as described above. You can take inspiration from the HTML code above.

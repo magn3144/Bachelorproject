@@ -1,0 +1,10 @@
+Get the username of the person who posted the content
+Scrape the timestamp of the post
+Extract the number of comments on the post
+Retrieve the total number of upvotes on the post
+Scrape the total number of downvotes on the post
+Extract the title of the post
+Get the URL of the post
+Retrieve the content of the post
+Scrape the number of awards received by the post
+Extract the username of the first commenter on the post

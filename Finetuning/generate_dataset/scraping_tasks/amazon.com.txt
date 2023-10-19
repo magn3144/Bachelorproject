@@ -1,0 +1,2 @@
+Extract all product names, prices, and estimated shipping dates from the product page. Save them as a CSV file.
+Scrape the customer reviews, ratings, and dates from the product page. Save them as a CSV file.
