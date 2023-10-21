@@ -1,0 +1,2 @@
+Scrape the author's username and the date of the post
+Extract the comments and their corresponding timestamps from the page

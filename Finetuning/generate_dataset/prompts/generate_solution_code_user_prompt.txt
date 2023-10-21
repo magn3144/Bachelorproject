@@ -1,4 +1,4 @@
-You are given a web page, the category of the page, the first part of the html body of the page, the local path to the HTML file that should be scraped and a web-scraping task that you should solve.
+You are given a web page, the category of the page, randomly selected html elements on that page, the local path to the HTML file that should be scraped and a web-scraping task that you should solve.
 
 The page is from this website: {website}
 
@@ -6,9 +6,12 @@ The local path to the HTML file is {HTML_file}
 
 The category is: {category}
 
-Here is some code from the target HTML file:
+Here are some randomly selected HTML elements (containing text) from the target page:
 {HTML_string}
 
 The task is: {task}
 
-Now generate a python script that solves this task by extracting the target data from the HTML file. Make sure the script works when I run it, without any modifications. The script you generate should always save the scraped data as a CSV file. You don't necessarily have much information of the structure of the website, so its a good idea to write generalised code that doesn't depend on the specific class names and such. Unless you can find the relevant information in the code of course.
+Now generate a python script that solves this task by extracting the target data from the HTML file.
+Make sure the script works when I run it, without any modifications.
+The script you generate should always save the scraped data as a CSV file with the name 'scraped_data.csv'.
+You can use the given HTML elements above to gain information about the page.

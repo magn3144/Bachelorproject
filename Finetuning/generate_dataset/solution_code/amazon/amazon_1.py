@@ -1,24 +1,25 @@
 import csv
 from bs4 import BeautifulSoup
 
-# Open the HTML file
-with open('downloaded_pages/amazon.com.html', 'r') as file:
-    html_data = file.read()
+# Load the HTML file
+with open('downloaded_pages/amazon.html', 'r') as file:
+    html = file.read()
 
-# Create a BeautifulSoup object
-soup = BeautifulSoup(html_data, 'html.parser')
+# Parse the HTML using BeautifulSoup
+soup = BeautifulSoup(html, 'html.parser')
 
-# Find all the review elements
-reviews = soup.find_all(class_='review')
+# Find all gaming keyboard elements
+keyboard_elements = soup.find_all('span', class_='a-size-medium a-color-base a-text-normal')
 
-# Create a CSV file to save the scraped data
-with open('scraped_data.csv', 'w', newline='') as csvfile:
-    writer = csv.writer(csvfile)
-    writer.writerow(['Review', 'Rating', 'Date'])
+# Extract brand names and customer ratings
+data = []
+for element in keyboard_elements:
+    brand = element.get_text().strip().split()[0]
+    rating = element.find_next('span', class_='a-icon-alt').get_text().split()[0]
+    data.append([brand, rating])
 
-    # Extract the relevant information from each review element
-    for review in reviews:
-        review_text = review.find(class_='review-text').get_text().strip()
-        rating = review.find(class_='review-rating').get_text().strip()
-        date = review.find(class_='review-date').get_text().strip()
-        writer.writerow([review_text, rating, date])
+# Save the data as a CSV file
+with open('keyboard_data.csv', 'w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerow(['Brand', 'Rating'])
+    writer.writerows(data)

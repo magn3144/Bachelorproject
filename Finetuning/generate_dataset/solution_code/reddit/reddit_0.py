@@ -1,22 +1,26 @@
 import csv
 from bs4 import BeautifulSoup
 
-html_file = "downloaded_pages/reddit.com.html"
+# Define the path to the HTML file
+html_file = 'downloaded_pages/reddit.html'
 
-# Read the HTML file
-with open(html_file, "r") as f:
-    html_data = f.read()
+# Open the HTML file and create a BeautifulSoup object
+with open(html_file, 'r') as f:
+    soup = BeautifulSoup(f, 'html.parser')
 
-soup = BeautifulSoup(html_data, "html.parser")
+# Find all the elements containing the author's username and the date of the post
+author_elements = soup.find_all('a', class_='wM6scouPXXsFDSZmZPHRo DjcdNGtVXPcxG0yiFXIoZ _23wugcdiaj44hdfugIAlnX')
+date_elements = soup.find_all('a', class_='_3yx4Dn0W3Yunucf5sVJeFU')
 
-# Find all comment elements
-comments = soup.find_all("div", class_="_1poyrkZ7g36PawDueRza-J")
+# Extract the text from the elements
+authors = [element.get_text() for element in author_elements]
+dates = [element.get_text() for element in date_elements]
 
-# Extract the comment text
-comment_texts = [comment.text for comment in comments]
+# Define the path to save the CSV file
+csv_file = 'scraped_data.csv'
 
-# Save the comments as CSV file
-with open("reddit_comments.csv", "w", newline="") as csv_file:
-    writer = csv.writer(csv_file)
-    writer.writerow(["Comment"])
-    writer.writerows(zip(comment_texts))
+# Write the scraped data to the CSV file
+with open(csv_file, 'w', newline='') as f:
+    writer = csv.writer(f)
+    writer.writerow(['Author', 'Date'])
+    writer.writerows(zip(authors, dates))

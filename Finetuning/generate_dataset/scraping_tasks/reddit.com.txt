@@ -1,2 +1,0 @@
-Scrape all comments from this Reddit thread. Save them as a CSV file.
-Extract the post title, author, and upvote count from this Reddit thread. Save them as a CSV file.

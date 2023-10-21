@@ -1,30 +1,33 @@
 import csv
 from bs4 import BeautifulSoup
 
-html_file = 'downloaded_pages/reddit.com.html'
+# Open the HTML file
+with open('downloaded_pages/reddit.html', 'r') as file:
+    html_content = file.read()
 
-def extract_data(html):
-    soup = BeautifulSoup(html, 'html.parser')
+# Parse the HTML content
+soup = BeautifulSoup(html_content, 'html.parser')
 
-    posts = []
+# Find all comments and timestamps
+comments = soup.find_all('p', class_='_1qeIAgB0cPwnLhDF9XSiJM')
+timestamps = soup.find_all('a', class_='_3yx4Dn0W3Yunucf5sVJeFU')
 
-    for post in soup.find_all('div', {'data-testid': 'post-container'}):
-        title = post.find('h3', {'class': '_eYtD2XCVieq6emjKBH3m'}).text
-        author = post.find('a', {'class': '_2tbHP6ZydRpjI44J3syuqC'}).text
-        upvotes = post.find('div', {'class': '_1rZYMD_4xY3gRcSS3p8ODO'}).text
+# If the number of comments and timestamps is different, ignore the excess
+num_comments = len(comments)
+num_timestamps = len(timestamps)
+min_num = min(num_comments, num_timestamps)
 
-        posts.append({'Title': title, 'Author': author, 'Upvotes': upvotes})
+# Create a list to store the scraped data
+data = []
 
-    return posts
+# Extract the comment and timestamp text
+for i in range(min_num):
+    comment = comments[i].text
+    timestamp = timestamps[i].text
+    data.append([comment, timestamp])
 
-def save_to_csv(data):
-    with open('reddit_posts.csv', 'w', newline='', encoding='utf-8') as file:
-        writer = csv.DictWriter(file, fieldnames=['Title', 'Author', 'Upvotes'])
-        writer.writeheader()
-        writer.writerows(data)
-
-with open(html_file, 'r', encoding='utf-8') as file:
-    html_data = file.read()
-
-posts_data = extract_data(html_data)
-save_to_csv(posts_data)
+# Save the scraped data as a CSV file
+with open('scraped_data.csv', 'w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerow(['Comment', 'Timestamp'])
+    writer.writerows(data)
