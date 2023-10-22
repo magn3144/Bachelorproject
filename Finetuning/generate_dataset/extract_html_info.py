@@ -2,6 +2,7 @@ from lxml import etree
 from io import StringIO
 from bs4 import BeautifulSoup
 import random
+import tiktoken
 
 
 def extract_text_objects(html_content):
@@ -21,6 +22,13 @@ def extract_text_objects(html_content):
     
     return htmls, xpaths
 
+def get_first_n_tokens(text, n):
+    encoding = tiktoken.encoding_for_model("gpt-3.5-turbo")
+    tokens = encoding.encode(text)
+    tokens = tokens[:n]
+    text = encoding.decode(tokens)
+    return text
+
 def extract_relevant_information(HTML_file):
     """
     Returns a list of HTML objects and XPaths, that are relevant for the scraping task.
@@ -35,7 +43,7 @@ def extract_relevant_information(HTML_file):
     7. Remove all the elements children that are not text.
     8. The text should be truncated if it is longer than 100 characters.
     9. Each element should be truncated if it is too long.
-    10. The total length of the HTMLs and xpaths should not exceed a maximum of characters.
+    10. The total amount of tokens in the resulting text should not exceed a maximum.
 
     Parameters:
     HTML_file (str): The path to the HTML file.
@@ -120,17 +128,18 @@ def extract_relevant_information(HTML_file):
     # Remove all linebraks and empty strings.
     htmls_balanced = [(html.replace('\n', '').replace('\r', ''), xpath) for html, xpath in htmls_balanced if html.replace('\n', '').replace('\r', '') != '']
     
-    # The total length of the HTMLs should not exceed max_total_characters.
-    # Add the HTMLs and xpaths to a new list until the total length is exceeded.
-    max_total_chars = 6000
-    total_chars = 0
-    i = 0
-    while total_chars < max_total_chars:
-        total_chars += len(htmls_balanced[i][0])
-        i += 1
-    htmls_balanced = htmls_balanced[:i]
+    # # The total length of the HTMLs should not exceed max_total_characters.
+    # # Add the HTMLs and xpaths to a new list until the total length is exceeded.
+    # max_total_chars = 6000
+    # total_chars = 0
+    # i = 0
+    # while total_chars < max_total_chars:
+    #     total_chars += len(htmls_balanced[i][0])
+    #     i += 1
+    # htmls_balanced = htmls_balanced[:i]
 
     # Make a new list without the xpaths, so only the HTMLs are left.
     htmls_balanced = [html for html, xpath in htmls_balanced]
     
-    return htmls_balanced
+    # The total amount of tokens in the resulting text should not exceed max_total_tokens.
+    return '\n'.join(str(get_first_n_tokens('\n'.join(htmls_balanced), 2000)).split('\n')[:-1])

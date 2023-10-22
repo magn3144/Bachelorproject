@@ -1,2 +1,0 @@
-Get all product names and prices from this product page. Save them as a CSV file.
-Extract the brand names and customer ratings for each gaming keyboard. Save them as a CSV file.

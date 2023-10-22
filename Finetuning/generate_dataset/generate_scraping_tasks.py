@@ -34,25 +34,3 @@ def generate_scraping_tasks(link, website, category, HTML_string, num_tasks):
     with open(f"scraping_tasks/{website}.txt", "w") as file:
         for task in tasks:
             file.write(task + "\n")
-
-def get_body(HTML_file):
-    """Get body from an HTML file, and return it as a string.
-    
-    Parameters:
-    HTML_file (str): The path to the HTML file.
-    """
-
-    # Load the HTML file
-    with open(HTML_file, "r", encoding="utf-8") as file:
-        HTML_string = file.read()
-
-    # Parse the HTML
-    soup = BeautifulSoup(HTML_string, 'html.parser')
-
-    # Get the body
-    body = soup.body
-
-    # Convert the body to a string
-    body_string = str(body)
-
-    return body_string
