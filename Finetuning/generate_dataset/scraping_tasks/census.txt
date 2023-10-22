@@ -1,0 +1,16 @@
+Get all dataset titles and their corresponding years
+Extract the category of each dataset
+Retrieve the director's blog post
+Scrape the last modified date of the page
+Extract all fact sheet titles
+Retrieve the number of pages
+Get the title of the page
+Extract the email subscription text
+Scrape the text thanking for feedback
+Get all tags labeled as "Dataset"
+Extract the titles of ACS Supplemental Poverty Measures (SPM) Research Files and their corresponding years
+Scrape the text of Data Protection and Privacy link
+Retrieve the text of Survey Respondents
+Extract the text about data files for public use with personally identifiable information
+Scrape the total number of pages (out of 17)
+Note: The number of tasks can be varied based on the requirements and goals of the scraping project.

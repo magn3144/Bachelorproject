@@ -1,2 +1,0 @@
-Extract the title of the post and save it as a CSV file.
-Get all the comments and their timestamps from the post. Save them as a CSV file.

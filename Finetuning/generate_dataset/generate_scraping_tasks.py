@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 def generate_scraping_tasks(link, website, category, HTML_string, num_tasks):
     """
-    Generate text prompts for GPT-4 of what should be scraped from the given page.
+    Generate text prompts for GPT-3.5 of what should be scraped from the given page.
 
     Parameters:
     link (str): The URL of the page to be scraped.
@@ -29,6 +29,9 @@ def generate_scraping_tasks(link, website, category, HTML_string, num_tasks):
 
     # Remove the "- " prefix from each task
     tasks = [task.split("- ")[1] if "- " in task else task for task in tasks]
+
+    # Remove empty tasks (those that are less than 5 characters long)
+    tasks = [task for task in tasks if len(task) > 5]
 
     # Save as a txt file
     with open(f"scraping_tasks/{website}.txt", "w") as file:

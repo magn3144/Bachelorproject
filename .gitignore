@@ -161,3 +161,5 @@ cython_debug/
 
 # Ignore the tests folder
 Scraper/tests/
+# Ignore the downloaded pages folder
+downloaded_pages/

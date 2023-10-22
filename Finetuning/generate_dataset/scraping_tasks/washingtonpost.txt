@@ -1,0 +1,15 @@
+Get all headlines and their corresponding authors. Save them as a CSV file.
+Extract the timestamps of each news article. Save them as a CSV file.
+Scrape all the links to articles on the page. Save them as a CSV file.
+Retrieve all the captions of the images on the page. Save them as a CSV file.
+Collect all the names of the journalists mentioned in the HTML body. Save them as a CSV file.
+Extract the text of all the span tags with the class "Politics". Save them as a CSV file.
+Scrape the content of all the p tags with the class "wpds-c-kjCVnC". Save them as a CSV file.
+Retrieve the text from all the a tags with the class "wpds-c-iifZmx wpds-c-iifZmx-gzQzMU-desktopVariant-true". Save them as a CSV file.
+Collect the text of all the div tags with the class "gray-dark". Save them as a CSV file.
+Extract the text from all the figcaption tags with the class "gray-dark font-xxxxs left pb-xs font--meta-text lh-sm mt-xxs". Save them as a CSV file.
+Scrape the text of all the labels on the page. Save them as a CSV file.
+Retrieve the text of all the h3 tags. Save them as a CSV file.
+Collect the text of all the li tags with the class "wpds-c-cFhpZV wpds-c-cFhpZV-kEJnWT-mbSm-true". Save them as a CSV file.
+Extract the text from all the figcaption tags with the class "gray-dark font-xxxxs left pb-xs font--meta-text lh-sm mt-xxs". Save them as a CSV file.
+Scrape all the text from the p tags with the class "wpds-c-kjCVnC". Save them as a CSV file.

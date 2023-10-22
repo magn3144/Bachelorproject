@@ -1,0 +1,15 @@
+Get all the property details (bedrooms, bathrooms, sqft) from the page and save them as a CSV file.
+Extract the status (New, For Sale, House For Sale, Condo For Sale) of each property and save it as a CSV file.
+Scrape the names of the real estate agents and their respective agencies from the page and save them as a CSV file.
+Retrieve the neighborhood names (e.g. Lenox Hill, Panorama, Upper West Side) from the page and save them as a CSV file.
+Collect the zip codes associated with each property from the page and save them as a CSV file.
+Extract the city names near New York, NY from the page and save them as a CSV file.
+Get the address components (street address and city, state, zip) of each property and save them as a CSV file.
+Scrape the phone numbers of the real estate agents from the page and save them as a CSV file.
+Retrieve the names of the real estate agents and their corresponding brokerage firms from the page and save them as a CSV file.
+Extract the property types (Apartment For Sale, House For Sale, Condo For Sale) from the page and save them as a CSV file.
+Scrape the details of pending listings (address, real estate agent) from the page and save them as a CSV file.
+Get the neighborhood names in New York, NY from the page and save them as a CSV file.
+Extract the details of condo listings (address, real estate agent) from the page and save them as a CSV file.
+Scrape the details of house listings (address, real estate agent) from the page and save them as a CSV file.
+Retrieve the details of apartment listings (address, real estate agent) from the page and save them as a CSV file.

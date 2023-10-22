@@ -1,0 +1,53 @@
+<a class="AnchorLink LegalFooter__Link LegalFooter__Link--underline-hover">Manage Privacy Preferences</a>
+<a class="AnchorLink MatchInfo__Link">Gamecast</a>
+<div class="MediaList__item__description fw-medium pb2">Why RC is taking the Packers over the Broncos</div>
+<div class="LocationDetail__Item">Seattle, WA</div>
+<span class="vjs-control-text">Seek to live, currently behind live</span>
+<span class="Athlete__PlayerName">T. Hill</span>
+<h1 class="h8 pb2">Trevor Lawrence comes through late and the Jaguars</h1>
+<h1 class="headline headline__h1 dib">NFL Scoreboard</h1>
+<h3 class="Card__Header__Title Card__Header__Title--no-theme">Tuesday, October 24, 2023</h3>
+<p class="vjs-modal-dialog-description vjs-control-text" id="vjs_video_3_component_565_description">Beginning of dialog window. Escape will cancel and</p>
+<p class="vjs-control-text">End of dialog window.</p>
+<h2 class="clr-white Media__Caption__Title n6">McAfee: It's bad over there with the Broncos</h2>
+<li class="MetaContent__Item MetaContent__Item__Timestamp">1h</li>
+<legend>Disable CC Positioning</legend>
+<label class="vjs-social-label-text">URL</label>
+<a class="AnchorLink MatchInfo__Link">Gamecast</a>
+<div class="News__Item__Description">The NFL has threatened to hand down significant pu</div>
+<div class="LocationDetail__Item">Chicago, IL</div>
+<span class="vjs-control-text">, opens captions settings dialog</span>
+<span class="Athlete__NameDetails ml2 clr-gray-04 di ns10">QB - LV</span>
+<h3 class="Card__Header__Title Card__Header__Title--no-theme">Bye Week Teams</h3>
+<p class="vjs-modal-dialog-description vjs-control-text" id="vjs_video_3_component_1058_description">This is a modal window. This modal can be closed b</p>
+<p class="vjs-modal-dialog-description vjs-control-text" id="vjs_video_3_component_559_description">This is a modal window.</p>
+<h2 class="News__Item__Headline">Fantasy football Week 7 inactives: Status for Dani</h2>
+<li class="MediaList__item__playing i dib mr1">Now Playing</li>
+<legend>Foreground</legend>
+<label>Start at</label>
+<a class="AnchorLink Button Button--sm Button--anchorLink Button--alt mb4 w-100 mr2">Gamecast</a>
+<div class="News__Item__Description">The Philadelphia Eagles return to their "Kelly Gre</div>
+<div class="clr-gray-04 ttu n10 w-20">PASS</div>
+<span class="vjs-control-text"> restore all settings to the default values</span>
+<span class="Athlete__Stats--label">YDS</span>
+<h3 class="Card__Header__Title Card__Header__Title--no-theme">NFL Videos</h3>
+<p class="n9 clr-gray-03">— Jacksonville quarterback Trevor Lawrence was pla</p>
+<h2 class="News__Item__Headline">NFL warns teams: 'Significant' discipline for figh</h2>
+<li class="MetaContent__Item MetaContent__Item__Timestamp">1h</li>
+<legend class="" id="vjs_video_3_component_565">Text Edge Style</legend>
+<label class="vjs-label" id="captions-window-opacity-vjs_video_3_component_565">Transparency</label>
+<div class="News__Item__Description">AJ Mass provides updated inactives and analysis ba</div>
+<div class="clr-gray-04 ttu n10 w-20">REC</div>
+<span class="QuickLinks__Item__Title">Peyton's Places: Season 4 Premiere</span>
+<span class="Athlete__Stats--label">INT</span>
+<h2 class="News__Item__Headline">NFL Week 7 uniforms: Eagles bring out 'Kelly Green</h2>
+<li class="MetaContent__Item MetaContent__Item__Timestamp">25m</li>
+<div class="LocationDetail__Item LocationDetail__Item--headline">GEHA Field at Arrowhead Stadium</div>
+<div class="db">O/U: 47.5</div>
+<div class="LegalFooter__Copyright">© ESPN Enterprises, Inc. All rights reserved.</div>
+<div class="clr-gray-04 ttu n10 w-20">REC</div>
+<div class="MediaList__item__description fw-medium pb2">McAfee: It's bad over there with the Broncos</div>
+<div class="ScoreCell__NetworkItem">FOX</div>
+<div class="LocationDetail__Item LocationDetail__Item--headline">Empower Field at Mile High</div>
+<div class="db">O/U: 40.5</div>
+<div class="MediaList__item__description fw-medium pb2">Why Clark is leaning to the Bucs to get back on th</div>

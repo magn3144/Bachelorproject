@@ -1,0 +1,104 @@
+<p class="usa-banner__header-action">                            Here’s how you know </p>
+<p class="uscb-footer-text">Director’s Blog</p>
+<span id="uscb-automation-lastmodified-date">Page Last Revised - October 11, 2023</span>
+<span class="uscb-tag-label uscb-tag-label">Dataset</span>
+<div class="uscb-default-x-column-content uscb-body-small-01">These research files enable researchers to replica</div>
+<div class="uscb-default-x-column-title uscb-heading-2">2022 – Public Use Files</div>
+<a class="uscb-header-panel-content-link">                                Fact Sheets     </a>
+<a class="uscb-pagination-item">						6					</a>
+<h1 class="cmp-title__text">Census Datasets</h1>
+<label class="ui-helper-hidden-accessible">Enter your email address</label>
+<p class="uscb-email-subscription-text uscb-margin-T-0 uscb-margin-B-30">To sign up for updates please enter your email add</p>
+<p class="uscb-email-subscription-title">Receive Updates</p>
+<span class="rate-thankyouText">Thank you for your feedback.</span>
+<span class="uscb-tag-label uscb-tag-label">Dataset</span>
+<div class="uscb-default-x-column-title uscb-heading-2">ACS Supplemental Poverty Measures (SPM) Research F</div>
+<div class="uscb-author-text-wrapper uscb-meta-data-text">2020</div>
+<a class="uscb-footer-link">                        Data Protection and Priva</a>
+<a>Survey Respondents</a>
+<p>Data files, for public use, with all personally id</p>
+<p class="uscb-sub-heading-2 uscb-color-primary uscb-margin-TB-5">  of  17</p>
+<span class="uscb-header-search-placeholder">Search data, events, resources, and more</span>
+<span class="uscb-tag-label uscb-tag-label">Dataset</span>
+<div class="uscb-default-x-column-title uscb-heading-2">County Business Patterns: 2021</div>
+<div class="uscb-author-text-wrapper uscb-meta-data-text">2021</div>
+<a class="uscb-header-overlay-item-link-sub">                                Education       </a>
+<a>News</a>
+<p class="usa-banner__header-text">                            An official website o</p>
+<p class="uscb-footer-text">America Counts</p>
+<span class="uscb-tag-label uscb-tag-label">Dataset</span>
+<div class="uscb-default-x-column-content uscb-body-small-01">Data files, for public use, with all personally id</div>
+<div class="uscb-author-text-wrapper uscb-meta-data-text">2020</div>
+<a class="uscb-header-overlay-item-link-sub">                                Economic Census </a>
+<a>Jobs</a>
+<p class="uscb-footer-tag-line">Measuring America's People, Places, and Economy</p>
+<p class="uscb-footer-text-title">Follow</p>
+<span class="rate-WasThisPageHelpfulText">Is this page helpful?</span>
+<div class="uscb-default-x-column-content uscb-body-small-01">View and download 2021 school district estimates f</div>
+<div class="uscb-author-text-wrapper uscb-meta-data-text">2021</div>
+<a class="uscb-header-panel-content-link">                                Census Academy  </a>
+<a>Contact Us</a>
+<p class="uscb-footer-text">Jobs</p>
+<span class="uscb-footer-link-separator">|</span>
+<div class="uscb-header-overlay-item-title">                            Topics              </div>
+<div class="uscb-author-text-wrapper uscb-meta-data-text">April 27, 2023</div>
+<a class="uscb-header-panel-content-link">                                Research        </a>
+<a class="uscb-pagination-item">						8					</a>
+<p class="uscb-footer-text">Random Samplings</p>
+<span class="uscb-tag-label uscb-tag-label">Dataset</span>
+<div class="uscb-default-x-column-content uscb-body-small-01">View and download the Annual Survey of Public Pens</div>
+<div class="uscb-author-text-wrapper uscb-meta-data-text">December 2022</div>
+<a class="uscb-header-panel-content-link">                                Developers      </a>
+<a>Help</a>
+<p class="uscb-footer-text">Support</p>
+<span class="uscb-tag-label uscb-tag-label">Dataset</span>
+<div class="uscb-default-x-column-title uscb-heading-2">SAIPE School District Estimates for 2021</div>
+<div class="uscb-header-panel-mainnav-item-label">Surveys &amp; Programs</div>
+<a class="uscb-header-panel-content-link">                                Mapping Files   </a>
+<a class="uscb-nav-skip uscb-button-medium uscb-secondary-button uscb-position-absolute" id="uscb-nav-skip-header">Skip Header</a>
+<div class="uscb-default-x-column-title uscb-heading-2">SAIPE School District Estimates for 2020</div>
+<div class="uscb-header-panel-mainnav-item-label">Resource Library</div>
+<a class="uscb-header-overlay-item-link-sub">                                Training (Census </a>
+<a class="uscb-pagination-item">						10					</a>
+<div class="uscb-default-x-column-title uscb-heading-2">2020 Annual Survey of Public Pensions: State &amp; Loc</div>
+<div class="uscb-header-menu-icon-text">Search</div>
+<a class="uscb-header-panel-content-link">                                Employment      </a>
+<a class="uscb-header-mainnav-tab-title">Topics</a>
+<div class="uscb-default-x-column-content uscb-body-small-01">View and download annual health insurance coverage</div>
+<div class="uscb-author-text-wrapper uscb-meta-data-text">2022</div>
+<a class="uscb-header-panel-content-link">                                Spotlights      </a>
+<a>Researchers</a>
+<div class="uscb-default-x-column-content uscb-body-small-01">View and download the state tax data sets for 2022</div>
+<div class="uscb-author-text-wrapper uscb-meta-data-text">2020</div>
+<a class="uscb-header-overlay-item-link-sub">                                Mapping Files   </a>
+<a class="uscb-nav-skip uscb-nav-skip-footer uscb-button-medium uscb-secondary-button uscb-position-relative" id="uscb-nav-skip-footer">Back to Header</a>
+<div class="uscb-default-x-column-content uscb-body-small-01">The U.S. Census Bureau provided redistricting data</div>
+<div class="uscb-author-text-wrapper uscb-meta-data-text">December 2020</div>
+<a class="uscb-header-overlay-item-link-sub">                                Experimental Data</a>
+<a>Partners</a>
+<div class="uscb-header-overlay-item-description">                            Access demographic, e</div>
+<div class="uscb-author-text-wrapper uscb-meta-data-text">February 2022</div>
+<a class="uscb-header-panel-content-link">                                Small Area Income</a>
+<a class="uscb-pagination-item">						2					</a>
+<div class="uscb-header-panel-top-title">                            Data &amp; Maps         </div>
+<div class="uscb-default-x-column-title uscb-heading-2">SAIPE Model Input Data</div>
+<a class="uscb-header-overlay-item-link-sub">                                American Housing </a>
+<a class="uscb-header-mainnav-tab-title">Resource Library</a>
+<div class="uscb-header-overlay-item-title">                            Data &amp; Maps         </div>
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12"></div>
+<a class="uscb-header-panel-content-link">                                Facts for Feature</a>
+<a class="uscb-header-mainnav-tab-title">Data &amp; Maps</a>
+<div class="uscb-header-overlay-item-description">                            Our surveys provide p</div>
+<div class="uscb-header-menu-icon-text">Menu</div>
+<a class="uscb-header-panel-content-link">                            Survey Respondents  </a>
+<a>NAICS Codes</a>
+<div class="uscb-default-x-column-title uscb-heading-2">SAIPE State and County Estimates for 2021</div>
+<div class="uscb-author-text-wrapper uscb-meta-data-text">2021</div>
+<a class="uscb-header-overlay-item-link-sub">                                Current Populatio</a>
+<a class="uscb-pagination-item">						7					</a>
+<div class="uscb-default-x-column-content uscb-body-small-01">View and download 2020 state and county estimates </div>
+<div class="uscb-author-text-wrapper uscb-meta-data-text">March 2023</div>
+<a class="uscb-header-overlay-item-link-sub">                                Emergency Managem</a>
+<a class="uscb-header-mainnav-tab-title">Surveys &amp; Programs</a>
+<div class="uscb-default-x-column-content uscb-body-small-01">View and download 2021 state and county estimates </div>
+<div class="uscb-author-text-wrapper uscb-meta-data-text">December 2021</div>

@@ -1,11 +1,9 @@
 Category,Website,Link
-Real Estate Websites,homefinder,homefinder.com
-Sports Websites,espn,espn.com
+Real Estate Websites,homefinder,https://homefinder.com/homes-for-sale/NY/New-York
+Sports Websites,espn,https://www.espn.com/nfl/scoreboard
 News,washingtonpost,washingtonpost.com
-Directories,merchantcircle,merchantcircle.com
-Directories,manta,manta.com
-Government and Public Databases,epa,epa.gov
-Government and Public Databases,census,census.gov
+Directories,merchantcircle,https://www.merchantcircle.com/ny-new-york
+Government and Public Databases,census,https://www.census.gov/data/datasets.html
 Government and Public Databases,uspto,uspto.gov
 Social Media,tumblr,tumblr.com
 Stocks,nasdaq,nasdaq.com
@@ -103,7 +101,7 @@ News,cnn,cnn.com
 Forums and Review Sites,quora,quora.com
 Weather Websites,weather,weather.com
 Weather Websites,weatherbug,weatherbug.com
-Educational Websites,stanfordonline.stanford.edu,stanfordonline.stanford.edu
+Educational Websites,stanfordonline.stanford,stanfordonline.stanford.edu
 News,huffpost,huffpost.com
 Jobs,monster,monster.com
 Directories,spoke,spoke.com

@@ -1,0 +1,16 @@
+Scrape all the fullText spans
+Scrape all the sub-menu-header texts
+Scrape the text of all the url org tags
+Scrape the text of all the locality spans
+Scrape the text of all the street-address spans
+Scrape the text of all the inDesktop spans
+Scrape the text of all the itemDesc links
+Scrape the text of all the viewMoreLink links
+Scrape the text of all the active tags
+Scrape the text of all the bottomSignature links
+Scrape the text of all the review-link links
+Scrape the text of all the itemDesc links with class btn-filled
+Scrape the text of all the inMob spans
+Scrape the text of all the viewMoreLink links with class btn-filled
+Scrape the text of all the itemDesc links with class btn-filled
+Scrape the text of all the btnDir links

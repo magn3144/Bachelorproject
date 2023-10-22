@@ -1,0 +1,104 @@
+<div class="text-muted">        12 Bd | 6 Bath | 4,492 Sqft      </div>
+<div class="listing-ribbon listing-ribbon-success">      New    </div> 
+<span class="cobrand-attribution-line1 mt-1">            Lorrie M Bruce - Gage Realty - 202326</span>
+<span class="scope-label text-homes-for-sale small">For Sale</span>
+<a class="search-internal-link d-block">Lenox Hill      Homes for Sale</a>
+<a class="nav-link">Mortgage</a>
+<h1 class="search-title">New York, NY Homes For Sale</h1>
+<p class="phone-action h4 text-primary">              (855) 437-0155            </p>
+<p class="h5 mb-0">Mortgage</p> 
+<label class="font-weight-bold">      Zip Codes in      New York, NY    </label> 
+<label class="font-weight-bold">Cities Near New York, NY</label> 
+<h2>How Much Does it Cost to Buy a Home in NYC?</h2>
+<h2>What is NYC's Climate?</h2>
+<div class="text-muted">        1 Bd | 1 Bath      </div>
+<div class="listing-ribbon listing-ribbon-success">      New    </div> 
+<span class="cobrand-attribution-line1 mt-1">            Nazim K Mohamed - Affordable Realty C</span>
+<span class="scope-label text-homes-for-sale small">House For Sale</span>
+<a class="search-internal-link d-block">Panorama, NY      Homes for Sale</a>
+<a class="nav-link">List Your Property</a>
+<p class="get-connected h6">          Get Connected with a Local Agent Immedi</p>
+<p class="h3 mb-3">Resource Center</p> 
+<label class="font-weight-bold">      Neighborhoods      in New York, NY    </label> 
+<h2>Homes for Sale in New York, NY: FAQ</h2>
+<div class="addr-component h5 mb-0">        195 W Mohican Trail,      </div> 
+<div class="btn btn-sm btn-primary text-nowrap">      View Details    </div>
+<span class="cobrand-attribution-line1 mt-1">            Janet Wilkinson - Keller Williams NYC</span>
+<span class="scope-label text-homes-for-sale small">Condo For Sale</span>
+<a class="search-internal-link d-block">Upper West Side      Homes for Sale</a>
+<a class="order-7 order-lg-0">Rent to Own Homes</a> 
+<p>New York's rental market (which makes up 76.8% of </p>
+<p class="h5 mb-0">Veterans</p> 
+<h2>What's the Best Way to Get Around in NYC?</h2>
+<div class="addr-component">        New York, NY 10002      </div> 
+<div class="btn btn-sm btn-primary text-nowrap">      View Details    </div>
+<span class="cobrand-attribution-line1 mt-1">            Adedapo Orederu - Keller Williams Cap</span>
+<span class="btn btn-sm btn-primary float-right">Get Connected</span>
+<a class="search-internal-link d-block">10021      Homes for Sale</a>
+<a class="order-5 order-lg-0">Foreclosed Homes</a> 
+<p>New York City's climate is defined as warm, humid </p>
+<h2>How Many Schools Are in NYC?</h2>
+<div class="addr-component">        New York, NY 12166      </div> 
+<div class="btn btn-sm btn-primary text-nowrap">      View Details    </div>
+<span class="cobrand-attribution-line1 mt-1">            Elizabeth Vega - R New York - H625984</span>
+<span class="scope-label text-homes-for-sale small">Condo For Sale</span>
+<a class="search-internal-link d-block">Midtown East      Homes for Sale</a>
+<a class="order-last order-lg-0">Articles by HomeFinder</a> 
+<p>Relocating to New York is a decision that should b</p>
+<div class="cobrand-attribution-label">                Listing Courtesy of:            </div>
+<div class="cobrand-logo-wrapper">   </div> 
+<span class="cobrand-attribution-line1 mt-1">            Myra F. Rappoport - McKean Real Estat</span>
+<span class="scope-label text-homes-for-sale small">Apartment For Sale</span>
+<a>Equal Housing Opportunity</a>            | © 2023 Teacup Real Estate Media | Follow Us on          
+<a class="nav-link">Articles by HomeFinder</a>
+<p class="phone-action h4 text-primary">              (855) 437-0155            </p>
+<div class="cobrand-attribution-label">                Listing Courtesy of:            </div>
+<div class="listing-ribbon listing-ribbon-success">      Pending    </div> 
+<span class="cobrand-attribution-line1 mt-1">            Matteo Caruso - Engel &amp; Volkers Brook</span>
+<span class="label d-none d-md-inline">Search</span>
+<a class="search-internal-link d-block">Krumville, NY      Homes for Sale</a>
+<a class="order-3 order-lg-0">Home Rentals</a> 
+<p class="get-connected h6">          Get Connected with a Local Agent Immedi</p>
+<div class="cobrand-attribution-label">                Listing Courtesy of:            </div>
+<div class="text-muted"></div>
+<span class="cobrand-attribution-line1 mt-1">            June H Chang - E Realty International</span>
+<span>New York</span> 
+<a class="search-internal-link d-block">Akwesasne, NY      Homes for Sale</a>
+<a class="order-11 order-lg-0">About</a> 
+<p class="subtitle text-muted h6">          Get Connected with a Local Agent Immedi</p> 
+<div class="btn btn-sm btn-primary text-nowrap">      View Details    </div>
+<span class="cobrand-attribution-line1 mt-1">            Anny Yau - BC Realty Group LLC - 4776</span>
+<span class="scope-label text-homes-for-sale small">Condo For Sale</span>
+<a class="search-internal-link d-block">10022      Homes for Sale</a>
+<a class="order-1 order-lg-0 nuxt-link-active">Homes For Sale</a> 
+<p class="h4">Interested in Buying a Home?</p> 
+<div class="btn btn-sm btn-primary text-nowrap">      View Details    </div>
+<span class="cobrand-attribution-line1 mt-1">            Dawn M. Payne - Payne Team LLC - H627</span>
+<span class="scope-label text-homes-for-sale small">House For Sale</span>
+<a class="search-internal-link d-block">Douglaston, NY      Homes for Sale</a>
+<a class="order-2 order-lg-0">Contact Us</a> 
+<p class="h4">Interested in Buying a Home?</p> 
+<div class="listing-ribbon listing-ribbon-success">      New    </div> 
+<span class="cobrand-attribution-line1 mt-1">            Lian Lebret - Argo Real Estate - 2257</span>
+<span class="scope-label text-homes-for-sale small">House For Sale</span>
+<a class="small">See How Much You Can Afford</a>
+<a class="order-4 order-lg-0">Support</a> 
+<p>With a median home price of $610,000, the Big Appl</p>
+<div class="listing-ribbon listing-ribbon-success">      New    </div> 
+<span class="cobrand-attribution-line1 mt-1">            James A McClenaghan - Howard Hanna - </span>
+<span class="scope-label text-homes-for-sale small">House For Sale</span>
+<a class="search-internal-link d-block">Fineview, NY      Homes for Sale</a>
+<a class="order-10 order-lg-0">Privacy</a>
+<p>The average annual tuition for New York's private </p>
+<div class="listing-ribbon listing-ribbon-success">      New    </div> 
+<span class="cobrand-attribution-line1 mt-1">            John Fucito - Oxford Property Group -</span>
+<span>NY</span> 
+<a class="search-internal-link d-block">Degrasse, NY      Homes for Sale</a>
+<a class="order-8 order-lg-0">Terms of Use</a> 
+<p>A metropolis like New York is not ideal for drivin</p>
+<div class="btn btn-sm btn-primary text-nowrap">      View Details    </div>
+<span class="cobrand-attribution-line1 mt-1">            Danielle McLaurin - Oxford Property G</span>
+<span class="scope-label text-homes-for-sale small">Condo For Sale</span>
+<a class="search-internal-link d-block">Manhasset, NY      Homes for Sale</a>
+<a class="order-6 order-lg-0">Accessibility</a> 
+<p>If you decide to become a homeowner in New York, y</p>
