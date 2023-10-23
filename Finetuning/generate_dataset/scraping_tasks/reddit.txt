@@ -1,0 +1,5 @@
+Scrape the title of the post and save it as a CSV file.
+Scrape the content of the post and save it as a CSV file.
+Scrape the date of the post and save it as a CSV file.
+Scrape the number of upvotes on the post and save it as a CSV file.
+Scrape the number of comments on the post and save it as a CSV file.

@@ -4,7 +4,7 @@ In this case the website is: {link}
 
 The category is: {category}
 
-The first few lines of the HTML body of the page is:
+Here are some randomly selected HTML elements (containing text), and their corresponding XPaths from the target page:
 {HTML_string}
 
 Now generate a list of web-scraping task(s) as described above.

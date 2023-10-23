@@ -14,7 +14,7 @@ def extract_text_objects(html_content):
     elements_with_text = [elem for elem in tree.xpath('//*') if elem.text and not elem.getchildren()]
 
     # Exclude script and style tags
-    elements_with_text = [elem for elem in elements_with_text if elem.tag not in ['script', 'style']]
+    # elements_with_text = [elem for elem in elements_with_text if elem.tag not in ['script', 'style']]
     
     # Extract the HTML and xpath for each element
     htmls = [etree.tostring(elem, encoding='unicode') for elem in elements_with_text]
@@ -86,7 +86,7 @@ def extract_relevant_information(HTML_file):
     short_texts_added = 0
     allowed_difference = 10
     htmls_balanced = []
-    allowed_tags = ['p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'li', 'td', 'th', 'dt', 'dd', 'blockquote', 'cite', 'figcaption', 'a', 'span', 'label', 'legend', 'pre', 'caption', 'td', 'th', 'div']
+    allowed_tags = ['p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'li', 'td', 'th', 'dt', 'dd', 'blockquote', 'cite', 'figcaption', 'a', 'span', 'label', 'legend', 'pre', 'caption', 'td', 'th', 'div', 'title']
     for _ in range(len(htmls)):
         for tag in htmls_by_tag_split:
             if tag in allowed_tags:
@@ -138,8 +138,15 @@ def extract_relevant_information(HTML_file):
     #     i += 1
     # htmls_balanced = htmls_balanced[:i]
 
-    # Make a new list without the xpaths, so only the HTMLs are left.
-    htmls_balanced = [html for html, xpath in htmls_balanced]
+    # # Make a new list without the xpaths, so only the HTMLs are left.
+    # htmls_balanced = [html for html, xpath in htmls_balanced]
+
+    # Concatenate the HTMLs and XPaths into one string.
+    html_string = ''
+    for html, xpath in htmls_balanced:
+        html_string += html + '\n'
+        html_string += xpath + '\n'
+        html_string += '----------------\n'
     
     # The total amount of tokens in the resulting text should not exceed max_total_tokens.
-    return '\n'.join(str(get_first_n_tokens('\n'.join(htmls_balanced), 2000)).split('\n')[:-1])
+    return '\n'.join(str(get_first_n_tokens(html_string, 2000)).split('\n')[:-1])

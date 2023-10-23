@@ -6,7 +6,7 @@ The local path to the HTML file is {HTML_file}
 
 The category is: {category}
 
-Here are some randomly selected HTML elements (containing text) from the target page:
+Here are some randomly selected HTML elements (containing text), and their corresponding XPaths from the target page:
 {HTML_string}
 
 The task is: {task}
