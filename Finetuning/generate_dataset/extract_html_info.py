@@ -4,6 +4,8 @@ from bs4 import BeautifulSoup
 import random
 import tiktoken
 
+encoding = tiktoken.encoding_for_model("gpt-3.5-turbo")
+
 
 def extract_text_objects(html_content):
     # Parse the HTML using lxml
@@ -23,7 +25,7 @@ def extract_text_objects(html_content):
     return htmls, xpaths
 
 def get_first_n_tokens(text, n):
-    encoding = tiktoken.encoding_for_model("gpt-3.5-turbo")
+    text = text[:min(n*10, len(text))]
     tokens = encoding.encode(text)
     tokens = tokens[:n]
     text = encoding.decode(tokens)

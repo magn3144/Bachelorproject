@@ -10,3 +10,4 @@ Here are some randomly selected HTML elements (containing text), and their corre
 Now generate a list of web-scraping task(s) as described above.
 The amount of task(s) you should generate is: {num_tasks}
 You can take inspiration from the HTML code above.
+Do NOT include specific details from the randomly selected HTML elements (like class).

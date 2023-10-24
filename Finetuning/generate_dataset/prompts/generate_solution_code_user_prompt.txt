@@ -14,4 +14,4 @@ The task is: {task}
 Now generate a python script that solves this task by extracting the target data from the HTML file.
 Make sure the script works when I run it, without any modifications.
 The script you generate should always save the scraped data as a CSV file with the name 'scraped_data.csv'.
-You can use the given HTML elements above to gain information about the page.
+You can use the given HTML elements above to gain information about the page, but these are just examples from the page. There are many more elements on the page, so write your code as generalised as possible.
