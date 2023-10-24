@@ -1,0 +1,10 @@
+Scrape all the titles from the webpage and save them in a CSV file.
+Extract all the clickable link texts from the webpage and store them in a CSV file.
+Retrieve all the DIV elements containing information about the market calendar and save them in a CSV file.
+Scrape all the SPAN elements from the webpage, specifically the ones categorized as 'primary-nav__header' and save them in a CSV file.
+Extract all the text content from the LABEL elements and store them in a CSV file.
+Scrape the text content from the H1, H2, H3 elements representing various headers and store them in a CSV file.
+Extract information from P and LI elements, which might represent notes or list items, and save them in a CSV file.
+Retrieve all the monthly and yearly data from the H5 elements and save them in a CSV file.
+Scrape all the values of the market-calendar-table__cell-content elements and store them in a CSV file.
+Extract all the anchor text from the A elements on the webpage and save them in a CSV file.

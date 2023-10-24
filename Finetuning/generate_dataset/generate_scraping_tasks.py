@@ -22,7 +22,7 @@ def generate_scraping_tasks(link, website, category, HTML_string, num_tasks):
     user_prompt = user_prompt.format(link=link, category=category, HTML_string=HTML_string, num_tasks=num_tasks)
 
     # Get response from GPT-4
-    response = get_response(system_prompt, user_prompt)
+    response = get_response(system_prompt, user_prompt, "gpt-4")
 
     # Extract the tasks from the response
     tasks = response.split("\n")

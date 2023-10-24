@@ -1,4 +1,4 @@
-You are given a link to a page, the category of that page, and some randomly selected HTML tags with text. Your job is to generate text descriptions of scraping tasks that are appropriate for this website, based on the information that you are given about the website. For example if the website is https://www.amazon.com/s?k=gaming+keyboard you could generate the task: “Get all product names and prices from this product page. Save them as a CSV file.” The goal of the scraping task should always be to save information as a CSV file.
+You are given a link to a page, the category of that page, and some randomly selected HTML tags with text.
 
 In this case the website is: {link}
 
@@ -7,7 +7,9 @@ The category is: {category}
 Here are some randomly selected HTML elements (containing text), and their corresponding XPaths from the target page:
 {HTML_string}
 
-Now generate a list of web-scraping task(s) as described above.
+Now generate a list of web-scraping task(s).
+Do NOT include specific details from the randomly selected HTML elements (like class or tag type).
+For example if the website is https://www.amazon.com/s?k=gaming+keyboard, then you could generate the task: “Get all product names and prices from this product page. Save them as a CSV file.”
+The goal of the scraping task should always be to save information as a CSV file.
 The amount of task(s) you should generate is: {num_tasks}
-You can take inspiration from the HTML code above.
-Do NOT include specific details from the randomly selected HTML elements (like class).
+You can take inspiration from the randomly selected HTML elements above.

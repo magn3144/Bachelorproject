@@ -1,17 +1,18 @@
 You are given a web page, the category of the page, randomly selected html elements on that page, the local path to the HTML file that should be scraped and a web-scraping task that you should solve.
 
+Here are some randomly selected HTML elements (containing text), and their corresponding XPaths from the target page:
+{HTML_string}
+Do NOT include these directly in your code!
+
 The page is from this website: {website}
 
 The local path to the HTML file is {HTML_file}
 
 The category is: {category}
 
-Here are some randomly selected HTML elements (containing text), and their corresponding XPaths from the target page:
-{HTML_string}
-
 The task is: {task}
 
-Now generate a python script that solves this task by extracting the target data from the HTML file.
+Now generate a python script that solves this task.
 Make sure the script works when I run it, without any modifications.
 The script you generate should always save the scraped data as a CSV file with the name 'scraped_data.csv'.
-You can use the given HTML elements above to gain information about the page, but these are just examples from the page. There are many more elements on the page, so write your code as generalised as possible.
+You can use the given HTML elements above to gain information about the page.

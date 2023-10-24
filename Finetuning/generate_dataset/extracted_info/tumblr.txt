@@ -1,0 +1,105 @@
+<title>Tumblr</title>
+/html/head/title
+----------------
+<div class="rZlUD W45iW">chicagoscreenshots FollowJustified: City Primeval,</div>
+/html/body/div/div/div[2]/div/div[2]/div/div[1]/main/div[3]/div[2]/div[31]
+----------------
+<div class="jpu7k jDcIV XnKJk">0</div>
+/html/body/div/div/div[2]/div/div[1]/div/div[1]/nav/ul/li[5]/a/div[1]/div
+----------------
+<span>#trese</span>
+/html/body/div/div/div[2]/div/div[2]/div/div[1]/main/div[3]/div[2]/div[5]/div/div/div/article/div[2]/div/div/a[1]/span
+----------------
+<h4>Blogs</h4>
+/html/body/div/div/div[2]/div/div[1]/div/div[1]/nav/ul/ul/li[5]/div/h4
+----------------
+<a class="Dt_Mi">ALT</a>
+/html/body/div/div/div[2]/div/div[2]/div/div[1]/main/div[3]/div[2]/div[3]/div/div/div/article/div[1]/div/div/span/div/div[2]/div/div[1]/button/span/figure/span/span/a
+----------------
+<h1>Welcome to your corner of the internet</h1>
+/html/body/div/div/div[2]/div/div[2]/div/div[1]/main/div[3]/div[2]/div[1]/div/div/div/h1
+----------------
+<h1 class="hF8Wr YkQj_">Sponsored</h1>
+/html/body/div/div/div[2]/div/div[2]/div/div[2]/aside/div[5]/div/div/h1
+----------------
+<p>Alexandra Trese, Babaylan-Mandirigma of Manila, Si</p>
+/html/body/div/div/div[2]/div/div[2]/div/div[1]/main/div[3]/div[2]/div[5]/div/div/div/article/div[1]/div/div/span/div/div[2]/p
+----------------
+<div class="rZlUD W45iW">writing-prompt-s Follow"I want my dog back." You d</div>
+/html/body/div/div/div[2]/div/div[2]/div/div[1]/main/div[3]/div[2]/div[16]
+----------------
+<div class="HPjtV">goldstarblog</div>
+/html/body/div/div/div[2]/div/div[2]/div/div[1]/main/div[3]/div[2]/div[2]/div/div/div/div/div[2]/div/div[17]/div/button/span/div[2]
+----------------
+<span class="SLpX8">@antluvspath</span>
+/html/body/div/div/div[2]/div/div[2]/div/div[1]/main/div[3]/div[2]/div[4]/div/div/div/article/div[1]/div/div/span/div/div[9]/p/span/span/a/span
+----------------
+<a class="I_SFh ZyGTE">Explore all of Tumblr</a>
+/html/body/div/div/div[2]/div/div[2]/div/div[2]/aside/div[3]/a
+----------------
+<h1>tumblr tuesday: Black fanartists on Tumblr</h1>
+/html/body/div/div/div[2]/div/div[2]/div/div[1]/main/div[3]/div[2]/div[4]/div/div/div/article/div[1]/div/div/span/div/div[1]/h1
+----------------
+<h1 class="hF8Wr YkQj_">Check out these blogs</h1>
+/html/body/div/div/div[2]/div/div[2]/div/div[2]/aside/div[3]/h1
+----------------
+<p>The shocking truth of what is going on in our publ</p>
+/html/body/div/div/div[2]/div/div[2]/div/div[1]/main/div[3]/div[2]/div[3]/div/div/div/article/div[1]/div/div/span/div/div[2]/div/div[2]/p
+----------------
+<div class="rZlUD W45iW">sofieulrich  reblogged voguely cafe-solo  FollowSo</div>
+/html/body/div/div/div[2]/div/div[2]/div/div[1]/main/div[3]/div[2]/div[32]
+----------------
+<div class="DvyFa sRBXB">Live</div>
+/html/body/div/div/div[2]/div/div[2]/div/div[1]/main/div[3]/div[2]/div[2]/div/div/div/div/div[2]/div/div[21]/div/button/span/div[1]
+----------------
+<span>#fanart</span>
+/html/body/div/div/div[2]/div/div[2]/div/div[1]/main/div[3]/div[2]/div[4]/div/div/div/article/div[2]/div/div/a[7]/span
+----------------
+<a>Privacy</a>
+/html/body/div/div/div[2]/div/div[2]/div/div[2]/aside/footer/a[4]
+----------------
+<h1 class="hF8Wr YkQj_">Radar</h1>
+/html/body/div/div/div[2]/div/div[2]/div/div[2]/aside/div[4]/h1
+----------------
+<p>Your dashboard is like your own little world that </p>
+/html/body/div/div/div[2]/div/div[2]/div/div[1]/main/div[3]/div[2]/div[1]/div/div/div/p
+----------------
+<div class="rZlUD W45iW">infected  reblogged kutsalcekirgee uzone  Follow</div>
+/html/body/div/div/div[2]/div/div[2]/div/div[1]/main/div[3]/div[2]/div[30]
+----------------
+<div class="DvyFa sRBXB">Live</div>
+/html/body/div/div/div[2]/div/div[2]/div/div[1]/main/div[3]/div[2]/div[2]/div/div/div/div/div[2]/div/div[7]/div/button/span/div[1]
+----------------
+<span class="ZC1wz">Messages</span>
+/html/body/div/div/div[2]/div/div[1]/div/div[1]/nav/ul/span[2]/span/li/button/span/div[2]/span[1]
+----------------
+<a>Privacy</a>
+/html/body/div/div/div[2]/div/div[1]/div/div[1]/nav/div/footer/a[4]
+----------------
+<p>Hello, it is a Tuesday. Today, we're celebrating B</p>
+/html/body/div/div/div[2]/div/div[2]/div/div[1]/main/div[3]/div[2]/div[4]/div/div/div/article/div[1]/div/div/span/div/div[2]/p
+----------------
+<div class="rZlUD W45iW">sergle FollowIs it 5am? yes. Is it also my birthda</div>
+/html/body/div/div/div[2]/div/div[2]/div/div[1]/main/div[3]/div[2]/div[22]
+----------------
+<div class="jpu7k jDcIV XnKJk">0</div>
+/html/body/div/div/div[2]/div/div[1]/div/div[1]/nav/ul/span[2]/span/li/button/span/div[1]/div
+----------------
+<span>#drawing</span>
+/html/body/div/div/div[2]/div/div[2]/div/div[1]/main/div[3]/div[2]/div[5]/div/div/div/article/div[2]/div/div/a[3]/span
+----------------
+<a class="zHhsx BSUG4">riibrego</a>
+/html/body/div/div/div[2]/div/div[2]/div/div[2]/aside/div[4]/div/div/div/article/header/div[2]/div/div[1]/div/span/span/a
+----------------
+<div class="rZlUD W45iW">biggest-gaudiest-patronuses Follow(deciduous) tree</div>
+/html/body/div/div/div[2]/div/div[2]/div/div[1]/main/div[3]/div[2]/div[9]
+----------------
+<div class="HPjtV">iamcarrot</div>
+/html/body/div/div/div[2]/div/div[2]/div/div[1]/main/div[3]/div[2]/div[2]/div/div/div/div/div[2]/div/div[18]/div/button/span/div[2]
+----------------
+<span class="EvhBA f68ED kk3cQ">Follow</span>
+/html/body/div/div/div[2]/div/div[2]/div/div[2]/aside/div[3]/ul/li[2]/div/div/div/div[1]/button/span
+----------------
+<div class="rZlUD W45iW">animatedtext FollowSource: animatedtext#gif#animat</div>
+/html/body/div/div/div[2]/div/div[2]/div/div[1]/main/div[3]/div[2]/div[19]
+----------------

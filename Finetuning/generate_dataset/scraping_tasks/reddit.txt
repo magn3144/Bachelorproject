@@ -1,0 +1,15 @@
+Extract all the titles from the discussion posts and save them in a CSV file.
+Fetch all user account menu details and mark them in a CSV file.
+Scrape all subreddit names and save them in a CSV file.
+Pull out the Privacy Policy information and log it in a CSV file.
+Collect details of all social media posts screenshots and organize them in a CSV file.
+Generate a CSV file listing all the numeric figures displayed on the page.
+Collect all the header text from the webpage and save in a CSV file.
+Harvest all comments from the webpage and save them in a CSV file.
+Capture names of individual stocks discussed and record them in a CSV file.
+Save community information in a CSV file.
+Service all the search terms within the subreddit and put them in a CSV file.
+Take all tip actions from the page and save them in a CSV file.
+Harvest all links to other community discussions and save them in a CSV file.
+Extract all usernames on the page, along with their contributions, and save them in a CSV file.
+Pull out all comments marked as "gold" and save them in a CSV file.

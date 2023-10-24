@@ -1,0 +1,10 @@
+Scrape all blog post titles from Tumblr's main page and save them to a CSV file.
+Extract all usernames from the posts on Tumblr's main page and save them to a CSV file.
+Collect all hashtags associated with each Tumblr post and save them to a CSV file.
+Scrape the follower count of each blog listed on Tumblr's main page and save them to a CSV file.
+Scrape the post contents of each blog entry on Tumblr's main page and store them to a CSV file.
+Retrieve all the privacy policy links from Tumblr's main page and save them to a CSV file.
+Extract the titles of the sponsored posts on Tumblr's main page and save them to a CSV file.
+Scrape all available message entries from the main page of Tumblr and save them to a CSV file.
+Gather all blog names from the 'Check out these blogs' section of the Tumblr main page and store them to a CSV file.
+Extract the number of reblogs for each post on Tumblr's main page and save them to a CSV file.

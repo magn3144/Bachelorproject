@@ -1,0 +1,118 @@
+<title>Earnings Calendar | Nasdaq</title>
+/html/head/title
+----------------
+<a class="primary-nav__mega-links-link">Capital Markets Trading and Connectivity</a>
+/html/body/div[2]/div/div[1]/header/nav/ul/li[6]/div/div/ul/li[1]/ul[1]/li[2]/a
+----------------
+<a class="primary-nav__signin--link">Sign In</a>
+/html/body/div[2]/div/div[1]/header/nav/div[2]/a[1]
+----------------
+<div class="calendar-promo__info">See the latest recent and upcoming initial public </div>
+/html/body/div[2]/div/main/div[2]/div[3]/div/section/div[3]/div[2]
+----------------
+<div class="market-calendar-table__cell-content">$61,124,223,883</div>
+/html/body/div[2]/div/main/div[2]/div[2]/div[2]/div/div[2]/div[1]/div[3]/div[5]/div[1]/div/table/tbody/tr[22]/td[3]/div
+----------------
+<span class="primary-nav__header">                                  Featured Soluti</span>
+/html/body/div[2]/div/div[1]/header/nav/ul/li[6]/div/div/ul/li[3]/span[2]
+----------------
+<span>About</span>
+/html/body/div[2]/div/div[1]/header/nav/ul/li[7]/button/span[1]
+----------------
+<label class="footer__form-label">Sign up for our newsletter to get the latest on th</label>
+/html/body/div[2]/div/footer/footer/div/div[1]/fieldset/div/label
+----------------
+<label class="find-symbol__input-label-minimal">Find a symbol</label>
+/html/body/div[2]/div/main/div[2]/div[2]/div[2]/div/div[2]/div[1]/div[2]/div[1]/div/div[1]/form/div/div/label
+----------------
+<h1 class="market-calendar__title">  Earnings Calendar</h1>
+/html/body/div[2]/div/main/div[2]/div[2]/div[2]/div/div[2]/div[1]/div[2]/h1
+----------------
+<h5 class="date-picker__month-year">October 2023</h5>
+/html/body/div[2]/div/main/div[2]/div[2]/div[2]/div/div[2]/div[1]/div[3]/div[3]/div[2]/div/div[1]/h5
+----------------
+<h3 class="nasdaq-search-overlay__top-articles-header">                        Trending Articles       </h3>
+/html/body/div[3]/div[2]/div/div/div[2]/div/div/div[2]/div[2]/div[2]/h3
+----------------
+<h3 class="sidebar-latest-news__title">Latest News</h3>
+/html/body/div[2]/div/main/div[2]/div[2]/div[2]/aside/section[2]/h3
+----------------
+<legend class="footer__form-header">Market Makers</legend>
+/html/body/div[2]/div/footer/footer/div/div[1]/fieldset/legend
+----------------
+<p class="mandatFields">All Text Fields Are Required</p>
+/html/body/div[2]/div/footer/footer/div/div[1]/fieldset/div/form/p
+----------------
+<p>To add symbols:</p>
+/html/body/div[6]/div[2]/div/div/div[2]/form/div/div[2]/p[1]
+----------------
+<li>Copy and paste multiple symbols separated by space</li>
+/html/body/div[4]/div[2]/div/div/div[2]/form/div/div[2]/ul/li[2]
+----------------
+<h2 class="portfolio-heading">Opt in to Smart Portfolio</h2>
+/html/body/div[7]/div[2]/div/div/div[2]/h2
+----------------
+<h2>Edit Watchlist</h2>
+/html/body/div[6]/div[2]/div/div/div[2]/h2
+----------------
+<a class="primary-nav__mega-links-link"> Inclusive Entrepreneurship</a>
+/html/body/div[2]/div/div[1]/header/nav/ul/li[5]/div/div/ul/li[3]/ul/li[1]/a
+----------------
+<a class="primary-nav__mega-links-link">Global Markets</a>
+/html/body/div[2]/div/div[1]/header/nav/ul/li[4]/div/div/ul/li[1]/ul[1]/li[11]/a
+----------------
+<div class="market-calendar-table__cell-content">Archer-Daniels-Midland Company</div>
+/html/body/div[2]/div/main/div[2]/div[2]/div[2]/div/div[2]/div[1]/div[3]/div[5]/div[1]/div/table/tbody/tr[27]/td[2]/div
+----------------
+<div class="market-calendar-table__cell-content">$38,926,937,028</div>
+/html/body/div[2]/div/main/div[2]/div[2]/div[2]/div/div[2]/div[1]/div[3]/div[5]/div[1]/div/table/tbody/tr[28]/td[3]/div
+----------------
+<span class="primary-nav__header">                                  Featured Soluti</span>
+/html/body/div[2]/div/div[1]/header/nav/ul/li[6]/div/div/ul/li[2]/span[2]
+----------------
+<span class="primary-nav__cta-text">See All Market Activity</span>
+/html/body/div[2]/div/div[1]/header/nav/ul/li[4]/div/div/a/span[1]
+----------------
+<label class="watchlist-add-overlay__label">Add a symbol to your watchlist</label>
+/html/body/div[2]/div/section[2]/div/form/label
+----------------
+<label class="textarea-field__label" id="symbols-label">Add up to 25 symbols</label>
+/html/body/div[4]/div[2]/div/div/div[2]/form/div/a/label
+----------------
+<h5 class="date-picker__month-year">October 2023</h5>
+/html/body/div[2]/div/main/div[2]/div[2]/div[2]/div/div[2]/div[1]/div[2]/div[2]/div/div[1]/h5
+----------------
+<h3 class="nasdaq-search-overlay__recently-viewed-header">                        Recently Viewed Symbols </h3>
+/html/body/div[3]/div[2]/div/div/div[2]/div/div/div[2]/div[2]/div[3]/h3
+----------------
+<h3 class="todays-events__title">Upcoming Events</h3>
+/html/body/div[2]/div/main/div[2]/div[2]/div[2]/aside/section[1]/h3
+----------------
+<p>These symbols will be available throughout the sit</p>
+/html/body/div[4]/div[2]/div/div/div[2]/form/div/div[2]/p[3]
+----------------
+<p>To add symbols:</p>
+/html/body/div[4]/div[2]/div/div/div[2]/form/div/div[2]/p[1]
+----------------
+<li>Type a symbol or company name. When the symbol you</li>
+/html/body/div[6]/div[2]/div/div/div[2]/form/div/div[2]/ul/li[1]
+----------------
+<h2>Your symbols have been updated</h2>
+/html/body/div[5]/div[2]/div/div/div[2]/h2
+----------------
+<a>              Newsletters            </a>
+/html/body/div[2]/div/footer/footer/div/div[2]/ul[1]/li[8]/a
+----------------
+<a class="ui-state-default ui-priority-secondary">2</a>
+/html/body/div[2]/div/main/div[2]/div[2]/div[2]/div/div[2]/div[1]/div[3]/div[3]/div[2]/div/div[2]/div/table/tbody/tr[5]/td[5]/a
+----------------
+<div class="market-calendar-table__cell-content">Matador Resources Company</div>
+/html/body/div[2]/div/main/div[2]/div[2]/div[2]/div/div[2]/div[1]/div[3]/div[5]/div[1]/div/table/tbody/tr[50]/td[2]/div
+----------------
+<div class="market-calendar-table__cell-content">$1.63</div>
+/html/body/div[2]/div/main/div[2]/div[2]/div[2]/div/div[2]/div[1]/div[3]/div[5]/div[1]/div/table/tbody/tr[17]/td[8]/div
+----------------
+<span class="primary-nav__header">                                  Drive Growth wi</span>
+/html/body/div[2]/div/div[1]/header/nav/ul/li[6]/div/div/ul/li[2]/span[1]
+----------------
+<span>W</span>

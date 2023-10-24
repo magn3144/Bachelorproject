@@ -1,0 +1,10 @@
+Extract all hyperlinks and their corresponding texts present on the webpage. Save them as a CSV file.
+Grab all text content under <h1>, <h2>, <h3>, <h4>, <h5> tags and the paths from these elements. Store them in a CSV file.
+Get the text inside all <title> and <span> tags on the webpage. Save them as a CSV file.
+Generate a list of all table contents in CSV format.
+Extract all the text enclosed by the <label> tags and their XPaths. Save this information in a CSV file.
+Scrape all the text inside the <p> tags and their path location. Store them in a CSV file.
+Save in a CSV file all the lists (<li>) and their corresponding paths from the website.
+Retrieve all the information displayed in the modal pop-ups on the webpage and save them as a CSV file.
+Extract data about all patents including patent name, patent number, and inventor name from the webpage. Save the details as a CSV file.
+Get the total number of results on each search results page and its path and save these in a CSV format.

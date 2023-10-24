@@ -1,0 +1,147 @@
+<title>Patent Public Search Basic | USPTO</title>
+/html/head/title
+----------------
+<p>              For example, to search for the inve</p>
+/html/body/div[3]/div/div/div[2]/p[2]
+----------------
+<span class="sr-only">United States Patent and Trademark Office</span>
+/html/body/uspto-footer/footer/div[1]/div/div[1]/a/span
+----------------
+<span class="sr-only">console</span>
+/html/body/header/div[1]/nav/div/div[3]/ul/li[1]/a/span[2]
+----------------
+<a class="dropdown-item">View status, documents, and registration certifica</a>
+/html/body/header/div[1]/nav/div/div[1]/div[2]/ul/li[3]/a
+----------------
+<a>PDF</a>
+/html/body/div[2]/div/section[2]/div/div/div/div/div[2]/div/table/tbody/tr[46]/td[3]/a
+----------------
+<h4 class="alert-heading">Error status</h4> Please enter only one word per text box
+/html/body/div[2]/div/div/div/div[2]/h4
+----------------
+<h1 class="text-responsive">                        Patent Public Search Basi</h1>
+/html/body/div[2]/div/section[1]/div/div[1]/div/div[1]/div/div/h1
+----------------
+<h1 class="modal-title">Query building guidance</h1>
+/html/body/div[3]/div/div/div[1]/h1
+----------------
+<h2 class="d-inline-block mb-3" id="basicSearch">                          Basic search          </h2>
+/html/body/div[2]/div/section[1]/div/div[1]/div/div[4]/div/div/form/h2
+----------------
+<h2 class="m-0 text-responsive">OR</h2>
+/html/body/div[2]/div/section[1]/div/div[1]/div/div[3]/div/div/h2
+----------------
+<label>Patent or Publication number</label>
+/html/body/div[2]/div/section[1]/div/div[1]/div/div[2]/div/div/form/div/label
+----------------
+<label>Operator</label>
+/html/body/div[2]/div/section[1]/div/div[1]/div/div[4]/div/div/form/div[2]/div/div/label
+----------------
+<h5 class="card-title">Query building guidance</h5>
+/html/body/div[2]/div/section[1]/div/div[2]/div/div/div[2]/h5
+----------------
+<li>                If using Publication Date, the da</li>
+/html/body/div[3]/div/div/div[2]/ol/li[3]
+----------------
+<li class="pb-2">One word per text box</li>
+/html/body/div[2]/div/section[1]/div/div[2]/div/div/div[2]/ol/li[1]
+----------------
+<th class="sorting_disabled">Inventor name</th>
+/html/body/div[2]/div/section[2]/div/div/div/div/div[2]/div/table/thead/tr/th[5]
+----------------
+<td>Track error correction incorporating anti-aliasing</td>
+/html/body/div[2]/div/section[2]/div/div/div/div/div[2]/div/table/tbody/tr[5]/td[4]
+----------------
+<td>38</td>
+/html/body/div[2]/div/section[2]/div/div/div/div/div[2]/div/table/tbody/tr[38]/td[1]
+----------------
+<p>                      To start a quick lookup, en</p>
+/html/body/div[2]/div/section[1]/div/div[2]/div/div/div[2]/p[1]
+----------------
+<span class="sr-only">              United States Patent and Trademark </span>
+/html/body/header/div[1]/nav/a/span
+----------------
+<span class="page-link text-dark no-background" id="pageInfo">Page 1 of 490</span>
+/html/body/div[2]/div/section[2]/div/div/nav/ul/li[2]/span
+----------------
+<a class="dropdown-item">Check public filing status</a>
+/html/body/header/div[1]/nav/div/div[1]/div[1]/ul/li[4]/a
+----------------
+<a class="dropdown-item">Search assignment</a>
+/html/body/header/div[1]/nav/div/div[1]/div[2]/ul/li[8]/a
+----------------
+<h2 class="d-inline-block mb-3" id="quickLookup">                          Quick lookup          </h2>
+/html/body/div[2]/div/section[1]/div/div[1]/div/div[2]/div/div/form/h2
+----------------
+<h2 class="text-responsive">Search results</h2>
+/html/body/div[2]/div/section[2]/div/div/h2
+----------------
+<label>For</label>
+/html/body/div[2]/div/section[1]/div/div[1]/div/div[4]/div/div/form/div[1]/div[2]/div/label
+----------------
+<li>                        If using Publication Date</li>
+/html/body/div[2]/div/section[1]/div/div[2]/div/div/div[2]/ol/li[3]
+----------------
+<li class="pb-2">One word per text box</li>
+/html/body/div[3]/div/div/div[2]/ol/li[1]
+----------------
+<th class="sorting_disabled">Pages</th>
+/html/body/div[2]/div/section[2]/div/div/div/div/div[2]/div/table/thead/tr/th[7]
+----------------
+<td>Doudna; Jennifer A. et al.</td>
+/html/body/div[2]/div/section[2]/div/div/div/div/div[2]/div/table/tbody/tr[28]/td[5]
+----------------
+<td>2023-10-17</td>
+/html/body/div[2]/div/section[2]/div/div/div/div/div[2]/div/table/tbody/tr[49]/td[6]
+----------------
+<p>                      For example, to search for </p>
+/html/body/div[2]/div/section[1]/div/div[2]/div/div/div[2]/p[2]
+----------------
+<span class="sr-only">United States Patent and Trademark Office</span>
+/html/body/uspto-footer/footer/div[1]/div/div[2]/span
+----------------
+<span class="column-header d-none d-md-block">About This Site</span>
+/html/body/uspto-footer/footer/div[2]/div/div[2]/div/span
+----------------
+<a>                      Strategy Targeting Organize</a>
+/html/body/uspto-footer/footer/div[2]/div/div[4]/div/ul/li[5]/a
+----------------
+<a>PDF</a>
+/html/body/div[2]/div/section[2]/div/div/div/div/div[2]/div/table/tbody/tr[1]/td[3]/a
+----------------
+<label>Search</label>
+/html/body/div[2]/div/section[1]/div/div[1]/div/div[4]/div/div/form/div[1]/div[1]/div/label
+----------------
+<th class="sorting_disabled">Result #</th>
+/html/body/div[2]/div/section[2]/div/div/div/div/div[2]/div/table/thead/tr/th[1]
+----------------
+<td>Surface cleaning mechanisms and methods</td>
+/html/body/div[2]/div/section[2]/div/div/div/div/div[2]/div/table/tbody/tr[19]/td[4]
+----------------
+<td>40</td>
+/html/body/div[2]/div/section[2]/div/div/div/div/div[2]/div/table/tbody/tr[40]/td[1]
+----------------
+<p class="form-hint">                            For example: 0123456 </p>
+/html/body/div[2]/div/section[1]/div/div[1]/div/div[2]/div/div/form/div/p
+----------------
+<span class="sr-only">(link is external)</span>
+/html/body/uspto-footer/footer/div[2]/div/div[4]/div/ul/li[3]/a/span/span
+----------------
+<a class="dropdown-item">Manual of Patent Examining Procedure</a>
+/html/body/header/div[1]/nav/div/div[1]/div[1]/ul/li[10]/a
+----------------
+<a>PDF</a>
+/html/body/div[2]/div/section[2]/div/div/div/div/div[2]/div/table/tbody/tr[18]/td[3]/a
+----------------
+<label>For</label>
+/html/body/div[2]/div/section[1]/div/div[1]/div/div[4]/div/div/form/div[3]/div[2]/div/label
+----------------
+<th class="sorting_disabled">Publication date</th>
+/html/body/div[2]/div/section[2]/div/div/div/div/div[2]/div/table/thead/tr/th[6]
+----------------
+<td>AI-driven defensive cybersecurity strategy analysi</td>
+/html/body/div[2]/div/section[2]/div/div/div/div/div[2]/div/table/tbody/tr[47]/td[4]
+----------------
+<td>15</td>
+/html/body/div[2]/div/section[2]/div/div/div/div/div[2]/div/table/tbody/tr[15]/td[1]
+----------------
