@@ -1,0 +1,96 @@
+<title>Market News | Seeking Alpha</title>
+/html/head/title
+----------------
+<a class="iE_L">Medpace GAAP EPS of $2.22 beats by $0.17, revenue </a>
+/html/body/div[2]/div/div[1]/div/main/div[3]/div/div[2]/section/div/div/div/div[2]/article[110]/div/div/h3/a
+----------------
+<a class="od_LK aY_jy aY_jO aY_j3 kD_is">1 Comment</a>
+/html/body/div[2]/div/div[1]/div/main/div[3]/div/div[2]/section/div/div/div/div[2]/article[49]/div/div/footer/a
+----------------
+<span class="sr-only">Entering text into the input field will update the</span>
+/html/body/div[2]/div/div[1]/div/header/div[1]/div[1]/div/div/div/span
+----------------
+<span class="kD_Bq kD_is">Today, 6:09 AM</span>
+/html/body/div[2]/div/div[1]/div/main/div[3]/div/div[2]/section/div/div/div/div[2]/article[9]/div/div/footer/span[2]
+----------------
+<h1 class="m-0 inline-block text-5x-large-r text-black-35 dark:text-black-30 md:text-4x-large-r">News</h1>
+/html/body/div[2]/div/div[1]/div/main/div[3]/div/div[1]/div/div[2]/section/div/div[1]/div/div/h1
+----------------
+<div class="g_q r_d0">If you have an ad-blocker enabled you may be block</div>
+/html/body/div[2]/div/div[2]/div/div/div[2]/div[3]
+----------------
+<a class="iE_L">Euro Area Composite PMI at 46.50, above estimates</a>
+/html/body/div[2]/div/div[1]/div/main/div[3]/div/div[2]/section/div/div/div/div[2]/article[29]/div/div/h3/a
+----------------
+<a class="jr_L w-full px-24 py-10 text-left text-medium-b hover:no-underline focus:no-underline kc_L cX_pr bf_fg r_aq r_bu r_aS r_bf">Profile</a>
+/html/body/div[2]/div/div[1]/div/header/div[1]/div[2]/div[4]/div/div/div/ul/li[3]/a
+----------------
+<span class="jG_f q_ag be_l0 bf_fg hover:underline focus:underline">Debt/Share Issuance</span>
+/html/body/div[2]/div/div[1]/div/main/div[3]/div/div[1]/div/div[2]/section/div/div[2]/ul/li[8]/div/a/span/span
+----------------
+<div class="g_q r_d0">To ensure this doesn’t happen in the future, pleas</div>
+/html/body/div[2]/div/div[2]/div/div/div[2]/div[1]
+----------------
+<a class="iE_L">Black Hills declares $0.625 dividend</a>
+/html/body/div[2]/div/div[1]/div/main/div[3]/div/div[2]/section/div/div/div/div[2]/article[45]/div/div/h3/a
+----------------
+<a class="od_LK aY_jy aY_jO aY_j3 kD_is">3 Comments</a>
+/html/body/div[2]/div/div[1]/div/main/div[3]/div/div[2]/section/div/div/div/div[2]/article[89]/div/div/footer/a
+----------------
+<span class="kD_Bq kD_is">Yesterday, 5:04 PM</span>
+/html/body/div[2]/div/div[1]/div/main/div[3]/div/div[2]/section/div/div/div/div[2]/article[76]/div/div/footer/span[2]
+----------------
+<a class="iE_L">IonQ's co-founder and chief scientist Chris Monroe</a>
+/html/body/div[2]/div/div[1]/div/main/div[3]/div/div[2]/section/div/div/div/div[2]/article[86]/div/div/h3/a
+----------------
+<a class="od_LK aY_jy aY_jO aY_j3 kD_is">1 Comment</a>
+/html/body/div[2]/div/div[1]/div/main/div[3]/div/div[2]/section/div/div/div/div[2]/article[29]/div/div/footer/a
+----------------
+<span class="nX_M5">MIND</span> 
+/html/body/div[2]/div/div[1]/div/main/div[3]/div/div[2]/section/div/div/div/div[2]/article[141]/div/div/footer/span[1]/a/span[1]
+----------------
+<a class="iE_L">Why did MicoStrategy stock jump today? Bitcoin bet</a>
+/html/body/div[2]/div/div[1]/div/main/div[3]/div/div[2]/section/div/div/div/div[2]/article[125]/div/div/h3/a
+----------------
+<a class="od_LK aY_jy aY_jO aY_j3 kD_is">7 Comments</a>
+/html/body/div[2]/div/div[1]/div/main/div[3]/div/div[2]/section/div/div/div/div[2]/article[123]/div/div/footer/a
+----------------
+<span class="kD_Bq kD_is">Yesterday, 2:58 PM</span>
+/html/body/div[2]/div/div[1]/div/main/div[3]/div/div[2]/section/div/div/div/div[2]/article[142]/div/div/footer/span[2]
+----------------
+<a class="iE_L">Seagen, Genmab update Phase 3 data for uterine can</a>
+/html/body/div[2]/div/div[1]/div/main/div[3]/div/div[2]/section/div/div/div/div[2]/article[142]/div/div/h3/a
+----------------
+<a class="od_LK aY_jy aY_jO aY_j3 kD_is">2 Comments</a>
+/html/body/div[2]/div/div[1]/div/main/div[3]/div/div[2]/section/div/div/div/div[2]/article[36]/div/div/footer/a
+----------------
+<span class="hk_fU">-0.69%</span>
+/html/body/div[2]/div/div[1]/div/main/div[3]/div/div[2]/section/div/div/div/div[2]/article[80]/div/div/footer/span[1]/a/span[2]
+----------------
+<a>report it on our feedback forum.</a>
+/html/body/div[2]/div/div[2]/div/div/div[2]/div[2]/a
+----------------
+<a class="od_LK aY_jy aY_jO aY_j3 kD_is">1 Comment</a>
+/html/body/div[2]/div/div[1]/div/main/div[3]/div/div[2]/section/div/div/div/div[2]/article[26]/div/div/footer/a
+----------------
+<span class="kD_Bq kD_is">Yesterday, 5:26 PM</span>
+/html/body/div[2]/div/div[1]/div/main/div[3]/div/div[2]/section/div/div/div/div[2]/article[63]/div/div/footer/span[2]
+----------------
+<a class="iE_L">Barclays reports Q3 earnings; warns of big cost cu</a>
+/html/body/div[2]/div/div[1]/div/main/div[3]/div/div[2]/section/div/div/div/div[2]/article[30]/div/div/h3/a
+----------------
+<a class="pointer-events-none text-share-text-2 hover:text-share-text-2 hover:no-underline focus:text-share-text-2 focus:no-underline">Market News</a>
+/html/body/div[2]/div/div[1]/div/main/div[1]/div/nav/ol/li[2]/a
+----------------
+<span class="hk_fU">-2.50%</span>
+/html/body/div[2]/div/div[1]/div/main/div[3]/div/div[2]/section/div/div/div/div[2]/article[150]/div/div/footer/span[1]/a/span[2]
+----------------
+<a class="iE_L">Nucor's Q3 earnings, revenues drop Q/Q and Y/Y but</a>
+/html/body/div[2]/div/div[1]/div/main/div[3]/div/div[2]/section/div/div/div/div[2]/article[64]/div/div/h3/a
+----------------
+<a class="od_LK aY_jy aY_jO aY_j3 kD_is">3 Comments</a>
+/html/body/div[2]/div/div[1]/div/main/div[3]/div/div[2]/section/div/div/div/div[2]/article[97]/div/div/footer/a
+----------------
+<span class="kD_Bq kD_is">Yesterday, 5:22 PM</span>
+/html/body/div[2]/div/div[1]/div/main/div[3]/div/div[2]/section/div/div/div/div[2]/article[65]/div/div/footer/span[2]
+----------------

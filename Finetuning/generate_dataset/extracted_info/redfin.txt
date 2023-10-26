@@ -1,0 +1,106 @@
+<title>New York, NY Real Estate - New York Homes for Sale</title>
+/html/head/title
+----------------
+<span class="collapsedAddress primaryLine">15 W 63rd St Unit 23B, New York, NY 10023</span>
+/html/body/div[1]/div[8]/div[2]/div[2]/div[5]/div/div[1]/div/div[24]/div/div/div[2]/div[4]/div/span
+----------------
+<span class="font-weight-bold">Open houses</span> 
+/html/body/div[1]/div[8]/div[2]/div[7]/div/div[4]/div/span[1]/div/ul/li[5]/a/span
+----------------
+<div class="link-and-anchor">635 W 42nd St Unit 40-F, New York, NY 10036</div>
+/html/body/div[1]/div[8]/div[2]/div[2]/div[5]/div/div[1]/div/div[13]/div/div/div[2]/a/div
+----------------
+<div class="font-size-small">$979,000</div>
+/html/body/div[1]/div[8]/div[2]/div[7]/div/div[9]/div/div/ul/li[1]/div
+----------------
+<li class="searchLabel">SEARCH</li>
+/html/body/div[1]/div[2]/div/div/header[1]/div[2]/div/div/ul[2]/li[1]
+----------------
+<a class="address">555 W End Ave Unit The Library</a>
+/html/body/div[1]/div[8]/div[2]/div[2]/div[4]/div/div[3]/table/tbody/tr[26]/td[2]/div/a
+----------------
+<a>Diversity &amp; Inclusion</a>
+/html/body/div[1]/div[8]/div[2]/div[7]/div/div[13]/div[2]/div[2]/div[3]/a
+----------------
+<h1 class="homeBuyingResources-title">How to buy a house in New York, NY</h1>
+/html/body/div[1]/div[8]/div[2]/div[7]/div/div[5]/h1
+----------------
+<p>Beautiful One Bedroom One Bath apartment at 15 Wil</p>
+/html/body/div[1]/div[8]/div[2]/div[2]/div[5]/div/div[1]/div/div[3]/div/div/div[1]/div[1]/div/div/div[1]/div/div[2]/p[2]
+----------------
+<p class="ca-dre">California DRE #01521930</p>
+/html/body/div[1]/div[8]/div[2]/div[7]/div/div[13]/div[2]/div[4]/div/p[5]
+----------------
+<td class="column column_3 col_price">$9,999</td>
+/html/body/div[1]/div[8]/div[2]/div[2]/div[4]/div/div[3]/table/tbody/tr[36]/td[4]
+----------------
+<h3 class="heading-title font-size-base font-weight-bold margin-bottom-none">What are some of the most popular neighborhoods in</h3>
+/html/body/div[1]/div[8]/div[2]/div[7]/div/div[11]/div[2]/div[2]/div[1]/div/h3
+----------------
+<h3>Cities</h3>
+/html/body/div[1]/div[8]/div[2]/div[7]/div/div[2]/div/div[1]/h3
+----------------
+<h2 class="primary-heading">Average home prices near New York, NY</h2>
+/html/body/div[1]/div[8]/div[2]/div[7]/div/div[2]/h2
+----------------
+<h2 class="livingSection-title">Living in New York, NY</h2>
+/html/body/div[1]/div[8]/div[2]/div[7]/div/div[6]/h2
+----------------
+<span class="collapsedAddress primaryLine">1 5th Ave Unit 19G, New York, NY 10003</span>
+/html/body/div[1]/div[8]/div[2]/div[2]/div[5]/div/div[1]/div/div[25]/div/div/div[2]/div[4]/div/span
+----------------
+<span class="new">1 min</span>
+/html/body/div[1]/div[8]/div[2]/div[2]/div[4]/div/div[3]/table/tbody/tr[13]/td[9]/span
+----------------
+<div class="link-and-anchor">3 Riverside Dr, New York, NY 10023</div>
+/html/body/div[1]/div[8]/div[2]/div[2]/div[5]/div/div[1]/div/div[7]/div/div/div[2]/a/div
+----------------
+<div class="stats">2,800 sq ft</div>
+/html/body/div[1]/div[8]/div[2]/div[2]/div[5]/div/div[1]/div/div[9]/div/div/div[2]/div[3]/div[3]
+----------------
+<a>See more home buying guides</a>
+/html/body/div[1]/div[8]/div[2]/div[7]/div/div[5]/div[2]/a
+----------------
+<a class="address">575 Park Ave #1401</a>
+/html/body/div[1]/div[8]/div[2]/div[2]/div[4]/div/div[3]/table/tbody/tr[16]/td[2]/div/a
+----------------
+<h1 class="collapsedListView">New York, NY Homes for Sale</h1>
+/html/body/div[1]/div[8]/div[2]/div[2]/div[1]/div/div/div/h1
+----------------
+<p>IMMEDIATE OCCUPANCY  DIRECT PARK VIEWS!!Introducin</p>
+/html/body/div[1]/div[8]/div[2]/div[2]/div[5]/div/div[1]/div/div[33]/div/div/div[1]/div[1]/div/div/div[1]/div/div[2]/p[2]
+----------------
+<p class="linkHeading">Join us</p>
+/html/body/div[1]/div[8]/div[2]/div[7]/div/div[13]/div[2]/div[1]/p
+----------------
+<td class="column column_3 col_price">$990,000</td>
+/html/body/div[1]/div[8]/div[2]/div[2]/div[4]/div/div[3]/table/tbody/tr[8]/td[4]
+----------------
+<h3 class="heading-title font-size-base font-weight-bold margin-bottom-none">How often does Redfin update their new listings?</h3>
+/html/body/div[1]/div[8]/div[2]/div[7]/div/div[11]/div[2]/div[3]/div[1]/div/h3
+----------------
+<h3 class="cityGuideSubHeading">Get to know New York, NY</h3>
+/html/body/div[1]/div[8]/div[2]/div[7]/div/div[1]/h3
+----------------
+<h2 class="primary-heading">More to explore in New York, NY</h2>
+/html/body/div[1]/div[8]/div[2]/div[7]/div/div[4]/h2
+----------------
+<span>Listed by: Coleman Real Estate Group</span>
+/html/body/div[1]/div[8]/div[2]/div[2]/div[4]/div/div[3]/table/tbody/tr[18]/td[2]/div/div/span
+----------------
+<span>Log In</span>
+/html/body/div[1]/div[2]/div/div/header[1]/div[2]/div/div/ul[1]/li/div/div[2]/button[1]/span
+----------------
+<div class="link-and-anchor">200 W 56th St #2212, New York, NY 10019</div>
+/html/body/div[1]/div[8]/div[2]/div[2]/div[5]/div/div[1]/div/div[37]/div/div/div[2]/a/div
+----------------
+<div class="stats">2 baths</div>
+/html/body/div[1]/div[8]/div[2]/div[2]/div[5]/div/div[1]/div/div[39]/div/div/div[2]/div[3]/div[2]
+----------------
+<a>NEW YORK STATE FAIR HOUSING NOTICE</a>.
+/html/body/div[1]/div[8]/div[2]/div[7]/div/div[13]/div[2]/div[4]/div/p[10]/span[2]/a[2]
+----------------
+<a class="address">264 W 22nd St #4</a>
+/html/body/div[1]/div[8]/div[2]/div[2]/div[4]/div/div[3]/table/tbody/tr[1]/td[2]/div/a
+----------------
+<p>Central Park views and brilliant light define this</p>

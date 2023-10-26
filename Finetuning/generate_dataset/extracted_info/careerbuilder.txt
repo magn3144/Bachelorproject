@@ -1,0 +1,129 @@
+<title>Salary Calculator - Career Path | CareerBuilder</title>
+/html/head/title
+----------------
+<a class="check-bubble">Project Manager (Management)</a>
+/html/body/div[1]/div/div[2]/main/div/div[2]/div[2]/div[1]/div[4]/div/div/div/ul[1]/li/a
+----------------
+<a class="check-bubble">Sonographer</a>
+/html/body/div[1]/div/div[2]/main/div/div[2]/div[2]/div[1]/div[3]/div/div/div/ul[5]/li/a
+----------------
+<span>Find helpful Career Articles</span>
+/html/body/div[1]/div/header/div/nav/div[2]/div/ul/li[2]/a/span
+----------------
+<span>help center</span>
+/html/body/div[1]/div/div[2]/footer/div[2]/div/div/div/div[1]/div/div[4]/h3/span
+----------------
+<h4 class="mb15">Upload or Build a resume to unlock your profile</h4>
+/html/body/div[1]/div/header/div/nav/div[4]/h4
+----------------
+<p class="small-font email-subs-model">To unlock your profile and take advantage of all f</p>
+/html/body/div[1]/div/header/div/nav/div[4]/p
+----------------
+<div class="sr-only" id="ac_text_hint">0 suggestions are available, use up and down arrow</div>
+/html/body/div[1]/div/div[2]/main/div/div[1]/div/div/div/div/div[2]/div[1]
+----------------
+<div class="sr-only">Footer</div>
+/html/body/div[1]/div/div[2]/footer/div[1]
+----------------
+<h1 class="b head-title mb10 seo_h1_tag">Search Salaries</h1>
+/html/body/div[1]/div/div[2]/main/div/div[1]/div/div/div/div/h1
+----------------
+<h2 class="h3">Trending Searches with Top Paying Salaries</h2>
+/html/body/div[1]/div/div[2]/main/div/div[2]/div[1]/h2
+----------------
+<h2 class="title">We're sorry</h2>
+/html/body/div[1]/div/div[2]/main/div/div[1]/div/div/div/div/div[2]/div[2]/div/div/div[1]/h2
+----------------
+<h3 class="pb">More than $50K</h3>
+/html/body/div[1]/div/div[2]/main/div/div[2]/div[2]/div[1]/div[2]/div/div/div/h3
+----------------
+<a class="check-bubble">Director of Operations (Management)</a>
+/html/body/div[1]/div/div[2]/main/div/div[2]/div[2]/div[1]/div[4]/div/div/div/ul[8]/li/a
+----------------
+<a class="check-bubble">Assistant Buyer</a>
+/html/body/div[1]/div/div[2]/main/div/div[2]/div[2]/div[1]/div[2]/div/div/div/ul[7]/li/a
+----------------
+<span>Explore new roles and careers</span>
+/html/body/div[1]/div/header/div/nav/div[2]/div/ul/li[3]/a/span
+----------------
+<span>CareerBuilder</span>
+/html/body/div[1]/div/div[2]/footer/div[2]/div/div/div/div[1]/div/div[3]/h3/span
+----------------
+<p class="pl30">*Based on National Average Salaries</p>
+/html/body/div[1]/div/div[2]/main/div/div[2]/div[2]/div[2]/p
+----------------
+<div class="top-sub-title">don't know where to start?</div>
+/html/body/div[1]/div/div[2]/main/div/div[2]/div[1]/div
+----------------
+<h2 class="footer-address">200 N. LaSalle St. Suite 900, Chicago, IL 60601</h2>
+/html/body/div[1]/div/div[2]/footer/div[2]/div/h2
+----------------
+<h3 class="footer-title no-footer-collapse">stay connected</h3>
+/html/body/div[1]/div/div[2]/footer/div[2]/div/div/div/div[2]/div[3]/h3
+----------------
+<a class="check-bubble">Office Manager (Office and Administrative Support)</a>
+/html/body/div[1]/div/div[2]/main/div/div[2]/div[2]/div[1]/div[1]/div/div/div/ul[8]/li/a
+----------------
+<a class="check-bubble">Cabinet Maker</a>
+/html/body/div[1]/div/div[2]/main/div/div[2]/div[2]/div[1]/div[2]/div/div/div/ul[2]/li/a
+----------------
+<span class="text close_matches mt10 pb0"> Please try the following recommendations:</span>
+/html/body/div[1]/div/div[2]/main/div/div[1]/div/div/div/div/div[2]/div[2]/div/div/div[1]/div/span[2]
+----------------
+<span class="submit-text">Search</span>
+/html/body/div[1]/div/div[2]/main/div/div[1]/div/div/div/div/div[2]/form/div[3]/button/span
+----------------
+<div class="container np center red b u">This site requires JavaScript to work correctly. P</div>
+/html/body/div[1]/div/div[2]/noscript/div/div
+----------------
+<h3 class="footer-title no-footer-collapse">Contact</h3>
+/html/body/div[1]/div/div[2]/footer/div[2]/div/div/div/div[2]/div[1]/h3
+----------------
+<a class="check-bubble">Business Development Manager (Management)</a>
+/html/body/div[1]/div/div[2]/main/div/div[2]/div[2]/div[1]/div[4]/div/div/div/ul[6]/li/a
+----------------
+<a class="check-bubble">Administrative Assistant</a>
+/html/body/div[1]/div/div[2]/main/div/div[2]/div[2]/div[1]/div[1]/div/div/div/ul[7]/li/a
+----------------
+<span>Discover your earning potential</span>
+/html/body/div[1]/div/header/div/nav/div[2]/div/ul/li[1]/a/span
+----------------
+<span>What job do you want?</span>
+/html/body/div[1]/div/div[2]/main/div/div[1]/div/div/div/div/div[2]/form/div[4]/span
+----------------
+<div>© 2023 CareerBuilder, LLC. All rights reserved.</div>
+/html/body/div[1]/div/div[2]/footer/div[2]/div/span/div
+----------------
+<h3 class="footer-title no-footer-collapse">Download Our Mobile App</h3>
+/html/body/div[1]/div/div[2]/footer/div[2]/div/div/div/div[2]/h3
+----------------
+<a>Do Not Sell My Personal Information</a>
+/html/body/div[1]/div/div[2]/footer/div[2]/div/div/div/div[1]/div/div[4]/div/ul/li[7]/a
+----------------
+<a class="check-bubble">Vice President (VP)</a>
+/html/body/div[1]/div/div[2]/main/div/div[2]/div[2]/div[1]/div[4]/div/div/div/ul[3]/li/a
+----------------
+<span>Employers</span>
+/html/body/div[1]/div/div[2]/footer/div[2]/div/div/div/div[1]/div/div[2]/h3/span
+----------------
+<div class="sub-title">Get the compensation you deserve for your skill se</div>
+/html/body/div[1]/div/div[2]/main/div/div[1]/div/div/div/div/div[1]
+----------------
+<h3 class="pb">More than $35K</h3>
+/html/body/div[1]/div/div[2]/main/div/div[2]/div[2]/div[1]/div[1]/div/div/div/h3
+----------------
+<a class="check-bubble">Product Manager (Management)</a>
+/html/body/div[1]/div/div[2]/main/div/div[2]/div[2]/div[1]/div[4]/div/div/div/ul[7]/li/a
+----------------
+<a>Sign Up</a>
+/html/body/div[1]/div/header/div/nav/div[3]/a[3]
+----------------
+<span>job seekers</span>
+/html/body/div[1]/div/div[2]/footer/div[2]/div/div/div/div[1]/div/div[1]/h3/span
+----------------
+<h3 class="pb">$90K and More</h3>
+/html/body/div[1]/div/div[2]/main/div/div[2]/div[2]/div[1]/div[4]/div/div/div/h3
+----------------
+<a class="check-bubble">Sales Director (Management)</a>
+/html/body/div[1]/div/div[2]/main/div/div[2]/div[2]/div[1]/div[3]/div/div/div/ul[2]/li/a
+----------------

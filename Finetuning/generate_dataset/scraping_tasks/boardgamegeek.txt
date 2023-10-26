@@ -1,0 +1,11 @@
+Generate a list of web-scraping tasks:
+1. Extract the names and locations of the forums from the "Forums and Review Sites" category. Save them as a CSV file.
+2. Retrieve the bug reports from the designated forum and save them as a CSV file.
+3. Scrape the policy information from the footer links and save it as a CSV file.
+4. Collect the search categories and corresponding labels for the search forms. Save them as a CSV file.
+5. Get the number of replies and thumbs for each forum section. Save them as a CSV file.
+6. Extract the game titles and corresponding links from the hotness section. Save them as a CSV file.
+7. Fetch the details of privacy options from the "Your Cookie Privacy Options" section. Save them as a CSV file.
+8. Scrape the global statistics from the forum sidebar and save them as a CSV file.
+9. Retrieve the names and descriptions of game-specific forums. Save them as a CSV file.
+10. Extract the non-gaming forums and their descriptions. Save them as a CSV file.

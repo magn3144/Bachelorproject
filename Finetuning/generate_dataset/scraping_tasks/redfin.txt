@@ -1,0 +1,10 @@
+Extract all available property addresses from the real estate website and save them as a CSV file.
+Find the text of all title elements on the webpage and save them in a CSV file.
+Obtain all listed home prices from the web page and save them in a CSV file.
+Scrape the website for all displayed open house information and save it in a CSV file.
+Compile data on all property statistics (such as square footage, number of bedrooms, etc) listed on the website and save it in a CSV file.
+Extract all available information on real estate listings including address, price, stats, etc. and save them as a CSV file.
+Harvest h1, h2, h3 tags and their XPaths from the webpage and store them in a CSV file.
+Save all the anchor link's text and their corresponding URLs from the website in a CSV file. 
+Find all listed real estate agencies or groups responsible for the property listings and save them in a CSV file.
+Extract all "p" tags text and save them in a CSV file.

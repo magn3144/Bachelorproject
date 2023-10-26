@@ -1,0 +1,11 @@
+Generate a list of web-scraping tasks:
+1. Scrape the dates of the articles on the Bleacher Report NBA page and save them as a CSV file.
+2. Extract the titles of the articles on the Bleacher Report NBA page and save them as a CSV file.
+3. Retrieve the content of the h3 tags on the Bleacher Report NBA page and save them as a CSV file.
+4. Collect the links of the articles on the Bleacher Report NBA page and save them as a CSV file.
+5. Get the categories of the articles on the Bleacher Report NBA page and save them as a CSV file.
+6. Scrape the text within the <a> tags on the Bleacher Report NBA page and save them as a CSV file.
+7. Extract the providers of the articles on the Bleacher Report NBA page and save them as a CSV file.
+8. Retrieve the descriptions of the articles on the Bleacher Report NBA page and save them as a CSV file.
+9. Collect the team names on the Bleacher Report NBA page and save them as a CSV file.
+10. Scrape the titles of the videos on the Bleacher Report NBA page and save them as a CSV file.

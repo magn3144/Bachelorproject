@@ -1,0 +1,10 @@
+Extract all title information from the web page and save it to a CSV file.
+Crawl through all navigation menu items and save the data in a CSV file.
+Scrape all H2 headings from the specified URL and store them in a CSV file.
+Collect all hyperlinked text from the webpage and save these in a CSV file.
+Extract all the article titles or headlines from the "Middle East News" section and save these to a CSV file.
+Gather data of all paragraphs featuring in the articles and save the information in a CSV file.
+Scrape the dates of all published articles and save the records in a CSV file.
+Retrieve all span labels from the web page and export this data to a CSV file.
+Collect the names of all sibling sites or linked sites in the Al Jazeera Media Network and write them into a CSV file.
+Capture all text from the page footer, including social media section and copyright information, and save it to a CSV file.

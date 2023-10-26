@@ -1,129 +1,121 @@
 <title>Stock Screener - Overview </title>
 /html/head/title
 ----------------
-<p>                                        Join thou</p>
-/html/body/div[6]/div/div/p
-----------------
-<div class="count-text whitespace-nowrap" id="screener-total">#1 / 8743 Total</div>
-/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[3]/td/div/div/div[1]
-----------------
-<span>Tue OCT 24 2023 6:16 AM ET</span>
-/html/body/table[2]/tbody/tr/td/table/tbody/tr/td[13]/div/div/div/div/span
-----------------
-<span class="is-ellipsis">⋯</span>
-/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[8]/td/span[9]
-----------------
-<a>GraniteShares 1.75x Long AAPL Daily ETF</a>
-/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[18]/td[3]/a
-----------------
-<a>98.10M</a>
-/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[6]/td[7]/a
-----------------
-<th class="table-header cursor-pointer">Country</th>
-/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/thead/tr/th[6]
-----------------
-<h2>Upgrade your FINVIZ experience</h2>
-/html/body/div[6]/div/div/h2
-----------------
 <p class="text-sm leading-6 text-gray-900">            Subscribe to our newsletter to receiv</p>
 /html/body/div[1]/p
 ----------------
 <div class="grow text-left">Subscribe</div>
 /html/body/div[1]/form/button/div
 ----------------
-<span class="color-text is-positive">53.54</span>
-/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[16]/td[9]/a/span
+<span>Tue OCT 24 2023 6:16 AM ET</span>
+/html/body/table[2]/tbody/tr/td/table/tbody/tr/td[13]/div/div/div/div/span
 ----------------
-<a>Altisource Asset Management Corp</a>
-/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[12]/td[3]/a
-----------------
-<a class="nav-link">Maps</a>
-/html/body/table[2]/tbody/tr/td/table/tbody/tr/td[4]/a
-----------------
-<th class="table-header cursor-pointer">Market Cap</th>
-/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/thead/tr/th[7]
-----------------
-<span class="color-text is-negative">-3.67%</span>
-/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[8]/td[10]/a/span
-----------------
-<a>Education &amp; Training Services</a>
-/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[5]/td[5]/a
-----------------
-<a class="nav-link">Groups</a>
-/html/body/table[2]/tbody/tr/td/table/tbody/tr/td[5]/a
-----------------
-<th class="table-header cursor-pointer">P/E</th>
-/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/thead/tr/th[8]
-----------------
-<span class="ml-1 select-none font-medium text-xs text-white">Theme</span>
-/html/body/table[2]/tbody/tr/td/table/tbody/tr/td[14]/a/span
-----------------
-<a>Goldman Sachs Physical Gold ETF</a>
-/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[3]/td[3]/a
-----------------
-<a class="tab-link">AAMC</a>
-/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[12]/td[2]/a
-----------------
-<th class="table-header cursor-pointer">Company</th>
-/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/thead/tr/th[3]
-----------------
-<span class="color-text is-positive">1.90%</span>
-/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[11]/td[10]/a/span
-----------------
-<a>Applied Optoelectronics Inc</a>
-/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[15]/td[3]/a
-----------------
-<a>Charts</a>
-/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[1]/td/table/tbody/tr/td[8]/a
-----------------
-<th class="table-header cursor-pointer">No.</th>
-/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/thead/tr/th[1]
-----------------
-<span class="color-text is-negative">48.45</span>
-/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[17]/td[9]/a/span
-----------------
-<a>AdvisorShares Dorsey Wright ADR ETF</a>
-/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[9]/td[3]/a
-----------------
-<a>11.49M</a>
-/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[12]/td[7]/a
-----------------
-<th class="table-header cursor-pointer">Price</th>
-/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/thead/tr/th[9]
-----------------
-<span class="footer_dot"> • </span>
-/html/body/div[4]/div/span[7]
-----------------
-<a>Arlington Asset Investment Corp</a>
-/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[10]/td[3]/a
-----------------
-<a class="screener-pages">50</a>
-/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[8]/td/a[7]
+<span class="color-text is-positive">0.07%</span>
+/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[20]/td[10]/a/span
 ----------------
 <a>American Airlines Group Inc</a>
 /html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[11]/td[3]/a
 ----------------
-<a>31.99B</a>
-/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[1]/td[7]/a
+<a class="tab-link">AAAU</a>
+/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[3]/td[2]/a
 ----------------
-<a>Ares Acquisition Corporation</a>
-/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[4]/td[3]/a
+<th class="table-header cursor-pointer">Sector</th>
+/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/thead/tr/th[4]
 ----------------
-<a class="nav-link">News</a>
-/html/body/table[2]/tbody/tr/td/table/tbody/tr/td[2]/a
+<h2>Upgrade your FINVIZ experience</h2>
+/html/body/div[6]/div/div/h2
+----------------
+<p>                                        Join thou</p>
+/html/body/div[6]/div/div/p
+----------------
+<div class="count-text whitespace-nowrap" id="screener-total">#1 / 8743 Total</div>
+/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[3]/td/div/div/div[1]
+----------------
+<span class="color-text is-positive">173.00</span>
+/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[20]/td[9]/a/span
 ----------------
 <a>Direxion Daily AAPL Bear 1X Shares</a>
 /html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[19]/td[3]/a
 ----------------
-<a class="tab-link">affiliate</a>
-/html/body/div[4]/div/a[1]
+<a class="tab-link">AAL</a>
+/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[11]/td[2]/a
+----------------
+<th class="table-header cursor-pointer">Price</th>
+/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/thead/tr/th[9]
+----------------
+<span class="is-ellipsis">⋯</span>
+/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[8]/td/span[5]
 ----------------
 <a class="modal-elite_button" id="modal-elite-ad-btn-1">Learn more about FINVIZ*Elite</a>
 /html/body/div[6]/div/div/a
 ----------------
-<a>Consumer Cyclical</a>
-/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[17]/td[4]/a
+<a>-</a>
+/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[8]/td[8]/a
+----------------
+<th class="table-header cursor-pointer">Market Cap</th>
+/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/thead/tr/th[7]
+----------------
+<span class="color-text is-positive">10.31</span>
+/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[7]/td[9]/a/span
+----------------
+<a>Ares Acquisition Corporation</a>
+/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[4]/td[3]/a
+----------------
+<a class="screener-pages">438</a>
+/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[8]/td/a[15]
+----------------
+<th class="table-header cursor-pointer">Company</th>
+/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/thead/tr/th[3]
+----------------
+<span class="color-text is-positive">8.39</span>
+/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[17]/td[8]/a/span
+----------------
+<a>Education &amp; Training Services</a>
+/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[5]/td[5]/a
+----------------
+<a class="screener-pages">350</a>
+/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[8]/td/a[13]
+----------------
+<th class="table-header cursor-pointer">Industry</th>
+/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/thead/tr/th[5]
+----------------
+<span class="color-text is-negative">8.89</span>
+/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[14]/td[9]/a/span
+----------------
+<a>Applied Optoelectronics Inc</a>
+/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[15]/td[3]/a
+----------------
+<a>USA</a>
+/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[10]/td[6]/a
+----------------
+<th class="table-header cursor-pointer">Change</th>
+/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/thead/tr/th[10]
+----------------
+<span class="color-text is-negative">-0.33%</span>
+/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[3]/td[10]/a/span
+----------------
+<a>Ares Acquisition Corporation II</a>
+/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[7]/td[3]/a
+----------------
+<a>Basic Materials</a>
+/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[2]/td[4]/a
+----------------
+<a>GraniteShares 1.75x Long AAPL Daily ETF</a>
+/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[18]/td[3]/a
+----------------
+<a>Technology</a>
+/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[15]/td[4]/a
 ----------------
 <a>Building Products &amp; Equipment</a>
 /html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[16]/td[5]/a
 ----------------
+<a>-</a>
+/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[14]/td[8]/a
+----------------
+<a>Goldman Sachs Physical Gold ETF</a>
+/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[3]/td[3]/a
+----------------
+<a>-</a>
+/html/body/div[3]/table/tbody/tr[2]/td/div/table/tbody/tr[5]/td/table/tbody/tr/td/table/tbody/tr[6]/td[8]/a
+----------------
+<a>AdvisorShares Dorsey Wright ADR ETF</a>

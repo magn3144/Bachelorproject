@@ -1,0 +1,88 @@
+<title>playstation - Best Buy</title>
+/html/head/title
+----------------
+<span class="text-variation">PlayStation 4 / PlayStation 5</span>
+/html/body/div[4]/main/div[3]/div/div/div/div/div/div/div[2]/div[2]/div[6]/div/div[4]/ol/li[15]/div/div/div/div/div/div[3]/div[2]/div[2]/div/div/ul/li[1]/div/a/div/span
+----------------
+<span class="c-reviews">Not Yet Reviewed</span>
+/html/body/div[4]/main/div[3]/div/div/div/div/div/div/div[2]/div[2]/div[6]/div/div[4]/ol/li[13]/div/div/div/div/div/div[3]/div/span
+----------------
+<a>EA Sports FC 24 Standard Edition - PlayStation 5</a>
+/html/body/div[4]/main/div[3]/div/div/div/div/div/div/div[2]/div[2]/div[6]/div/div[4]/ol/li[16]/div/div/div/div/div/h4/a
+----------------
+<a>3 &amp; Up</a>
+/html/body/div[4]/main/div[3]/div/div/div/div/div/div/div[2]/div[1]/div[1]/div[2]/div/div/div[3]/div[3]/section[14]/fieldset/ul/li[4]/div/a
+----------------
+<h2 class="banner-title">Featured products</h2>
+/html/body/div[4]/main/div[3]/div/div/div/div/div/div/div[2]/div[2]/div[3]/div/div/div/div/div[1]/h2
+----------------
+<div class="pricing-price__regular-price sr-only">The previous price was $299.99</div>
+/html/body/div[4]/main/div[3]/div/div/div/div/div/div/div[2]/div[2]/div[6]/div/div[4]/ol/li[23]/div/div/div/div/div/div[4]/div/div/div/div/div/div/div/div[1]/div/div[2]/div/div[2]
+----------------
+<div>No content</div>
+/html/body/div[4]/main/div[3]/div/div/div/div/div/div/div[2]/div[2]/div[6]/div/div[4]/ol/li[15]/div/div/div/div/div/div[8]/div[1]/div/div/div/div/div/div[2]/div
+----------------
+<h1 class="search-title">"playstation"</h1>
+/html/body/div[4]/main/div[3]/div/div/div/div/div/div/div[1]/div/div[2]/span[2]/span/h1
+----------------
+<h3 class="heading-6">Get the latest deals and more.</h3>
+/html/body/div[5]/div/footer/div[1]/div[2]/form/h3
+----------------
+<h3 class="navigation-section-heading body-copy-lg v-text-tech-black">Order &amp; Purchases</h3>
+/html/body/div[5]/div/footer/div[1]/div[1]/div[1]/h3
+----------------
+<p>Act Fast – Only 1 left at your store!</p>
+/html/body/div[4]/main/div[3]/div/div/div/div/div/div/div[2]/div[2]/div[6]/div/div[4]/ol/li[14]/div/div/div/div/div/div[6]/div/div/div/div/div/div/div[2]/div[2]/div[2]/p[2]
+----------------
+<p class="blueAssistHeading">Best Buy Help</p>
+/html/body/div[4]/main/div[3]/div/div/div/div/div/div/div[2]/div[2]/div[8]/div/div/aside/div/div[2]/div[1]/p
+----------------
+<label class="c-checkbox-label cursor-pointer font-weight-normal pt-100 pb-100 pl-100 mb-none">Compare</label>
+/html/body/div[4]/main/div[3]/div/div/div/div/div/div/div[2]/div[2]/div[6]/div/div[4]/ol/li[16]/div/div/div/div/div/div[8]/div[3]/div/div[1]/div/label
+----------------
+<span class="nc-product-title clamp">Sonic Superstars - PlayStation 5</span>
+/html/body/div[4]/main/div[3]/div/div/div/div/div/div/div[2]/div[2]/div[3]/div/div/div/div/div[2]/div/div[2]/div/div/ul/li[7]/div/div/div/a/span
+----------------
+<span class="text-variation">PlayStation 4</span>
+/html/body/div[4]/main/div[3]/div/div/div/div/div/div/div[2]/div[2]/div[6]/div/div[4]/ol/li[18]/div/div/div/div/div/div[3]/div[2]/div[2]/div/div/ul/li[1]/div/a/div/span
+----------------
+<a>Microsoft - Xbox Series S 512 GB All-Digital Conso</a>
+/html/body/div[4]/main/div[3]/div/div/div/div/div/div/div[2]/div[2]/div[6]/div/div[4]/ol/li[4]/div/div/div/div/div/h4/a
+----------------
+<a>Wireless Connectivity</a>
+/html/body/div[4]/main/div[3]/div/div/div/div/div/div/div[2]/div[1]/div[1]/div[2]/div/div/div[3]/div[3]/section[9]/fieldset/ul/li[1]/div/a
+----------------
+<h2 class="c-section-title location-card-title heading-6 v-fw-medium">Bangor</h2>
+/html/body/div[2]/div/div[1]/header/div[1]/div/div[2]/div/div/div/div/div/div/span/div/div[1]/div/div/div/div/div[1]/div/h2
+----------------
+<div class="pricing-price__regular-price sr-only">The previous price was $69.99</div>
+/html/body/div[4]/main/div[3]/div/div/div/div/div/div/div[2]/div[2]/div[6]/div/div[4]/ol/li[18]/div/div/div/div/div/div[5]/div/div/div/div/div/div/div/div[1]/div/div[2]/div[2]/div[2]
+----------------
+<div>No content</div>
+/html/body/div[4]/main/div[3]/div/div/div/div/div/div/div[2]/div[2]/div[6]/div/div[4]/ol/li[6]/div/div/div/div/div/div[7]/div[2]/div/div
+----------------
+<h3 class="c-section-title heading-5 v-fw-medium">Similar products from outside of Best Buy</h3>
+/html/body/div[4]/main/div[4]/div/div/div[2]/div/div/div[1]/h3
+----------------
+<h3 class="navigation-section-heading body-copy-lg v-text-tech-black">About Best Buy</h3>
+/html/body/div[5]/div/footer/div[1]/div[1]/div[6]/h3
+----------------
+<p class="visually-hidden">Rating 4.6 out of 5 stars with 93 reviews</p>
+/html/body/div[4]/main/div[3]/div/div/div/div/div/div/div[2]/div[2]/div[6]/div/div[4]/ol/li[16]/div/div/div/div/div/div[4]/a/div/p
+----------------
+<p class="visually-hidden">Not Yet Reviewed</p>
+/html/body/div[4]/main/div[3]/div/div/div/div/div/div/div[2]/div[2]/div[6]/div/div[4]/ol/li[13]/div/div/div/div/div/div[3]/div/p
+----------------
+<label class="c-checkbox-label cursor-pointer font-weight-normal pt-100 pb-100 pl-100 mb-none">Compare</label>
+/html/body/div[4]/main/div[3]/div/div/div/div/div/div/div[2]/div[2]/div[6]/div/div[4]/ol/li[19]/div/div/div/div/div/div[7]/div[3]/div/div[1]/div/label
+----------------
+<span class="text-variation">Nintendo Switch / Nintendo Switch – OLED Model / N</span>
+/html/body/div[4]/main/div[3]/div/div/div/div/div/div/div[2]/div[2]/div[6]/div/div[4]/ol/li[16]/div/div/div/div/div/div[3]/div[2]/div[2]/div/div/ul/li[4]/div/a/div/span
+----------------
+<span>Get it by tomorrow</span>
+/html/body/div[4]/main/div[3]/div/div/div/div/div/div/div[2]/div[2]/div[6]/div/div[4]/ol/li[19]/div/div/div/div/div/div[6]/div/div/div/div/div/div/div[2]/div[3]/div[2]/p[1]/span
+----------------
+<a class="body-copy-sm mr-200">CA Supply Chain Transparency Act</a>
+/html/body/div[5]/div/footer/div[2]/div[2]/a[10]
+----------------
+<a>Premium Audio &amp; Video</a>

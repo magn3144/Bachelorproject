@@ -1,0 +1,10 @@
+Extract all the email labels from the footer and save them as a CSV file.
+Retrieve all the login text from the header and store it as a CSV file.
+Scrape the descriptions of educational websites and save them as a CSV file.
+Capture the hidden elements in the header and save them as a CSV file.
+Retrieve the text from the links containing questions about the human body and save them as a CSV file.
+Extract the categories related to animals and nature and save them as a CSV file.
+Scrape the titles of articles related to autumn and save them as a CSV file.
+Extract the titles of articles related to meteorites and save them as a CSV file.
+Capture the headings of articles explaining how dinosaurs became birds and save them as a CSV file.
+Extract the featured categories and save them as a CSV file.

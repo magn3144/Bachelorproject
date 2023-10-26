@@ -1,0 +1,82 @@
+<title>Youtube</title>
+/html/body/dhi-seds-nav-footer/template/dhi-seds-nav-footer-display/template/footer/div[1]/div/nav/ul/li[3]/a/svg/title
+----------------
+<a class="card-title-link bold" id="4afb6996-7f9d-4d83-83f5-bace28c5c244"> Sr. Clinical SAS programmer </a>
+/html/body/dhi-js-dice-client/div/dhi-search-page-container/dhi-search-page/div/dhi-search-page-results/div/div[3]/js-search-display/div/div[3]/dhi-search-cards-widget/div/dhi-search-card[10]/div/div[1]/div/div[2]/div[1]/h5/a
+----------------
+<a class="card-title-link bold" id="0e4d9fc3-f952-465c-aafd-a827dfd0cbe6"> Java Programmer Analyst </a>
+/html/body/dhi-js-dice-client/div/dhi-search-page-container/dhi-search-page/div/dhi-search-page-results/div/div[3]/js-search-display/div/div[3]/dhi-search-cards-widget/div/dhi-search-card[14]/div/div[1]/div/div[2]/div[1]/h5/a
+----------------
+<label class="sr-only">Radius Filter Distance</label>
+/html/body/dhi-js-dice-client/div/dhi-search-page-container/dhi-search-page/div/dhi-search-page-results/div/div[3]/div/dhi-filters-widget/div/section[2]/dhi-accordion[4]/div[2]/div/dhi-radius-filter-widget/dhi-radius-filter/form/div[1]/div/label
+----------------
+<div class="card-description">Need someone to work on W2 basis. A Programmer Ana</div>
+/html/body/dhi-js-dice-client/div/dhi-search-page-container/dhi-search-page/div/dhi-search-page-results/div/div[3]/js-search-display/div/div[3]/dhi-search-cards-widget/div/dhi-search-card[14]/div/div[2]/div[2]
+----------------
+<div class="sr-only">save job</div>
+/html/body/dhi-js-dice-client/div/dhi-search-page-container/dhi-search-page/div/dhi-search-page-results/div/div[3]/js-search-display/div/div[3]/dhi-search-cards-widget/div/dhi-search-card[16]/div/div[1]/div/div[2]/div[2]/dhi-save-button/div/button[2]/div
+----------------
+<span class="search-result-location"> Berkeley Heights, NJ, USA </span>
+/html/body/dhi-js-dice-client/div/dhi-search-page-container/dhi-search-page/div/dhi-search-page-results/div/div[3]/js-search-display/div/div[3]/dhi-search-cards-widget/div/dhi-search-card[11]/div/div[1]/div/div[2]/div[1]/div/span
+----------------
+<span>Full-time</span>
+/html/body/dhi-js-dice-client/div/dhi-search-page-container/dhi-search-page/div/dhi-search-page-results/div/div[3]/js-search-display/div/div[3]/dhi-search-cards-widget/div/dhi-search-card[1]/div/div[2]/div[1]/div[1]/span
+----------------
+<p>Unlock your tech potential.</p>
+/html/body/dhi-seds-nav-footer/template/dhi-seds-nav-footer-display/template/footer/div[3]/div/div/div/p
+----------------
+<p class="ng-star-inserted">25</p>
+/html/body/dhi-js-dice-client/div/dhi-search-page-container/dhi-search-page/div/dhi-search-page-results/div/div[3]/div/dhi-filters-widget/div/section[2]/dhi-accordion[4]/div[2]/div/dhi-radius-filter-widget/dhi-radius-filter/form/div[2]/dhi-slider/div/p[2]
+----------------
+<h3 class="custom-card-title intellisearch-alert-header ng-star-inserted">Get personalized job recommendations today!</h3>
+/html/body/dhi-js-dice-client/div/dhi-search-page-container/dhi-search-page/div/dhi-search-page-results/div/div[3]/js-search-display/div/div[3]/dhi-search-cards-widget/div/dhi-search-alert-card/div/div[1]/div/div[1]/div/h3
+----------------
+<h2 id="tech-nav-label">Technology Professionals</h2>
+/html/body/dhi-seds-nav-footer/template/dhi-seds-nav-footer-display/template/footer/div[2]/div/div/nav[1]/h2
+----------------
+<h4>OPT-OUT YAHOO! SEARCH MARKETING</h4>
+/html/body/div[3]/div/div/div[2]/h4[6]
+----------------
+<h4 class="modal-title marginTop10" id="CookiePolicyModalTitle">Cookies on Dice</h4>
+/html/body/div[3]/div/div/div[1]/h4
+----------------
+<title>Dice</title>
+/html/body/dhi-seds-nav-footer/template/dhi-seds-nav-footer-display/template/footer/div[1]/div/a/svg/title
+----------------
+<a class="ng-star-inserted"> Data Processing Resources </a>
+/html/body/dhi-js-dice-client/div/dhi-search-page-container/dhi-search-page/div/dhi-search-page-results/div/div[3]/js-search-display/div/div[3]/dhi-search-cards-widget/div/dhi-search-card[7]/div/div[1]/div/div[2]/div[1]/div/a
+----------------
+<a class="ng-star-inserted"> nfolks </a>
+/html/body/dhi-js-dice-client/div/dhi-search-page-container/dhi-search-page/div/dhi-search-page-results/div/div[3]/js-search-display/div/div[3]/dhi-search-cards-widget/div/dhi-search-card[17]/div/div[1]/div/div[2]/div[1]/div/a
+----------------
+<label class="sr-only">Saved Search Name Input</label>
+/html/body/dhi-js-dice-client/div/dhi-search-page-container/dhi-search-page/div/dhi-search-page-results/div/div[3]/js-search-display/div/div[2]/dhi-search-alerts-widget/dhi-search-alert/div/form/div/div/div[2]/div/div[2]/label
+----------------
+<div>- - - - - - - - - - - - - - - - -</div>
+/html/body/dhi-js-dice-client/div/dhi-search-page-container/dhi-search-page/div/dhi-search-page-results/div/div[3]/div/dhi-filters-widget/div/section[2]/dhi-accordion[1]/div[2]/div/js-remote-options-filter/div/div
+----------------
+<div class="sr-only">save job</div>
+/html/body/dhi-js-dice-client/div/dhi-search-page-container/dhi-search-page/div/dhi-search-page-results/div/div[3]/js-search-display/div/div[3]/dhi-search-cards-widget/div/dhi-search-card[19]/div/div[1]/div/div[2]/div[2]/dhi-save-button/div/button[1]/div
+----------------
+<span class="search-result-location"> Berkeley Heights, NJ, USA </span>
+/html/body/dhi-js-dice-client/div/dhi-search-page-container/dhi-search-page/div/dhi-search-page-results/div/div[3]/js-search-display/div/div[3]/dhi-search-cards-widget/div/dhi-search-card[14]/div/div[1]/div/div[2]/div[1]/div/span
+----------------
+<span class="posted-date"> Posted 9 days ago</span>
+/html/body/dhi-js-dice-client/div/dhi-search-page-container/dhi-search-page/div/dhi-search-page-results/div/div[3]/js-search-display/div/div[3]/dhi-search-cards-widget/div/dhi-search-card[17]/div/div[2]/div[1]/div[2]/span[1]
+----------------
+<p class="ng-star-inserted">100</p>
+/html/body/dhi-js-dice-client/div/dhi-search-page-container/dhi-search-page/div/dhi-search-page-results/div/div[3]/div/dhi-filters-widget/div/section[2]/dhi-accordion[4]/div[2]/div/dhi-radius-filter-widget/dhi-radius-filter/form/div[2]/dhi-slider/div/p[5]
+----------------
+<h2 id="employer-nav-label">Employers and Recruiters</h2>
+/html/body/dhi-seds-nav-footer/template/dhi-seds-nav-footer-display/template/footer/div[2]/div/div/nav[2]/h2
+----------------
+<h4>OPT-OUT FROM GOOGLE'S DOUBLECLICK</h4>
+/html/body/div[3]/div/div/div[2]/h4[5]
+----------------
+<h4 id="invalidLocaleTitle">You're browsing Dice UK</h4>
+/html/body/div[4]/div/div/div[1]/div/h4
+----------------
+<title>Facebook</title>
+/html/body/dhi-seds-nav-footer/template/dhi-seds-nav-footer-display/template/footer/div[1]/div/nav/ul/li[1]/a/svg/title
+----------------
+<a class="card-title-link bold" id="b9151381-e320-4744-a133-bc82deba7916"> Senior Systems Programmer </a>

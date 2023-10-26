@@ -1,0 +1,10 @@
+Extract all the stock names listed on the page.
+Gather all the details relating to the stock prices and record them.
+Collect the timestamps and include them in the data.
+Compile a list of all the sectors mentioned on the page.
+Retrieve the names of all companies displayed on the page.
+Extract the information regarding stock changes and save it.
+Get all instances of market caps detailed on the page.
+Track all instances of text within span tags on the page.
+Pull all instances of industry names stated on the page.
+Save all the links on the page in a single list.

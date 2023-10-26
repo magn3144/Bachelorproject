@@ -21,8 +21,8 @@ def generate_scraping_tasks(link, website, category, HTML_string, num_tasks):
     # Fill in the templates
     user_prompt = user_prompt.format(link=link, category=category, HTML_string=HTML_string, num_tasks=num_tasks)
 
-    # Get response from GPT-4
-    response = get_response(system_prompt, user_prompt, "gpt-4")
+    # Get response from GPT
+    response = get_response(system_prompt, user_prompt, "gpt-3.5-turbo")
 
     # Extract the tasks from the response
     tasks = response.split("\n")

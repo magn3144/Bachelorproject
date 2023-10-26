@@ -1,0 +1,105 @@
+<a class="dropdown-item hover:tw-bg-gray-200 focus:tw-bg-gray-200"> Newfoundland and Labrador </a>
+/html/body/gg-app/div/main/div/div/gg-forum-browser/gg-forum-browser-ui/div/div/div/gg-forum-listings/gg-forum-section-list[10]/section/ul/li[3]/gg-forum-listing/div/div[2]/div/a[5]
+----------------
+<a class="dropdown-item hover:tw-bg-gray-200 focus:tw-bg-gray-200"> WA (Perth) </a>
+/html/body/gg-app/div/main/div/div/gg-forum-browser/gg-forum-browser-ui/div/div/div/gg-forum-listings/gg-forum-section-list[10]/section/ul/li[5]/gg-forum-listing/div/div[2]/div/a[6]
+----------------
+<span>Submit bug reports here, one bug per thread</span>
+/html/body/gg-app/div/main/div/div/gg-forum-browser/gg-forum-browser-ui/div/div/div/gg-forum-listings/gg-forum-section-list[4]/section/ul/li[6]/gg-forum-listing/div/p/span
+----------------
+<span class="tw-sr-only">Threads</span>
+/html/body/gg-app/div/main/div/div/gg-forum-browser/gg-forum-browser-ui/div/div/div/gg-forum-listings/gg-forum-section-list[10]/section/ul/li[4]/gg-forum-listing/div/div[1]/dl/div[1]/dt/span
+----------------
+<h1 class="tw-sr-only">Footer Links</h1>
+/html/body/gg-app/div/gg-footer/footer/div/div/div[1]/h1
+----------------
+<label class="tw-sr-only tw-bg-black tw-text-white">Search for your favorite game</label>
+/html/body/gg-app/div/main/div/div/gg-forum-browser/gg-forum-browser-ui/div/div/div/gg-forum-listings/gg-forum-search-aside/aside/div/gg-search-container/gg-search/form/label
+----------------
+<label class="tw-sr-only tw-bg-black tw-text-white">Search</label>
+/html/body/gg-app/div/gg-header/header/nav/div/gg-header-search/gg-search-container/gg-search/form/label
+----------------
+<h2 class="tw-mb-1 tw-text-base md:tw-text-lg lg:tw-text-xl"> Looking for a specific game forum? </h2>
+/html/body/gg-app/div/main/div/div/gg-forum-browser/gg-forum-browser-ui/div/div/div/gg-forum-listings/gg-forum-search-aside/aside/h2
+----------------
+<h2 class="tw-mb-3.5 tw-text-sm tw-uppercase tw-tracking-wider tw-opacity-75"> Policies </h2>
+/html/body/gg-app/div/gg-footer/footer/div/div/div[3]/h2
+----------------
+<dd class="tw-mb-0">8.7K</dd>
+/html/body/gg-app/div/main/div/div/gg-forum-browser/gg-forum-browser-ui/div/div/div/gg-forum-listings/gg-forum-section-list[4]/section/ul/li[5]/gg-forum-listing/div/div[1]/dl/div[1]/dd
+----------------
+<p class="tw-mb-0 tw-bg-black tw-p-3.5 tw-text-xs tw-opacity-75 lg:tw-text-right"> Geekdo, BoardGameGeek, the Geekdo logo, and the B</p>
+/html/body/gg-app/div/gg-footer/footer/p
+----------------
+<dt class="tw-font-normal tw-text-muted">Replies</dt>
+/html/body/gg-app/div/main/div/div/gg-forum-browser/gg-forum-browser-ui/div/div/gg-forum-sidebar/div/div[3]/dl/div[2]/dt
+----------------
+<div id="s-ttl">Your Cookie Privacy Options</div>
+/html/body/div[3]/div/div[3]/div/div/div/div/div[1]/div[1]
+----------------
+<div class="visually-hidden" id="ngb-live">No results available</div>
+/html/body/div[1]
+----------------
+<th>Policy Info</th>
+/html/body/div[3]/div/div[3]/div/div/div/div/div[2]/div[2]/div[2]/table/thead/tr/th[5]
+----------------
+<td>General Google Preferences</td>
+/html/body/div[3]/div/div[3]/div/div/div/div/div[2]/div[4]/div[2]/table/tbody/tr[2]/td[4]
+----------------
+<td>User Login</td>
+/html/body/div[3]/div/div[3]/div/div/div/div/div[2]/div[2]/div[2]/table/tbody/tr[2]/td[4]
+----------------
+<a class="stretched-link"> The Witcher: Path Of Destiny</a>
+/html/body/gg-app/div/main/div/gg-sidebar/div/div[3]/div/gg-hotness/gg-hotness-items/ul/li[47]/div/h2/a
+----------------
+<a class="stretched-link"> Nucleum</a>
+/html/body/gg-app/div/main/div/gg-sidebar/div/div[3]/div/gg-hotness/gg-hotness-items/ul/li[4]/div/h2/a
+----------------
+<span>Held during Memorial Day weekend in late May</span>
+/html/body/gg-app/div/main/div/div/gg-forum-browser/gg-forum-browser-ui/div/div/div/gg-forum-listings/gg-forum-section-list[5]/section/ul/li[3]/gg-forum-listing/div/p/span
+----------------
+<span class="tw-sr-only">Published </span> 2017 
+/html/body/gg-app/div/main/div/gg-sidebar/div/div[3]/div/gg-hotness/gg-hotness-items/ul/li[23]/div/p/span
+----------------
+<h1 class="tw-sr-only">boardgame geek</h1>
+/html/body/gg-app/div/gg-header/header/nav/div/gg-menu-logo/div/a/h1
+----------------
+<label class="tw-sr-only">Search Category</label>
+/html/body/gg-app/div/gg-header/header/nav/div/gg-header-search/gg-search-container/gg-search/form/div[2]/label
+----------------
+<h2 class="tw-mb-1 tw-text-base">Global Stats</h2>
+/html/body/gg-app/div/main/div/div/gg-forum-browser/gg-forum-browser-ui/div/div/gg-forum-sidebar/div/div[3]/h2
+----------------
+<dd class="tw-mb-0">13K</dd>
+/html/body/gg-app/div/main/div/div/gg-forum-browser/gg-forum-browser-ui/div/div/div/gg-forum-listings/gg-forum-section-list[10]/section/ul/li[4]/gg-forum-listing/div/div[1]/dl/div[1]/dd
+----------------
+<p class="lg:text-base tw-mb-2 tw-text-sm md:tw-mb-4"> We have over 100K game specific forums. Too many </p>
+/html/body/gg-app/div/main/div/div/gg-forum-browser/gg-forum-browser-ui/div/div/div/gg-forum-listings/gg-forum-search-aside/aside/p
+----------------
+<dt class="tw-font-normal tw-text-muted">Thumbs</dt>
+/html/body/gg-app/div/main/div/div/gg-forum-browser/gg-forum-browser-ui/div/div/gg-forum-sidebar/div/div[3]/dl/div[3]/dt
+----------------
+<div class="p">These cookies measure how often visitors use our s</div>
+/html/body/div[3]/div/div[3]/div/div/div/div/div[2]/div[3]/div[2]/div
+----------------
+<div id="c-ttl">Your Privacy</div>
+/html/body/div[3]/div/div[1]/div/div[1]/div[1]
+----------------
+<th>Name</th>
+/html/body/div[3]/div/div[3]/div/div/div/div/div[2]/div[2]/div[2]/table/thead/tr/th[1]
+----------------
+<td>Fraud Prevention by Payment Processor</td>
+/html/body/div[3]/div/div[3]/div/div/div/div/div[2]/div[2]/div[2]/table/tbody/tr[7]/td[4]
+----------------
+<td>www.recaptcha.net</td>
+/html/body/div[3]/div/div[3]/div/div/div/div/div[2]/div[2]/div[2]/table/tbody/tr[5]/td[2]
+----------------
+<a class="stretched-link"> Marvel Champions: The Card Game</a>
+/html/body/gg-app/div/main/div/gg-sidebar/div/div[3]/div/gg-hotness/gg-hotness-items/ul/li[45]/div/h2/a
+----------------
+<a> BGG Store </a>
+/html/body/gg-app/div/gg-header/header/nav/div/div[1]/div/div[1]/ul/li[4]/div/div/div/div/span[3]/a
+----------------
+<span>Hang out and shoot the breeze about anything non-g</span>
+/html/body/gg-app/div/main/div/div/gg-forum-browser/gg-forum-browser-ui/div/div/div/gg-forum-listings/gg-forum-section-list[11]/section/ul/li[1]/gg-forum-listing/div/p/span
+----------------

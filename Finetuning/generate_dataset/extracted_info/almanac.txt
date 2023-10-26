@@ -1,0 +1,115 @@
+<a class="menu__link menu__link--link menu__link--level-1">The Old Farmer's Almanac for Kids</a>
+/html/body/div[1]/div/div/footer/div/div[1]/div/nav[1]/ul/li[1]/a
+----------------
+<a class="menu__link menu__link--link menu__link--level-1">Advertise with Us</a>
+/html/body/div[1]/div/div/footer/div/div[1]/div/nav[2]/ul/li[5]/a
+----------------
+<div></div>
+/html/body/div[1]/div/div/div[5]/div/main/div[2]/div[3]/div[2]/div[1]/div[2]/div
+----------------
+<span>Sunny north, periods of rain and snow south; cold</span>
+/html/body/div[1]/div/div/div[5]/div/main/div[2]/div[3]/div[2]/div[1]/table[2]/tbody/tr[1]/td/span/span
+----------------
+<span class="primary-nav__menu-link-inner primary-nav__menu-link-inner--level-2">Extended Forecast</span>
+/html/body/div[1]/div/div/header/div/div[2]/div/div[4]/nav/ul/li[1]/ul/li[1]/a/span
+----------------
+<h2>Free 2-Month Weather Forecast</h2>
+/html/body/div[1]/div/div/div[5]/div/main/div[2]/div[3]/div[2]/div[1]/h2[1]
+----------------
+<h2 class="visually-hidden block__title" id="block-global-menu">Global</h2>
+/html/body/div[1]/div/div/div[2]/div/nav/h2
+----------------
+<label class="form-item__label">Enter Your Location</label>
+/html/body/div[1]/div/div/div[5]/div/main/div[2]/div[3]/div[2]/div[1]/div[1]/div/form/div/div/label
+----------------
+<h1 class="title page-title">60-Day Extended Weather Forecast for Intermountain</h1>
+/html/body/div[1]/div/div/div[5]/div/main/div[2]/div[3]/div[1]/h1
+----------------
+<caption>October 2023 Long Range Weather Forecast for Inter</caption>
+/html/body/div[1]/div/div/div[5]/div/main/div[2]/div[3]/div[2]/div[1]/table[1]/caption
+----------------
+<th>October</th>
+/html/body/div[1]/div/div/div[5]/div/main/div[2]/div[3]/div[2]/div[1]/table[1]/tfoot/tr/th
+----------------
+<p class="prod-title">Flower Gardener’s Handbook</p>
+/html/body/div[1]/div/div/div[5]/div/main/div[2]/div[3]/div[2]/div[2]/div[2]/div/div/div/div[3]/a/p[1]
+----------------
+<p>$15.99</p>
+/html/body/div[1]/div/div/div[5]/div/main/div[2]/div[3]/div[2]/div[2]/div[2]/div/div/div/div[4]/a/p[2]
+----------------
+<a class="menu__link menu__link--link menu__link--level-1">Get Almanac's Daily Updates</a>
+/html/body/div[1]/div/div/div[2]/div/nav/ul/li[1]/a
+----------------
+<a class="menu__link menu__link--link menu__link--level-1">Where to Buy</a>
+/html/body/div[1]/div/div/div[2]/div/nav/ul/li[3]/a
+----------------
+<div id="ltk-snippet"></div>
+/html/body/div[3]
+----------------
+<span class="lrwf-text-highlight">Rain and snow showers, cool</span>
+/html/body/div[1]/div/div/div[5]/div/main/div[2]/div[3]/div[2]/div[1]/table[1]/tbody/tr[3]/td/span/span
+----------------
+<span class="a2a_label">Pinterest</span>
+/html/body/div[1]/div/div/header/div/div[2]/div/div[4]/div[2]/nav[2]/div/div/a[4]/span[2]
+----------------
+<h2>The 12-Month Temperature and Precipitation Outlook</h2>
+/html/body/div[1]/div/div/div[5]/div/main/div[2]/div[3]/div[2]/div[1]/h2[3]
+----------------
+<h2 class="block__title">Footer Info</h2>
+/html/body/div[1]/div/div/footer/div/div[2]/div/h2
+----------------
+<label class="form-item__label visually-hidden">Search</label>
+/html/body/div[1]/div/div/header/div/div[2]/div/div[4]/div[2]/nav[1]/form/div[1]/label
+----------------
+<caption>November 2023 Long Range Weather Forecast for Inte</caption>
+/html/body/div[1]/div/div/div[5]/div/main/div[2]/div[3]/div[2]/div[1]/table[2]/caption
+----------------
+<th>November</th>
+/html/body/div[1]/div/div/div[5]/div/main/div[2]/div[3]/div[2]/div[1]/table[2]/tfoot/tr/th
+----------------
+<p>November 2023 to October 2024</p>   Winter will be colder than normal, with the coldest periods in early and late November, late December, and late January. Precipitation will be below normal in the north and above normal in the south. Snowfall will be above normal, with the snowiest periods in 
+/html/body/div[1]/div/div/div[5]/div/main/div[2]/div[3]/div[2]/div[1]/p[1]
+----------------
+<p class="rec-button">BUY NOW</p>
+/html/body/div[1]/div/div/div[5]/div/main/div[2]/div[3]/div[2]/div[2]/div[2]/div/div/div/div[3]/a/p[3]
+----------------
+<a class="visually-hidden focusable skip-link">      Skip to main content    </a>
+/html/body/a
+----------------
+<a class="menu__link menu__link--link menu__link--level-1">Free Daily Newsletter</a>
+/html/body/div[1]/div/div/footer/div/div[1]/div/nav[2]/ul/li[3]/a
+----------------
+<div class="social-bar"></div>
+/html/body/div[1]/div/div/div[5]/div/div
+----------------
+<span>Sunny north, a few showers south; cool</span>
+/html/body/div[1]/div/div/div[5]/div/main/div[2]/div[3]/div[2]/div[1]/table[1]/tbody/tr[2]/td/span/span
+----------------
+<span class="primary-nav__menu-link-inner primary-nav__menu-link-inner--level-2">Garden Planner App</span>
+/html/body/div[1]/div/div/header/div/div[2]/div/div[4]/nav/ul/li[2]/ul/li[8]/a/span
+----------------
+<h2 class="block__title">For daily wit &amp; wisdom, sign up for the Almanac Da</h2>
+/html/body/div[1]/div/div/div[5]/div/main/div[1]/div[2]/h2
+----------------
+<h2 class="visually-hidden" id="system-breadcrumb">Breadcrumb</h2>
+/html/body/div[1]/div/div/div[5]/div/main/div[2]/div[2]/div/div/nav/h2
+----------------
+<label class="form-item__label visually-hidden js-form-required form-required">Email Address</label>
+/html/body/div[1]/div/div/div[5]/div/main/div[1]/div[2]/div/form/div/label
+----------------
+<th id="conditions">Weather Conditions</th>
+/html/body/div[1]/div/div/div[5]/div/main/div[2]/div[3]/div[2]/div[1]/table[2]/thead/tr/th[2]
+----------------
+<p>November 2023 to October 2024</p>
+/html/body/div[1]/div/div/div[5]/div/main/div[2]/div[3]/div[2]/div[1]/p[3]
+----------------
+<p>$37.97</p>
+/html/body/div[1]/div/div/div[5]/div/main/div[2]/div[3]/div[2]/div[2]/div[2]/div/div/div/div[1]/a/p[2]
+----------------
+<a>See the complete 12-month weather predictions in T</a>.
+/html/body/div[1]/div/div/div[5]/div/main/div[2]/div[3]/div[2]/div[1]/p[2]/a
+----------------
+<a class="menu__link menu__link--link menu__link--level-1">Yankee Magazine</a>
+/html/body/div[1]/div/div/footer/div/div[1]/div/nav[1]/ul/li[2]/a
+----------------
+<div class="a2a_localize">Thanks for sharing!</div>

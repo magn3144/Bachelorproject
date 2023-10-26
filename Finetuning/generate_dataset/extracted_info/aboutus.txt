@@ -1,0 +1,90 @@
+<title>Reddit.com Source for the most popular stuff on th</title>
+/html/head/title
+----------------
+<a>http://aboutus.com/index.php?title=Reddit.com&amp;oldi</a>"
+/html/body/section/div[3]/div[2]/div[1]/div[2]/p/a
+----------------
+<a>FAQ</a>
+/html/body/div[5]/div[1]/div[2]/div/div[2]/a
+----------------
+<li>will be resized to 270 pixels wide</li>
+/html/body/section/div[3]/div[1]/div/div[2]/div[2]/div[2]/div[2]/ul/li[3]
+----------------
+<li>jpeg, png, or gif</li>
+/html/body/section/div[3]/div[2]/div[2]/div[2]/div[2]/ul/li[1]
+----------------
+<span>Reddit.com Source for the most popular stuff on th</span>
+/html/body/section/div[3]/div[1]/div/h1/span
+----------------
+<span id="sidebarPageRating">5</span> - 
+/html/body/section/div[3]/div[2]/div[1]/div[1]/div[1]/div/div/span[2]
+----------------
+<h4>Website Analysis</h4>
+/html/body/section/div[3]/div[2]/div[1]/div[1]/div[3]/div[3]/h4
+----------------
+<div>Powered by who.is</div>
+/html/body/section/div[3]/div[2]/div[1]/div[1]/div[3]/div[4]/div[2]
+----------------
+<p>Reddit is a link aggregator and and community webs</p>
+/html/body/section/div[3]/div[1]/div/div[2]/div[1]/div[2]/p[1]
+----------------
+<p></p>
+/html/body/section/div[3]/div[2]/div[4]/div[2]/p[1]
+----------------
+<dd> CONDENET INC</dd>
+/html/body/section/div[3]/div[1]/div/div[2]/div[1]/div[2]/dl[2]/dd[1]
+----------------
+<h3>Edit Name</h3>
+/html/body/section/div[3]/div[2]/div[3]/div[1]/h3
+----------------
+<label>Name</label>
+/html/body/section/div[3]/div[2]/div[3]/div[2]/fieldset/label
+----------------
+<a>Policies</a>
+/html/body/div[5]/div[1]/div[2]/div/div[6]/a
+----------------
+<li>will be resized to 270 pixels wide</li>
+/html/body/section/div[3]/div[2]/div[2]/div[2]/div[2]/ul/li[3]
+----------------
+<li>one megabyte or smaller</li>
+/html/body/section/div[3]/div[1]/div/div[2]/div[2]/div[2]/div[2]/ul/li[2]
+----------------
+<span class="mw-headline" id="Contact">Contact</span>
+/html/body/section/div[3]/div[1]/div/div[2]/div[1]/div[2]/h2[4]/span
+----------------
+<h4>Website Analysis</h4>
+/html/body/section/div[3]/div[1]/div/div[2]/div[1]/div[1]/div[3]/div[3]/h4
+----------------
+<div>Powered by who.is</div>
+/html/body/section/div[3]/div[1]/div/div[2]/div[1]/div[1]/div[3]/div[4]/div[2]
+----------------
+<p>On June 18, 2008, Reddit became an open source pro</p>
+/html/body/section/div[3]/div[1]/div/div[2]/div[1]/div[2]/p[4]
+----------------
+<p></p>
+/html/body/section/div[3]/div[2]/div[3]/div[2]/p[1]
+----------------
+<dd> US 10036</dd>
+/html/body/section/div[3]/div[1]/div/div[2]/div[1]/div[2]/dl[2]/dd[4]
+----------------
+<h3>Map</h3>
+/html/body/section/div[3]/div[1]/div/div[2]/div[6]/div[1]/h3
+----------------
+<p>Other users may then vote the posted links down or</p>
+/html/body/section/div[3]/div[1]/div/div[2]/div[1]/div[2]/p[2]
+----------------
+<p>English</p>
+/html/body/section/div[3]/div[1]/div/div[2]/div[1]/div[2]/p[6]
+----------------
+<p>Reddit was founded by Steve Huffman and Alexis Oha</p>
+/html/body/section/div[3]/div[1]/div/div[2]/div[1]/div[2]/p[3]
+----------------
+<p></p>
+/html/body/section/div[3]/div[1]/div/div[2]/div[4]/div[2]/p[1]
+----------------
+<p>Reddit was named by Ohanian while browsing the Uni</p>
+/html/body/section/div[3]/div[1]/div/div[2]/div[1]/div[2]/p[5]
+----------------
+<p></p>
+/html/body/section/div[3]/div[1]/div/div[2]/div[3]/div[2]/p[1]
+----------------

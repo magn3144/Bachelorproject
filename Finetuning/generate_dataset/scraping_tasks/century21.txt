@@ -1,0 +1,10 @@
+Scrape all listing prices and corresponding details from the real estate website and save them as a CSV file.
+Extract all available languages on the website and save them as a CSV file.
+Retrieve the text for "My C21 Account" and save it as a CSV file.
+Scrape the descriptions of various properties and save them as a CSV file.
+Get the total number of images for each property and save them as a CSV file.
+Extract the text for "Click to Show More SEO Cities" and save it as a CSV file.
+Retrieve the location information displayed as "in New York" and save it as a CSV file.
+Scrape all the learning resources and save them as a CSV file.
+Extract the mortgage resources and save them as a CSV file.
+Retrieve the text for the "arrow" title tag and save it as a CSV file.

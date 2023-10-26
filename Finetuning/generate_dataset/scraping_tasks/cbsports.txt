@@ -1,0 +1,11 @@
+Generate a list of web-scraping tasks:
+1. Scrape all product names and prices and save them as a CSV file.
+2. Retrieve the category of the website from the HTML and save it as a CSV file.
+3. Extract the text from all anchor tags and save it as a CSV file.
+4. Get the text from all spans with a certain class and save it as a CSV file.
+5. Fetch the text from all header tags and save it as a CSV file.
+6. Scrape the text from all labels and save it as a CSV file.
+7. Extract the text from all list items and save it as a CSV file.
+8. Retrieve the text from all divs with a certain class and save it as a CSV file.
+9. Extract the text from all paragraphs with a certain class and save it as a CSV file.
+10. Fetch the text from all list items within specific nested elements and save it as a CSV file.

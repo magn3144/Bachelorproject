@@ -1,0 +1,112 @@
+<div class="title">Thu, Oct 26</div>
+/html/body/div[1]/div/div[2]/div[1]/div/ul/li[9]/div/a/div[1]/div[1]
+----------------
+<title>Bleacher Report</title>
+/html/body/div[1]/div/header/div/div[2]/div/div[1]/a/div/svg/title
+----------------
+<h3>Unreal Pic of Wemby Block 🤯</h3>
+/html/body/div[1]/div/div[2]/div[2]/div[3]/div[2]/article/div/div/ol/div[11]/li/div[1]/h3
+----------------
+<h3>76ers Unveil New Uniforms</h3>
+/html/body/div[1]/div/div[2]/div[2]/div[3]/div[2]/article/div/div/ol/div[124]/li/div[3]/a[2]/h3
+----------------
+<a>LeBron Teaching Blackjack ♠️</a>
+/html/body/div[1]/div/div[2]/div[2]/div[3]/div[2]/article/div/div/ol/div[178]/li/div[1]/h3/a
+----------------
+<a class="typography -heading-4 -text--tertiary navLink">NEWS</a>
+/html/body/div[1]/div/header/div/div[1]/div/div[3]/div[2]/div/div[3]/div[2]/div[1]/a[1]
+----------------
+<span class="provider">via Bleacher Report</span>
+/html/body/div[1]/div/div[2]/div[2]/div[3]/div[2]/article/div/div/ol/div[26]/li/span
+----------------
+<p>Tyler believes he's capable of being the 'best sco</p>
+/html/body/div[1]/div/div[2]/div[2]/div[3]/div[2]/article/div/div/ol/div[89]/li/div[1]/p
+----------------
+<p>Tap in to vote ⤵️</p>
+/html/body/div[1]/div/div[2]/div[2]/div[3]/div[2]/article/div/div/ol/div[6]/li/div[1]/p[2]
+----------------
+<div class="title">Thu, Oct 26</div>
+/html/body/div[1]/div/div[2]/div[1]/div/ul/li[5]/div/a/div[1]/div[1]
+----------------
+<title>Video Play Button</title>
+/html/body/div[1]/div/div[2]/div[2]/div[3]/div[2]/article/div/div/ol/div[144]/li/div[2]/a/svg/title
+----------------
+<h3>Top 3 Trade Assets Around the League 📝</h3>
+/html/body/div[1]/div/div[2]/div[2]/div[3]/div[2]/article/div/div/ol/div[80]/li/div[1]/h3
+----------------
+<h3>Wemby Towering Over CP3 🤣</h3>
+/html/body/div[1]/div/div[2]/div[2]/div[3]/div[2]/article/div/div/ol/div[35]/li/div[1]/h3
+----------------
+<a>Fox Mocks CP3 for Flopping 🤣</a>
+/html/body/div[1]/div/div[2]/div[2]/div[3]/div[2]/article/div/div/ol/div[143]/li/div[1]/h3/a
+----------------
+<a>Cookie Preferences</a>
+/html/body/div[1]/div/div[2]/div[2]/footer/div/ul[2]/li[9]/a
+----------------
+<span class="provider">via Bleacher Report</span>
+/html/body/div[1]/div/div[2]/div[2]/div[3]/div[2]/article/div/div/ol/div[183]/li/span
+----------------
+<p>M️avs legends rocking Rangers gear </p>
+/html/body/div[1]/div/div[2]/div[2]/div[3]/div[2]/article/div/div/ol/div[114]/li/div[1]/p
+----------------
+<div class="teamName">MEM</div>
+/html/body/div[1]/div/div[2]/div[1]/div/ul/li[10]/div/a/div[3]/div[3]
+----------------
+<title>Video Play Button</title>
+/html/body/div[1]/div/div[2]/div[2]/div[3]/div[2]/article/div/div/ol/div[110]/li/div[2]/a/svg/title
+----------------
+<h3>Heat's Funny Injury Report 😅</h3>
+/html/body/div[1]/div/div[2]/div[2]/div[3]/div[2]/article/div/div/ol/div[153]/li/div[1]/h3
+----------------
+<h3>NBA Hidden Gems 💎</h3>
+/html/body/div[1]/div/div[2]/div[2]/div[3]/div[2]/article/div/div/ol/div[21]/li/div[3]/a[2]/h3
+----------------
+<a>Mikal Bridges Reacts to Mikal Bridges Highlights</a>
+/html/body/div[1]/div/div[2]/div[2]/div[3]/div[2]/article/div/div/ol/div[115]/li/div[1]/h3/a
+----------------
+<a class="typography -heading-4 -text--tertiary navLink">RUMORS</a>
+/html/body/div[1]/div/header/div/div[2]/div/div[3]/div/div[2]/div[1]/div[4]/a
+----------------
+<span class="provider">via Bleacher Report</span>
+/html/body/div[1]/div/div[2]/div[2]/div[3]/div[2]/article/div/div/ol/div[89]/li/span
+----------------
+<p>Joel, Julius Randle and Terance Mann could be firs</p>
+/html/body/div[1]/div/div[2]/div[2]/div[3]/div[2]/article/div/div/ol/div[169]/li/div[1]/p
+----------------
+<div class="teamName">DAL</div>
+/html/body/div[1]/div/div[2]/div[1]/div/ul/li[13]/div/a/div[2]/div[3]
+----------------
+<title>Bleacher Report Logo</title>
+/html/body/div[1]/div/div[2]/div[2]/footer/div/svg/title
+----------------
+<h3>Steven Adams Out for Season</h3>
+/html/body/div[1]/div/div[2]/div[2]/div[3]/div[2]/article/div/div/ol/div[26]/li/div[3]/a[2]/h3
+----------------
+<h3>Embiid's Take on Harden 💀</h3>
+/html/body/div[1]/div/div[2]/div[2]/div[3]/div[2]/article/div/div/ol/div[163]/li/div[3]/a[2]/h3
+----------------
+<a>Warriors' Top Preseason Highlights 🔥</a>
+/html/body/div[1]/div/div[2]/div[2]/div[3]/div[2]/article/div/div/ol/div[45]/li/div[1]/h3/a
+----------------
+<a>LeBron's Lakers Debut 👑</a>
+/html/body/div[1]/div/div[2]/div[2]/div[3]/div[2]/article/div/div/ol/div[174]/li/div[1]/h3/a
+----------------
+<span class="provider">via Bleacher Report</span>
+/html/body/div[1]/div/div[2]/div[2]/div[3]/div[2]/article/div/div/ol/div[51]/li/span
+----------------
+<p class="atom articleDescription">10 Breakout stars and unsung heroes to know ahead </p>
+/html/body/div[1]/div/div[2]/div[2]/div[3]/div[2]/article/div/div/ol/div[21]/li/div[3]/p
+----------------
+<div class="teamName">BKN</div>
+/html/body/div[1]/div/div[2]/div[1]/div/ul/li[7]/div/a/div[3]/div[3]
+----------------
+<h3>B/R Community NBA Power Rankings</h3>
+/html/body/div[1]/div/div[2]/div[2]/div[3]/div[2]/article/div/div/ol/div[6]/li/div[1]/h3
+----------------
+<h3>Embiid's Take on Harden 💀</h3>
+/html/body/div[1]/div/div[2]/div[2]/div[3]/div[2]/article/div/div/ol/div[163]/li/div[1]/h3
+----------------
+<a>Jokić Puts Up Video Game Numbers 🎮</a>
+/html/body/div[1]/div/div[2]/div[2]/div[3]/div[2]/article/div/div/ol/div[90]/li/div[1]/h3/a
+----------------
+<a class="typography -heading-4 -text--tertiary navLink">DRAFT</a>

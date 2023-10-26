@@ -1,0 +1,138 @@
+<title>Email Icon</title>
+/html/body/div[1]/header/nav/div/div[3]/ul[2]/li[2]/a/svg/title
+----------------
+<span class="fullname">Federal Bureau of Investigation</span>
+/html/body/div[1]/header/div/div/div/a/div/span[2]
+----------------
+<span> More</span>
+/html/body/div[1]/div[2]/div[1]/section/div[2]/div/div/ul/li[12]/div/a/span[2]
+----------------
+<a class="">Additional Violent Crimes</a>
+/html/body/div[2]/ul/li[2]/ul/li[2]/ul/li[3]/a
+----------------
+<a class="">CEI</a>
+/html/body/div[1]/div[2]/div[1]/section/div[3]/div/div/ul/li[7]/a
+----------------
+<label> Filter by: </label>
+/html/body/div[1]/div[2]/div[2]/section/div/div[2]/div/div[2]/div/div/div[1]/div[1]/form/div[1]/div[2]/label
+----------------
+<h1 class="sr-only">Fugitives</h1>
+/html/body/div[1]/div[2]/h1
+----------------
+<div class="documentDescription">Select the images to display more information.</div>
+/html/body/div[1]/div[2]/div[2]/section/div/div[2]/div/div[1]/div/div
+----------------
+<h2 class="queryfilter-title sr-only">Listing</h2>
+/html/body/div[1]/div[2]/div[2]/section/div/div[2]/div/div[2]/div/div/div[1]/h2
+----------------
+<p class="right">Results: 389 Items</p>
+/html/body/div[1]/div[2]/div[2]/section/div/div[2]/div/div[2]/div/div/div[1]/div[2]/div/div/p
+----------------
+<h3>federal bureau of investigation</h3>
+/html/body/div[1]/div[3]/div/div[3]/div/div[1]/div[2]/h3
+----------------
+<h3>FBI.gov Contact Center</h3>
+/html/body/div[1]/div[3]/div/div[3]/div/div[2]/div[2]/h3
+----------------
+<title>Youtube Icon</title>
+/html/body/div[1]/header/nav/div/div[3]/ul[2]/li[4]/a/svg/title
+----------------
+<span class="email-alerts-description">Get FBI email alerts</span>
+/html/body/section/div/div[2]/div/p/span[2]
+----------------
+<a>ROSEMARY LORRAINE GODBOLT-MOLDER</a>
+/html/body/div[1]/div[2]/div[2]/section/div/div[2]/div/div[2]/div/div/div[1]/div[2]/ul/li[35]/p/a
+----------------
+<a>Crimes Against Children</a>
+/html/body/div[1]/div[2]/div[2]/section/div/div[2]/div/div[2]/div/div/div[1]/div[2]/ul/li[29]/h3/a
+----------------
+<label>Sort by:</label>
+/html/body/div[1]/div[2]/div[2]/section/div/div[2]/div/div[2]/div/div/div[1]/div[1]/form/div[2]/div[2]/label
+----------------
+<h1>fbi</h1>
+/html/body/div[1]/div[3]/div/div[3]/div/div[1]/div[2]/h1
+----------------
+<title id="title">Submit Search</title>
+/html/body/div[2]/form/button/svg/title
+----------------
+<span>×</span>
+/html/body/section/div/div[2]/div/p/button/span
+----------------
+<a>Legal Policies &amp; Disclaimers</a>
+/html/body/div[1]/div[3]/div/div[2]/div[2]/div[2]/ul/li[10]/a
+----------------
+<a>JEROLD C. DUNNING</a>
+/html/body/div[1]/div[2]/div[2]/section/div/div[2]/div/div[2]/div/div/div[1]/div[2]/ul/li[25]/p/a
+----------------
+<a class="">Ten Most Wanted Fugitives</a>
+/html/body/div[1]/div[2]/div[1]/section/div[2]/div/div/ul/li[1]/a
+----------------
+<a>About</a>
+/html/body/div[1]/div[3]/div/div[2]/div[2]/div[1]/ul/li[11]/a
+----------------
+<a>JOSE ROSENDO CARRILLO-PADILLA</a>
+/html/body/div[1]/div[2]/div[2]/section/div/div[2]/div/div[2]/div/div/div[1]/div[2]/ul/li[34]/p/a
+----------------
+<a>Crimes Against Children</a>
+/html/body/div[1]/div[2]/div[2]/section/div/div[2]/div/div[2]/div/div/div[1]/div[2]/ul/li[22]/h3/a
+----------------
+<a class="">Ten Most Wanted Fugitives</a>
+/html/body/div[2]/ul/li[2]/ul/li[1]/a
+----------------
+<a>Testimony</a>
+/html/body/div[1]/div[3]/div/div[2]/div[1]/div[2]/ul/li[6]/a
+----------------
+<a>Legal Policies &amp; Disclaimers</a>
+/html/body/div[1]/div[3]/div/div[4]/ul/li[1]/ul/li[5]/a
+----------------
+<a class="">Terrorism</a>
+/html/body/div[2]/ul/li[2]/ul/li[4]/a
+----------------
+<a>Kidnappings / Missing Persons</a>
+/html/body/div[1]/div[3]/div/div[2]/div[1]/div[1]/ul/li[5]/a
+----------------
+<a>Public Corruption</a>
+/html/body/div[1]/div[3]/div/div[2]/div[2]/div[1]/ul/li[5]/a
+----------------
+<a>Criminal Enterprise Investigations</a>
+/html/body/div[1]/div[2]/div[2]/section/div/div[2]/div/div[2]/div/div/div[1]/div[2]/ul/li[4]/h3/a
+----------------
+<a>Crimes Against Children</a>
+/html/body/div[1]/div[2]/div[2]/section/div/div[2]/div/div[2]/div/div/div[1]/div[2]/ul/li[26]/h3/a
+----------------
+<a>MIKHAIL MIKHAILOVICH GAVRILOV</a>
+/html/body/div[1]/div[2]/div[2]/section/div/div[2]/div/div[2]/div/div/div[1]/div[2]/ul/li[13]/p/a
+----------------
+<a>Violent Crimes - Murders</a>
+/html/body/div[1]/div[2]/div[2]/section/div/div[2]/div/div[2]/div/div/div[1]/div[2]/ul/li[38]/h3/a
+----------------
+<a>Freedom of Information / Privacy Act</a>
+/html/body/div[1]/div[3]/div/div[4]/ul/li[1]/ul/li[3]/a
+----------------
+<a class="">ECAP</a>
+/html/body/div[1]/div[2]/div[1]/section/div[2]/div/div/ul/li[9]/a
+----------------
+<a>FRANCISCO JAVIER ROMAN-BARDALES</a>
+/html/body/div[1]/div[2]/div[2]/section/div/div[2]/div/div[2]/div/div/div[1]/div[2]/ul/li[4]/p/a
+----------------
+<a class="">Murder</a>
+/html/body/div[2]/ul/li[2]/ul/li[2]/ul/li[2]/a
+----------------
+<a>JOSE GUADALUPE LOPEZ NUNEZ</a>
+/html/body/div[1]/div[2]/div[2]/section/div/div[2]/div/div[2]/div/div/div[1]/div[2]/ul/li[9]/p/a
+----------------
+<a class="">CEI</a>
+/html/body/div[2]/ul/li[2]/ul/li[2]/ul/li[7]/a
+----------------
+<a class="">Additional Violent Crimes</a>
+/html/body/div[1]/div[2]/div[1]/section/div[3]/div/div/ul/li[3]/a
+----------------
+<a class="">Bank Robbers</a>
+/html/body/div[2]/ul/li[2]/ul/li[11]/a
+----------------
+<a>Need an FBI Service or More Information?</a>
+/html/body/div[1]/div[3]/div/div[2]/div[1]/div[2]/ul/li[18]/a
+----------------
+<a>Counterintelligence</a>
+/html/body/div[1]/div[3]/div/div[2]/div[2]/div[1]/ul/li[3]/a
+----------------

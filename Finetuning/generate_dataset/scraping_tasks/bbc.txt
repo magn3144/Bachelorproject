@@ -1,0 +1,11 @@
+Generate a list of web-scraping tasks:
+1. Scrape all news headlines and save them as a CSV file.
+2. Extract the category of each news article and save it as a CSV file.
+3. Retrieve the most read articles and save them as a CSV file.
+4. Scrape all BBC Culture articles and save their titles as a CSV file.
+5. Extract the titles of articles related to the workplace toxicity and save them as a CSV file.
+6. Retrieve the titles of articles about weird aliens in the 19th century and save them as a CSV file.
+7. Scrape the titles of articles about boats colliding in disputed waters and save them as a CSV file.
+8. Extract the titles of articles about Belgian pumpkin boats and save them as a CSV file.
+9. Retrieve the titles of articles about billionaires facing a minimum tax rate and save them as a CSV file.
+10. Scrape the titles of articles about Sir Patrick Stewart's bookshop visit and save them as a CSV file.

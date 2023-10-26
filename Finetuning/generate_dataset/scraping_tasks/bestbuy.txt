@@ -1,0 +1,9 @@
+Extract all product titles and prices of Playstation items and save them as a CSV file.
+Retrieve all rating details of Playstation products and store them in a CSV file.
+Gather text data from banners of the website and put them into a CSV file.
+Collect all link texts related to gaming products and save them into a CSV file.
+Obtain all offerings of Playstation 4 and Playstation 5 and compile them in a CSV file.
+Retrieve reviews of Playstation products (includes 'Not Yet Reviewed' items) and save as a CSV file.
+Extract similar product suggestions from outside of Best Buy and put the information into a CSV file.
+Gather all headers of the footer navigation details and save them in a CSV file.
+Obtain information about order and purchases and compile them in a CSV file.

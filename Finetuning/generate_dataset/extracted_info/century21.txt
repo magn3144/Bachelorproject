@@ -1,0 +1,113 @@
+<a class="listing-price">                                    $1,450,000</a>
+/html/body/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[20]/div[2]/a
+----------------
+<a>Русский</a> 
+/html/body/div[1]/div[3]/div[2]/div[1]/div[4]/div/div[2]/div[2]/a[9]
+----------------
+<h3>My C21 Account</h3> 
+/html/body/div[1]/header/div/div[2]/div[1]/div/div[1]/h3
+----------------
+<div class="pie-label-description labelStyleDescription">A better angle of aerial photography</div>
+/html/body/div[1]/div[3]/div[2]/div[2]/div[4]/div/div[2]/div[1]/div/div[2]/div[3]/div[3]
+----------------
+<div class="image-count-total">11</div>
+/html/body/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[48]/div[1]/div/div/div[3]
+----------------
+<span class="sr-only">Click to Show More SEO Cities</span>
+/html/body/div[1]/div[3]/div[2]/div[1]/div[3]/div/div[1]/div/fieldset/label/span
+----------------
+<span class="loc-display-name"> in New York</span>
+/html/body/div[1]/header/div/nav/div[1]/div/ul/li[1]/div/ul/li[3]/a/span
+----------------
+<li class="header">Learning More</li> 
+/html/body/div[1]/header/div/nav/div[1]/div/ul/li[3]/div/ul/li[1]
+----------------
+<h4>Mortgage Resources</h4> 
+/html/body/div[1]/header/div/nav/div[3]/div/ul/li[2]/div/h4
+----------------
+<title>arrow</title> 
+/html/body/div[1]/div[3]/div[2]/div[1]/footer/div[2]/div/div[1]/div[1]/div/svg/title
+----------------
+<h1>New York Homes for Sale</h1>
+/html/body/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/h1
+----------------
+<h2>CITIES NEARBY New York</h2>
+/html/body/div[1]/div[3]/div[2]/div[1]/div[3]/div/div[1]/h2
+----------------
+<legend class="sr-only">Show More SEO Cities</legend>
+/html/body/div[1]/div[3]/div[2]/div[1]/div[3]/div/div[1]/div/fieldset/legend
+----------------
+<label class="sr-only">Show More</label> 
+/html/body/div[1]/div[3]/div[2]/div[1]/footer/div[1]/div/div[3]/div[2]/nav[2]/label
+----------------
+<a class="listing-price">                                    $700,000  </a>
+/html/body/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[77]/div[2]/a
+----------------
+<a>Agent Stories</a>
+/html/body/div[1]/header/div/nav/div[1]/div/ul/li[4]/div/ul/li[2]/a
+----------------
+<div class="property-city">            New York NY 10023         </div>
+/html/body/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[24]/div[2]/div[4]/div[2]
+----------------
+<div class="image-count-left">&lt;</div>
+/html/body/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[65]/div[1]/div/div/div[1]
+----------------
+<span class="sr-only">Click to Show More Seo Proptypes</span>
+/html/body/div[1]/div[3]/div[2]/div[1]/div[3]/div/div[3]/div/label/span
+----------------
+<span>In The News</span>
+/html/body/div[1]/div[3]/div[2]/div[1]/footer/div[1]/div/div[3]/div[1]/nav[2]/a[3]/span
+----------------
+<li class="header">CAREERS</li> 
+/html/body/div[1]/header/div/nav/div[4]/div/ul/li[2]/div/ul/li[1]
+----------------
+<h4>Tools And Calculators</h4> 
+/html/body/div[1]/header/div/nav/div[3]/div/ul/li[1]/div/h4
+----------------
+<a class="listing-price">                                    $3,495,000</a>
+/html/body/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[44]/div[2]/a
+----------------
+<a>11235 Real Estate</a>
+/html/body/div[1]/div[3]/div[2]/div[1]/div[3]/div/div[2]/div/fieldset/div[12]/a
+----------------
+<div class="property-card-attribution">               Courtesy Of E REALTY INTERNATIONAL</div>
+/html/body/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[57]/div[2]/div[5]
+----------------
+<div class="pdp-listing-type sale">FOR SALE</div>
+/html/body/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[45]/div[2]/div[1]
+----------------
+<span class="CopyrightAttributionStyle">© 2023 TomTom, © 2023 Microsoft Corporation</span>
+/html/body/div[1]/div[3]/div[2]/div[2]/div[4]/div/div[2]/div[3]/div[2]/div[1]/span/span
+----------------
+<span> › </span>
+/html/body/div[1]/div[3]/div[2]/div[1]/div[2]/div/span[2]
+----------------
+<a class="listing-price">                                    $519,900  </a>
+/html/body/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[54]/div[2]/a
+----------------
+<a class="IconSocialMedia">Instagram</a> 
+/html/body/div[1]/div[3]/div[2]/div[1]/footer/div[1]/div/div[2]/div/div[1]/div[2]/a
+----------------
+<div class="property-address">               245 East 54th Street 16F 16F     </div>
+/html/body/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[28]/div[2]/div[4]/div[1]
+----------------
+<div class="image-count-left">&lt;</div>
+/html/body/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[60]/div[1]/div/div/div[1]
+----------------
+<span class="onboard-disclaimer">Data powered by Attom Data Solutions. Copyright© 2</span>Home Partners of America and A New Path to Homeownership are registered trademarks of Home Partners of America LLC.
+/html/body/div[1]/div[3]/div[2]/div[1]/footer/div[2]/div/div[2]/div/p[2]/span[2]
+----------------
+<span class="sr-only">Map Draw Tool</span>
+/html/body/div[1]/div[3]/div[2]/div[2]/button[4]/span
+----------------
+<a class="listing-price">                                    $1,250,000</a>
+/html/body/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[67]/div[2]/a
+----------------
+<a>Türkçe</a> 
+/html/body/div[1]/div[3]/div[2]/div[1]/div[4]/div/div[2]/div[2]/a[16]
+----------------
+<div class="property-address">               35 East 38th Street 8-D          </div>
+/html/body/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[4]/div[1]
+----------------
+<div class="pdp-listing-type sale">FOR SALE</div>
+/html/body/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[66]/div[2]/div[1]

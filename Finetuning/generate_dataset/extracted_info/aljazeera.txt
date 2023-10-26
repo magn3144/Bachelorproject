@@ -1,0 +1,130 @@
+<title>Middle East News | Today's latest from Al Jazeera</title>
+/html/head/title
+----------------
+<title>Close navigation menu</title>
+/html/body/div[1]/div/div[2]/div[1]/div/header/div[3]/button/svg/title
+----------------
+<h2 id="onetrust-policy-title">You rely on Al Jazeera for truth and transparency</h2>
+/html/body/div[3]/div[2]/div/div[1]/div/div[1]/div[2]/h2
+----------------
+<h2 class="screen-reader-text">Navigation menu</h2>
+/html/body/div[1]/div/div[2]/div[1]/div/header/nav/h2
+----------------
+<a>To learn more, please view our Cookie Policy.</a>
+/html/body/div[3]/div[2]/div/div[1]/div/div[1]/div[2]/p/a
+----------------
+<a class="bypass-block-link">Skip to Featured Content</a>
+/html/body/div[1]/div/div[2]/div[1]/div/header/div[1]/a[1]
+----------------
+<span>Will Hezbol­lah launch an all-out war on Is­rael?</span>
+/html/body/div[1]/div/div[3]/div/div[3]/div/div[1]/section/article[9]/div[2]/div[1]/h3/a/span
+----------------
+<span>Asia</span>
+/html/body/div[1]/div/div[2]/div[1]/div/header/nav/ul/li[1]/div/ul/li[3]/a/span
+----------------
+<div class="section-header__title">Middle East News</div>
+/html/body/div[1]/div/div[3]/div/div[1]/div/h1/div
+----------------
+<p>The hu­man­i­tar­i­an cat­a­stro­phe un­fold­ing i</p>
+/html/body/div[1]/div/div[3]/div/div[3]/div/div[1]/section/article[3]/div[2]/div[2]/div/p
+----------------
+<h3 class="ot-dpd-title">We and our partners process data to provide:</h3>
+/html/body/div[3]/div[2]/div/div[1]/div/div[1]/div[2]/div/h3
+----------------
+<h3 class="sign-up-for-al-jazeera">Sign up for Al Jazeera</h3>
+/html/body/div[1]/div/div[3]/div/div[3]/div/div[2]/div[1]/div/div/div/h3
+----------------
+<h4 class="newsletter-title">Week in the Middle East</h4>
+/html/body/div[1]/div/div[3]/div/div[3]/div/div[2]/div[1]/div/div/div/h4
+----------------
+<title>twitter</title>
+/html/body/div[1]/div/div[4]/div[1]/footer/div[2]/div[1]/ul/li[2]/a/svg/title
+----------------
+<h2 class="screen-reader-text">Featured Content</h2>
+/html/body/div[1]/div/div[3]/div/main/h2
+----------------
+<a class="bypass-block-link">Skip to Content Feed</a>
+/html/body/div[1]/div/div[2]/div[1]/div/header/div[1]/a[2]
+----------------
+<span>Dozens killed in one of deadliest nights for Gaza </span>
+/html/body/div[1]/div/div[2]/div[2]/div/div/div/div[1]/a[1]/span
+----------------
+<span>Opinion</span>
+/html/body/div[1]/div/div[2]/div[1]/div/header/nav/ul/li[5]/a/span
+----------------
+<p>Hun­dreds re­port­ed killed in Is­raeli air raids </p>
+/html/body/div[1]/div/div[3]/div/main/div/ul/li[1]/article/div[2]/div[2]/div/p
+----------------
+<title>pause-square-background</title>
+/html/body/div[1]/div/div[2]/div[2]/div/div/div/div[2]/button[1]/svg/title
+----------------
+<h2 class="screen-reader-text">Skip links</h2>
+/html/body/div[1]/div/div[2]/div[1]/div/header/div[1]/h2
+----------------
+<a>Privacy Policy</a>
+/html/body/div[1]/div/div[3]/div/div[3]/div/div[2]/div[1]/div/div/form/div[2]/a
+----------------
+<span>Which coun­tries have sent aid to Gaza so far?</span>
+/html/body/div[1]/div/div[3]/div/main/div/ul/li[4]/article/div[2]/div[1]/h3/a/span
+----------------
+<span>23 Oct 2023</span>
+/html/body/div[1]/div/div[3]/div/main/div/ul/li[4]/article/div[2]/footer/div/div/div/div/span[2]
+----------------
+<p>Josep Bor­rell says get­ting more aid to Gaza is ‘</p>
+/html/body/div[1]/div/div[3]/div/div[3]/div/div[1]/section/article[1]/div[2]/div[2]/div/p
+----------------
+<title>rss</title>
+/html/body/div[1]/div/div[4]/div[1]/footer/div[2]/div[1]/ul/li[5]/a/svg/title
+----------------
+<h2 class="screen-reader-text">Content Feed</h2>
+/html/body/div[1]/div/div[3]/div/div[3]/div/div[1]/section/h2
+----------------
+<span>Al Jazeera Investigative Unit</span>
+/html/body/div[1]/div/div[4]/div[1]/footer/div[1]/ul/li[3]/div/ul/li[3]/a/span
+----------------
+<span>Al Jazeera Balkans</span>
+/html/body/div[1]/div/div[4]/div[1]/footer/div[1]/ul/li[3]/div/ul/li[6]/a/span
+----------------
+<p>Tour­ing the Mid­dle East, Bei­jing’s spe­cial en­</p>
+/html/body/div[1]/div/div[3]/div/div[3]/div/div[1]/section/article[6]/div[2]/div[2]/div/p
+----------------
+<title>quotes</title>
+/html/body/div[1]/div/div[3]/div/div[3]/div/div[1]/section/article[3]/div[2]/footer/div/div[1]/svg/title
+----------------
+<span>Please check your email to confirm your subscripti</span>
+/html/body/div[1]/div/div[3]/div/div[3]/div/div[2]/div[1]/div/div/form/div[1]/div[3]/span
+----------------
+<span>22 Oct 2023</span>
+/html/body/div[1]/div/div[3]/div/div[3]/div/div[1]/section/article[10]/div[2]/footer/div/div/div/div/span[2]
+----------------
+<p>The Abu Assi fam­i­ly is feed­ing thou­sands of Pa</p>
+/html/body/div[1]/div/div[3]/div/div[3]/div/div[1]/section/article[5]/div[2]/div[2]/div/p
+----------------
+<title>play</title>
+/html/body/div[1]/div/div[2]/div[1]/div/header/div[3]/div[2]/div/a/div/svg/title
+----------------
+<span>US ‘urges de­lay’ in ground in­va­sion as Is­rael </span>
+/html/body/div[1]/div/div[3]/div/main/div/ul/li[1]/article/div[2]/div[1]/h3/a/span
+----------------
+<span>News</span>
+/html/body/div[1]/div/div[2]/div[1]/div/header/nav/ul/li[1]/a/span
+----------------
+<p>US diplo­mat Blinken was speak­ing as the pos­si­b</p>
+/html/body/div[1]/div/div[3]/div/div[3]/div/div[1]/section/article[10]/div[2]/div[2]/div/p
+----------------
+<title>close</title>
+/html/body/div[1]/div/div[2]/div[2]/div/div/div/div[2]/button[2]/svg/title
+----------------
+<span>© 2023 Al Jazeera Media Network</span>
+/html/body/div[1]/div/div[4]/div[1]/footer/div[2]/div[3]/span
+----------------
+<span class="screen-reader-text">Published On 22 Oct 2023</span>
+/html/body/div[1]/div/div[3]/div/div[3]/div/div[1]/section/article[8]/div[2]/footer/div/div/div/div/span[1]
+----------------
+<p class="site-footer__social-section-title">Follow Al Jazeera English:</p>
+/html/body/div[1]/div/div[4]/div[1]/footer/div[2]/div[1]/p
+----------------
+<title>search</title>
+/html/body/div[1]/div/div[2]/div[1]/div/header/div[4]/div[3]/button/svg/title
+----------------
+<span>Map­ping Gaza’s neigh­bour­hoods flat­tened by non</span>

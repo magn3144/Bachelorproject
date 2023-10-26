@@ -1,0 +1,135 @@
+<a>Help Center</a>
+/html/body/footer/footer/div[2]/div[1]/div[1]/div[2]/div[1]/a[1]
+----------------
+<p class="w21_fine-print__copyright">© 1999-2023 Bodybuilding.com., All rights reserved</p>
+/html/body/footer/footer/div[2]/div[2]/p[1]
+----------------
+<p class="w21_connect-with-us__title">Connect With Us</p>
+/html/body/footer/footer/div[1]/div/div/p
+----------------
+<span class="plan__info__value plan__info__value--bold">Kris Gethin Muscle Building</span>
+/html/body/section/main/div[3]/div[2]/div/div/div/div/div[2]/div/div[29]/figure/a/figcaption/div[1]/span
+----------------
+<span class="plan__info__delimiter">|</span>
+/html/body/section/main/div[3]/div[2]/div/div/div/div/div[2]/div/div[32]/figure/a/figcaption/div[2]/span[2]
+----------------
+<h1>The Ultimate Fitness Solution</h1>
+/html/body/section/div[1]/bb-marketing-banner/section/div/div[1]/h1
+----------------
+<h1 class="text-banner__header">What is BodyFit?</h1>
+/html/body/section/main/div[1]/h1
+----------------
+<h2>FAQs</h2>
+/html/body/section/main/div[7]/h2
+----------------
+<div class="FAQ_item-text FAQ_item-text--hidden">          BodyFit is our all-new fitness app with</div>
+/html/body/section/main/div[7]/ul/li[1]/div/div
+----------------
+<div class="TestimonialsSlide-authorProgram">LiveFit 12-Week Trainer</div>
+/html/body/section/main/bb-testimonials-slider/section/bb-testimonials-slide[2]/div/article/div[2]/div/div[2]
+----------------
+<li>Reps, sets, and how-to photos to guide you</li>
+/html/body/section/main/div[7]/ul/li[2]/div/div/ul/li[10]
+----------------
+<li>Step-by-step workout tips</li>
+/html/body/section/main/div[7]/ul/li[2]/div/div/ul/li[4]
+----------------
+<a>Help</a>
+/html/body/footer/footer/div[2]/div[1]/div[2]/div[1]/a[6]
+----------------
+<p class="TestimonialsSlide-testimonialText">I love this program because it comes with daily vi</p>
+/html/body/section/main/bb-testimonials-slider/section/bb-testimonials-slide[1]/div/article/p
+----------------
+<p class="w21_shop-options__title">We Accept</p>
+/html/body/footer/footer/div[2]/div[1]/div[1]/div[3]/div[2]/p
+----------------
+<span class="plan__info__value plan__info__value--bold">Your Transformation Starts Here Volume 2</span>
+/html/body/section/main/div[4]/div[2]/div/div/div/div/div[2]/div/div[5]/figure/a/figcaption/div[1]/span
+----------------
+<span class="plan__info__delimiter">|</span>
+/html/body/section/main/div[4]/div[2]/div/div/div/div/div[2]/div/div[21]/figure/a/figcaption/div[2]/span[2]
+----------------
+<h1 class="widget_header">BODYFIT</h1>
+/html/body/section/div[1]/bb-marketing-banner/section/div/div[2]/div[2]/div/article/div/h1
+----------------
+<h2 class="plan-carousel__title">Lose Weight</h2>
+/html/body/section/main/div[4]/div[1]/div/h2
+----------------
+<div class="text-banner__subheader">Whether you’re a beginner or a seasoned lifter, th</div>
+/html/body/section/main/div[1]/div
+----------------
+<div class="TestimonialsSlide-authorName">Dawn Desarmeau</div>
+/html/body/section/main/bb-testimonials-slider/section/bb-testimonials-slide[3]/div/article/div[2]/div/div[1]
+----------------
+<li>Complete article content backing up workouts</li>
+/html/body/section/main/div[7]/ul/li[2]/div/div/ul/li[8]
+----------------
+<a class="plan-carousel__desc--more-link" id="FAWP_CAROUSEL_SEE_ALL_13">See All 45</a>
+/html/body/section/main/div[5]/div[1]/div/div/a
+----------------
+<p class="TestimonialsSlide-testimonialText">LiveFit made it easy for me to focus on putting in</p>
+/html/body/section/main/bb-testimonials-slider/section/bb-testimonials-slide[2]/div/article/p
+----------------
+<p class="w21_CountrySelectTrigger__label">Choose Shop Location</p>
+/html/body/header/header/div/div[2]/p
+----------------
+<span class="plan-carousel__desc--text">It’s time to make some gains. Let’s grow!</span>
+/html/body/section/main/div[3]/div[1]/div/div/span
+----------------
+<span class="plan__info__value plan__info__value--bold">Foundations of Nutrition</span>
+/html/body/section/main/div[5]/div[2]/div/div/div/div/div[2]/div/div[31]/figure/a/figcaption/div[1]/span
+----------------
+<h2>Select Your Plan</h2>
+/html/body/section/div[1]/bb-marketing-banner/section/div/div[2]/h2
+----------------
+<div class="TestimonialsSlide-authorProgram">12-Week Hardcore Daily Video Trainer</div>
+/html/body/section/main/bb-testimonials-slider/section/bb-testimonials-slide[1]/div/article/div[2]/div/div[2]
+----------------
+<div class="TestimonialsSlide-authorName">Catherine Krauter</div>
+/html/body/section/main/bb-testimonials-slider/section/bb-testimonials-slide[2]/div/article/div[2]/div/div[1]
+----------------
+<li>In-depth video exercise demonstrations</li>
+/html/body/section/main/div[7]/ul/li[2]/div/div/ul/li[7]
+----------------
+<a class="plan-carousel__desc--more-link" id="FAWP_CAROUSEL_SEE_ALL_11">See All 41</a>
+/html/body/section/main/div[3]/div[1]/div/div/a
+----------------
+<p class="MarketingBanner-headerDescription">For 20 years, Bodybuilding.com has been the intern</p>
+/html/body/section/div[1]/bb-marketing-banner/section/div/div[1]/p
+----------------
+<p class="w21_CountrySelectTrigger__label">Choose Shop Location</p>
+/html/body/footer/footer/div[2]/div[1]/div[1]/div[3]/div[1]/div/p
+----------------
+<span class="plan__info__value plan__info__value--bold">Serious Strength in 8 Weeks</span>
+/html/body/section/main/div[5]/div[2]/div/div/div/div/div[2]/div/div[22]/figure/a/figcaption/div[1]/span
+----------------
+<span class="plan__info__value">4 Weeks</span>
+/html/body/section/main/div[6]/div[2]/div/div/div/div/div[2]/div/div[6]/figure/a/figcaption/div[2]/span[3]
+----------------
+<h2 class="plan-carousel__title">Advanced</h2>
+/html/body/section/main/div[6]/div[1]/div/h2
+----------------
+<div class="article-banner__text">        View our enormous library of workout phot</div>
+/html/body/section/main/div[2]/div[3]/div[2]/div[2]
+----------------
+<div class="TestimonialsSlide-authorName">Ashwin Prasad</div>
+/html/body/section/main/bb-testimonials-slider/section/bb-testimonials-slide[1]/div/article/div[2]/div/div[1]
+----------------
+<li>Rest timer, exercise swapping, and workout customi</li>
+/html/body/section/main/div[7]/ul/li[2]/div/div/ul/li[15]
+----------------
+<a>Terms of use</a>
+/html/body/footer/footer/div[2]/div[1]/div[2]/div[2]/a[1]
+----------------
+<p class="text-banner__text">    BodyFit is your source for full fitness progr</p>
+/html/body/section/main/div[1]/p
+----------------
+<span class="plan__info__value plan__info__value--bold">Full-Body Weight-Loss Home Workouts</span>
+/html/body/section/main/div[5]/div[2]/div/div/div/div/div[2]/div/div[20]/figure/a/figcaption/div[1]/span
+----------------
+<span class="plan__info__value plan__info__value--bold">Livefit</span>
+/html/body/section/main/div[4]/div[2]/div/div/div/div/div[2]/div/div[18]/figure/a/figcaption/div[1]/span
+----------------
+<h2 class="plan-carousel__title">Muscle Building</h2>
+/html/body/section/main/div[3]/div[1]/div/h2
+----------------

@@ -1,0 +1,10 @@
+Extract all the news headlines from the 'Market News' page and save them as a CSV file.
+Scrape all timestamps of articles posted on the 'Market News' page and store them in a CSV file.
+Scrape the number of comments for each news article on the 'Stocks' category and store the data in a CSV file.
+Collect all the news summary from the 'Market News' page and store them as a CSV file.
+Extract the percentage change data for stocks displayed on the page and save them in a CSV file. 
+Scrape all the article links on the 'Market News' page and save them in a CSV file.
+Gather all the article tags from the 'Stocks' category and save them in a CSV file.
+Extract all stock ticker symbols from the article footers on the 'Market News' page and save them in a CSV file.
+Scrape all navigation items from the header on the 'Market News' page and save them as a CSV file.
+Extract the body text of the first 100 articles on the 'Market News' page and save the data in a CSV file.

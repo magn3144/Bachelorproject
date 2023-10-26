@@ -1,0 +1,148 @@
+<title>1,970 Programmer Jobs in Oxford, UK | ZipRecruiter</title>
+/html/head/title
+----------------
+<div class="jobList-description">Software Engineer, Mid-Level About us Pictura Bio</div>
+/html/body/main/div/div/div/div/div[3]/div/ul/li[8]/div[1]/div/div
+----------------
+<div class="jobList-date text-muted u-textNoWrap">19 Oct</div>
+/html/body/main/div/div/div/div/div[3]/div/ul/li[13]/div[2]
+----------------
+<a>Global Terms of Use Agreement</a>
+/html/body/footer/div/div[2]/ul/li[4]/a
+----------------
+<a>20</a>
+/html/body/main/div/div/div/div/div[3]/div/div[3]/ul/li[5]/a
+----------------
+<span class="legal">ZipRecruiter, Inc. © All Rights Reserved Worldwide</span>
+/html/body/footer/div/div[1]/div/nav[2]/span
+----------------
+<span>Distance</span>
+/html/body/main/section/div/form/div[3]/div/a/span
+----------------
+<h3 class="u-mt--remove u-mb--small">Get new jobs for this search by email</h3>
+/html/body/main/div/div/div/div/div[1]/div/div[1]/h3
+----------------
+<h3 class="group_header">Contact Us</h3>
+/html/body/footer/div/div[1]/div/nav[1]/div/div[4]/h3
+----------------
+<label>If you are a human, ignore this field</label>
+/html/body/main/div/div/div/div/div[1]/div/div[2]/div/div[2]/form/div[1]/label
+----------------
+<h1 class="u-textH3 u-mv--remove">1,970 Programmer Jobs in Oxford, UK</h1>
+/html/body/main/div/div/div/div/div[3]/div/div[1]/div/div/h1
+----------------
+<h2 class="sr-only">Footer</h2>
+/html/body/footer/div/div[1]/h2
+----------------
+<div class="jobList-description">Senior Software Engineer Business Area: Lucy Elec</div>
+/html/body/main/div/div/div/div/div[3]/div/ul/li[18]/div[1]/div/div
+----------------
+<div class="jobList-date text-muted u-textNoWrap">10 Oct</div>
+/html/body/main/div/div/div/div/div[3]/div/ul/li[20]/div[2]
+----------------
+<a>Global Terms of Use Agreement</a> and acknowledge that you have read and understand the 
+/html/body/main/div/div/div/div/div[1]/div/div[2]/div/div[2]/form/small/div/a[1]
+----------------
+<a>Suggested Jobs</a>
+/html/body/nav/div/div[2]/ul/li[1]/a
+----------------
+<span class="legal">ZipRecruiter UK Ltd., c/o Fieldfisher LLP Riverban</span>
+/html/body/footer/div/div[1]/div/nav[3]/span
+----------------
+<span class="jobList-timeframe">Annually</span>
+/html/body/main/div/div/div/div/div[3]/div/ul/li[9]/div[1]/div/div[1]/div/span
+----------------
+<h3 class="group_header">For Job Seekers</h3>
+/html/body/footer/div/div[1]/div/nav[1]/div/div[1]/h3
+----------------
+<div class="jobList-description">Lead LabVIEW Developer Location: Oxfordshire Sala</div>
+/html/body/main/div/div/div/div/div[3]/div/ul/li[19]/div[1]/div/div
+----------------
+<div class="jobList-date text-muted u-textNoWrap">14 Oct</div>
+/html/body/main/div/div/div/div/div[3]/div/ul/li[3]/div[2]
+----------------
+<a>Search Jobs</a>
+/html/body/footer/div/div[1]/div/nav[1]/div/div[1]/ul/li[1]/a
+----------------
+<span class="jobList-timeframe">Annually</span>
+/html/body/main/div/div/div/div/div[3]/div/ul/li[4]/div[1]/div/div[1]/div/span
+----------------
+<h3 class="group_header">Partner with Us</h3>
+/html/body/footer/div/div[1]/div/nav[1]/div/div[2]/h3
+----------------
+<div class="jobList-description">Summary As a Programmer Analyst C/Unix/Linux) at </div>
+/html/body/main/div/div/div/div/div[3]/div/ul/li[10]/div[1]/div/div[2]
+----------------
+<div class="jobList-date text-muted u-textNoWrap">27 Sep</div>
+/html/body/main/div/div/div/div/div[3]/div/ul/li[12]/div[2]
+----------------
+<a class="email">Email Us</a>
+/html/body/footer/div/div[1]/div/nav[1]/div/div[4]/ul/li[1]/a
+----------------
+<span class="jobList-timeframe">Daily</span>
+/html/body/main/div/div/div/div/div[3]/div/ul/li[17]/div[1]/div/div[1]/div/span
+----------------
+<h3 class="group_header">Company</h3>
+/html/body/footer/div/div[1]/div/nav[1]/div/div[3]/h3
+----------------
+<div class="jobList-description">We are seeking a highly capable and motivated Dev</div>
+/html/body/main/div/div/div/div/div[3]/div/ul/li[6]/div[1]/div/div
+----------------
+<div class="jobList-date text-muted u-textNoWrap">11 Oct</div>
+/html/body/main/div/div/div/div/div[3]/div/ul/li[14]/div[2]
+----------------
+<a>1</a>
+/html/body/main/div/div/div/div/div[3]/div/div[3]/ul/li[2]/a
+----------------
+<span class="jobList-timeframe">Annually</span>
+/html/body/main/div/div/div/div/div[3]/div/ul/li[10]/div[1]/div/div[1]/div/span
+----------------
+<div class="jobList-description">Carbon60 are currently looking for a Junior Softw</div>
+/html/body/main/div/div/div/div/div[3]/div/ul/li[15]/div[1]/div/div
+----------------
+<div class="jobList-date text-muted u-textNoWrap">11 Oct</div>
+/html/body/main/div/div/div/div/div[3]/div/ul/li[5]/div[2]
+----------------
+<a class="hidden-xs">Suggested Jobs</a>
+/html/body/footer/div/div[2]/ul/li[1]/a
+----------------
+<span class="jobList-timeframe">Annually</span>
+/html/body/main/div/div/div/div/div[3]/div/ul/li[14]/div[1]/div/div[1]/div/span
+----------------
+<div class="jobList-description">Senior Software Engineer, Fullstack Developer, C#</div>
+/html/body/main/div/div/div/div/div[3]/div/ul/li[22]/div[1]/div/div
+----------------
+<div class="jobList-date text-muted u-textNoWrap"> 6 Oct</div>
+/html/body/main/div/div/div/div/div[3]/div/ul/li[7]/div[2]
+----------------
+<a>Create your Profile</a>
+/html/body/nav/div/ul/li[1]/ul/li[2]/a
+----------------
+<div class="jobList-description">Junior/Graduate Software Engineer Location: Oxfor</div>
+/html/body/main/div/div/div/div/div[3]/div/ul/li[4]/div[1]/div/div[2]
+----------------
+<div class="jobList-date text-muted u-textNoWrap">11 Oct</div>
+/html/body/main/div/div/div/div/div[3]/div/ul/li[17]/div[2]
+----------------
+<div class="jobList-description">The Viator Traveller Engineering team is distribu</div>
+/html/body/main/div/div/div/div/div[3]/div/ul/li[12]/div[1]/div/div
+----------------
+<div class="jobList-date text-muted u-textNoWrap"> 1 Aug</div>
+/html/body/main/div/div/div/div/div[3]/div/ul/li[1]/div[2]
+----------------
+<div class="jobList-description">Software Engineer - Full-stack Viator's mission i</div>
+/html/body/main/div/div/div/div/div[3]/div/ul/li[16]/div[1]/div/div
+----------------
+<div class="jobList-date text-muted u-textNoWrap">12 Oct</div>
+/html/body/main/div/div/div/div/div[3]/div/ul/li[4]/div[2]
+----------------
+<div class="jobList-description">As a Programmer you will be tasked with designing</div>
+/html/body/main/div/div/div/div/div[3]/div/ul/li[1]/div[1]/div/div
+----------------
+<div class="jobList-date text-muted u-textNoWrap">20 Oct</div>
+/html/body/main/div/div/div/div/div[3]/div/ul/li[22]/div[2]
+----------------
+<div class="jobList-description">Are you an experienced Full Stack Developer? Are </div>
+/html/body/main/div/div/div/div/div[3]/div/ul/li[7]/div[1]/div/div
+----------------
+<div class="jobList-date text-muted u-textNoWrap">29 Sep</div>

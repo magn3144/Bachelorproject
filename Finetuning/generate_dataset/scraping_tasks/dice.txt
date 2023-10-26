@@ -1,0 +1,10 @@
+Scrape job titles and save them as a CSV file
+Scrape job locations and save them as a CSV file
+Scrape job descriptions and save them as a CSV file
+Scrape company names and save them as a CSV file
+Scrape posted dates and save them as a CSV file
+Scrape job URLs and save them as a CSV file
+Scrape salary information and save them as a CSV file
+Scrape job categories and save them as a CSV file
+Scrape company addresses and save them as a CSV file
+Scrape job IDs and save them as a CSV file

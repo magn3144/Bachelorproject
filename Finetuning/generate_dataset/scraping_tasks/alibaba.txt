@@ -1,0 +1,10 @@
+Extract all the product names, prices, and sell points from the search results page and save them as a CSV file.
+Scrape the related searches from the page and save them as a CSV file.
+Get the text content of the personal protective equipment span and save it as a CSV file.
+Scrape the content of the search-card-e-price-main divs and save them as a CSV file.
+Extract the text from the search-card-m-sale-features__item divs and save them as a CSV file.
+Scrape the text content of the pc-search-education-tip_content divs and save them as a CSV file.
+Get the text from the lfs-filter-wrapper__title-content h5 elements and save them as a CSV file.
+Extract the text content of the content p elements and save them as a CSV file.
+Scrape the text from the cerf-children-after__desc p elements and save them as a CSV file.
+Get the text content of the sc-hd-ms-info div and save it as a CSV file.

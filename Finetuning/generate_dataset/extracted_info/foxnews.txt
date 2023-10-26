@@ -1,0 +1,145 @@
+<title>Fox News - Breaking News Updates | Latest News Hea</title>
+/html/head/title
+----------------
+<span>Tips to ward off seasonal SADNESS</span>
+/html/body/div/div[2]/main[2]/section/div/article[5]/a/div/span
+----------------
+<span class="kicker-text">SEEING RED</span>
+/html/body/div/div[2]/div[2]/main/div[2]/article[7]/div[1]/a/div/span
+----------------
+<a>Dementia’s staggering financial cost is revealed i</a>
+/html/body/div/div[2]/div[5]/div[4]/div[3]/section[4]/div/div[1]/article/div[2]/header/h3/a
+----------------
+<a>Entertainment</a>
+/html/body/div/header/div[4]/div[2]/div/nav[4]/h4/a
+----------------
+<h4 class="nav-title">              Other            </h4>
+/html/body/div/header/div[4]/div[2]/div/nav[12]/h4
+----------------
+<div class="content"></div>
+/html/body/div/div[2]/div[2]/main/div[2]/article[7]/div[2]/div
+----------------
+<h3 class="title">                  Buy a home in these states to g</h3>
+/html/body/div/div[2]/main[1]/div[3]/div/div/div/article[4]/a/div[2]/h3
+----------------
+<h3 class="title">Fox Nation</h3>
+/html/body/div/div[2]/div[3]/aside/div/div/div[2]/section/header/a/h3
+----------------
+<h2 class="title">ISRAEL AT WAR</h2>
+/html/body/div/div[2]/div[3]/main/div[2]/header/h2
+----------------
+<h5 class="nav-title">          About        </h5>
+/html/body/div/footer/div[1]/div/nav[11]/h5
+----------------
+<span>Bear's FUNNY moves caught on camera</span>
+/html/body/div/div[2]/main[2]/section/div/article[8]/a/div/span
+----------------
+<span class="pill is-developing">HAPPENING TODAY</span>
+/html/body/div/div[2]/div[2]/main/div[2]/article[5]/div[1]/span
+----------------
+<a>Detroit police issue major update in murder of Jew</a>
+/html/body/div/div[2]/div[3]/main/div[1]/div/article[9]/div[2]/header/h3/a
+----------------
+<a>Conflicts</a>
+/html/body/div/footer/div[1]/div/nav[2]/ul/li[2]/a
+----------------
+<h4 class="nav-title">              About            </h4>
+/html/body/div/header/div[4]/div[2]/div/nav[11]/h4
+----------------
+<div class="content"></div>
+/html/body/div/div[2]/div[2]/main/div[2]/article[6]/div[2]/div
+----------------
+<h3 class="title">                  Watch Who is Hamas? Now on Fox </h3>
+/html/body/div/div[2]/main[1]/div[3]/div/div/div/article[3]/a/div[2]/h3
+----------------
+<h3 class="title-kicker">Features &amp; Faces</h3>
+/html/body/div/div[2]/main[2]/section/header/h3
+----------------
+<h5 class="nav-title">          Other        </h5>
+/html/body/div/footer/div[1]/div/nav[12]/h5
+----------------
+<span class="sub-title-color-red">WATCH LIVE:</span> Latest coverage of today's events on Fox News Channel
+/html/body/div/div[2]/div[3]/main/div[4]/div/article[3]/div[3]/h3/a/span
+----------------
+<span class="pill is-developing">OPINION</span>
+/html/body/div/div[2]/div[3]/main/div[1]/div/article[6]/div[1]/span
+----------------
+<a>Mick Jagger discusses mortality and how relationsh</a>
+/html/body/div/div[2]/div[5]/div[4]/div[13]/section[2]/div/div[2]/article[3]/div[1]/header/h3/a
+----------------
+<a>Video Games</a>
+/html/body/div/header/div[4]/div[2]/div/nav[8]/ul/li[5]/a
+----------------
+<div class="sponsored-by">Sponsored by</div>
+/html/body/div/div[2]/main[1]/div[3]/div/div/div/article[1]/div[2]/div[1]
+----------------
+<h3 class="title">                  Colin Kaepernick is face of vid</h3>
+/html/body/div/div[2]/main[1]/div[3]/div/div/div/article[2]/a/div[2]/h3
+----------------
+<span class="sub-title-color-red">WATCH:</span> Would-be home invaders scurry when homeowner opens fire
+/html/body/div/div[2]/div[3]/main/div[3]/div/article[8]/div[2]/header/h3/a/span
+----------------
+<span class="time">32 mins ago</span>
+/html/body/div/div[2]/div[3]/main/div[1]/div/article[17]/div[2]/header/div/span[2]
+----------------
+<a>GOP set to gain 3 US House seats under map advance</a>
+/html/body/div/div[2]/div[5]/div[4]/div[19]/section[4]/div/div[1]/article/div[2]/header/h3/a
+----------------
+<a>Twitter</a>
+/html/body/div/header/div[4]/div[3]/div[1]/ul/li[2]/a
+----------------
+<div class="content"></div>
+/html/body/div/div[2]/div[2]/main/div[1]/div/article/div[2]/div
+----------------
+<span>This diet could blast BELLY FAT</span>
+/html/body/div/div[2]/main[2]/section/div/article[2]/a/div/span
+----------------
+<span class="kicker-text">'FIRING SQUAD'</span>
+/html/body/div/div[2]/div[2]/main/div[1]/div/article/div[1]/a/div/span
+----------------
+<a>Hurricane Tammy re-enters open waters after making</a>
+/html/body/div/div[2]/div[5]/div[4]/div[15]/section[2]/div/div[2]/article[3]/div[1]/header/h3/a
+----------------
+<a>Children's Health</a>
+/html/body/div/footer/div[1]/div/nav[10]/ul/li[7]/a
+----------------
+<div class="content"></div>
+/html/body/div/div[2]/div[2]/main/div[2]/article[8]/div[2]/div
+----------------
+<span>Deer RESCUED from cold Alaskan waters</span>
+/html/body/div/div[2]/main[2]/section/div/article[4]/a/div/span
+----------------
+<span class="promo-text">FOX NATION</span>
+/html/body/div/div[2]/main[1]/div[3]/div/div/div/article[3]/a/div[2]/span
+----------------
+<a>Sofia Vergara rebounds from Joe Manganiello with B</a>
+/html/body/div/div[2]/div[2]/main/div[2]/article[9]/div[2]/header/h3/a
+----------------
+<a>Lifestyle</a>
+/html/body/div/div[2]/div[3]/main/div[3]/div/article[17]/div[2]/header/div/span[1]/a
+----------------
+<div class="content"></div>
+/html/body/div/div[2]/div[2]/main/div[2]/article[2]/div[2]/div
+----------------
+<span>Uber Eats shares CRAZY CRAVINGS</span>
+/html/body/div/div[2]/main[2]/section/div/article[1]/a/div/span
+----------------
+<span class="kicker-text">3RD TIME'S A CHARM?</span>
+/html/body/div/div[2]/div[2]/main/div[2]/article[5]/div[1]/a/div/span
+----------------
+<a>Meet the American who gave us Nashville hot chicke</a>
+/html/body/div/div[2]/div[5]/div[4]/div[1]/section[2]/div/div[2]/article[2]/div[1]/header/h3/a
+----------------
+<a>Politics</a>
+/html/body/div/div[2]/div[3]/main/div[3]/div/article[1]/div[2]/header/div/span[1]/a
+----------------
+<div class="alert-container"></div>
+/html/body/div/div[2]/div[5]/div[3]
+----------------
+<span>Taylor Swift, Travis Kelce share a KISS</span>
+/html/body/div/div[2]/main[2]/section/div/article[6]/a/div/span
+----------------
+<span class="kicker-text">CLAWS ARE OUT</span>
+/html/body/div/div[2]/div[2]/main/div[2]/article[3]/div[1]/a/div/span
+----------------
+<a>NBA welcomes first 'non-binary, trans' referee</a>

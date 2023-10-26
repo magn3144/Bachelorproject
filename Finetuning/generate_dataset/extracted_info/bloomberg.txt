@@ -1,0 +1,85 @@
+<a class="bb-that-category__link">Bloomberg Media Distribution</a>
+/html/body/div[1]/div[2]/div[2]/div[2]/div[1]/nav/div[2]/ul[2]/li[3]/section[2]/ul/li[1]/a
+----------------
+<a>View More CityLab</a> 
+/html/body/div[1]/div[2]/div[2]/div[2]/nav/div[2]/ul/li[2]/ul/li[13]/div/div[4]/a
+----------------
+<span>Bloomberg the Company &amp; Its Products</span>
+/html/body/div[1]/div[2]/div[2]/div[2]/div[1]/nav/div[1]/a[1]/span[1]
+----------------
+<span class="vjs-control-text">Unmute</span>
+/html/body/div[1]/div[2]/div[2]/div[2]/div[5]/div[1]/div/section/section/section/div/div[1]/div[1]/div/div/figure/div/div/div[1]/div/div[4]/div[1]/button/span[2]
+----------------
+<h3 class="styles_itemHeadline__MNgSa">Fake Headlines Send Bitcoin Prices on Wild Swings</h3>
+/html/body/div[1]/div[2]/div[2]/div[2]/div[5]/div[1]/div/section/section/section/div/div[2]/div[4]/h3
+----------------
+<h3 class="article-story__eyebrow">Technology</h3> 
+/html/body/div[1]/div[2]/div[2]/div[2]/nav/div[2]/ul/li[2]/ul/li[5]/div/section[1]/article/div[2]/a/h3
+----------------
+<p class="live-now-story__description">The economy and markets are "under surveillance". </p> 
+/html/body/div[1]/div[2]/div[2]/div[2]/nav/div[2]/ul/li[1]/div/section[2]/article/div[2]/a[1]/p
+----------------
+<p class="vjs-modal-dialog-description vjs-control-text" id="bvp-bvp_pl-264962_component_454_description">This is a modal window.</p>
+/html/body/div[1]/div[2]/div[2]/div[2]/div[5]/div[1]/div/section/section/section/div/div[1]/div[1]/div/div/figure/div/div/div[1]/div/div[5]/p
+----------------
+<div class="styles_title__h8ej3">Start your day with what's moving markets</div>
+/html/body/div[1]/div[2]/div[2]/div[2]/div[5]/section[2]/section[2]/section/section/div[1]
+----------------
+<div class="capitalize text-sm mb-[5px] capitalize">Crypto</div>
+/html/body/div[1]/div[2]/div[2]/div[2]/div[5]/section[3]/section[2]/section/div/div[8]/div[1]
+----------------
+<h2 class="navi-sections__social-icons--title">Also streaming on your TV:</h2> 
+/html/body/div[1]/div[2]/div[2]/div[2]/nav/div[2]/ul/li[1]/div/section[4]/h2
+----------------
+<h2 class="live-now-title">Bloomberg Radio</h2> 
+/html/body/div[1]/div[2]/div[2]/div[2]/nav/div[2]/ul/li[1]/div/section[2]/h2
+----------------
+<label class="vjs-label" id="captions-foreground-opacity-bvp-bvp_pl-264962_component_460">Transparency</label>
+/html/body/div[1]/div[2]/div[2]/div[2]/div[5]/div[1]/div/section/section/section/div/div[1]/div[1]/div/div/figure/div/div/div[1]/div/div[6]/div/div[1]/fieldset[1]/span/label
+----------------
+<li class="vjs-menu-title">Chapters</li>
+/html/body/div[1]/div[2]/div[2]/div[2]/div[5]/div[1]/div/section/section/section/div/div[1]/div[1]/div/div/figure/div/div/div[1]/div/div[4]/div[10]/div/ul/li
+----------------
+<legend id="captions-text-legend-bvp-bvp_pl-264962_component_460">Text</legend>
+/html/body/div[1]/div[2]/div[2]/div[2]/div[5]/div[1]/div/section/section/section/div/div[1]/div[1]/div/div/figure/div/div/div[1]/div/div[6]/div/div[1]/fieldset[1]/legend
+----------------
+<a class="bb-that-category__link">Bloomberg Live Conferences</a>
+/html/body/div[1]/div[2]/div[2]/div[2]/div[1]/nav/div[2]/ul[2]/li[3]/section[1]/ul/li[7]/a
+----------------
+<a>CDS Bet Bites Carl Icahn</a>
+/html/body/div[1]/div[2]/div[2]/div[2]/div[5]/section[3]/section[2]/section/div/div[9]/div[2]/a
+----------------
+<span>Suzanne Woolley and Claire Ballentine</span>
+/html/body/div[1]/div[2]/div[2]/div[2]/div[5]/section[3]/section[1]/section/article[1]/div/div[2]/span
+----------------
+<span>Bloomberg News</span>
+/html/body/div[1]/div[2]/div[2]/div[2]/div[5]/div[3]/div/section/section/section[2]/article[1]/div/div[2]/span
+----------------
+<h3 class="styles_itemHeadline__MNgSa">Gensler Says SEC Is Weighing Bitcoin ETF Proposals</h3>
+/html/body/div[1]/div[2]/div[2]/div[2]/div[5]/div[1]/div/section/section/section/div/div[2]/div[1]/h3
+----------------
+<h3 class="article-story__eyebrow">Business</h3> 
+/html/body/div[1]/div[2]/div[2]/div[2]/nav/div[2]/ul/li[2]/ul/li[3]/div/section[1]/article/div[2]/a/h3
+----------------
+<p class="article-story__headline">Risking It All to Actually Understand Risk, on ‘Th</p> 
+/html/body/div[1]/div[2]/div[2]/div[2]/nav/div[2]/ul/li[2]/ul/li[10]/div/section[1]/article/div[2]/a/p
+----------------
+<p class="vjs-control-text">End of dialog window.</p>
+/html/body/div[1]/div[2]/div[2]/div[2]/div[5]/div[1]/div/section/section/section/div/div[1]/div[1]/div/div/figure/div/div/div[1]/div/div[6]/p[2]
+----------------
+<div class="bvp-playback-outro__message">Bloomberg Markets: The Close 10/20/2023</div>
+/html/body/div[1]/div[2]/div[2]/div[2]/div[5]/div[1]/div/section/section/section/div/div[1]/div[1]/div/div/figure/div/div/div[1]/div/div[9]/div
+----------------
+<div class="capitalize text-sm mb-[5px] capitalize">QuickTake</div>
+/html/body/div[1]/div[2]/div[2]/div[2]/div[5]/section[3]/section[2]/section/div/div[6]/div[1]
+----------------
+<h2 class="styles_videoHeadline__2RBdi">Bloomberg Markets: The Close 10/20/2023</h2>
+/html/body/div[1]/div[2]/div[2]/div[2]/div[5]/div[1]/div/section/section/section/div/div[1]/div[2]/h2
+----------------
+<h2 class="navi-sections__list-module--title">Featured</h2> 
+/html/body/div[1]/div[2]/div[2]/div[2]/nav/div[2]/ul/li[2]/ul/li[8]/div/div[3]/section/h2
+----------------
+<label class="styles_subtitle__lBrM8">Get our daily newsletter</label>
+/html/body/div[1]/div[2]/div[2]/div[2]/div[5]/section[2]/section[2]/section/section/label
+----------------
+<legend class="" id="bvp-bvp_pl-264962_component_460">Text Edge Style</legend>

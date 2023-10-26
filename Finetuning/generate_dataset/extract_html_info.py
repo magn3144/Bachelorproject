@@ -16,7 +16,7 @@ def extract_text_objects(html_content):
     elements_with_text = [elem for elem in tree.xpath('//*') if elem.text and not elem.getchildren()]
 
     # Exclude script and style tags
-    # elements_with_text = [elem for elem in elements_with_text if elem.tag not in ['script', 'style']]
+    elements_with_text = [elem for elem in elements_with_text if elem.tag not in ['script', 'style']]
     
     # Extract the HTML and xpath for each element
     htmls = [etree.tostring(elem, encoding='unicode') for elem in elements_with_text]
@@ -53,6 +53,11 @@ def extract_relevant_information(HTML_file):
 
     # Generate a list of HTML objects and XPaths.
     html = open(HTML_file, 'r').read()
+
+    # Extract the body
+    soup = BeautifulSoup(html, 'html.parser')
+    html = str(soup.body)
+
     htmls, xpaths = extract_text_objects(html)
 
     # Divide them into different lists by tag.

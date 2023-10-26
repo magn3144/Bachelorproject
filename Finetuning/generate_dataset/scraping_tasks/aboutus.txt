@@ -1,0 +1,10 @@
+Extract all the title HTML elements from the page and save them in a CSV file.
+Scrape all the web-links (anchor tags 
+Collect all list items (li) from the web page and save them into a CSV file.
+Extract all spans from the page and store them in a CSV file.
+Scrape all 'div' elements from the page and save them in a CSV file.
+Extract all paragraph tags (p) and save the text in a CSV file.
+Scrape all the information in 'dd' elements and save them in a CSV file.
+Collect all 'h3' and 'h4' elements texts and save them in a CSV file.
+Extract all labels from the web-page and save them in a CSV file.
+Scrape all the 'Contact' details from the site and save them in a CSV file.

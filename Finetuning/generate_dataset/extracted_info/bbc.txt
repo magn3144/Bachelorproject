@@ -1,0 +1,106 @@
+<span class="gs-c-promo-heading__title gel-pica-bold">Dog walker films winds lifting forest floor in Sco</span>
+/html/body/div[8]/div/div/div[4]/div[7]/div/div/ol/li[4]/span/div/a/span[2]
+----------------
+<span>BBC Culture</span>
+/html/body/div[8]/div/div/div[4]/div[12]/div/div/div[2]/div[4]/div/div[2]/ul/li/a/span
+----------------
+<h2 class="gel-double-pica-bold" id="nw-c-most-read-heading__title">Most read</h2>
+/html/body/div[8]/div/div/div[5]/div/div/div[1]/div/div/h2
+----------------
+<h1 class="gs-u-vh" id="skip-to-content-link-target">BBC News Home</h1>
+/html/body/div[8]/div/div/div[1]/h1
+----------------
+<a class="ws-c-social-app__text nw-o-link gel-brevier-bold gs-o-faux-block-link__overlay-link">Find out more about our BBC News App</a>
+/html/body/div[8]/div/div/div[4]/div[17]/div/div/div[2]/div/div[2]/a
+----------------
+<a>Privacy Policy</a>
+/html/body/div[9]/footer/div/div/div/ul/li[3]/a
+----------------
+<h3 class="gs-c-promo-heading__title gel-pica-bold nw-o-link-split__text">How every workplace became 'toxic'</h3>
+/html/body/div[8]/div/div/div[4]/div[12]/div/div/div[2]/div[6]/div/div[2]/div/a/h3
+----------------
+<h3 class="gs-u-vh">Mobile app</h3>
+/html/body/div[8]/div/div/div[4]/div[17]/div/div/div[2]/div/div[2]/h3
+----------------
+<p class="gs-c-promo-summary gel-long-primer gs-u-mt nw-c-promo-summary">In an exclusive interview, Dr Mohamed Muizzu tells</p>
+/html/body/div[8]/div/div/div[4]/div[2]/div/div/div[2]/div/div[13]/div[5]/div/div[2]/div/p
+----------------
+<h4 class="gs-u-vh">Related content</h4>
+/html/body/div[8]/div/div/div[4]/div[2]/div/div/div[1]/div/div/div[1]/div[3]/div/h4
+----------------
+<div class="gs-u-display-none" id="nations-slice-container"></div>
+/html/body/div[8]/div/div/div[4]/div[14]
+----------------
+<span class="gs-c-promo-heading__title gel-pica-bold">Iran says Tehran metro girl ‘brain dead’</span>
+/html/body/div[8]/div/div/div[4]/div[11]/div/div/div[2]/ol/li[8]/span/div/a/span
+----------------
+<span class="qa-status-date-output">12h</span>
+/html/body/div[8]/div/div/div[4]/div[2]/div/div/div[2]/div/div[15]/div[1]/div/div[2]/ul/li[1]/span/time/span[1]
+----------------
+<h2 class="gel-double-pica-bold" id="nw-c-sport-heading__title">Sport</h2>
+/html/body/div[8]/div/div/div[4]/div[16]/div/div/div[1]/div/div/a/h2
+----------------
+<a class="ws-c-news-daily__text nw-o-link gel-brevier-bold gs-o-faux-block-link__overlay-link">Get news from the BBC in your inbox each weekday m</a>
+/html/body/div[8]/div/div/div[4]/div[17]/div/div/div[2]/div/div[1]/a
+----------------
+<a>Privacy Policy</a>
+/html/body/div[9]/footer/div/div/div/ul/li[4]/a
+----------------
+<h3 class="gs-c-promo-heading__title gel-double-pica-bold nw-o-link-split__text">The weird aliens of the 19th Century</h3>
+/html/body/div[8]/div/div/div[4]/div[12]/div/div/div[2]/div[1]/div/div[2]/div/a/h3
+----------------
+<h3 class="gs-u-vh">Get in touch</h3>
+/html/body/div[8]/div/div/div[4]/div[17]/div/div/div[2]/div/div[3]/h3
+----------------
+<p class="gs-c-promo-summary gel-long-primer gs-u-mt nw-c-promo-summary">One of the world's finest spin bowlers, Bishan Bed</p>
+/html/body/div[8]/div/div/div[4]/div[2]/div/div/div[2]/div/div[15]/div[4]/div/div[2]/div/p
+----------------
+<span class="gs-c-promo-heading__title gel-pica-bold">Watch: Boats collide in disputed waters</span>
+/html/body/div[8]/div/div/div[4]/div[7]/div/div/ol/li[3]/span/div/a/span[2]
+----------------
+<span>UK Home</span>
+/html/body/div[8]/div/div/div[4]/div[18]/div/nav/ul/li[7]/ul/li[1]/a/span
+----------------
+<h2 class="gel-double-pica-bold" id="nw-c-most-watched-heading__title">Most watched</h2>
+/html/body/div[8]/div/div/div[4]/div[7]/div/div/div/div/div/h2
+----------------
+<a class="gel-brevier-bold nw-o-link">Why you can trust BBC News</a>
+/html/body/div[8]/div/div/div[4]/div[17]/div/div/div[2]/div/div[3]/ul/li[3]/p/a
+----------------
+<a class="dotcom-ad-text bbccom_text">Advertisement</a>
+/html/body/div[8]/div/div/div[4]/div[2]/div/div/div[2]/div/div[4]/div/div[2]/div[1]/a
+----------------
+<h3 class="gs-c-promo-heading__title gel-pica-bold nw-o-link-split__text">Belgians race boats made of giant pumpkins</h3>
+/html/body/div[8]/div/div/div[4]/div[6]/div/div/div[2]/div[3]/div/div[2]/div/a/h3
+----------------
+<h3 class="gs-u-vh">News daily newsletter</h3>
+/html/body/div[8]/div/div/div[4]/div[17]/div/div/div[2]/div/div[1]/h3
+----------------
+<p class="gs-c-promo-summary gel-long-primer gs-u-mt nw-c-promo-summary">Using existing drugs differently may be the bigges</p>
+/html/body/div[8]/div/div/div[4]/div[2]/div/div/div[2]/div/div[5]/div/div[2]/div/p
+----------------
+<span class="gs-c-promo-heading__title gel-pica-bold">Call for billionaires to face a minimum tax rate</span>
+/html/body/div[8]/div/div/div[4]/div[11]/div/div/div[2]/ol/li[4]/span/div/a/span
+----------------
+<span>N. Ireland</span>
+/html/body/div[8]/div/div/div[4]/div[18]/div/nav/ul/li[7]/ul/li[3]/a/span
+----------------
+<h2 class="gs-u-vh">News Navigation</h2>
+/html/body/div[8]/header/div[1]/div/div/h2
+----------------
+<a class="orb-hilight">Read about our approach to external linking.</a>
+/html/body/div[9]/footer/div/div/div/small/span/a
+----------------
+<a class="gel-brevier-bold nw-o-link">haveyoursay@bbc.co.uk</a>
+/html/body/div[8]/div/div/div[4]/div[17]/div/div/div[2]/div/div[3]/ul/li[1]/p/a
+----------------
+<h3 class="gs-c-promo-heading__title gel-pica-bold nw-o-link-split__text">Sir Patrick Stewart makes surprise bookshop visit</h3>
+/html/body/div[8]/div/div/div[4]/div[6]/div/div/div[2]/div[7]/div/div[2]/div/a/h3
+----------------
+<h3 class="gs-c-promo-heading__title gel-pica-bold nw-o-link-split__text">BBC World News TV</h3>
+/html/body/div[8]/div/div/div[4]/div[6]/div/div/div[2]/div[2]/div/div[1]/div/div[2]/a/h3
+----------------
+<p class="gs-c-promo-summary gel-long-primer gs-u-mt nw-c-promo-summary">Samantha Woll was stabbed to death in Detroit but </p>
+/html/body/div[8]/div/div/div[4]/div[2]/div/div/div[2]/div/div[13]/div[1]/div/div[2]/div/p
+----------------
+<span class="nw-o-link-split__text gs-u-align-bottom">Israel carries out air strike on West Bank city Je</span>

@@ -1,0 +1,10 @@
+Scrap the titles of various sections on the website and save them as a CSV file.
+Extract all link texts (anchor tags) and their respective paths from the website and store them as a CSV file.
+Gather all tournament names from the page and save them in a CSV file.
+Collect the description from different sections of the website and save the details in a CSV file.
+Retrieve all the menu items listed in the website's navigation bar and save them as a CSV file.
+Extract all the headlines and article descriptions from the 'Latest News' section and save them as a CSV file.
+Scrape the footer to gather all copyrights information and save it in a CSV file.
+Scrape the website for all banner text and store the details in a CSV file.
+Extract the website's homepage link label and save it in a CSV file.
+Gather all the descriptions related to tournament highlights and save the details in a CSV file.

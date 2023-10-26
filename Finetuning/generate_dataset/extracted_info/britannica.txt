@@ -1,0 +1,142 @@
+<label class="sr-only">Enter your email</label>
+/html/body/footer/div/div[1]/div/div[2]/div/form/div[1]/div[1]/label
+----------------
+<span class="d-none d-md-inline-block mr-5">Login</span>
+/html/body/header/div[1]/div/div[2]/button/span
+----------------
+<div class="font-weight-light font-serif font-14 line-clamp clamp-2 ilf-description">Al-Khwārizmī, Muslim mathematician and astronomer </div>
+/html/body/main/div/div/div/div[8]/div[3]/ul/div[1]/div[2]/div
+----------------
+<div class="d-none d-md-inline-block"></div>
+/html/body/header/div[1]/div/div[2]/div[1]
+----------------
+<a class="font-weight-semi-bold d-block mb-5 font-16">13 Questions About How the Human Body Works Answer</a>
+/html/body/main/div/div/div/div[8]/div[1]/ul/div[4]/div[2]/a
+----------------
+<a class="nav-bar-category mx-5 category-link-ANIMALS rw-slide">				Animals &amp; Nature</a>
+/html/body/div[1]/div/div/div/div/a[6]
+----------------
+<p>Why Do Leaves Fall in Autumn?</p>
+/html/body/main/div/div/div/div[2]/div[3]/ol/li[4]/div/div[1]/a/p
+----------------
+<p class="position-absolute rounded-sm p-15 m-0 bottom-0 text-white w-100 font-weight-bold">Meteorites</p>
+/html/body/main/div/div/div/div[7]/div[2]/div/p
+----------------
+<h2>How Dinosaurs Became Birds</h2>
+/html/body/main/div/div/div/div[4]/div/h2
+----------------
+<h2 class="mt-20">Featured Categories</h2>
+/html/body/main/div/div/div/h2[5]
+----------------
+<h3>Astronomy</h3>
+/html/body/main/div/div/div/div[8]/div[2]/h3
+----------------
+<label class="sr-only">Search Britannica</label>
+/html/body/header/div[1]/div/div[1]/div/form/div/label
+----------------
+<span>YouTube</span>
+/html/body/footer/div/div[2]/a[3]/span
+----------------
+<div class="font-weight-light font-serif font-14 line-clamp clamp-2 ilf-description">Learn about 10 cutting-edge microscopy tools that </div>
+/html/body/main/div/div/div/div[8]/div[1]/ul/div[3]/div[2]/div
+----------------
+<div class="share-label text-uppercase hidden-xs">Stay Connected</div>
+/html/body/footer/div/div[2]/div
+----------------
+<a class="font-weight-semi-bold d-block mb-5 font-16">How Does the Human Body Maintain Its Temperature?</a>
+/html/body/main/div/div/div/div[8]/div[1]/ul/div[2]/div[2]/a
+----------------
+<a class="subscribe-link btn btn-xs btn-orange-dark p-5">   Subscribe</a>
+/html/body/header/div[1]/div/div[2]/div[2]/span/a
+----------------
+<p>10 Inventions That Changed Your World</p>
+/html/body/main/div/div/div/div[2]/div[3]/ol/li[3]/div/div[1]/a/p
+----------------
+<p>Why Is the Sky Blue?</p>
+/html/body/main/div/div/div/div[2]/div[3]/ol/li[2]/div/div[1]/a/p
+----------------
+<h2 class="font-serif mb-10">Popular</h2>
+/html/body/main/div/div/div/div[2]/div[3]/h2
+----------------
+<h3>Biology</h3>
+/html/body/main/div/div/div/div[8]/div[1]/h3
+----------------
+<label class="sr-only">Search Britannica</label>
+/html/body/header/div[1]/div/form/div/label
+----------------
+<span>Instagram</span>
+/html/body/footer/div/div[2]/a[4]/span
+----------------
+<div class="font-weight-light font-serif font-14 line-clamp clamp-2 ilf-description">In everyday life we use a base-10 counting system,</div>
+/html/body/main/div/div/div/div[8]/div[3]/ul/div[2]/div[2]/div
+----------------
+<a class="font-weight-semi-bold d-block mb-5 font-16">Is overpopulation a problem?</a>
+/html/body/main/div/div/div/div[6]/ul/li[4]/div/div[1]/a
+----------------
+<a class="nav-bar-category mx-5 category-link-GEOGRAPHY rw-slide">				Geography &amp; Travel</a>
+/html/body/div[1]/div/div/div/div/a[7]
+----------------
+<p class="topic-paragraph">Because schizophrenia is widely portrayed in an in</p>
+/html/body/main/div/div/div/div[2]/div[2]/div[1]/div/div/div/p
+----------------
+<p class="position-absolute rounded-sm p-15 m-0 bottom-0 text-white w-100 font-weight-bold">Tornadoes</p>
+/html/body/main/div/div/div/div[7]/div[5]/div/p
+----------------
+<h2 class="mt-40">Galleries</h2>
+/html/body/main/div/div/div/h2[4]
+----------------
+<h3>Mathematics</h3>
+/html/body/main/div/div/div/div[8]/div[3]/h3
+----------------
+<div class="vpwpl-credit mb-20 font-13 text-gray-600 font-italic">            Encyclopædia Britannica, Inc.       </div>
+/html/body/main/div/div/div/div[6]/div/div[3]
+----------------
+<a class="font-weight-semi-bold d-block mb-5 font-16">Explore the phases of the moon and their effective</a>
+/html/body/main/div/div/div/div[6]/ul/li[1]/div/div[1]/a
+----------------
+<a class="font-weight-semi-bold d-block mb-5 font-16">al-Khwārizmī</a>
+/html/body/main/div/div/div/div[8]/div[3]/ul/div[1]/div[2]/a
+----------------
+<p class="position-absolute rounded-sm p-15 m-0 bottom-0 text-white w-100 font-weight-bold">7 Wonders of the Natural World</p>
+/html/body/main/div/div/div/div[7]/div[1]/div/p
+----------------
+<p class="position-absolute rounded-sm p-15 m-0 bottom-0 text-white w-100 font-weight-bold">Life</p>
+/html/body/main/div/div/div/div[7]/div[4]/div/p
+----------------
+<h2 class="mt-40">Quizzes</h2>
+/html/body/main/div/div/div/h2[2]
+----------------
+<div class="font-weight-light font-serif font-14 line-clamp clamp-2 ilf-description">A quick refresher course in biology!</div>
+/html/body/main/div/div/div/div[8]/div[1]/ul/div[1]/div[2]/div
+----------------
+<a class="font-weight-semi-bold d-block mb-5 font-16">How Fast Is the Universe Expanding?</a>
+/html/body/main/div/div/div/div[8]/div[2]/ul/div[3]/div[2]/a
+----------------
+<a class="nav-bar-category mx-5 category-link-SCIENCE selected rw-slide">				Science &amp; Tech</a>
+/html/body/div[1]/div/div/div/div/a[4]
+----------------
+<p class="font-weight-bold mt-20 mt-md-5">Did Dinosaurs Really Have Feathers?</p>
+/html/body/main/div/div/div/div[4]/ul/li[1]/a[2]/p
+----------------
+<p class="position-absolute rounded-sm p-15 m-0 bottom-0 text-white w-100 font-weight-bold">The Solar System</p>
+/html/body/main/div/div/div/div[7]/div[6]/div/p
+----------------
+<h2 class="mt-40">Editor's Picks</h2>
+/html/body/main/div/div/div/h2[1]
+----------------
+<div class="font-weight-light font-serif font-14 line-clamp clamp-2 ilf-description">For the last 400 years, telescopes have changed ou</div>
+/html/body/main/div/div/div/div[8]/div[2]/ul/div[4]/div[2]/div
+----------------
+<a class="font-weight-bold font-16">Guess the Animal Eyes Quiz</a>
+/html/body/main/div/div/div/div[5]/div[4]/div/div/a
+----------------
+<a class="nav-bar-category mx-5 category-link-MONEY rw-slide">				Money</a>
+/html/body/div[1]/div/div/div/div/a[9]
+----------------
+<p>7 Deadliest Weapons in History</p>
+/html/body/main/div/div/div/div[2]/div[3]/ol/li[1]/div/div[1]/a/p
+----------------
+<p class="position-absolute rounded-sm p-15 m-0 bottom-0 text-white w-100 font-weight-bold">Coral</p>
+/html/body/main/div/div/div/div[7]/div[3]/div/p
+----------------
+<h2 class="mt-40">Videos</h2>

@@ -1,0 +1,10 @@
+Extract all headlines from the News category and save them as a CSV file.
+Gather all information from the 'Entertainment' section and export it as a CSV file.
+Compile the text from the 'other' section on the page and save them to a CSV file.
+Download contents of all 'article' segments and record them in a CSV file.
+Save details of sections marked as 'Happening Today' and 'Opinion' into a CSV file.
+Extract all navigation menu items, recording their names and XPaths in a CSV file.
+Locate all page elements labelled as 'sponsored' and register their details in a CSV file.
+Fetch all hyperlinks with news regarding sports, politics, and lifestyle, saving them to a CSV file.
+Scrape the contents, timers, and kicker-texts from the 'main' section, storing them in a CSV file.
+Pull the text of all 'About' and 'Other' sections from the footer and save them in a CSV file.

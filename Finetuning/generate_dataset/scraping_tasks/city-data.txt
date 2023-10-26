@@ -1,0 +1,10 @@
+Extract the text from the `<span>` element with XPath `/html/body/div[3]/div[4]/h1/span`
+Extract the text from the `<span>` element with XPath `/html/body/div[3]/div[4]/div[4]/div/span`
+Extract the text from the `<a>` element with XPath `/html/body/div[3]/div[4]/div[14]/div/a[2]`
+Extract the text from the `<a>` element with XPath `/html/body/div[1]/div/div/div[2]/ul/li[6]/ul/table/tbody/tr[2]/td[4]/a`
+Extract the text from the `<li>` element with XPath `/html/body/ol[1]/li[6]`
+Extract the text from the `<li>` element with XPath `/html/body/div[3]/div[4]/div[2]/div/div[1]/div[1]/ul/li[1]`
+Extract the text from the `<h3>` element with XPath `/html/body/div[3]/div[4]/div[2]/div/h3`
+Extract the text from the `<p>` element with XPath `/html/body/div[3]/div[4]/p[1]`
+Extract the text from the `<span>` element with XPath `/html/body/div[3]/div[4]/div[2]/div/div[1]/div[1]/span`
+Extract the text from the `<span>` element with XPath `/html/body/div[3]/div[4]/div[4]/strong/span`

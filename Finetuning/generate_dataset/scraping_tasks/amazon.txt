@@ -1,0 +1,10 @@
+Retrieve all product names and prices from the website. Save them as a CSV file.
+Extract all department categories available on the website. Save them as a CSV file.
+Collect all customer reviews and ratings for a specific product. Save them as a CSV file.
+Scrape all shipping rate and policy information. Save them as a CSV file.
+Get the height from surface to top for different items. Save them as a CSV file.
+Extract all recently viewed items and featured recommendations. Save them as a CSV file.
+Gather all investor relations information. Save them as a CSV file.
+Retrieve all options available in the sorting dropdown menu. Save them as a CSV file.
+Collect all recommended products with trusted sustainability certifications. Save them as a CSV file.
+Scrape all gaming keyboard products and their features. Save them as a CSV file.

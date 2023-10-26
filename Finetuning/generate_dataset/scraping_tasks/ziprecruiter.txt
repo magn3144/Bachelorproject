@@ -1,0 +1,10 @@
+Scrape all job titles from the webpage and save them in a CSV file.
+Extract job descriptions from the website and store them in a CSV file.
+Retrieve all job posting dates and record them in a CSV file.
+Obtain all available salary timeframes (daily, annually) from each job listing and save them in a CSV file.
+Gather all footer titles and details from the webpage and save them in a CSV file.
+Compile a list of all navigational links on the webpage and save them in a CSV file.
+Extract the title and corresponding XPath of each HTML element and store it in a CSV file.
+Retrieve the website's 'Global Terms of use Agreement' details and save them in a CSV file.
+Obtain the data from labels in forms and save this information in a CSV file.
+Scrape the 'Contact Us' section including email addresses and save the data in a CSV file.

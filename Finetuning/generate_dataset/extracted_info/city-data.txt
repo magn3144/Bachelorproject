@@ -1,0 +1,163 @@
+<span>Registered sex offenders in Abbeville, Alabama</span>
+/html/body/div[3]/div[4]/h1/span
+----------------
+<span id="sa0">13465 State Highway 95 N</span> 
+/html/body/div[3]/div[4]/div[4]/div/span
+----------------
+<a>Based on this official offender page</a>
+/html/body/div[3]/div[4]/div[14]/div/a[2]
+----------------
+<a>HI</a>
+/html/body/div[1]/div/div/div[2]/ul/li[6]/ul/table/tbody/tr[2]/td[4]/a
+----------------
+<li class="active">Registered sex offenders in Abbeville, Alabama</li>
+/html/body/ol[1]/li[6]
+----------------
+<li class="active">OSM Map</li>
+/html/body/div[3]/div[4]/div[2]/div/div[1]/div[1]/ul/li[1]
+----------------
+<h3>Your use of this information constitutes agreement</h3>
+/html/body/div[3]/div[4]/div[2]/div/h3
+----------------
+<p class="style1">No representation is made that the persons listed </p>
+/html/body/div[3]/div[4]/p[1]
+----------------
+<span class="mapNote">Note: 5 addresses could not be displayed on map.</span>
+/html/body/div[3]/div[4]/div[2]/div/div[1]/div[1]/span
+----------------
+<span id="sn0">Arthur Chandler Duncan</span>
+/html/body/div[3]/div[4]/div[4]/strong/span
+----------------
+<a>Based on this official offender page</a>
+/html/body/div[3]/div[4]/div[12]/div/a[2]
+----------------
+<a>DC</a>
+/html/body/div[1]/div/div/div[2]/ul/li[10]/ul/table/tbody/tr[1]/td[4]/a
+----------------
+<li class="active">Registered sex offenders in Abbeville, Alabama</li>
+/html/body/ol[2]/li[6]
+----------------
+<li class="notactive">OSM Map</li>
+/html/body/div[3]/div[4]/div[2]/div/div[1]/div[3]/ul/li[1]
+----------------
+<p class="style1">THE INFORMATION PROVIDED ON THIS SITE IS PROVIDED </p>
+/html/body/div[3]/div[4]/div[2]/div/p[2]
+----------------
+<span id="sn7">George Mark Danzy</span>
+/html/body/div[3]/div[4]/div[11]/strong/span
+----------------
+<a>Registered sex offenders in Alabama </a>
+/html/body/ol[1]/li[5]/a
+----------------
+<a>SC</a>
+/html/body/div[1]/div/div/div[2]/ul/li[4]/ul/table/tbody/tr[6]/td[4]/a
+----------------
+<li class="notactive hide">Google Map</li>
+/html/body/div[3]/div[4]/div[2]/div/div[1]/div[1]/ul/li[2]
+----------------
+<span id="sa18">1489 County Road 84</span> 
+/html/body/div[3]/div[4]/div[22]/div/span
+----------------
+<a>Based on this official offender page</a>
+/html/body/div[3]/div[4]/div[17]/div/a[2]
+----------------
+<a>NM</a>
+/html/body/div[1]/div/div/div[2]/ul/li[8]/ul/table/tbody/tr[4]/td[3]/a
+----------------
+<li class="notactive">OSM Map</li>
+/html/body/div[3]/div[4]/div[2]/div/div[1]/div[2]/ul/li[1]
+----------------
+<span id="sa3">290 Singletary Rd</span> 
+/html/body/div[3]/div[4]/div[7]/div/span
+----------------
+<a>Tourist Attractions Articles</a>
+/html/body/div[1]/div/div/div[2]/ul/li[12]/ul/li[8]/a
+----------------
+<a>RI</a>
+/html/body/div[1]/div/div/div[2]/ul/li[12]/ul/li[1]/ul/table/tbody/tr[6]/td[5]/a
+----------------
+<li class="notactive">Bing Map</li>
+/html/body/div[3]/div[4]/div[2]/div/div[1]/div[2]/ul/li[3]
+----------------
+<span id="sn19">Robert Dewayne Deese</span>
+/html/body/div[3]/div[4]/div[23]/strong/span
+----------------
+<a>Based on this official offender page</a>
+/html/body/div[3]/div[4]/div[21]/div/a[2]
+----------------
+<a>PA</a>
+/html/body/div[1]/div/div/div[2]/ul/li[6]/ul/table/tbody/tr[6]/td[2]/a
+----------------
+<li class="notactive hide">Google Map</li>
+/html/body/div[3]/div[4]/div[2]/div/div[1]/div[3]/ul/li[2]
+----------------
+<span id="sn1">Bennie Joe Lacy</span>
+/html/body/div[3]/div[4]/div[5]/strong/span
+----------------
+<a>Based on this official offender page</a>
+/html/body/div[3]/div[4]/div[24]/div/a[2]
+----------------
+<a>NE</a>
+/html/body/div[1]/div/div/div[2]/ul/li[8]/ul/table/tbody/tr[4]/td[1]/a
+----------------
+<li class="active">Bing Map</li>
+/html/body/div[3]/div[4]/div[2]/div/div[1]/div[3]/ul/li[3]
+----------------
+<span id="sa4">266 Co Rd 210</span>
+/html/body/div[3]/div[4]/div[8]/div/span
+----------------
+<a>Based on this official offender page</a>
+/html/body/div[3]/div[4]/div[30]/div/a
+----------------
+<a>NB</a>
+/html/body/div[1]/div/div/div[2]/ul/li[12]/ul/li[4]/ul/table/tbody/tr[1]/td[4]/a
+----------------
+<li class="active">Google Map</li>
+/html/body/div[3]/div[4]/div[2]/div/div[1]/div[2]/ul/li[2]
+----------------
+<span id="sa9">6307 County Road 57 S</span>
+/html/body/div[3]/div[4]/div[13]/div/span
+----------------
+<a>OpenStreetMap</a> contributors
+/html/body/div[3]/div[4]/div[2]/div/div[1]/div[1]/div/div[3]/div[4]/div/a[3]
+----------------
+<a>WA</a>
+/html/body/div[1]/div/div/div[2]/ul/li[10]/ul/table/tbody/tr[5]/td[6]/a
+----------------
+<a>Based on this official offender page</a>
+/html/body/div[3]/div[4]/div[13]/div/a
+----------------
+<a>NM</a>
+/html/body/div[1]/div/div/div[2]/ul/li[6]/ul/table/tbody/tr[5]/td[3]/a
+----------------
+<a>Based on this official offender page</a>
+/html/body/div[3]/div[4]/div[29]/div/a[2]
+----------------
+<a>YT</a>
+/html/body/div[1]/div/div/div[2]/ul/li[12]/ul/li[4]/ul/table/tbody/tr[2]/td[6]/a
+----------------
+<a>Based on this official offender page</a>
+/html/body/div[3]/div[4]/div[5]/div/a[2]
+----------------
+<a>AB</a>
+/html/body/div[1]/div/div/div[2]/ul/li[12]/ul/li[4]/ul/table/tbody/tr[1]/td[1]/a
+----------------
+<a>Based on this official offender page</a>
+/html/body/div[3]/div[4]/div[4]/div/a[2]
+----------------
+<a>NY</a>
+/html/body/div[1]/div/div/div[2]/ul/li[8]/ul/table/tbody/tr[4]/td[5]/a
+----------------
+<a>Based on this official offender page</a>
+/html/body/div[3]/div[4]/div[11]/div/a[2]
+----------------
+<a>SK</a>
+/html/body/div[1]/div/div/div[2]/ul/li[12]/ul/li[4]/ul/table/tbody/tr[2]/td[5]/a
+----------------
+<a>Based on this official offender page</a>
+/html/body/div[3]/div[4]/div[19]/div/a[2]
+----------------
+<a>CT</a>
+/html/body/div[1]/div/div/div[2]/ul/li[12]/ul/li[1]/ul/table/tbody/tr[1]/td[7]/a
+----------------
+<a>Based on this official offender page</a>

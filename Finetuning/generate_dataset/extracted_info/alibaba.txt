@@ -1,0 +1,114 @@
+<span class="J-hd-beaconnav-title sc-hd-ms-title">      Personal Protective Equipment    </span>
+/html/body/div[1]/header/div[1]/div[1]/div/div[1]/ul/li[6]/div/a/span
+----------------
+<span class="search-card-e-sell-point fy23-card-sellpoint-spacer">Luggage</span>
+/html/body/div[3]/div[1]/div/div[4]/div[2]/div/div/div/div[33]/div[2]/div[1]/a[1]/div/div/span[2]
+----------------
+<a>                Start shopping!            </a>
+/html/body/div[1]/header/div[2]/div[4]/div[4]/div/div/div/div[2]/a
+----------------
+<a class="view-more">View more</a>
+/html/body/div[1]/header/div[4]/div/div[1]/div/div/div/ul/li[13]/div[2]/div/div[2]/div/a[7]
+----------------
+<label>          Popular countries/regions</label>
+/html/body/div[1]/header/div[4]/div/div[4]/div[5]/div/div/div[2]/div[5]/div/div/div[2]/ul/li[1]/label
+----------------
+<label>Language</label>
+/html/body/div[1]/header/div[1]/div[3]/div/div/div[2]/div[2]/label
+----------------
+<div class="pc-search-education-tip_content">Suppliers with credentials and capabilities inspec</div>
+/html/body/div[3]/div[1]/div/div[3]/div/div[4]/div[2]/div/div/div[2]
+----------------
+<div class="search-card-e-price-main">17,90 US$ - 21,90 US$</div>
+/html/body/div[3]/div[1]/div/div[4]/div[2]/div/div/div/div[25]/div[2]/div[1]/a[2]/div/div
+----------------
+<p class="cerf-children-after__desc">*Certification Disclaimer: Any assessment, certifi</p>
+/html/body/div[3]/div[1]/div/div[3]/div/div[10]/div[2]/div[2]/div[2]/p
+----------------
+<p class="cv-you-are-in__option-checked">Suitcases</p>
+/html/body/div[3]/div[1]/div/div[3]/div/div[3]/div[2]/div/div/div/div/div/div/div/div/div/div/p
+----------------
+<h5 class="lfs-filter-wrapper__title-content">Min. order</h5>
+/html/body/div[3]/div[1]/div/div[3]/div/div[6]/div[1]/h5
+----------------
+<dt class="title">            Related searches:        </dt>
+/html/body/div[3]/div[2]/div[1]/div/dl/dt
+----------------
+<span class="J-hd-beaconnav-title sc-hd-ms-title">      Ready to Ship    </span>
+/html/body/div[1]/header/div[1]/div[1]/div/div[1]/ul/li[5]/div/a/span
+----------------
+<span class="ui2-checkbox-customize-txt">Compare</span>
+/html/body/div[3]/div[1]/div/div[4]/div[2]/div/div/div/div[35]/div[1]/div[3]/div/a/div/label/span
+----------------
+<a class="level-two-title">Energy &amp; Mineral Equipment</a>
+/html/body/div[1]/header/div[4]/div/div[1]/div/div/div/ul/li[2]/div[2]/div/div[2]/div/a[2]
+----------------
+<a class="level-two-title">Other Excess Inventory</a>
+/html/body/div[1]/header/div[2]/div[2]/div/div/div/ul/li[17]/div[2]/div/div[3]/div/a[2]
+----------------
+<label>          All countries/regions</label>
+/html/body/div[1]/header/div[4]/div/div[4]/div[5]/div/div/div[2]/div[5]/div/div/div[2]/ul/li[2]/label
+----------------
+<label>Currency</label>
+/html/body/div[1]/header/div[1]/div[3]/div/div/div[2]/div[3]/label
+----------------
+<div class="sc-hd-ms-info">                    Welcome back!               </div>
+/html/body/div[1]/header/div[2]/div[4]/div[1]/div[2]/div/div[1]/div
+----------------
+<div class="search-card-m-sale-features__item">Min. order: 100 pieces</div>
+/html/body/div[3]/div[1]/div/div[4]/div[2]/div/div/div/div[16]/div[2]/div[1]/a[3]/div/div
+----------------
+<p class="content">                We will remind you here when ther</p>
+/html/body/div[1]/header/div[2]/div[4]/div[2]/div[2]/div/div/p[2]
+----------------
+<h5 class="lfs-filter-wrapper__title-content">Supplier country/region</h5>
+/html/body/div[3]/div[1]/div/div[3]/div/div[8]/div[1]/h5
+----------------
+<span class="J-hd-beaconnav-title sc-hd-ms-title">    Sell on Alibaba.com  </span>
+/html/body/div[1]/header/div[1]/div[1]/div/div[1]/ul/li[9]/div/span
+----------------
+<span class="ui2-checkbox-customize-txt">Compare</span>
+/html/body/div[3]/div[1]/div/div[4]/div[2]/div/div/div/div[48]/div[1]/div[3]/div/a/div/label/span
+----------------
+<a class="level-two-title">Biological Chemical Products</a>
+/html/body/div[1]/header/div[2]/div[2]/div/div/div/ul/li[14]/div[2]/div/div[2]/div/a[5]
+----------------
+<a class="level-two-title">Biodegradable Packaging</a>
+/html/body/div[1]/header/div[2]/div[2]/div/div/div/ul/li[8]/div[2]/div/div[1]/div/a[2]
+----------------
+<label>Sourcing solutions</label>
+/html/body/div[1]/header/div[4]/div/div[3]/ul/li[4]/div/ul/li[2]/div/div[1]/label
+----------------
+<div class="search-card-m-sale-features__item">Shipping per pieces: 25,48 US$</div>
+/html/body/div[3]/div[1]/div/div[4]/div[2]/div/div/div/div[45]/div[2]/div[1]/a[3]/div/div[1]
+----------------
+<div class="search-card-e-price-main">15,50 US$ - 18,95 US$</div>
+/html/body/div[3]/div[1]/div/div[4]/div[2]/div/div/div/div[27]/div[2]/div[1]/a[2]/div/div
+----------------
+<p class="cerf-children-after__desc">*Certification Disclaimer: Any assessment, certifi</p>
+/html/body/div[3]/div[1]/div/div[3]/div/div[11]/div[2]/div[2]/div[2]/p
+----------------
+<h5 class="lfs-filter-wrapper__title-content">Size</h5>
+/html/body/div[3]/div[1]/div/div[3]/div/div[21]/div/h5
+----------------
+<span> By sliding to Continue with or Create My Account </span>
+/html/body/div[1]/header/div[2]/div[4]/div[1]/div[2]/div/div[3]/div[3]/span[1]
+----------------
+<span class="ui2-checkbox-customize-txt">Compare</span>
+/html/body/div[3]/div[1]/div/div[4]/div[2]/div/div/div/div[22]/div[1]/div[3]/div/a/div/label/span
+----------------
+<a class="sc-hd-ck-txt">                    Alibaba.com Free Membership A</a>
+/html/body/div[1]/header/div[2]/div[4]/div[1]/div[2]/div/div[3]/div[3]/a[1]
+----------------
+<a class="level-two-title">Moulds</a>
+/html/body/div[1]/header/div[2]/div[2]/div/div/div/ul/li[10]/div[2]/div/div[4]/div/a[4]
+----------------
+<label>Language</label>
+/html/body/div[1]/header/div[4]/div/div[4]/div[3]/div/div/div[2]/div[2]/label
+----------------
+<div class="pc-search-education-tip_content">Industry-leading Verified Suppliers with 5+ years </div>
+/html/body/div[3]/div[1]/div/div[3]/div/div[4]/div[3]/div/div/div[2]
+----------------
+<div class="text">TOP</div>
+/html/body/div[10]/div[2]/div/div
+----------------

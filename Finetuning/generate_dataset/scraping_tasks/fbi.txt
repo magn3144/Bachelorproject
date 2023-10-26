@@ -1,0 +1,10 @@
+Extract all the names of the fugitives and their corresponding links
+Retrieve the category of the webpage
+Scrape the FBI email alerts description
+Fetch the total number of results
+Get the names and links of the Ten Most Wanted Fugitives
+Scrape the names and links of the Crimes Against Children category
+Extract the names and links of the Legal Policies & Disclaimers section
+Collect the names and links of the Terrorism category
+Scrape the names and links of the Kidnappings / Missing Persons category
+Fetch the names and links of the Violent Crimes 

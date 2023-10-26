@@ -1,0 +1,118 @@
+<a>http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6107a1.</a> for the MMWR article.
+/html/body/div[2]/div/div[6]/div/div[4]/div[2]/div[2]/div[2]/div/div[2]/div[1]/div/div[1]/div/a[2]
+----------------
+<a class="site-chrome-nav-link mobile-button noselect dropdown-focus-target">Home</a>
+/html/body/div[2]/div/div[1]/header/div[2]/div/div[1]/a[1]
+----------------
+<label class="browse2-facet-section-option-radio-button-label">            nchs          </label>
+/html/body/div[2]/div/div[6]/div/div[4]/div[1]/div[2]/div[3]/div[4]/ul/li[1260]/label
+----------------
+<label class="common--autocomplete--components--SearchBox--aria-not-displayed">Search</label>
+/html/body/div[2]/div/div[1]/header/div[2]/div/div[3]/div/form/label
+----------------
+<h2>A-Z</h2>
+/html/body/div[5]/div[1]/div[2]/div/div/h2
+----------------
+<span class="modal-content-name">      chikungunya virus disease    </span>
+/html/body/div[5]/div[1]/div[2]/div/div/ul/li[205]/a/span[1]
+----------------
+<span class="modal-content-name">      vancomycin    </span>
+/html/body/div[5]/div[1]/div[2]/div/div/ul/li[1195]/a/span[1]
+----------------
+<div class="browse2-result-timestamp-label">          Updated        </div>
+/html/body/div[2]/div/div[6]/div/div[4]/div[2]/div[2]/div[4]/div/div[4]/div[1]/div[1]
+----------------
+<div class="browse2-mobile-filter-content"></div>
+/html/body/div[2]/div/div[6]/div/div[3]/div[2]
+----------------
+<li></li>
+/html/body/footer/div/div[2]/ul/li[12]
+----------------
+<h1 id="browse2-facet-selection-modal-Tags-label">Tags</h1>
+/html/body/div[5]/div[1]/div[2]/h1
+----------------
+<a class="browse2-result-name-link">Vaccine Hesitancy for COVID-19</a>
+/html/body/div[2]/div/div[6]/div/div[4]/div[2]/div[2]/div[8]/div/div[1]/div/div[1]/h2/a
+----------------
+<a class="browse2-result-category browse2-result-header-section">Vaccinations</a>
+/html/body/div[2]/div/div[6]/div/div[4]/div[2]/div[2]/div[7]/div/div[1]/div/div[1]/a
+----------------
+<label class="browse2-facet-section-option-radio-button-label">            cigar          </label>
+/html/body/div[2]/div/div[6]/div/div[4]/div[1]/div[2]/div[3]/div[4]/ul/li[830]/label
+----------------
+<label class="browse2-results-sort-control-type-label">        Sort by      </label>
+/html/body/div[2]/div/div[6]/div/div[4]/div[2]/div[1]/div/div[2]/div/div/label
+----------------
+<h2 class="browse2-mobile-facets-header">        Filter      </h2>
+/html/body/div[2]/div/div[6]/div/div[4]/div[1]/div[2]/div[3]/h2[2]
+----------------
+<span class="modal-content-name">      sabia-associated hemorrhagic fever    </span>
+/html/body/div[5]/div[1]/div[2]/div/div/ul/li[977]/a/span[1]
+----------------
+<span class="modal-content-count">        (2)      </span>
+/html/body/div[5]/div[1]/div[2]/div/div/ul/li[1239]/a/span[2]
+----------------
+<div class="browse2-result-view-count-value">            149,863          </div>
+/html/body/div[2]/div/div[6]/div/div[4]/div[2]/div[2]/div[8]/div/div[4]/div[2]/div[2]
+----------------
+<div class="browse2-result-explore"></div>
+/html/body/div[2]/div/div[6]/div/div[4]/div[2]/div[2]/div[8]/div/div[2]/div[3]
+----------------
+<a>https://www.hhs.gov/coronavirus/covid-19-vaccines/</a>
+/html/body/div[2]/div/div[6]/div/div[4]/div[2]/div[2]/div[3]/div/div[2]/div[1]/div/div[1]/div[4]/a
+----------------
+<a class="site-chrome-nav-link noselect dropdown-focus-target">Data Catalog</a>
+/html/body/div[2]/div/div[1]/header/div[1]/div[3]/div/nav[1]/div[1]/div/a[2]
+----------------
+<label class="browse2-facet-section-option-radio-button-label">            tracking network          </label>
+/html/body/div[2]/div/div[6]/div/div[4]/div[1]/div[2]/div[3]/div[4]/ul/li[425]/label
+----------------
+<label class="common--autocomplete--components--SearchBox--aria-not-displayed">Search</label>
+/html/body/div[2]/div/div[6]/div/div[1]/div/form/label
+----------------
+<h2 class="menu-header-title">Menu</h2>
+/html/body/div[2]/div/div[1]/header/div[2]/h2
+----------------
+<span class="modal-content-name">      streptococcal toxic-shock syndrome    </span>
+/html/body/div[5]/div[1]/div[2]/div/div/ul/li[1101]/a/span[1]
+----------------
+<span class="modal-content-name">      sars-cov-2    </span>
+/html/body/div[5]/div[1]/div[2]/div/div/ul/li[988]/a/span[1]
+----------------
+<div>New weekly allocations of doses are posted every T</div>
+/html/body/div[2]/div/div[6]/div/div[4]/div[2]/div[2]/div[3]/div/div[2]/div[1]/div/div[1]/div[1]
+----------------
+<div id="newModals"></div>
+/html/body/div[6]
+----------------
+<a>https://data.cdc.gov/Vaccinations/COVID-19-Vaccine</a>
+/html/body/div[2]/div/div[6]/div/div[4]/div[2]/div[2]/div[5]/div/div[2]/div[1]/div/div[1]/div[6]/a
+----------------
+<a class="browse2-result-category browse2-result-header-section">Vaccinations</a>
+/html/body/div[2]/div/div[6]/div/div[4]/div[2]/div[2]/div[9]/div/div[1]/div/div[1]/a
+----------------
+<label class="browse2-facet-section-option-radio-button-label">            ozone          </label>
+/html/body/div[2]/div/div[6]/div/div[4]/div[1]/div[2]/div[3]/div[4]/ul/li[1003]/label
+----------------
+<label class="common--autocomplete--components--SearchBox--aria-not-displayed">Search</label>
+/html/body/div[2]/div/div[1]/header/div[1]/div[2]/div/div/div/form/label
+----------------
+<h2 class="browse2-mobile-facets-header">        Sort      </h2>
+/html/body/div[2]/div/div[6]/div/div[4]/div[1]/div[2]/div[3]/h2[1]
+----------------
+<span class="modal-content-name">      mental health    </span>
+/html/body/div[5]/div[1]/div[2]/div/div/ul/li[698]/a/span[1]
+----------------
+<span class="modal-content-name">      rules    </span>
+/html/body/div[5]/div[1]/div[2]/div/div/ul/li[973]/a/span[1]
+----------------
+<div class="browse2-result-view-count-label">            Views          </div>
+/html/body/div[2]/div/div[6]/div/div[4]/div[2]/div[2]/div[3]/div/div[4]/div[2]/div[1]
+----------------
+<div id="noticeContainer"></div>
+/html/body/div[2]/div/div[2]
+----------------
+<a class="browse2-result-name-link">COVID-19 Vaccinations in the United States,County</a>
+/html/body/div[2]/div/div[6]/div/div[4]/div[2]/div[2]/div[9]/div/div[1]/div/div[1]/h2/a
+----------------
+<a class="site-chrome-nav-link mobile-button noselect dropdown-focus-target">Developers</a>

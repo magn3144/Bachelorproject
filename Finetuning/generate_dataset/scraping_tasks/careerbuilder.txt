@@ -1,0 +1,10 @@
+Get and save the list of all job titles on the webpage as a CSV file.
+Scrape all the job salaries mentioned on the webpage and compile them into a CSV file.
+Extract all the text within the heading tags on the webpage and save them as a CSV file.
+Collect all the links present on the webpage and save them into a CSV file.
+Collect the footer information from the website and save it as a CSV file.
+Extract the list of recommendations provided on the webpage and organize them in a CSV file.
+Gather all the form submission buttons text on the webpage and store them in a CSV file.
+Scrape the information under the 'div' HTML tags on the webpage and save them into a CSV file.
+Extract the list of trending job searches on the page and compile them into a CSV file.
+Collect all navigation information from header and footer of the website and save it as a CSV file.

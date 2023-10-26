@@ -1,0 +1,111 @@
+<title>FIFA U-17 World Cup Indonesia 2023™</title>
+/html/head/title
+----------------
+<a class="global-menu-top-nav_link__subLabel__2vJuD">FIFA WOMEN'S WORLD CUP 2023™</a>
+/html/body/div/div/div[1]/header/div[1]/div/div/div[3]/nav/div[4]/div[2]/div[2]/div/div[2]/a
+----------------
+<a class="global-menu-top-nav_link__subLabel__2vJuD">ORIGINALS</a>
+/html/body/div/div/div[1]/header/div[1]/div/div/div[3]/nav/div[4]/div[2]/div[2]/div/div[5]/a
+----------------
+<div class="d-none d-lg-block col-lg-4 col-xl-4 text-sm text-align-end ff-mb-0">Download the FIFA App today to enjoy more</div>
+/html/body/div/div/div[2]/footer/div/section[1]/div/div[3]
+----------------
+<div class="global-menu-top-nav_group__label__2r4t9">TOURNAMENTS</div>
+/html/body/div/div/div[1]/header/div[1]/div/div/div[3]/nav/div[3]/div[1]
+----------------
+<span>FIFA U-17 Women's World Cup India 2022™</span>
+/html/body/div/div/main/div/section[7]/div/div[2]/div/div/div/div[9]/a/p/span[2]/span
+----------------
+<span>LATEST NEWS</span>
+/html/body/div/div/main/div/section[2]/div/div[1]/div[1]/h1/span[2]/span
+----------------
+<p class="text-regular ff-mb-0 hero-module-carousel-header_description__3K4XP">Manchester City star won Golden Ball award at 2017</p>
+/html/body/div/div/main/div/section[1]/div/div[2]/div/div/div[1]/div[1]/a/div/div[2]/div/div/p
+----------------
+<p class="text-md text-uppercase ff-mb-8 hero-module-carousel-header_label__VovDY">Discover</p>
+/html/body/div/div/main/div/section[1]/div/div[2]/div/div/div[1]/div[2]/a/div/div[2]/div/p
+----------------
+<h2 class="ff-text-custom">Host Country 2023: Indonesia</h2>
+/html/body/div/div/main/div/section[3]/div/div/div[1]/h2
+----------------
+<a class="global-menu-top-nav_link__subLabel__2vJuD">FIFA WORLD CUP 26™ QUALIFIERS</a>
+/html/body/div/div/div[1]/header/div[1]/div/div/div[3]/nav/div[3]/div[2]/div[2]/div/div[2]/a
+----------------
+<a class="global-menu-top-nav_link__subLabel__2vJuD">FIVES</a>
+/html/body/div/div/div[1]/header/div[1]/div/div/div[3]/nav/div[5]/div[2]/div[2]/div/div[2]/a
+----------------
+<div class="col-xs col-md-5 ff-mt-16 d-md-flex justify-content-end footer_Copyright__MV5rG">Copyright © 1994 - 2023 FIFA. All rights reserved.</div>
+/html/body/div/div/div[2]/footer/div/section[3]/div/div[2]
+----------------
+<div class="global-menu-top-nav_group__label__2r4t9">WATCH ON FIFA+</div>
+/html/body/div/div/div[1]/header/div[1]/div/div/div[3]/nav/div[4]/div[1]
+----------------
+<span>Argentina v Tajikistan | Group E | FIFA U-17 World</span>
+/html/body/div/div/main/div/section[6]/div/div[2]/div/div/div/div[18]/a/p/span[1]/span
+----------------
+<span>All tournaments</span>
+/html/body/div/div/main/div/section[7]/div/div[1]/div/div[1]/h2/span[1]/span
+----------------
+<p class="text-regular ff-mb-24 ff-mb-md-8 news-card_cardDescription__Oq4Oe ff-text-custom">Tyler Hall discusses training with Lionel Messi an</p>
+/html/body/div/div/main/div/section[2]/div/div[2]/div[1]/div/a/div/div/div[2]/div/p
+----------------
+<p class="text-md text-uppercase ff-mb-8 hero-module-carousel-header_label__VovDY">Interview</p>
+/html/body/div/div/main/div/section[1]/div/div[2]/div/div/div[1]/div[1]/a/div/div[2]/div/p
+----------------
+<a class="global-menu-nav-strip_link__label__1A-5z">FIFA STORE</a>
+/html/body/div/div/div[1]/header/div[1]/nav/div[4]/a
+----------------
+<div class="global-menu-bottom-nav_bottomNavTextStyle__1TwDV global-menu-bottom-nav_link__zJmyX">Menu</div>
+/html/body/div/div/div[1]/header/div[2]/nav/div[5]/div/div[2]/div
+----------------
+<span> FIFA U-17 World Cup Brazil 2019™ Highlights</span>
+/html/body/div/div/main/div/section[6]/div/div[1]/div/div[1]/h2/span[1]/span
+----------------
+<span class="carousel_label__3HO5b">Next</span>
+/html/body/div/div/main/div/section[7]/div/div[2]/button/span[2]
+----------------
+<p class="text-regular ff-mb-0 hero-module-carousel-header_description__3K4XP">Draw lays out path to glory, with past two champio</p>
+/html/body/div/div/main/div/section[1]/div/div[2]/div/div/div[1]/div[2]/a/div/div[2]/div/div/p
+----------------
+<a class="global-menu-top-nav_link__subLabel__2vJuD">FIFA STORE</a>
+/html/body/div/div/div[1]/header/div[1]/div/div/div[3]/nav/div[6]/div[2]/div[2]/div/div[1]/a
+----------------
+<div class="global-menu-top-nav_group__label__2r4t9">INSIDE FIFA</div>
+/html/body/div/div/div[1]/header/div[1]/div/div/div[3]/nav/div[7]/div[1]
+----------------
+<span>Nigeria v Netherlands | Round of 16 | FIFA U-17 Wo</span>
+/html/body/div/div/main/div/section[6]/div/div[2]/div/div/div/div[16]/a/p/span[1]/span
+----------------
+<span class="carousel-banner_label__2keXY">next</span>
+/html/body/div/div/main/div/section[1]/div/div[2]/div/div/button/span[2]
+----------------
+<p>Indonesia will make its debut at the FIFA U-17 Wor</p>
+/html/body/div/div/main/div/section[3]/div/div/div[1]/div/p[1]
+----------------
+<a class="text-sm ff-mb-0 align-self-end text-uppercase carousel-header_seeAll__2JnFX ff-text-custom">See all</a>
+/html/body/div/div/main/div/section[6]/div/div[1]/div/div[2]/div/a
+----------------
+<div class="global-menu-top-nav_group__label__2r4t9">PLAY</div>
+/html/body/div/div/div[1]/header/div[1]/div/div/div[3]/nav/div[5]/div[1]
+----------------
+<span>How every host nation fared at the U-17 World Cup</span>
+/html/body/div/div/main/div/section[2]/div/div[2]/div[2]/div/div[4]/div/a/div/div/div[2]/div/div/div[1]/h4/span[1]/span
+----------------
+<span class="carousel_label__3HO5b">Next</span>
+/html/body/div/div/main/div/section[5]/div/div[2]/button/span[2]
+----------------
+<p>Four previous winners have qualified to return to </p>
+/html/body/div/div/main/div/section[3]/div/div/div[1]/div/p[2]
+----------------
+<a class="global-menu-top-nav_link__subLabel__2vJuD">FIFA WORLD CUP 26™</a>
+/html/body/div/div/div[1]/header/div[1]/div/div/div[3]/nav/div[3]/div[2]/div[2]/div/div[6]/a
+----------------
+<div class="global-menu-bottom-nav_bottomNavTextStyle__1TwDV">HOME</div>
+/html/body/div/div/div[1]/header/div[2]/nav/div[1]/a/div[2]/div
+----------------
+<span>Argentina v Tajikistan | Group E | FIFA U-17 World</span>
+/html/body/div/div/main/div/section[6]/div/div[2]/div/div/div/div[18]/a/p/span[2]/span
+----------------
+<span>FIFAe Finals 2023</span>
+/html/body/div/div/main/div/section[7]/div/div[2]/div/div/div/div[15]/a/p/span[1]/span
+----------------

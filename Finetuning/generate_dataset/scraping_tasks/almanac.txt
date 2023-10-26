@@ -1,0 +1,10 @@
+1. Scrape and save the extended forecast for a specific location.
+2. Extract and save the titles and prices of products listed on the page.
+3. Scrape and save the monthly weather conditions for a specific region.
+4. Extract and save the names and prices of gardening books on the page.
+5. Scrape and save the long-range weather forecast for the next 2 months.
+6. Extract and save the names and prices of items in the Almanac's Daily Updates section.
+7. Scrape and save the names and prices of selected items in the Flower Gardener's Handbook.
+8. Extract and save the names and prices of products on sale in the Where to Buy section.
+9. Scrape and save the names and prices of products in the Free Daily Newsletter.
+10. Extract and save the names and prices of items listed in the Yankee Magazine.

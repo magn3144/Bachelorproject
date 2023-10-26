@@ -1,0 +1,10 @@
+Retrieve the headlines of news articles on the target page and save them as a CSV file.
+Extract the categories of news articles on the target page and save them as a CSV file.
+Scrape the company names and products mentioned on the target page and save them as a CSV file.
+Get the descriptions of live now stories on the target page and save them as a CSV file.
+Extract the titles of articles in the "Technology" category on the target page and save them as a CSV file.
+Retrieve the captions of videos on the target page and save them as a CSV file.
+Scrape the titles of articles in the "Business" category on the target page and save them as a CSV file.
+Get the names of authors mentioned on the target page and save them as a CSV file.
+Extract the headlines of articles in the "Crypto" category on the target page and save them as a CSV file.
+Scrape the titles of featured articles on the target page and save them as a CSV file.
