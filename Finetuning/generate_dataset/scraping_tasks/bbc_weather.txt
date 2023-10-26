@@ -1,0 +1,10 @@
+Extract the approach to external linking information and save it as a CSV file.
+Extract the Accessibility Help link and save it as a CSV file.
+Extract the chance of precipitation value and save it as a CSV file.
+Extract the Weather span and save it as a CSV file.
+Extract the Weather Watchers title and save it as a CSV file.
+Extract the Accessibility links title and save it as a CSV file.
+Extract the report for City of Westminster information and save it as a CSV file.
+Extract the recent searches header and save it as a CSV file.
+Extract the remember the places that matter to you title and save it as a CSV file.
+Extract the latest forecast for London heading and save it as a CSV file.

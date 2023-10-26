@@ -1,0 +1,38 @@
+import csv
+from lxml import etree
+
+# Define the target page and local path to the HTML file
+page = 'etsy'
+html_file = 'downloaded_pages/etsy.html'
+
+# Define the HTML elements and their corresponding XPaths
+elements = {
+    "<div class=\"wt-mr-xs-2 wt-ml-xs-2 wt-mr-sm-0 wt-ml-sm-0 wt-ml-md-2 wt-text-body-01 wt-flex-md-auto\">                    Etsy is powered by 100% renew</div>": "/html/body/div[3]/footer/div[3]/div[1]/div/div/div/button/div[2]",
+    "<div></div>": "/html/body/main/div/div[3]/div/div/div",
+    "<span class=\"wb2406677\">vertisement</span> from shop FshnftHazineler": "/html/body/main/div/div[1]/div/div[3]/div[2]/div[2]/div[7]/div/div/div/ol/li[4]/div/div/a/div[2]/p/span[2]/span",
+    "<span class=\"ppke9eh9h wt-screen-reader-only\">From shop SlakeZA</span>": "/html/body/main/div/div[1]/div/div[3]/div[2]/div[2]/div[7]/div/div/div/ol/li[28]/div/div/a/div[2]/p/span[4]",
+    "<label class=\"wt-radio__label wt-display-inline\">        Physical items    </label>": "/html/body/div[5]/div[2]/div/div[2]/div/div/div[1]/div[3]/form/div/div[1]/div[3]/fieldset/div/div/div[2]/label",
+    "<label class=\"wt-label wt-pb-xs-1\">Region</label>": "/html/body/div[3]/footer/div[4]/div/form/div[1]/label",
+    "<a class=\"wt-display-block category-filter--tree-item wt-pl-xs-10 wt-ml-xs-4\">        Rotary Cutters    </a>": "/html/body/div[5]/div[2]/div/div[2]/div/div/div[1]/div[3]/form/div/div[2]/div[2]/ul/li/ul/li[7]/ul/li[5]/ul/li[6]/ul/li[7]/ul/li[7]/ul/li[6]/a",
+    "<a class=\"wt-display-block category-filter--tree-item wt-pl-xs-10\">        Lamp Harps    </a>": "/html/body/div[5]/div[2]/div/div[2]/div/div/div[1]/div[3]/form/div/div[2]/div[2]/ul/li/ul/li[9]/ul/li[12]/ul/li[3]/ul/li[2]/a",
+    "<h1>Your Etsy Privacy Settings</h1>": "/html/body/div[4]/div/div/div[1]/h1",
+    "<h1 class=\"wt-display-block wt-text-left-xs wt-text-center-md wt-mb-xs-2 wt-text-heading\">Men's Hoodies</h1>": "/html/body/main/div/div[1]/div/div[2]/div[1]/div[2]/div/div/h1",
+    "<h3 class=\"wt-text-caption-title wt-display-inline-block wt-pl-xs-2 wt-pr-xs-1\">                                                </h3>": "/html/body/div[5]/div[2]/div/div[2]/div/div/div[1]/div[3]/form/div/div[1]/fieldset[6]/legend/h3",
+    "<h3 class=\"wt-text-caption-title wt-display-inline-block wt-pl-xs-2 wt-pr-xs-1\"> Filter by category </h3>": "/html/body/div[5]/div[2]/div/div[2]/div/div/div[1]/div[3]/form/div/div[1]/div[1]/fieldset/legend/h3",
+    "<p class=\"wt-text-title-01 wt-mb-xs-2\">Yes! Send me exclusive offers, unique gift ideas, </p>": "/html/body/div[3]/footer/div[2]/div/form/div[1]/p",
+    "<p class=\"wt-pl-xs-10 wt-pr-xs-10 wt-pl-sm-10 wt-pr-sm-10 wt-pl-md-0 wt-pr-md-0 wt-pl-lg-0 wt-pr-lg-0 wt-pl-xl-0 wt-pr-xl-0 wt-pl-tv-0 wt-pr-tv-0\">Done</p>": "/html/body/div[5]/div[2]/div/div[1]/div/div[3]/div[2]/div/div[3]/button/p",
+    "<h2 class=\"wt-text-heading wt-text-center-xs\">                Make your collection public?   </h2>": "/html/body/main/div/div[8]/div/div/div[2]/div[2]/div/div[1]/h2",
+    "<h2 class=\"wt-text-title-01 wt-mb-xs-4 appears-ready\">Personalised Advertising</h2>": "/html/body/div[5]/div[2]/div/div[1]/div/div[2]/div/div[4]/div[1]/h2",
+    "<legend class=\"wt-text-title-01 wt-mt-xs-1\">                    Set to private?             </legend>": "/html/body/main/div/div[8]/div/div/div[2]/div[1]/div[3]/div[1]/legend",
+    "<li>analysing site traffic and usage</li>": "/html/body/div[5]/div[2]/div/div[1]/div/div[2]/div/div[1]/ul/li[6]",
+    "<li>basic site functions</li>": "/html/body/div[5]/div[2]/div/div[1]/div/div[2]/div/div[1]/ul/li[1]",
+    "<div class=\"wt-alert wt-alert--inline wt-alert--success-01 wt-display-none wt-text-body-01\">                Great! We've sent you an email to</div>": "/html/body/div[3]/footer/div[2]/div/form/div[5]/div[5]",
+    "<div class=\"wt-grid__item-md-12 wt-pl-xs-3\"></div>": "/html/body/main/div/div[1]/div/div[3]/div[1]/div",
+    "<span class=\"h56kdv9ur\">vertisement</span> by MauiOutdoors": "/html/body/main/div/div[1]/div/div[3]/div[2]/div[2]/div[7]/div/div/div/ol/li[50]/div/div/a/div[2]/p/span[1]/span",
+    "<span id=\"ge-tooltip-label-favorites\">Favourites</span>": "/html/body/div[2]/header/div[4]/nav/ul/li[2]/span/span",
+    "<label class=\"wt-radio__label wt-display-inline\">        200 DKK to 500 DKK    </label>": "/html/body/div[5]/div[2]/div/div[2]/div/div/div[1]/div[3]/form/div/div[1]/div[6]/fieldset/div/div/div[3]/label",
+    "<label class=\"wt-radio__label wt-display-inline\">        Handmade    </label>": "/html/body/div[5]/div[2]/div/div[2]/div/div/div[1]/div[3]/form/div/div[1]/div[8]/fieldset/div/div/div[2]/label",
+    "<a class=\"wt-display-block category-filter--tree-item wt-pl-xs-10 wt-ml-xs-2\">        Matha Pattis    </a>": "/html/body/div[5]/div[2]/div/div[2]/div/div/div[1]/div[3]/form/div/div[2]/div[2]/ul/li/ul/li[1]/ul/li[7]/ul/li[4]/ul/li[2]/ul/li[2]/a",
+    "<a class=\"wt-display-block category-filter--tree-item wt-pl-xs-10\">        Quilting    </a>": "/html/body/div[5]/div[2]/div/div[2]/div/div/div[1]/div[3]/form/div/div[2]/div[2]/ul/li/ul/li[7]/ul/li[5]/ul/li[6]/ul/li[7]/a",
+    "<h3 class=\"wt-text-caption-title wt-display-inline-block wt-pl-xs-2 wt-pr-xs-1\">                                                </h3>": "/html/body/div[5]/div[2]/div/div[2]/div/div/div[1]/div[3]/form/div/div[1]/fieldset[8]/legend/h3",
+    "<h3 class

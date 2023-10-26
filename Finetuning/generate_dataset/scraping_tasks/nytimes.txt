@@ -1,0 +1,11 @@
+Generate a list of web-scraping tasks:
+1. Extract the headlines from the news section and save them as a CSV file.
+2. Scrape the dates of the articles in the main section and save them as a CSV file.
+3. Retrieve the titles of the articles in the "Highlights" section and save them as a CSV file.
+4. Get the labels of the navigation sections and save them as a CSV file.
+5. Extract the captions of the images in the first article and save them as a CSV file.
+6. Scrape the names of the authors of the third article and save them as a CSV file.
+7. Retrieve the titles of the articles in the "Living" section and save them as a CSV file.
+8. Get the text of the advertisement sections and save them as a CSV file.
+9. Extract the titles of the articles in the "Arts" section and save them as a CSV file.
+10. Scrape the titles of the articles in the "Energy Agency" section and save them as a CSV file.

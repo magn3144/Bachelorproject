@@ -1,0 +1,127 @@
+<h1 class="header-loc">Kongens Lyngby, Capital</h1>
+/html/body/div/div[1]/div[1]/div/a[2]/h1
+----------------
+<span class="footer-category-section-link text">RealFeel® and RealFeel Shade™</span>
+/html/body/div/div[11]/div[1]/div[2]/div[2]/div/div[2]/span
+----------------
+<span class="phrase">Mostly cloudy</span>
+/html/body/div/div[7]/div[1]/div[1]/a[1]/div[2]/span[1]
+----------------
+<title id="chevronSVG">Chevron down</title>
+/html/body/div/div[1]/div[1]/div/div/div/div[1]/div/div/div[1]/svg/title
+----------------
+<div class="source-attribute source-attribute__mobile">Contains modified Copernicus Atmosphere Monitoring</div>
+/html/body/div/div[7]/div[1]/div[1]/div[2]/div[3]
+----------------
+<div class="index-status-text">High</div>
+/html/body/div/div[7]/div[1]/div[1]/div[2]/div[2]/div[3]/a[1]/div[4]
+----------------
+<p class="right-rail-article__title">Hurricane Tammy wallops northeast Caribbean island</p>
+/html/body/div/div[7]/div[2]/div/div[2]/div/a[3]/div/p[2]
+----------------
+<p class="right-rail-article__time">3 hours ago</p>
+/html/body/div/div[7]/div[2]/div/div[2]/div/a[1]/div/p[3]
+----------------
+<a class="footer-category-section-link">				AccuWeather APIs			</a>
+/html/body/div/div[11]/div[1]/div[1]/div[1]/div[2]/div[2]/div/a[4]
+----------------
+<a class="footer-category-section-link">				Podcast			</a>
+/html/body/div/div[11]/div[1]/div[2]/div[2]/div/div[2]/a[6]
+----------------
+<h2 class="tooltip-header__title">				Current Air Quality			</h2>
+/html/body/div/div[7]/div[1]/div[1]/div[1]/div/div[3]/div[2]/div/h2
+----------------
+<h2>Today</h2>
+/html/body/div/div[7]/div[1]/div[1]/div[3]/a/div[1]/h2
+----------------
+<h3 class="tooltip-content">			Our current air quality index (AQI) provides i</h3>
+/html/body/div/div[7]/div[1]/div[1]/div[1]/div/div[3]/div[2]/h3
+----------------
+<h3 class="cta-text">Monthly</h3>
+/html/body/div/div[7]/div[1]/div[1]/div[8]/a[3]/h3
+----------------
+<span>			© 2023 AccuWeather, Inc. "AccuWeather" and sun</span>
+/html/body/div/div[11]/div[2]/div[1]/span
+----------------
+<span class="value">Poor</span>
+/html/body/div/div[7]/div[1]/div[1]/a[1]/div[1]/div[2]/div[2]/span[2]
+----------------
+<div class="index-status-phrase">The risk for pest activity is high. Replacing outd</div>
+/html/body/div/div[7]/div[1]/div[1]/div[2]/div[2]/div[3]/a[6]/div[5]
+----------------
+<div class="footer-content-category-header">Apps &amp; Downloads</div>
+/html/body/div/div[11]/div[1]/div[2]/div[3]/div[1]/div[1]
+----------------
+<p class="statement">					The air has reached a high level of pollutio</p>
+/html/body/div/div[7]/div[1]/div[1]/div[1]/div/div[2]/div[2]/p[2]
+----------------
+<p class="right-rail-article__time">2 days ago</p>
+/html/body/div/div[7]/div[2]/div/div[2]/div/a[4]/div/p[3]
+----------------
+<a class="footer-category-section-link">				AccuWeather Connect			</a>
+/html/body/div/div[11]/div[1]/div[1]/div[1]/div[2]/div[2]/div/a[5]
+----------------
+<a class="footer-category-section-link">				Careers			</a>
+/html/body/div/div[11]/div[1]/div[1]/div[1]/div[1]/div[2]/div/a[4]
+----------------
+<h2>Kongens Lyngby Weather Radar</h2>
+/html/body/div/div[7]/div[1]/div[1]/a[2]/div[1]/h2
+----------------
+<h2>Tomorrow</h2>
+/html/body/div/div[7]/div[1]/div[1]/div[5]/a[1]/div[1]/h2
+----------------
+<h3 class="banner-header">						Looking Ahead					</h3>
+/html/body/div/div[7]/div[1]/div[1]/div[5]/a[2]/div/h3
+----------------
+<h3 class="cta-text">Travel</h3>
+/html/body/div/div[1]/div[2]/div[3]/div/a[8]/h3
+----------------
+<span class="footer-category-section-link text">RealFeel® and RealFeel Shade™</span>
+/html/body/div/div[11]/div[1]/div[1]/div[1]/div[2]/div[2]/div/span
+----------------
+<span>News</span>
+/html/body/div/div[1]/div[1]/div/div/div/div[1]/div/div/div[2]/a[2]/span
+----------------
+<div class="index-status-phrase">Conditions for lawn mowing are good. Alternating m</div>
+/html/body/div/div[7]/div[1]/div[1]/div[2]/div[2]/div[3]/a[4]/div[5]
+----------------
+<div class="index-status-text">High</div>
+/html/body/div/div[7]/div[1]/div[1]/div[2]/div[2]/div[3]/a[2]/div[4]
+----------------
+<p class="right-rail-article__title">Billions of crabs went missing around Alaska. Here</p>
+/html/body/div/div[7]/div[2]/div/div[4]/div/a[3]/div/p[2]
+----------------
+<p class="right-rail-article__category">Hurricane</p>
+/html/body/div/div[7]/div[2]/div/div[2]/div/a[5]/div/p[1]
+----------------
+<a class="footer-category-section-link">				Digital Advertising			</a>
+/html/body/div/div[11]/div[1]/div[1]/div[1]/div[1]/div[2]/div/a[3]
+----------------
+<a class="footer-category-section-link">				Android App			</a>
+/html/body/div/div[11]/div[1]/div[2]/div[3]/div[1]/div[2]/a[2]
+----------------
+<h2 class="neighbors-title">Weather Near Kongens Lyngby:</h2>
+/html/body/div/div[10]/div/h2
+----------------
+<h2 class="cur-con-weather-card__title">				Current Weather			</h2>
+/html/body/div/div[7]/div[1]/div[1]/a[1]/div[1]/div[1]/h2
+----------------
+<h3 class="cta-text">Hurricane</h3>
+/html/body/div/div[1]/div[2]/div[3]/a[1]/h3
+----------------
+<span id="mapName">Static Radar</span> Temporarily Unavailable
+/html/body/div/div[7]/div[1]/div[1]/a[2]/div[2]/div/div[1]/span
+----------------
+<span class="accordion-item-header-content">Subscription Services</span>
+/html/body/div/div[11]/div[1]/div[1]/div[1]/div[4]/div[1]/div/span
+----------------
+<div class="index-status-phrase">The risk of dust and dander allergy symptoms is hi</div>
+/html/body/div/div[7]/div[1]/div[1]/div[2]/div[2]/div[3]/a[1]/div[5]
+----------------
+<div class="index-name">Lawn Mowing</div>
+/html/body/div/div[7]/div[1]/div[1]/div[2]/div[2]/div[3]/a[4]/div[2]/div
+----------------
+<p class="right-rail-article__title">Philadelphia's snow drought to end this winter</p>
+/html/body/div/div[7]/div[2]/div/div[2]/div/a[4]/div/p[2]
+----------------
+<p class="right-rail-article__time">3 days ago</p>

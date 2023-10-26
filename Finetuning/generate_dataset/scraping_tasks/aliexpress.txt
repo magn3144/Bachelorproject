@@ -1,0 +1,10 @@
+Extract the title of the product and save it as a CSV file.
+Get the name of the store and save it as a CSV file.
+Retrieve the text of the welcome deal and save it as a CSV file.
+Scrape the content of the global GDPR message and save it as a CSV file.
+Extract the text of the "Scan or click to download" and save it as a CSV file.
+Retrieve the pagination number and save it as a CSV file.
+Get the text of the "AliExpress Multi-Language Sites" and save it as a CSV file.
+Scrape the text of the "Help" section and save it as a CSV file.
+Extract the title and save it as a CSV file.
+Retrieve the text of the "Browse by Category" section and save it as a CSV file.

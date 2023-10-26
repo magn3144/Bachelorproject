@@ -1,0 +1,10 @@
+Extract the category name from the target page and save it as a CSV file.
+Scrape all the thread titles from the target page and save them as a CSV file.
+Get the number of posts in each thread and save them as a CSV file.
+Extract the text of the links in the "Top Contributors this Month" section and save them as a CSV file.
+Scrape the text of the "Recommended Communities" section and save it as a CSV file.
+Get the text of the "Enjoy banner ad-free browsing with AVS Forum Plus" section and save it as a CSV file.
+Extract the text from the "Business Directory" link and save it as a CSV file.
+Scrape the post count from each message card and save it as a CSV file.
+Get the text of the "Explore Our Forums" section and save it as a CSV file.
+Extract the text of the "VerticalScope Inc." section and save it as a CSV file.

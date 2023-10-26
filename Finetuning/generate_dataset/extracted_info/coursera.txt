@@ -1,0 +1,72 @@
+<span class="rc-A11yScreenReaderOnly" id="business~description">menu. Subjects section. Press the right arrow key </span>
+/html/body/div[2]/div/div/span/div[1]/header/div[1]/div/div/div[1]/div[2]/div/div[3]/div/div[1]/div/div/div/nav/div/div/div[1]/div/div/div[2]/ul/li[2]/button/span[2]
+----------------
+<span> </span>
+/html/body/div[2]/div/div/main/div[2]/div/div/div/div/div[2]/div[3]/div[2]/div[8]/a/span[1]
+----------------
+<p class="cds-119 css-dmxkm1 cds-121">Intermediate · Specialization · 3 - 6 Months</p>
+/html/body/div[2]/div/div/main/div[2]/div/div/div/div/div[2]/ul/li[4]/div/div/div/div/div/div[2]/div[3]/div[4]/p
+----------------
+<p class="cds-119 megaMenuSection-title css-ocg21j cds-121" id="Data Science-tab~Certificate programs-title">Certificate programs</p>
+/html/body/div[2]/div/div/span/div[1]/header/div[1]/div/div/div[1]/div[2]/div/div[3]/div/div[1]/div/div/div/nav/div/div/div[2]/div[5]/div/section/div/div[2]/div[1]/div[2]/div/p
+----------------
+<div class="_mml263m megaMenuGoalItem-name">Master of Science in Data Analytics Engineering</div>
+/html/body/div[2]/div/div/span/div[1]/header/div[1]/div/div/div[1]/div[2]/div/div[3]/div/div[1]/div/div/div/nav/div/div/div[2]/div[5]/div/section/div/div[2]/div[1]/div[1]/div/ul/li[2]/div/a/div/div/div[2]
+----------------
+<div class="_mml263m megaMenuGoalItem-name">Master of Public Health</div>
+/html/body/div[2]/div/div/span/div[1]/header/div[1]/div/div/div[1]/div[2]/div/div[3]/div/div[1]/div/div/div/nav/div/div/div[2]/div[10]/div/section/div/div[2]/div[1]/div/div/ul/li[1]/div/a/div/div/div[2]
+----------------
+<a class="_ep80viz rc-SimpleGoalItem">Guided Projects under 2 hours</a>
+/html/body/div[2]/div/div/span/div[1]/header/div[1]/div/div/div[1]/div[2]/div/div[3]/div/div[1]/div/div/div/nav/div/div/div[2]/div[14]/div/section/div/div[2]/div[2]/div[1]/ul/li[3]/div/a
+----------------
+<a class="_ep80viz rc-SimpleGoalItem">Design</a>
+/html/body/div[2]/div/div/span/div[1]/header/div[1]/div/div/div[1]/div[2]/div/div[3]/div/div[1]/div/div/div/nav/div/div/div[2]/div[14]/div/section/div/div[2]/div[2]/div[2]/ul/li[1]/div/a
+----------------
+<title id="cds-react-aria-32-title">Hidden pages</title>
+/html/body/div[2]/div/div/main/div[2]/div/div/div/div/div[2]/div[4]/div/nav/ul/li[7]/div/svg/title
+----------------
+<h2 class="cds-119 css-e7lgfl cds-121">Explore 100% online Degrees and Certificates on Co</h2>
+/html/body/div[2]/div/div/main/div[1]/div/div/section/div/h2
+----------------
+<h3 class="cds-119 css-mu0bf1 cds-121">Post Graduate Certificate in Machine Learning for </h3>
+/html/body/div[2]/div/div/main/div[1]/div/div/section/div/div[1]/div/div/div[19]/div/div/div/a/div/div[2]/h3
+----------------
+<h3 class="cds-119 css-mu0bf1 cds-121">IBM AI Engineering</h3>
+/html/body/div[2]/div/div/main/div[1]/div/div/section/div/div[1]/div/div/div[11]/div/div/div/a/div/div[2]/h3
+----------------
+<span class="rc-CopyrightV2__text">© 2023 Coursera Inc. All rights reserved.</span>
+/html/body/div[2]/div/div/div/footer/div/div/div/div[9]/div/div[1]/span
+----------------
+<span class="_1ww49hw descriptionWithValues-value">Self-paced</span>
+/html/body/div[2]/div/div/span/div[1]/header/div[1]/div/div/div[1]/div[2]/div/div[3]/div/div[1]/div/div/div/nav/div/div/div[2]/div[12]/div/section/div/div[2]/div[1]/div[2]/div/ul/li[2]/div/a/div/div/div[2]/span/span
+----------------
+<p class="cds-119 css-dmxkm1 cds-121">Beginner · Specialization · 1 - 3 Months</p>
+/html/body/div[2]/div/div/main/div[2]/div/div/div/div/div[2]/ul/li[1]/div/div/div/div/div/div[2]/div[3]/div[3]/p
+----------------
+<p class="cds-119 css-dmxkm1 cds-121">IIT Roorkee</p>
+/html/body/div[2]/div/div/main/div[1]/div/div/section/div/div[1]/div/div/div[9]/div/div/div/a/div/div[2]/p
+----------------
+<div class="_mml263m megaMenuGoalItem-name">Bachelor of Arts in Liberal Studies</div>
+/html/body/div[2]/div/div/span/div[1]/header/div[1]/div/div/div[1]/div[2]/div/div[3]/div/div[1]/div/div/div/nav/div/div/div[2]/div[6]/div/section/div/div[2]/div[1]/div[1]/div/ul/li[4]/div/a/div/div/div[2]
+----------------
+<div class="_1ww49hw megaMenuGoalItem-partnerName">Northeastern University </div>
+/html/body/div[2]/div/div/span/div[1]/header/div[1]/div/div/div[1]/div[2]/div/div[3]/div/div[1]/div/div/div/nav/div/div/div[2]/div[8]/div/section/div/div[2]/div[1]/div[1]/div/ul/li[6]/div/a/div/div/div[1]
+----------------
+<a class="css-ypievu">View all MasterTrack Certificates</a>
+/html/body/div[2]/div/div/span/div[1]/header/div[1]/div/div/div[1]/div[2]/div/div[3]/div/div[1]/div/div/div/nav/div/div/div[2]/div[2]/div/section/div/div[2]/div[5]/ul/li[2]/a
+----------------
+<a class="css-jkvm6u">View all degrees</a>
+/html/body/div[2]/div/div/span/div[1]/header/div[1]/div/div/div[1]/div[2]/div/div[3]/div/div[1]/div/div/div/nav/div/div/div[2]/div[5]/div/section/div/div[2]/div[1]/div[1]/div/ul/li[7]/a
+----------------
+<title id="Closea9079819-69dd-401b-8821-84bbb8b48e0c">Close</title>
+/html/body/div[2]/div/div/span/div[1]/header/div[1]/div/div/div[1]/div[2]/div/div[3]/div/div[1]/div/div/div/nav/div/div/div[2]/div[6]/div/section/div/button/span/svg/title
+----------------
+<h2 class="cds-119 css-4a5jgs cds-121">Searches related to machine learning</h2>
+/html/body/div[2]/div/div/main/div[2]/div/div/div/div/div[2]/div[3]/div[1]/h2
+----------------
+<h3 class="cds-119 css-mu0bf1 cds-121">Post Graduate Certificate in Machine Learning for </h3>
+/html/body/div[2]/div/div/main/div[1]/div/div/section/div/div[1]/div/div/div[9]/div/div/div/a/div/div[2]/h3
+----------------
+<h3 class="cds-119 cds-CommonCard-title css-e7lgfl cds-121">Deep Learning</h3>
+/html/body/div[2]/div/div/main/div[2]/div/div/div/div/div[2]/ul/li[4]/div/div/div/div/div/div[2]/div[1]/div[2]/a/h3
+----------------

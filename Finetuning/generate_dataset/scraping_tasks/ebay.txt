@@ -1,0 +1,40 @@
+Get all user information by scraping the "Sign in" link
+Expand the cart and retrieve the cart items
+Extract the text "Results Pagination 
+Retrieve the breadcrumb trail "You are here"
+Scrap the selected country label "Select country"
+Extract the text for "Falkland Islands (Islas Malvinas) 
+Retrieve the text for "Jamaica 
+Scrape the title "Pre-loved is always in style!"
+Extract the text for "Country/Region of Manufacture"
+Retrieve the text for "Brand"
+Get all scooter parts and accessories
+Retrieve the User Agreement link
+Extract the text "Additional site navigation"
+Retrieve the text "Side Refine Panel"
+Scrape the "Enter zip code" label
+Extract the text for "Congo, Democratic Republic of the 
+Retrieve the text for "French Guiana 
+Scrap the "Condition" header
+Extract the "Bids/Offers" link
+Retrieve the subtitle "Timeless staples to love all over again."
+Extract the text "153 Results"
+Retrieve the "Enter your search keyword" label
+Extract the text for "Croatia, Republic of 
+Retrieve the text for "Equatorial Guinea 
+Scrap the "Item Location" header
+Extract the text for "Sports memorabilia"
+Retrieve the "Shop by category" header
+Extract the text "Congo, Republic of the 
+Retrieve the text for "United States"
+Scrape the "Show only" header
+Extract the text for "Announcements"
+Retrieve the text "Saint Vincent and the Grenadines 
+Extract the text for "Slovakia 
+Retrieve the "Buying Format" header
+Extract the text for "Central African Republic 
+Retrieve the text for "Thailand 
+Scrape the breadcrumb trail "Pre-loved is always in style!"
+Extract the text for "Vietnam 
+Retrieve the text for "United Arab Emirates 
+Scrap the region "Europe"

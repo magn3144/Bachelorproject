@@ -7,4 +7,3 @@ Extract the text from the `<li>` element with XPath `/html/body/div[3]/div[4]/di
 Extract the text from the `<h3>` element with XPath `/html/body/div[3]/div[4]/div[2]/div/h3`
 Extract the text from the `<p>` element with XPath `/html/body/div[3]/div[4]/p[1]`
 Extract the text from the `<span>` element with XPath `/html/body/div[3]/div[4]/div[2]/div/div[1]/div[1]/span`
-Extract the text from the `<span>` element with XPath `/html/body/div[3]/div[4]/div[4]/strong/span`

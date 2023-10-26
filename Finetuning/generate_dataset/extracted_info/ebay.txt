@@ -1,0 +1,118 @@
+<a>Sign in</a> to see your user information
+/html/body/div[3]/header/div/ul[2]/li[3]/div/div[1]/div/div[2]/span/a
+----------------
+<a class="gh-acc-exp-a gh-acc-a2 gh-control">Expand Cart</a>
+/html/body/div[3]/header/div/ul[2]/li[6]/div/a[2]
+----------------
+<h2 class="clipped" id="s0-28-9-0-1[0]-0-0-26-14-1-heading">Results Pagination - Page 1</h2>
+/html/body/div[4]/div[4]/div[3]/section/div[2]/nav/span/h2
+----------------
+<h2 class="clipped" id="b-breadcrumb__heading">You are here</h2>
+/html/body/div[4]/div[2]/nav/h2
+----------------
+<label class="floating-label__label">Select country</label>
+/html/body/div[4]/div[4]/div[3]/section/div[1]/div[2]/div[1]/div/div/form/div[1]/div/span/label
+----------------
+<span>Falkland Islands (Islas Malvinas) - FLK</span>
+/html/body/div[4]/div[4]/div[3]/section/div[1]/div[2]/div[1]/div/div/form/div[1]/div/span/div/div[65]/span
+----------------
+<span>Jamaica - JAM</span>
+/html/body/div[4]/div[4]/div[3]/section/div[1]/div[2]/div[1]/div/div/form/div[1]/div/span/div/div[98]/span
+----------------
+<h1 class="title-banner__title">Pre-loved is always in style!</h1>
+/html/body/div[4]/div[2]/section/div[1]/div[2]/h1
+----------------
+<h3 class="x-refine__item">Country/Region of Manufacture</h3>
+/html/body/div[4]/div[3]/div[1]/div/div/div/ul[2]/li[2]/div/h3
+----------------
+<h3 class="x-refine__item">Brand</h3>
+/html/body/div[4]/div[3]/div[1]/div/div/div/ul[2]/li[1]/div/h3
+----------------
+<a class="scnd">Scooter Parts &amp; Accessories</a>
+/html/body/div[3]/header/table/tbody/tr/td[2]/div/div/table/tbody/tr/td[2]/ul[2]/li[4]/a
+----------------
+<a>User Agreement</a>, 
+/html/body/div[6]/footer/div[2]/table/tbody/tr[2]/td[1]/a[2]
+----------------
+<h2 class="gh-ar-hdn">Additional site navigation</h2>
+/html/body/div[6]/footer/h2
+----------------
+<h2 class="clipped" id="b-sidenav__title">Side Refine Panel</h2>
+/html/body/div[4]/div[3]/div[1]/div/header/h2
+----------------
+<label class="floating-label__label floating-label__label--disabled floating-label__label--inline">Enter zip code</label>
+/html/body/div[4]/div[4]/div[3]/section/div[1]/div[2]/div[1]/div/div/form/div[2]/span/label
+----------------
+<span>Congo, Democratic Republic of the - COD</span>
+/html/body/div[4]/div[4]/div[3]/section/div[1]/div[2]/div[1]/div/div/form/div[1]/div/span/div/div[46]/span
+----------------
+<span>French Guiana - GUF</span>
+/html/body/div[4]/div[4]/div[3]/section/div[1]/div[2]/div[1]/div/div/form/div[1]/div/span/div/div[69]/span
+----------------
+<h3 class="x-refine__item">Condition</h3>
+/html/body/div[4]/div[3]/div[1]/div/div/div/ul[2]/li[3]/div/h3
+----------------
+<a class="gh-eb-oa thrd"> Bids/Offers</a>
+/html/body/div[3]/header/div/ul[2]/li[4]/div/div/ul/li[3]/a
+----------------
+<h2 class="title-banner__subtitle">Timeless staples to love all over again.</h2>
+/html/body/div[4]/div[2]/section/div[1]/div[2]/h2
+----------------
+<h2 class="srp-controls__count-heading">153 Results</h2>
+/html/body/div[4]/div[4]/div[3]/section/div[1]/div[1]/div[2]/h2
+----------------
+<label class="gh-ar-hdn">Enter your search keyword</label>
+/html/body/div[3]/header/table/tbody/tr/td[3]/form/table/tbody/tr/td[1]/div[1]/div/label
+----------------
+<span>Croatia, Republic of - HRV</span>
+/html/body/div[4]/div[4]/div[3]/section/div[1]/div[2]/div[1]/div/div/form/div[1]/div/span/div/div[51]/span
+----------------
+<span>Equatorial Guinea - GNQ</span>
+/html/body/div[4]/div[4]/div[3]/section/div[1]/div[2]/div[1]/div/div/form/div[1]/div/span/div/div[61]/span
+----------------
+<h3 class="x-refine__item">Item Location</h3>
+/html/body/div[4]/div[3]/div[1]/div/div/div/ul[2]/li[6]/div/h3
+----------------
+<a class="scnd">Sports memorabilia</a>
+/html/body/div[3]/header/table/tbody/tr/td[2]/div/div/table/tbody/tr/td[1]/ul[1]/li[3]/a
+----------------
+<h2 class="gh-ar-hdn">Shop by category</h2>
+/html/body/div[3]/header/table/tbody/tr/td[2]/div/div/h2
+----------------
+<span>Congo, Republic of the - COG</span>
+/html/body/div[4]/div[4]/div[3]/section/div[1]/div[2]/div[1]/div/div/form/div[1]/div/span/div/div[47]/span
+----------------
+<span class="cbx x-refine__multi-select-cbx">United States</span>
+/html/body/div[4]/div[3]/div[1]/div/div/div/ul[2]/li[2]/ul/li[4]/div/a/span
+----------------
+<h3 class="x-refine__item">Show only</h3>
+/html/body/div[4]/div[3]/div[1]/div/div/div/ul[2]/li[7]/div/h3
+----------------
+<a class="thrd gf-bar-a">Announcements</a>
+/html/body/div[6]/footer/div[2]/table/tbody/tr[1]/td/ul/li[2]/a
+----------------
+<span>Saint Vincent and the Grenadines - VCT</span>
+/html/body/div[4]/div[4]/div[3]/section/div[1]/div[2]/div[1]/div/div/form/div[1]/div/span/div/div[171]/span
+----------------
+<span>Slovakia - SVK</span>
+/html/body/div[4]/div[4]/div[3]/section/div[1]/div[2]/div[1]/div/div/form/div[1]/div/span/div/div[179]/span
+----------------
+<h3 class="x-refine__item">Buying Format</h3>
+/html/body/div[4]/div[3]/div[1]/div/div/div/ul[2]/li[5]/div/h3
+----------------
+<span>Central African Republic - CAF</span>
+/html/body/div[4]/div[4]/div[3]/section/div[1]/div[2]/div[1]/div/div/form/div[1]/div/span/div/div[40]/span
+----------------
+<span>Thailand - THA</span>
+/html/body/div[4]/div[4]/div[3]/section/div[1]/div[2]/div[1]/div/div/form/div[1]/div/span/div/div[194]/span
+----------------
+<span class="b-breadcrumb__text b-link--tertiary truncate">Pre-loved is always in style!</span>
+/html/body/div[4]/div[2]/nav/ol/li[2]/span
+----------------
+<span>Vietnam - VNM</span>
+/html/body/div[4]/div[4]/div[3]/section/div[1]/div[2]/div[1]/div/div/form/div[1]/div/span/div/div[213]/span
+----------------
+<span>United Arab Emirates - ARE</span>
+/html/body/div[4]/div[4]/div[3]/section/div[1]/div[2]/div[1]/div/div/form/div[1]/div/span/div/div[205]/span
+----------------
+<span class="rbx x-refine__single-select-rbx">Europe</span>

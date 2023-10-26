@@ -1,0 +1,109 @@
+<h3 class="ad-feedback__heading__text">CNN values your feedback</h3>
+/html/body/header/div/div[1]/div/form/div[1]/h3
+----------------
+<div class="ad-feedback__question-container">                                                 </div>
+/html/body/header/div/div[1]/div/form/div[2]/div[1]
+----------------
+<div class="container__ads container_vertical-strip__ads"></div>
+/html/body/div[1]/section[3]/section[1]/div/section/div/div/div/div[4]/div/div[2]/div[2]/div[1]
+----------------
+<label class="ad-feedback__emoji-base ad-feedback__emoji-bad"></label>
+/html/body/header/div/div[1]/div/form/div[2]/div[2]/div[1]/label
+----------------
+<span class="container__headline-text">Redistricting fights in these 10 states could dete</span>
+/html/body/div[1]/section[3]/section[1]/div/section/div/div/div/div[4]/div/div[2]/div[1]/div[4]/div/div/div[1]/a/div/div/span
+----------------
+<span class="search-bar__button-text">Search</span>
+/html/body/div[1]/div[5]/div/div/footer/div/div[1]/form/button/span[1]
+----------------
+<title id="closeIconTitle">Close icon</title>
+/html/body/header/div/div[3]/div/div/nav/div/div/div[1]/div[1]/button[2]/svg/title
+----------------
+<a class="subnav__subsection-link">            Fear &amp; Greed          </a>
+/html/body/header/div/div[3]/div/div/nav/div/div/div[2]/div/nav[2]/ul/li[5]/ul/li[4]/a
+----------------
+<a class="subnav__section-link">        Audio      </a>
+/html/body/header/div/div[3]/div/div/nav/div/div/div[2]/div/nav[2]/ul/li[14]/a
+----------------
+<h1 class="headline__text inline-placeholder" id="maincontent">      Politics    </h1>
+/html/body/div[1]/div[2]/section[2]/div/div[1]/h1
+----------------
+<h2 class="product-zone__title product-zone__title">            Paid Partner Content          </h2>
+/html/body/div[1]/section[3]/section[1]/div/section/div/div/div/div[5]/div/div/div/div/h2
+----------------
+<h2 class="container__title-text container_lead-plus-headlines__title-text">What Matters</h2>
+/html/body/div[1]/section[3]/section[1]/div/section/div/div/div/div[2]/div/div[2]/div[1]/div/div/div/div[3]/h2
+----------------
+<figcaption class="image__credit">Anna Moneymaker/Getty Images</figcaption>
+/html/body/div[1]/section[3]/section[1]/div/section/div/div/div/div[1]/div/div[2]/div[1]/div/div/div/div[4]/div/div/div[1]/a[1]/div/div/div/div[2]/figcaption
+----------------
+<figcaption class="image__credit">Getty Images</figcaption>
+/html/body/div[1]/section[3]/section[1]/div/section/div/div/div/div[3]/div/div[2]/div[2]/div[4]/div/div/div[2]/a[1]/div/div/div/div[2]/figcaption
+----------------
+<div class="ad-feedback__submitted__message">                                        Your effo</div>
+/html/body/header/div/div[1]/div/div/div[3]
+----------------
+<div class="headline__options"></div>
+/html/body/div[1]/div[2]/section[2]/div/div[2]/div[2]
+----------------
+<label class="ad-feedback__emoji-base ad-feedback__emoji-not-good"></label>
+/html/body/header/div/div[1]/div/form/div[2]/div[2]/div[2]/label
+----------------
+<span class="container__headline-text">The number one takeaway from Biden’s address</span>
+/html/body/div[1]/section[3]/section[1]/div/section/div/div/div/div[1]/div/div[2]/div[2]/div/div/div/div[4]/div/div/div[5]/a/div/div/span
+----------------
+<span class="card__label-indicator">•</span>Video
+/html/body/div[1]/section[3]/section[1]/div/section/div/div/div/div[1]/div/div[2]/div[3]/div/div[2]/div/div[4]/div/div/div[1]/a[1]/div/div/div[2]/span[2]/span
+----------------
+<a class="subnav__subsection-link">            SCOTUS          </a>
+/html/body/header/div/div[3]/div/div/nav/div/div/div[2]/div/nav[2]/ul/li[3]/ul/li[1]/a
+----------------
+<a class="subnav__section-link">        Coupons      </a>
+/html/body/header/div/div[3]/div/div/nav/div/div/div[2]/div/nav[2]/ul/li[16]/a
+----------------
+<h2 class="zone__title zone--title">CNN Analysis</h2>
+/html/body/div[1]/section[3]/section[1]/div/section/div/div/div/div[2]/div/h2
+----------------
+<figcaption class="image__credit">Kevin Dietsch/Getty Images</figcaption>
+/html/body/div[1]/section[3]/section[1]/div/section/div/div/div/div[3]/div/div[2]/div[1]/div[4]/div/div/div[2]/a[1]/div/div/div/div[2]/figcaption
+----------------
+<figcaption class="image__credit">Jose Luis Magana/AP</figcaption>
+/html/body/div[1]/section[3]/section[1]/div/section/div/div/div/div[1]/div/div[2]/div[3]/div/div[2]/div/div[4]/div/div/div[1]/a[1]/div/div/div[1]/div[2]/figcaption
+----------------
+<div class="ad-feedback__submitted__close" id="ad-feedback__submitted__close">                                        Close   </div>
+/html/body/header/div/div[1]/div/div/div[4]
+----------------
+<div class="ad-feedback-link__label">Ad Feedback</div>
+/html/body/div[1]/section[3]/section[1]/div/section/div/div/div/div[2]/div/div[3]/div/div[2]/div[2]/div
+----------------
+<label class="ad-feedback__emoji-base ad-feedback__emoji-good"></label>
+/html/body/header/div/div[1]/div/form/div[2]/div[2]/div[4]/label
+----------------
+<span class="container__headline-text">How this Congress keeps setting records with its s</span>
+/html/body/div[1]/section[3]/section[1]/div/section/div/div/div/div[4]/div/div[2]/div[1]/div[4]/div/div/div[24]/a/div/div/span
+----------------
+<span class="search-bar__button-text">Search</span>
+/html/body/header/div/div[3]/div/div/nav/div/div/div[2]/div/div[1]/form/button/span[1]
+----------------
+<a class="header__nav-item-dropdown-item">                    Congress                  </a>
+/html/body/header/div/div[3]/div/div/nav/div/div/div[1]/div[1]/nav/div/div[5]/div/a[2]
+----------------
+<a class="subnav__section-link">        Weather      </a>
+/html/body/div[1]/div[5]/div/div/footer/div/div[3]/nav/ul/li[17]/a
+----------------
+<h2 class="container__title-text container_lead-plus-headlines__title-text">Fault Lines</h2>
+/html/body/div[1]/section[3]/section[1]/div/section/div/div/div/div[2]/div/div[2]/div[2]/div/div/div/div[3]/h2
+----------------
+<figcaption class="image__credit">Saul Loeb/AFP/Getty Images</figcaption>
+/html/body/div[1]/section[3]/section[1]/div/section/div/div/div/div[3]/div/div[2]/div[2]/div[4]/div/div/div[1]/a[1]/div/div/div/div[2]/figcaption
+----------------
+<figcaption class="image__credit">Jonathan Ernst/Reuters</figcaption>
+/html/body/div[1]/section[3]/section[1]/div/section/div/div/div/div[2]/div/div[2]/div[1]/div/div/div/div[4]/div/div/div/a[1]/div/div/div/div[2]/figcaption
+----------------
+<div class="ad-feedback__question-container">                                                2</div>
+/html/body/header/div/div[1]/div/form/div[3]/div[1]
+----------------
+<div class="ad-feedback-link__label">Ad Feedback</div>
+/html/body/div[1]/section[3]/section[1]/div/section/div/div/div/div[3]/div/div[3]/div/div[2]/div[2]/div
+----------------
+<label class="ad-feedback__emoji-base ad-feedback__emoji-okay"></label>

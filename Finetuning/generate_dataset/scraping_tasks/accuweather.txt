@@ -1,0 +1,10 @@
+Scrape the current weather forecast for Kongens Lyngby and save it as a CSV file.
+Scrape the RealFeel® and RealFeel Shade™ temperature information and save it as a CSV file.
+Scrape the phrase describing the current weather condition and save it as a CSV file.
+Scrape the title of the page and save it as a CSV file.
+Scrape the source attribute information and save it as a CSV file.
+Scrape the index status text and save it as a CSV file.
+Scrape the title and time of a right-rail article and save them as a CSV file.
+Scrape the footer category section links and save them as a CSV file.
+Scrape the current air quality information and save it as a CSV file.
+Scrape the index status phrase and save it as a CSV file.

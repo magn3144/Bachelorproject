@@ -1,0 +1,10 @@
+Scrape all product names and prices from the target page and save them as a CSV file.
+Extract all advertisement texts from the target page and save them as a CSV file.
+Retrieve all shop names from the target page and save them as a CSV file.
+Collect all category filter options from the target page and save them as a CSV file.
+Get the text content of the privacy settings title on the target page and save it as a CSV file.
+Retrieve the text content of the men's hoodies title on the target page and save it as a CSV file.
+Extract the text content of the "Done" button on the target page and save it as a CSV file.
+Retrieve the text content of the "Make your collection public?" question on the target page and save it as a CSV file.
+Collect the text content of the "Personalized Advertising" title on the target page and save it as a CSV file.
+Extract the text content of the "Set to private?" legend on the target page and save it as a CSV file.

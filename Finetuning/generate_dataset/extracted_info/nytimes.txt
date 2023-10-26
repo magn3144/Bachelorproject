@@ -1,0 +1,115 @@
+<a class="css-1u3p7j1">The hope and hype of hydrogen</a>
+/html/body/div/div[2]/main/section/div[1]/section[2]/ol/li[2]/div/div/p[1]/a
+----------------
+<a class="css-wbbhzv">Headway</a>
+/html/body/div/div[2]/nav/div/div[2]/div/section[5]/ul/li[5]/a
+----------------
+<span class="css-1dv1kvn">Credit</span>Vatican Media, via Reuters
+/html/body/div/div[2]/main/section/div[1]/section[2]/ol/li[5]/div/figure/figcaption/span/span
+----------------
+<span class="">Oct. 24, 2023</span>
+/html/body/div/div[2]/main/section/div[2]/div/section/div[1]/ol/li[5]/div/div/span
+----------------
+<p class="css-1xis0cg e1y0a3kv1">Unchecked overuse is draining and damaging aquifer</p>
+/html/body/div/div[2]/main/section/div[1]/section[1]/div[2]/div/ol/li[1]/div/div/p[2]
+----------------
+<p>Supported by</p>
+/html/body/div/div[2]/main/section/header/div/div[1]/div/div/div[1]/p
+----------------
+<h1 class="css-14dhlt9 e16wpn5v0">Climate and Environment</h1>
+/html/body/div/div[2]/main/section/header/div/div[2]/div/div/h1
+----------------
+<h2 class="css-1dv1kvn">Site Information Navigation</h2>
+/html/body/div/div[2]/footer/nav/h2
+----------------
+<h2 class="css-1dv1kvn">Highlights</h2>
+/html/body/div/div[2]/main/section/div[1]/section[1]/div[1]/h2
+----------------
+<label id="search-tab-label">Search</label>
+/html/body/div/div[2]/main/section/div[2]/div/nav/ul/li[2]/a/form/div/div[1]/label
+----------------
+<h3 class="css-1kv6qi e15t083i0">Inside Poland Spring’s Hidden Attack on Water Rule</h3>
+/html/body/div/div[2]/main/section/div[2]/div/section/div[1]/ol/li[1]/div/article/a/h3
+----------------
+<h3 class="css-1onhbft" id="site-index-section-label-2">Arts</h3>
+/html/body/div/div[2]/nav/div/div[2]/div/section[3]/h3
+----------------
+<a class="css-1u3p7j1">Gavin Newsom Wants to Export California’s Climate </a>
+/html/body/div/div[2]/main/section/div[1]/section[1]/div[1]/ol/li[1]/article/div/h3/a
+----------------
+<a class="css-e9w26l">Graphics</a>
+/html/body/div/div[2]/nav/div/div[1]/div/div[5]/div/ul/li[10]/a
+----------------
+<span class="css-1dv1kvn">Credit</span>Tamir Kalifa for The New York Times
+/html/body/div/div[2]/main/section/div[1]/section[1]/div[1]/ol/li[3]/ol/li[1]/article/figure/figcaption/span/span
+----------------
+<span class="css-1n7hynb">Brooke Jarvis</span>
+/html/body/div/div[2]/main/section/div[2]/div/section/div[1]/ol/li[9]/div/article/div[2]/p/span
+----------------
+<p class="css-1pga48a e15t083i1">When Maine lawmakers tried to tighten regulations </p>
+/html/body/div/div[2]/main/section/div[2]/div/section/div[1]/ol/li[1]/div/article/p
+----------------
+<p>Advertisement</p>
+/html/body/div/div[2]/main/section/div[2]/div/section/div[2]/div[1]/div[1]/p
+----------------
+<h2 class="css-1nu0qi8 e199n1pr0">Follow Us</h2>
+/html/body/div/div[2]/main/section/div[2]/div/section/div[2]/aside/header/h2
+----------------
+<h3 class="css-1kv6qi e15t083i0">Energy Agency Sees Peaks in Global Oil, Coal and G</h3>
+/html/body/div/div[2]/main/section/div[2]/div/section/div[1]/ol/li[6]/div/article/a/h3
+----------------
+<h3 class="css-1onhbft" id="site-index-section-label-3">Living</h3>
+/html/body/div/div[2]/nav/div/div[2]/div/section[4]/h3
+----------------
+<a class="css-1u3p7j1">E.V. Range Anxiety: A Case Study</a>
+/html/body/div/div[2]/main/section/div[1]/section[2]/ol/li[1]/div/div/p[1]/a
+----------------
+<a class="css-e9w26l">Books</a>
+/html/body/div/div[2]/nav/div/div[1]/div/div[3]/div/ul/li[3]/a
+----------------
+<span class="css-1dv1kvn">Credit</span>Michael Casey/Associated Press
+/html/body/div/div[2]/main/section/div[1]/section[1]/div[1]/ol/li[3]/ol/li[2]/article/figure/figcaption/span/span
+----------------
+<span class="">Oct. 24, 2023</span>
+/html/body/div/div[2]/main/section/div[2]/div/section/div[1]/ol/li[6]/div/div/span
+----------------
+<p class="css-1xis0cg e1y0a3kv1">A dearth of charging stations makes road trips dic</p>
+/html/body/div/div[2]/main/section/div[1]/section[2]/ol/li[1]/div/div/p[2]
+----------------
+<p>Advertisement</p>
+/html/body/div/div[2]/main/section/div[1]/div/div[1]/p
+----------------
+<h2 class="css-1dv1kvn" id="site-index-label">Site Index</h2>
+/html/body/div/div[2]/nav/h2
+----------------
+<h3 class="css-1kv6qi e15t083i0">See You Later, Not-an-Alligator</h3>
+/html/body/div/div[2]/main/section/div[2]/div/section/div[1]/ol/li[5]/div/article/a/h3
+----------------
+<h3 class="css-1onhbft" id="site-index-section-label-0">news</h3>
+/html/body/div/div[2]/nav/div/div[2]/div/section[1]/h3
+----------------
+<a class="css-1u3p7j1">Have Climate Questions? Get Answers Here.</a>
+/html/body/div/div[2]/main/section/div[1]/section[1]/div[2]/div/ol/li[4]/div/div/p[1]/a
+----------------
+<a class="css-e9w26l">Wirecutter</a>
+/html/body/div/div[2]/nav/div/div[1]/div/div[5]/div/ul/li[3]/a
+----------------
+<span class="css-1baulvz last-byline">The New York Times Climate Desk</span>
+/html/body/div/div[2]/main/section/div[1]/section[1]/div[2]/div/ol/li[4]/div/div/p[3]/span[3]/span
+----------------
+<span class="css-1dv1kvn">SEARCH</span>
+/html/body/div/div[1]/div/header/section[1]/div[1]/div[2]/button/span
+----------------
+<p class="css-1xis0cg e1y0a3kv1">Exxon’s $60 billion acquisition doubles down on oi</p>
+/html/body/div/div[2]/main/section/div[1]/section[2]/ol/li[3]/div/div/p[2]
+----------------
+<p>Advertisement</p>
+/html/body/div/div[2]/main/section/div[2]/div/section/div[2]/div[2]/div[1]/p
+----------------
+<h3 class="css-1kv6qi e15t083i0">‘It’s Like Our Country Exploded’: Canada’s Year of</h3>
+/html/body/div/div[2]/main/section/div[2]/div/section/div[1]/ol/li[2]/div/article/a/h3
+----------------
+<h3 class="css-1onhbft" id="site-index-subscribe-label">Subscribe</h3>
+/html/body/div/div[2]/nav/div/div[2]/div/div/h3
+----------------
+<a class="css-1u3p7j1">This Guide Can Help You Save Money and Fight Clima</a>

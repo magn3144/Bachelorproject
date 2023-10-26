@@ -1,0 +1,130 @@
+<h1 class="manhattan--titleText--WccSjUS">KAMRUI GK3Plus Mini PC Intel 12th Gen N95 DDR4 16G</h1>
+/html/body/div[6]/div[1]/div/div[2]/div/div[2]/div[3]/a[18]/div[2]/div[3]/h1
+----------------
+<h1>Aliexpress</h1>
+/html/body/div[1]/h1
+----------------
+<a>Thai</a>,                         
+/html/body/div[7]/div/div[1]/div[2]/dl/dd/a[11]
+----------------
+<a class="cards--storeLink--1_xx4cD">A Men Store</a>
+/html/body/div[6]/div[1]/div/div[2]/div/div[2]/div[3]/a[34]/div[2]/span/a
+----------------
+<span class="sort--sortContent--cl7i27p">Ads may influence the rankings, see here how we or</span>
+/html/body/div[6]/div[1]/div/div[2]/div/div[2]/div[2]/div[1]/span/span[2]
+----------------
+<span class="tag--text--2VtIxqd tag--textStyle--vcAi3Rh">Welcome deal</span>
+/html/body/div[6]/div[1]/div/div[2]/div/div[2]/div[3]/a[20]/div[2]/div[2]/div/span
+----------------
+<p class="flyout-welcome-text">Welcome to AliExpress.com</p>
+/html/body/div[3]/div/div[2]/div[5]/div[3]/div/div/div/p
+----------------
+<p class="flyout-welcome-wrap">Welcome to AliExpress!</p>
+/html/body/div[3]/div/div[2]/div[5]/div[3]/div/div/p[1]
+----------------
+<div class="global-gdpr-content">We use cookies and similar tools to provide our se</div>
+/html/body/div[10]/div/div[1]
+----------------
+<div>Scan or click to download</div>
+/html/body/div[6]/div[1]/div/div[1]/div[8]/a/div
+----------------
+<li class="pagination--paginationLink--2ucXUo6">5</li>
+/html/body/div[6]/div[1]/div/div[2]/div/div[2]/div[4]/div[1]/ul/li[6]
+----------------
+<dt>AliExpress Multi-Language Sites</dt>
+/html/body/div[7]/div/div[1]/div[2]/dl/dt
+----------------
+<dt>Help</dt>
+/html/body/div[7]/div/div[1]/div[1]/dl/dt
+----------------
+<h3 class="global-gdpr-title">Our site uses cookies</h3>
+/html/body/div[10]/div/h3
+----------------
+<h1 class="manhattan--titleText--WccSjUS">2.5G Soft Router Intel Pentium Gold 7505 Dual Core</h1>
+/html/body/div[6]/div[1]/div/div[2]/div/div[2]/div[3]/a[43]/div[2]/div[2]/h1
+----------------
+<a>BLACK FRIDAY</a>,                             
+/html/body/div[7]/div/div[2]/dl/dd/span/a[9]
+----------------
+<a>Report IPR infringement</a>
+/html/body/div[3]/div/div[2]/div[3]/div[1]/ul/li[3]/a
+----------------
+<span class="logo-base">Smarter Shopping, Better Living!</span>
+/html/body/div[5]/div/div[1]/div[2]/a/span
+----------------
+<span>.</span>
+/html/body/div[6]/div[1]/div/div[2]/div/div[2]/div[3]/a[41]/div[2]/div[1]/div[1]/span[5]
+----------------
+<div class="download_right_tip">Scan the QR code to download</div>
+/html/body/div[9]/div/div[3]/div[2]/div[1]
+----------------
+<div class="view-container--title--3rbtHFt">Memory Capacity</div>
+/html/body/div[6]/div[1]/div/div[1]/div[5]/div[1]
+----------------
+<li class="pagination--paginationLink--2ucXUo6">3</li>
+/html/body/div[6]/div[1]/div/div[2]/div/div[2]/div[4]/div[1]/ul/li[4]
+----------------
+<dt>Browse by Category</dt>
+/html/body/div[7]/div/div[2]/dl/dt
+----------------
+<h1 class="manhattan--titleText--WccSjUS">OPS 11 Mini PC intel Core i7 2670QM 8G RAM 256GB S</h1>
+/html/body/div[6]/div[1]/div/div[2]/div/div[2]/div[3]/a[38]/div[2]/div[2]/h1
+----------------
+<a>Taobao Marketplace</a>,                     
+/html/body/div[7]/div/div[3]/dl/dd/a[11]
+----------------
+<a>I'm shopping for...</a>
+/html/body/div[1]/ul/li/a
+----------------
+<span class="tag--text--2VtIxqd tag--textStyle--vcAi3Rh">Welcome deal</span>
+/html/body/div[6]/div[1]/div/div[2]/div/div[2]/div[3]/a[25]/div[2]/div[2]/div/span
+----------------
+<div class="download_header_title">Download the AliExpress app</div>
+/html/body/div[9]/div/div[1]/div
+----------------
+<div class="appScan--g--SB8CAI4">Search Anywhere, Anytime!</div>
+/html/body/div[6]/div[1]/div/div[1]/div[8]/div[2]
+----------------
+<li class="pagination--paginationLink--2ucXUo6">6</li>
+/html/body/div[6]/div[1]/div/div[2]/div/div[2]/div[4]/div[1]/ul/li[7]
+----------------
+<dt>Alibaba Group</dt>
+/html/body/div[7]/div/div[3]/dl/dt
+----------------
+<h1 class="manhattan--titleText--WccSjUS">Mini PC Intel Celeron J3455 Quad core 4 LAN Gigabi</h1>
+/html/body/div[6]/div[1]/div/div[2]/div/div[2]/div[3]/a[42]/div[2]/div[2]/h1
+----------------
+<a>Report IPR infringement</a>,                        
+/html/body/div[7]/div/div[1]/div[1]/dl/dd/a[4]
+----------------
+<a class="cards--storeLink--1_xx4cD">XCY Official Store</a>
+/html/body/div[6]/div[1]/div/div[2]/div/div[2]/div[3]/a[5]/div[2]/span/a
+----------------
+<span>869</span>
+/html/body/div[6]/div[1]/div/div[2]/div/div[2]/div[3]/a[24]/div[2]/div[1]/div[1]/span[4]
+----------------
+<div>&lt; img src="https://mc.yandex.ru/watch/29739640" st</div>
+/html/body/noscript[2]/div
+----------------
+<div class="view-container--title--3rbtHFt">Brands</div>
+/html/body/div[6]/div[1]/div/div[1]/div[2]/div[1]
+----------------
+<li class="pagination--paginationLink--2ucXUo6">7</li>
+/html/body/div[6]/div[1]/div/div[2]/div/div[2]/div[4]/div[1]/ul/li[8]
+----------------
+<h1 class="manhattan--titleText--WccSjUS">Beelink Mini S Intel 11th Gen N5095 Mini PC N100 S</h1>
+/html/body/div[6]/div[1]/div/div[2]/div/div[2]/div[3]/a[13]/div[2]/div[4]/h1
+----------------
+<a>Tmall</a>,                     
+/html/body/div[7]/div/div[3]/dl/dd/a[12]
+----------------
+<a>Polish</a>
+/html/body/div[7]/div/div[1]/div[2]/dl/dd/a[15]
+----------------
+<span>.</span>
+/html/body/div[6]/div[1]/div/div[2]/div/div[2]/div[3]/a[34]/div[2]/div[1]/div[1]/span[5]
+----------------
+<div class="appScan--t--jdodoSp">AliExpress Mobile App</div>
+/html/body/div[6]/div[1]/div/div[1]/div[8]/div[1]
+----------------
+<li class="pagination--paginationLink--2ucXUo6 pagination--isActive--58C6XTV">1</li>

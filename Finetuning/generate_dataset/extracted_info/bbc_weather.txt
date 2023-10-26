@@ -1,0 +1,109 @@
+<a class="orb-hilight">Read about our approach to external linking.</a>
+/html/body/div[9]/footer/div/div/div/small/span/a
+----------------
+<a>Accessibility Help</a>
+/html/body/div[9]/footer/div/div/div/ul/li[7]/a
+----------------
+<span class="wr-time-slot-secondary__chance-of-rain-value">High chance of precipitation</span>
+/html/body/div[8]/div/div[4]/div/div/div[4]/div/div[1]/div[2]/div/div/div/div[2]/ol/li[7]/button/div[2]/div/div/div[3]/span
+----------------
+<span>Weather</span>
+/html/body/div[7]/header/div/div/nav[2]/ul/li[10]/a/span
+----------------
+<h2 class="wr-c-weather-watchers__title gel-double-pica-bold gs-u-mt0 gs-u-mb+">Our favourite Weather Watchers photos nearby</h2>
+/html/body/div[8]/div/div[7]/div/h2
+----------------
+<h2>Accessibility links</h2>
+/html/body/div[7]/header/div/div/section/div/h2
+----------------
+<p class="gs-u-vh">Report for City of Westminster, Greater London</p>
+/html/body/div[8]/div/div[7]/div/div/div[4]/a/p
+----------------
+<p class="gel-long-primer" id="recent-locations-header">Recent searches</p>
+/html/body/div[8]/div/div[1]/div/div/div[2]/div/div/div/div[5]/div[3]/div[1]/div/div/p
+----------------
+<h4 class="gel-double-pica-bold" id="weather-search-title">Remember the places that matter to you</h4>
+/html/body/div[8]/div/div[1]/div/div/div[2]/div/div/div/div[5]/div[2]/div/div/h4
+----------------
+<h3 class="ssrcss-axlwsg-StyledHeading e10rt3ze0">Latest forecast for London</h3>
+/html/body/div[8]/div/div[5]/div/div/div/div[2]/div[2]/h3
+----------------
+<h3 class="wr-hide-visually">Environmental Summary</h3>
+/html/body/div[8]/div/div[4]/div/div/div[2]/div/h3
+----------------
+<div class="wr-day__weather-type-description wr-js-day-content-weather-type-description wr-day__content__weather-type-description--opaque">Light rain and a gentle breeze</div>
+/html/body/div[8]/div/div[4]/div/div/div[1]/div[3]/div/div/div/div/div/ol/li[9]/a/div[4]/div[2]/div
+----------------
+<div class="weathermap__marker__content__title">Aldeburgh</div>
+/html/body/div[8]/div/section/div[1]/div[1]/div[1]/div[8]/div[68]/div[2]/div[1]
+----------------
+<dt class="wr-time-slot-secondary__label">Visibility</dt>
+/html/body/div[8]/div/div[4]/div/div/div[4]/div/div[1]/div[2]/div/div/div/div[2]/ol/li[4]/button/div[2]/div/div/div[1]/dl/dt[3]
+----------------
+<dd class="wr-time-slot-secondary__value gel-long-primer-bold">1003 mb</dd>
+/html/body/div[8]/div/div[4]/div/div/div[4]/div/div[1]/div[2]/div/div/div/div[2]/ol/li[12]/button/div[2]/div/div/div[1]/dl/dd[2]
+----------------
+<label class="ssrcss-1thronh-StyledLabel elk9bq90">Wind speed</label>
+/html/body/div[8]/div/div[9]/div/div/ul/li[3]/div/div/label
+----------------
+<a>Make an editorial complaint</a>
+/html/body/div[9]/footer/div/div/div/ul/li[10]/a
+----------------
+<a>Privacy Policy</a>
+/html/body/div[9]/footer/div/div/div/ul/li[3]/a
+----------------
+<span class="wr-time-slot-secondary__chance-of-rain-value">Precipitation is not expected</span>
+/html/body/div[8]/div/div[4]/div/div/div[4]/div/div[1]/div[2]/div/div/div/div[2]/ol/li[14]/button/div[2]/div/div/div[3]/span
+----------------
+<span class="wr-c-map__temperature-c">15</span>
+/html/body/div[8]/div/section/div[1]/div[1]/div[1]/div[8]/div[3]/div[2]/div[2]/div[1]/span[1]
+----------------
+<h2 class="ssrcss-q4zz1q-StyledHeading e10rt3ze0">To play this video you need to enable JavaScript i</h2>
+/html/body/div[8]/div/div[5]/div/div/div/div[2]/div[1]/div[1]/noscript/div/div/h2
+----------------
+<h2 class="ssrcss-q4zz1q-StyledHeading e10rt3ze0">Forecast for London</h2>
+/html/body/div[8]/div/div[5]/div/div/div/div[1]/div/div/div/h2
+----------------
+<p class="gs-u-vh">Report for Wapping, Greater London</p>
+/html/body/div[8]/div/div[7]/div/div/div[1]/a/p
+----------------
+<p class="header playback_settings_header">Playback settings</p>
+/html/body/div[8]/div/div[5]/div/div/div/div[2]/div[1]/div[1]/div/div/div/smp-toucan-player/template/smp-video-layout/template/div/smp-playback-settings-panel/template/div/div[2]/div[2]/div/div/div[1]/p
+----------------
+<h3 class="ssrcss-1i4jo15-VisuallyHiddenH3 e1it46og1">Latest forecast from BBC London</h3>
+/html/body/div[8]/div/div[5]/div/div/div/div[2]/div[1]/h3
+----------------
+<h3 class="wr-hide-visually">Sunrise Sunset</h3>
+/html/body/div[8]/div/div[4]/div/div/div[4]/div/div[1]/div[4]/div/div[8]/div[1]/h3
+----------------
+<div class="wr-day__details__weather-type-description">Light rain showers and a gentle breeze</div>
+/html/body/div[8]/div/div[4]/div/div/div[1]/div[3]/div/div/div/div/div/ol/li[12]/a/div[4]/div[1]/div/div[1]
+----------------
+<div class="wr-hide-visually">, </div>
+/html/body/div[8]/div/div[4]/div/div/div[1]/div[3]/div/div/div/div/div/ol/li[4]/a/div[4]/div[1]/div/div[3]
+----------------
+<dt class="wr-time-slot-secondary__label">Humidity</dt>
+/html/body/div[8]/div/div[4]/div/div/div[4]/div/div[1]/div[2]/div/div/div/div[2]/ol/li[6]/button/div[2]/div/div/div[1]/dl/dt[1]
+----------------
+<dd class="wr-time-slot-secondary__value gel-long-primer-bold">1002 mb</dd>
+/html/body/div[8]/div/div[4]/div/div/div[4]/div/div[1]/div[2]/div/div/div/div[2]/ol/li[14]/button/div[2]/div/div/div[1]/dl/dd[2]
+----------------
+<label class="ssrcss-1thronh-StyledLabel elk9bq90">Temperature</label>
+/html/body/div[8]/div/div[9]/div/div/ul/li[2]/div/div/label
+----------------
+<a>Do not share or sell my info</a>
+/html/body/div[9]/footer/div/div/div/ul/li[13]/a
+----------------
+<a>Privacy Policy</a>
+/html/body/div[9]/footer/div/div/div/ul/li[4]/a
+----------------
+<span class="wr-hide">Light rain showers and a moderate breeze</span>
+/html/body/div[8]/div/div[4]/div/div/div[1]/div[4]/div/span[8]
+----------------
+<span class="wr-c-astro-data__label gs-u-pr-">Sunrise</span>
+/html/body/div[8]/div/div[4]/div/div/div[2]/div/div[9]/div[1]/span[1]/span[1]
+----------------
+<h2 class="ssrcss-q4zz1q-StyledHeading e10rt3ze0">Settings</h2>
+/html/body/div[8]/div/div[9]/div/div/div/div/div/div/h2
+----------------
+<p class="ssrcss-1q0x1qg-Paragraph e1jhz7w10">This evening will become overcast and wet as heavy</p>

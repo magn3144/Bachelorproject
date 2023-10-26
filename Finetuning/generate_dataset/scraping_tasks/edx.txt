@@ -1,0 +1,10 @@
+Get the text of the "Browse online artificial intelligence courses" link and save it as a CSV file.
+Get the text of the "see more Courses" link and save it as a CSV file.
+Get the text of the "Delft University of Technology" span and save it as a CSV file.
+Get the text of the "Google Cloud Computing" span and save it as a CSV file.
+Get the text of the "Artificial intelligence (AI) is used for everythin" div and save it as a CSV file.
+Get the text of the "Boot Camps" div and save it as a CSV file.
+Get the text of the "EARN YOUR ONLINE GRADUATE DEGREE" heading and save it as a CSV file.
+Get the text of the "Executive Education" heading and save it as a CSV file.
+Get the text of the "The level of education required for artificial int" paragraph and save it as a CSV file.
+Get the text of the "AI project manager" paragraph and save it as a CSV file.

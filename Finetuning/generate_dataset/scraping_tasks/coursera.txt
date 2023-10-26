@@ -1,0 +1,11 @@
+Generate a list of web scraping tasks:
+1. Extract the menu items from the Subjects section and save them as a CSV file.
+2. Retrieve the text content from the <span> element and save it as a CSV file.
+3. Scrape the duration and specialization information from the <p> tag and save it as a CSV file.
+4. Get the title of certificate programs and save them as a CSV file.
+5. Extract the names of different graduate programs and save them as a CSV file.
+6. Scrape the names of different undergraduate programs and save them as a CSV file.
+7. Retrieve the names of guided projects and save them as a CSV file.
+8. Extract the names of different design-related items and save them as a CSV file.
+9. Scrape the hidden pages and save them as a CSV file.
+10. Retrieve the names of online degrees and certificates and save them as a CSV file.

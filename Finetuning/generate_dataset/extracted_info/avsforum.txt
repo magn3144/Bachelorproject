@@ -1,0 +1,106 @@
+<span>HDMI Q&amp;A - The One Connector World</span>
+/html/body/div[1]/div[3]/div/ul/li[4]/a/span
+----------------
+<span>2K</span>
+/html/body/div[1]/div[4]/div/div/div/div/div/div[1]/div[4]/div[2]/div/ol/li[5]/div/div/div[2]/ul/li[1]/span
+----------------
+<a>                                HDMI 2.1 FRL and </a>
+/html/body/div[1]/div[4]/div/div/div/div/div/div[1]/div[4]/div[2]/div/ol/li[3]/div/div/div[1]/div[1]/div/a
+----------------
+<a class="button actionBar-action california-reply-button button--actionSet js-reply-button">Reply</a>
+/html/body/div[1]/div[4]/div/div/div/div/div/div[1]/div[3]/div[4]/div/div[12]/div/div[2]/div[1]/a
+----------------
+<div class="bbWrapper">I never trust an atom, they make up everything.</div>
+/html/body/div[1]/div[4]/div/div/div/div/div/div[1]/div[3]/div[4]/div/div[2]/div/div[1]/div[2]/aside/div[1]/div
+----------------
+<div class="MessageCard__thread-prefix prefix"></div>
+/html/body/div[1]/div[4]/div/div/div/div/div/div[1]/div[1]/div/header/div[1]/div
+----------------
+<h1 class="MessageCard__thread-title">Can the HDMI plugs go bad? Is it possible to use a</h1>
+/html/body/div[1]/div[4]/div/div/div/div/div/div[1]/div[1]/div/header/div[1]/h1
+----------------
+<p>Enjoy banner ad-free browsing with AVS Forum Plus</p>
+/html/body/div[1]/div[4]/div/div/div/div/div/div[2]/aside/p
+----------------
+<h3 class="title">Top Contributors this Month</h3>
+/html/body/div[1]/div[4]/div/div/div/div/div/div[2]/div[3]/div/div[2]/h3
+----------------
+<li>VerticalScope Inc., 111 Peter Street, Suite 600, </li>
+/html/body/div[1]/footer/div/div[1]/div[4]/div/ul/li
+----------------
+<span>HDMI Q&amp;A - The One Connector World</span>
+/html/body/div[1]/div[5]/div/ul/li[4]/a/span
+----------------
+<span class="search-context--plain-colour">in</span> this thread
+/html/body/div[1]/header/div/div/div[2]/form/div[1]/div/div/a[2]/span/span
+----------------
+<a class="link link--external fauxBlockLink-blockLink">Samsung 7th Generation Line of LCD HDTVs</a>
+/html/body/div[1]/div[4]/div/div/div/div/div/div[1]/div[3]/div[4]/div/div[13]/div/div[1]/div[1]/div/div/div[1]/div/div/div[2]/h3/a
+----------------
+<a class="MessageCard__collapse-link MessageCard__collapse-more reply js-messageCard-collapseToggle">See more</a>
+/html/body/div[1]/div[4]/div/div/div/div/div/div[1]/div[3]/div[4]/div/div[13]/div/div[1]/div[1]/div/a[2]
+----------------
+<div class="bbWrapper">Replace the tv. It's time. Yes, HDMI ports, like a</div>
+/html/body/div[1]/div[4]/div/div/div/div/div/div[1]/div[3]/div[4]/div/div[2]/div/div[1]/div[1]/div/div/div[1]
+----------------
+<div class="explore-our-forums-title">Explore Our Forums</div>
+/html/body/div[1]/div[4]/div/div/div/div/div/div[2]/div[2]/div[2]/div[1]
+----------------
+<li>The Fora platform includes forum software by XenFo</li>
+/html/body/div[1]/footer/div/div[1]/div[3]/div/ul/li
+----------------
+<span class="MessageCard__dot-separator">·</span>
+/html/body/div[1]/div[4]/div/div/div/div/div/div[1]/div[3]/div[4]/div/div[1]/div/header/div[2]/div[2]/span[2]
+----------------
+<a>                                HDMI vs Ethernet </a>
+/html/body/div[1]/div[4]/div/div/div/div/div/div[1]/div[4]/div[2]/div/ol/li[4]/div/div/div[1]/div[1]/div/a
+----------------
+<a class="bold sidebar-member-link mb-10">View All</a>
+/html/body/div[1]/div[4]/div/div/div/div/div/div[2]/div[3]/div/div[2]/a
+----------------
+<div class="bbWrapper">That TV might be HDMI 1.2 which is 4.95 Gb/s. A lo</div>
+/html/body/div[1]/div[4]/div/div/div/div/div/div[1]/div[3]/div[4]/div/div[14]/div/div[1]/div[1]/div/div/div[1]
+----------------
+<div class="MessageCard__reactions"></div>
+/html/body/div[1]/div[4]/div/div/div/div/div/div[1]/div[3]/div[4]/div/div[8]/div/div[2]/div[4]
+----------------
+<li>When you purchase through links on our site, we ma</li>
+/html/body/div[1]/footer/div/div[1]/div[2]/div/ul/li
+----------------
+<span>845</span>
+/html/body/div[1]/div[4]/div/div/div/div/div/div[1]/div[4]/div[2]/div/ol/li[2]/div/div/div[2]/ul/li[2]/span
+----------------
+<a>                                HDMI is broken on</a>
+/html/body/div[1]/div[4]/div/div/div/div/div/div[1]/div[4]/div[2]/div/ol/li[5]/div/div/div[1]/div[1]/div/a
+----------------
+<a class="MessageCard__post-position">#2</a>
+/html/body/div[1]/div[4]/div/div/div/div/div/div[1]/div[3]/div[4]/div/div[1]/div/div[1]/div[1]/div/div/span/a[1]
+----------------
+<div class="contentRow-snippet js-unfurl-desc">State-of-The-Art 92, 95, and 96 Series LCD HDTVs S</div>
+/html/body/div[1]/div[4]/div/div/div/div/div/div[1]/div[3]/div[4]/div/div[13]/div/div[1]/div[1]/div/div/div[1]/div/div/div[2]/div[1]
+----------------
+<div class="hide-signature"></div>
+/html/body/div[1]/div[4]/div/div/div/div/div/div[1]/div[3]/div[4]/div/div[14]/div/div[1]/div[2]
+----------------
+<span class="copyright">© 2010-2019 XenForo Ltd.</span>
+/html/body/div[1]/footer/div/div[3]/a/span
+----------------
+<a>                                HDMI splitter tha</a>
+/html/body/div[1]/div[4]/div/div/div/div/div/div[1]/div[4]/div[2]/div/ol/li[2]/div/div/div[1]/div[1]/div/a
+----------------
+<a>Business Directory</a>
+/html/body/div[1]/footer/div/div[1]/div[1]/div/ul/li[6]/a
+----------------
+<div class="bbWrapper">"Espresso is like tequila, when in doubt apply mor</div>
+/html/body/div[1]/div[4]/div/div/div/div/div/div[1]/div[3]/div[4]/div/div[7]/div/div[1]/div[2]/aside/div[1]/div
+----------------
+<div class="title">Recommended Communities</div>
+/html/body/div[1]/div[4]/div/div/div/div/div/div[2]/div[3]/div/div[4]/div[1]
+----------------
+<span class="MessageCard__post-count">22307 posts</span>
+/html/body/div[1]/div[4]/div/div/div/div/div/div[1]/div[3]/div[4]/div/div[2]/div/header/div[2]/div[2]/span[1]
+----------------
+<a>Receivers, Amps, and Processors</a>
+/html/body/div[1]/div[4]/div/div/div/div/div/div[2]/div[2]/div[2]/div[2]/a[1]
+----------------
+<a class="menu-linkRow">Add to quote</a>

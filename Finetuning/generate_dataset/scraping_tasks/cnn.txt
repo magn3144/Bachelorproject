@@ -1,0 +1,10 @@
+Extract headlines and corresponding URLs from the news section
+Scrape the image credits for each article
+Retrieve the category title in the header section
+Collect the labels for the ad feedback emojis
+Get the text from the ad feedback submitted message
+Extract the options from the headline options section
+Scrape the text from the CNN Analysis section
+Retrieve the text from the ad feedback link label
+Collect the subnav section links in the footer
+Scrape the image credits for the Fault Lines section

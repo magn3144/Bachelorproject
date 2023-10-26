@@ -10,7 +10,7 @@ Social Media,tumblr,tumblr.com
 Stocks,nasdaq,https://www.nasdaq.com/market-activity/earnings
 Stocks,finviz,https://finviz.com/screener.ashx?v=110
 News,aljazeera,https://www.aljazeera.com/middle-east/
-Jobs,dk.indeed,https://dk.indeed.com/jobs?q=programm%C3%B8r&l=Kongens%20Lyngby&from=searchOnHP
+Jobs,indeed,https://dk.indeed.com/jobs?q=programm%C3%B8r&l=Kongens%20Lyngby&from=searchOnHP
 News,foxnews,foxnews.com
 Stocks,seekingalpha,https://seekingalpha.com/market-news
 Jobs,careerbuilder,https://www.careerbuilder.com/salary
@@ -19,7 +19,7 @@ Jobs,ziprecruiter,https://www.ziprecruiter.co.uk/jobs/search?q=programmer&l=Oxfo
 E-commerce,bestbuy,https://www.bestbuy.com/site/searchpage.jsp?st=playstation&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
 Sports Websites,fifa,https://www.fifa.com/fifaplus/en/tournaments/mens/u17worldcup/indonesia-2023?intcmp=(p_fifaplus)_(d_)_(c_webheader-main)_(sc_tournaments)_(ssc_fu17wc-2023)_(da_11072023)_(l_en)
 Directories,aboutus,https://aboutus.com/Reddit.com
-Government and Public Databases,data.cdc,https://data.cdc.gov/browse?category=Vaccinations
+Government and Public Databases,data,https://data.cdc.gov/browse?category=Vaccinations
 Forums and Review Sites,boardgamegeek,https://boardgamegeek.com/forums
 Forums and Review Sites,bodybuilding,https://www.bodybuilding.com/workout-plans
 Sports Websites,bleacherreport,https://bleacherreport.com/nba
@@ -47,7 +47,6 @@ News,nytimes,https://www.nytimes.com/section/climate
 Sports Websites,nfl,nfl.com
 Weather Websites,wunderground,wunderground.com
 Educational Websites,udemy,udemy.com
-Forums and Review Sites,reddit,reddit.com
 E-commerce,target,target.com
 Weather Websites,foreca,foreca.com
 News,theguardian,theguardian.com
