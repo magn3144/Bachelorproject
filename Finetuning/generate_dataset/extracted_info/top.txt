@@ -1,0 +1,75 @@
+<p class="chakra-text css-0">+3</p>
+/html/body/div/div/div/div[1]/div[2]/div/div/div/div/div[1]/div/div[2]/div[1]/div/div[1]/div/div[2]/div/article[8]/div[1]/div/div[2]/div[1]/div[1]/div[2]/div[3]/a[3]/span/span/div/div/p
+----------------
+<h1 class="chakra-text css-18jhspf">Explore millions of Discord Bots &amp; Servers</h1>
+/html/body/div/div/div/div[1]/div[1]/div[2]/h1
+----------------
+<h2 class="chakra-text css-1437ops">Discord Bots</h2>
+/html/body/div/div/div/div[1]/div[2]/div/div/div/div/div[1]/div/div[1]/div[1]/button[1]/div/div[1]/h2
+----------------
+<span class="chakra-text css-1437ops">Discord Servers</span>
+/html/body/div/div/div/div[1]/div[2]/div/div/div/div/div[1]/div/div[1]/div[1]/button[2]/div/div/span
+----------------
+<h3 class="chakra-text css-129wl2y">Top Discord Bots &amp; Discord Apps</h3>
+/html/body/div/div/div/div[1]/div[2]/div/div/div/div/div[1]/div/div[2]/div[1]/div/div[1]/div/div[1]/a/h3
+----------------
+<h3 class="chakra-text css-129wl2y">Trending New Bots</h3>
+/html/body/div/div/div/div[1]/div[2]/div/div/div/div/div[1]/div/div[2]/div[1]/div/div[3]/div/div[1]/a/h3
+----------------
+<h4 class="chakra-text css-zxra69">New bots that are gaining votes quickly</h4>
+/html/body/div/div/div/div[1]/div[2]/div/div/div/div/div[1]/div/div[2]/div[1]/div/div[3]/div/div[1]/h4
+----------------
+<h4 class="chakra-text css-zxra69">Top voted bots on Top.gg</h4>
+/html/body/div/div/div/div[1]/div[2]/div/div/div/div/div[1]/div/div[2]/div[1]/div/div[1]/div/div[1]/h4
+----------------
+<h5 class="chakra-text css-1a3foiv">Top.gg Partnerships - Advertise Here!​</h5>
+/html/body/div/div/div/div[1]/div[2]/div/div/div/div/div[1]/div/div[2]/div[1]/div/div[1]/div/div[2]/div/article[2]/div[1]/div/div[2]/div[1]/div[1]/div[1]/div/a/div/h5
+----------------
+<h5 class="chakra-text css-1a3foiv">Kala</h5>
+/html/body/div/div/div/div[1]/div[2]/div/div/div/div/div[1]/div/div[2]/div[1]/div/div[3]/div/div[2]/div/article[4]/div[1]/div/div[2]/div[1]/div[1]/div[1]/div/a/div/h5
+----------------
+<h6 class="chakra-text css-1whazyh">Dive into a Football / Soccer Bot with Predictions</h6>
+/html/body/div/div/div/div[1]/div[2]/div/div/div/div/div[1]/div/div[2]/div[1]/div/div[1]/div/div[2]/div/article[11]/div[1]/div/div[2]/div[2]/a/h6
+----------------
+<a class="chakra-link chakra-button css-tuyzz1">Login to Add Bot</a>
+/html/body/div/div/div/div[1]/div[2]/div/div/div/div/div[2]/div/div/div/section[2]/div[2]/div/a
+----------------
+<p class="chakra-text css-0">music</p>
+/html/body/div/div/div/div[1]/div[2]/div/div/div/div/div[1]/div/div[2]/div[1]/div/div[3]/div/div[2]/div/article[6]/div[1]/div/div[2]/div[1]/div[1]/div[2]/div[3]/a[1]/span/span/div/div/p
+----------------
+<h5 class="chakra-text css-1a3foiv">SwipeCord</h5>
+/html/body/div/div/div/div[1]/div[2]/div/div/div/div/div[1]/div/div[2]/div[1]/div/div[1]/div/div[2]/div/article[1]/div[1]/div/div[2]/div[1]/div[1]/div[1]/div/a/div/h5
+----------------
+<h6 class="chakra-text css-1whazyh">Your mentally ill, internet-addicted girlfriend is</h6>
+/html/body/div/div/div/div[1]/div[2]/div/div/div/div/div[1]/div/div[2]/div[1]/div/div[3]/div/div[2]/div/article[3]/div[1]/div/div[2]/div[2]/a/h6
+----------------
+<a class="chakra-link css-d8uuyc">Join our Discord</a>
+/html/body/div/div/div/div[1]/div[2]/div/div/div/div/div[2]/div/section/div/div/p/a
+----------------
+<p class="chakra-text css-0">economy</p>
+/html/body/div/div/div/div[1]/div[2]/div/div/div/div/div[1]/div/div[2]/div[1]/div/div[1]/div/div[2]/div/article[8]/div[1]/div/div[2]/div[1]/div[1]/div[2]/div[3]/a[1]/span/span/div/div/p
+----------------
+<h5 class="chakra-text css-1a3foiv">Whimsi</h5>
+/html/body/div/div/div/div[1]/div[2]/div/div/div/div/div[1]/div/div[2]/div[1]/div/div[3]/div/div[2]/div/article[5]/div[1]/div/div[2]/div[1]/div[1]/div[1]/div/a/div/h5
+----------------
+<h6 class="chakra-text css-1whazyh">Discord bot exclusively for Arabic speakers: Repor</h6>
+/html/body/div/div/div/div[1]/div[2]/div/div/div/div/div[1]/div/div[2]/div[1]/div/div[3]/div/div[2]/div/article[9]/div[1]/div/div[2]/div[2]/a/h6
+----------------
+<a class="chakra-link chakra-button css-tuyzz1">Login to Add Server</a>
+/html/body/div/div/div/div[1]/div[2]/div/div/div/div/div[2]/div/div/div/section[1]/div[2]/div/a
+----------------
+<p class="chakra-text css-itv26o">Promoted</p>
+/html/body/div/div/div/div[1]/div[2]/div/div/div/div/div[1]/div/div[2]/div[1]/div/div[1]/div/div[2]/div/article[1]/div[1]/div/div[2]/div[1]/div[1]/div[2]/div/a/div/p[2]
+----------------
+<h5 class="chakra-text css-1a3foiv">Server Assistant</h5>
+/html/body/div/div/div/div[1]/div[2]/div/div/div/div/div[1]/div/div[2]/div[1]/div/div[3]/div/div[2]/div/article[6]/div[1]/div/div[2]/div[1]/div[1]/div[1]/div/a/div/h5
+----------------
+<h6 class="chakra-text css-4jxrsc">Interesting in Honkai: Star Rail game? Why don’t w</h6>
+/html/body/div/div/div/div[1]/div[2]/div/div/div/div/div[1]/div/div[2]/div[1]/div/div[3]/div/div[2]/div/article[10]/div[2]/a/h6
+----------------
+<a class="chakra-link css-1avq5i6">Partnered</a>
+/html/body/div/div/div/div[1]/div[2]/div/div/div/div/div[1]/div/div[2]/div[1]/div/div[1]/div/div[2]/div/article[2]/div[1]/div/div[2]/div[1]/div[1]/div[2]/div/a
+----------------
+<p class="chakra-text css-0">Loading...</p>
+/html/body/div/div/div/div[1]/div[1]/div[2]/div/div[2]/div/div[3]/span/span/div/div/p
+----------------

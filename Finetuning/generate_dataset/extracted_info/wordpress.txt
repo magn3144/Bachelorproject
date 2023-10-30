@@ -1,0 +1,84 @@
+<title>WordPress.org</title>
+/html/body/div/footer/div/div/figure[2]/a/svg/title
+----------------
+<span class="wp-block-social-link-label screen-reader-text">Visit our LinkedIn account</span>
+/html/body/div/footer/div/ul/li[4]/a/span
+----------------
+<span class="post-navigation-link__title">The Line Hotels</span>
+/html/body/div/div[3]/div[2]/a/span[2]
+----------------
+<label class="wp-block-search__label">Search in WordPress.org</label>
+/html/body/div/div[1]/header/nav[2]/div/div/div/div/form/label
+----------------
+<a>Documentation</a>
+/html/body/div/footer/nav/ul[3]/li[2]/a
+----------------
+<h1 class="wp-block-post-title has-heading-2-font-size">Tonal</h1>
+/html/body/div/main/div[2]/div/div[1]/h1
+----------------
+<p>Tonal’s comprehensive website provides an overview</p>
+/html/body/div/main/div[2]/div/div[1]/div/p[3]
+----------------
+<h2 class="wp-block-heading screen-reader-text">More about this site</h2>
+/html/body/div/main/div[2]/div/div[2]/div/h2
+----------------
+<h3 class="wp-block-heading has-heading-5-font-size">Related sites</h3>
+/html/body/div/div[4]/h3
+----------------
+<title>WordPress.org</title>
+/html/body/div/footer/div/div/figure[1]/a/svg/title
+----------------
+<span class="wp-block-social-link-label screen-reader-text">Visit our X (formerly Twitter) account</span>
+/html/body/div/footer/div/ul/li[2]/a/span
+----------------
+<span class="wp-block-navigation-item__label">Learn</span>
+/html/body/div/div[1]/header/nav[1]/div/div/div/div/ul/li[5]/button/span
+----------------
+<a>WordPress Enterprise</a>
+/html/body/div/main/div[2]/div/div[2]/div/div/ul/li[4]/a
+----------------
+<p>With an inspirational online hub for its home-fitn</p>
+/html/body/div/main/div[2]/div/div[1]/div/p[1]
+----------------
+<h2 class="wp-block-heading has-heading-4-font-size">Want to be featured?</h2>
+/html/body/div/div[5]/div[2]/h2
+----------------
+<title>WordPress.org</title>
+/html/body/div/div[1]/header/figure/a/svg/title
+----------------
+<span class="wp-block-social-link-label screen-reader-text">Visit our Instagram account</span>
+/html/body/div/footer/div/ul/li[3]/a/span
+----------------
+<span>↗</span>︎
+/html/body/div/div[1]/header/nav[1]/div/div/div/div/ul/li[6]/ul/li[6]/a/span/span
+----------------
+<a>Home</a>
+/html/body/div/div[1]/div[2]/div/span[1]/a
+----------------
+<p>Unique among at-home fitness products, the state-o</p>
+/html/body/div/main/div[2]/div/div[1]/div/p[2]
+----------------
+<h2 class="wp-block-heading has-heading-4-font-size">Feeling inspired?</h2>
+/html/body/div/div[5]/div[1]/h2
+----------------
+<span class="wp-block-navigation-item__label">View all sites</span>
+/html/body/div/div[1]/div[1]/nav/div/div/div/div/ul/li[2]/a/span
+----------------
+<p>Start building a website you love on the open sour</p>
+/html/body/div/div[5]/div[1]/p
+----------------
+<span class="wp-block-navigation-item__label">Hosting</span>
+/html/body/div/div[1]/header/nav[1]/div/div/div/div/ul/li[3]/a/span
+----------------
+<p>The Tonal site is a quirky e-commerce platform bui</p>
+/html/body/div/main/div[2]/div/div[1]/div/p[4]
+----------------
+<span class="wp-block-navigation-item__label">Learn WordPress</span>
+/html/body/div/div[1]/header/nav[1]/div/div/div/div/ul/li[5]/ul/li[1]/a/span
+----------------
+<p>Join other beautifully designed sites in the WordP</p>
+/html/body/div/div[5]/div[2]/p
+----------------
+<span>↗</span>
+/html/body/div/footer/nav/ul[5]/li[2]/a/span
+----------------

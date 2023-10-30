@@ -1,0 +1,10 @@
+Scrape all product names and prices from the given clothing website. Save them as a CSV file.
+Extract the category name from the given clothing website. Save it as a CSV file.
+Get the text content of the title tag with id "instagram-logo" from the given clothing website. Save it as a CSV file.
+Scrape all product names from the given clothing website. Save them as a CSV file.
+Extract the text content of the legend tag with class "d1cd7b b7f566 a4f585" from the given clothing website. Save it as a CSV file.
+Get the text content of the title tag with id "facebook-logo" from the given clothing website. Save it as a CSV file.
+Scrape all discounted prices from the given clothing website. Save them as a CSV file.
+Extract the text content of the h3 tag with class "fa226d af6753 f4232a" from the given clothing website. Save it as a CSV file.
+Get the text content of the title tag with id "hmdefault-logo" from the given clothing website. Save it as a CSV file.
+Scrape all member prices from the given clothing website. Save them as a CSV file.

@@ -1,0 +1,10 @@
+Extract all blog titles and their corresponding XPaths
+Scrape the category name and its XPath
+Retrieve the website's description and its XPath
+Collect all recent posts and their XPath
+Extract the page navigation information (e.g., current page number, total number of pages) and their corresponding XPaths
+Scrape the links for the "Continue reading" button and their XPaths
+Retrieve the search bar label and its XPath
+Collect the menu items for navigation and their XPaths
+Extract the author names and their XPaths
+Scrape the links for the best classifieds in different cities and their XPaths

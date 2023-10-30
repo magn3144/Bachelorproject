@@ -1,0 +1,78 @@
+<div class="thb-widget-title">TILMELD DIG GLOBE CLUB &amp; MODTAG VORES MYSTISKE RAB</div>
+/html/body/div/div[4]/footer/div[1]/div[3]/div/div[1]
+----------------
+<div class="side-panel-content" id="Product-Drawer-Content"></div>
+/html/body/div/div[6]/div/div[2]
+----------------
+<a class="product-card-title">Track Pants 2.0 'Light Grey'</a>
+/html/body/div/div[3]/div[2]/div/div/div/div/div[1]/div[10]/product-card/div/a
+----------------
+<a>Longsleeve</a>
+/html/body/div/div[2]/header/div/div/full-menu/ul/li[2]/div/ul/li[2]/ul/li[3]/a
+----------------
+<span>Tilføj til kurv</span>
+/html/body/div/div[3]/div[2]/div/div/div/div/div[1]/div[4]/product-card/figure/a/quick-view/span
+----------------
+<p>Skriv dig op &amp; modtag vores mystiske rabat.</p>
+/html/body/div/div[3]/div[6]/div/div/div[1]/div/div/p
+----------------
+<p>Din kurv er tom</p>
+/html/body/div/div[5]/div/div[2]/div[1]/p
+----------------
+<h6 class="body-font">KØBENHAVNLIV</h6>
+/html/body/div/div[3]/div[5]/div/div/div[1]/div[2]/h6
+----------------
+<h2 class="h3">Bliv en del af Globe Club</h2>
+/html/body/div/div[3]/div[6]/div/div/div[1]/div/h2
+----------------
+<label class="field__label">	        E-mail	      </label>
+/html/body/div/div[4]/footer/div[1]/div[3]/div/div[2]/form/fieldset/div/label
+----------------
+<title id="pi-anyday">Anyday</title>
+/html/body/div/div[4]/footer/div[2]/div/div[2]/div/figure[4]/svg/title
+----------------
+<h4 class="body-font">Kurv</h4>
+/html/body/div/div[5]/div/div[1]/div/h4
+----------------
+<div class="side-panel-content side-panel-content--has-tabs"></div>
+/html/body/div/div[7]/div/div[2]
+----------------
+<a class="product-card-title">WorldWide Zip Knit 'Navy'</a>
+/html/body/div/div[7]/div/div[3]/div/div[2]/div/ul/li[2]/product-card/div/a
+----------------
+<a class="text-button white">SHOP UDSALG</a>
+/html/body/div/div[2]/header/div/div/full-menu/ul/li[2]/div/div[2]/div/a
+----------------
+<span>Shop bestsellers</span>
+/html/body/div/div[3]/div[1]/div/div/div/div[2]/div[3]/div/div[2]/a/span
+----------------
+<p>© 2023 Globe Studios, All rights reserved. Drevet </p>
+/html/body/div/div[4]/footer/div[2]/div/div[3]/p
+----------------
+<p class="split-text description-size--medium">.</p>
+/html/body/div/div[3]/div[1]/div/div/div/div[2]/div[3]/div/p
+----------------
+<h6 class="body-font">DONTT</h6>
+/html/body/div/div[3]/div[5]/div/div/div[2]/div[2]/h6
+----------------
+<label>Søg</label>
+/html/body/div/div[7]/div/div[1]/div/form/fieldset/label
+----------------
+<a class="product-card-title">CP X GLOBE Windbreaker Pullover</a>
+/html/body/div/div[3]/div[2]/div/div/div/div/div[1]/div[7]/product-card/div/a
+----------------
+<a>Kontakt</a>
+/html/body/div/div[2]/header/div/div/div[1]/details/nav/div/ul[1]/li[3]/details/ul/li[3]/a
+----------------
+<a class="product-card-title">WorldWide Zip Knit 'Navy'</a>
+/html/body/div/div[3]/div[2]/div/div/div/div/div[1]/div[2]/product-card/div/a
+----------------
+<a>Knit </a>
+/html/body/div/div[2]/header/div/div/div[1]/details/nav/div/ul[1]/li[2]/details/ul/li[3]/details/ul/li[3]/a
+----------------
+<a class="product-card-title">CP X GLOBE Star Denim Jacket</a>
+/html/body/div/div[3]/div[2]/div/div/div/div/div[1]/div[8]/product-card/div/a
+----------------
+<a>Bestsellers</a>
+/html/body/div/div[7]/div/div[3]/div/div[1]/scroll-shadow/div/a[2]
+----------------

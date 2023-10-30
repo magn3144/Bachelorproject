@@ -1,0 +1,10 @@
+Get all blog titles and corresponding categories from the target page. Save them as a CSV file.
+Extract all links to individual blog posts from the target page. Save them as a CSV file.
+Scrape all author names and publication dates of the blog posts from the target page. Save them as a CSV file.
+Retrieve all blog excerpts or summaries from the target page. Save them as a CSV file.
+Collect all navigation links for different blog categories from the target page. Save them as a CSV file.
+Extract all links to podcast episodes from the target page. Save them as a CSV file.
+Scrape all labels or tags associated with the blog posts from the target page. Save them as a CSV file.
+Retrieve all links to series and quizzes from the target page. Save them as a CSV file.
+Collect all links to Klummer from the target page. Save them as a CSV file.
+Extract all links to blogs from readers from the target page. Save them as a CSV file.

@@ -1,0 +1,46 @@
+import csv
+from pathlib import Path
+from lxml import etree
+
+# Define the required variables
+category = 'Blogs'
+html_elements = [
+    {'text': 'Din internetbrowser er desværre uddateret. Denne s', 'xpath': '/html/body/div[6]/div[1]/div/div/p'},
+    {'text': '\xa0', 'xpath': '/html/body/div[6]/div[2]/div[3]/div[6]/div/div/div[1]/div/div/p[2]'},
+    {'text': '                  Stand-up', 'xpath': '/html/body/div[6]/div[2]/header/div[2]/div/div[1]/nav/div[1]/ul/li[3]/ul/li[5]/a'},
+    {'text': 'Klummer fra redaktionen', 'xpath': '/html/body/div[6]/div[2]/div[3]/div[3]/div/div[2]/div[1]/div/span/a'},
+    {'text': 'Søg', 'xpath': '/html/body/div[6]/div[2]/header/div[2]/div/div[1]/nav/div[1]/div/form/div/label'},
+    {'text': '', 'xpath': '/html/body/div[6]/div[2]/div[3]/div[5]/div/div[3]/div[2]/article/a/div/div'},
+    {'text': '          Blog        ', 'xpath': '/html/body/div[6]/div[2]/div[3]/div[1]/div/div/h1'},
+    {'text': 'Her på siden kan du læse personlige blogindlæg fra', 'xpath': '/html/body/div[6]/div[2]/div[3]/div[2]/div/div/div[1]/p/span'},
+    {'text': '      Serier og sjove quizzer – direkte i din mai', 'xpath': '/html/body/div[6]/div[2]/div[3]/div[6]/div/div/div[1]/div/h2'},
+    {'text': 'Flere blogindlæg', 'xpath': '/html/body/div[6]/div[2]/div[3]/div[7]/div/h3'},
+    {'text': 'Vil du have gode råd til dating og parforhold, ins', 'xpath': '/html/body/div[6]/div[2]/div[3]/div[6]/div/div/div[1]/div/div/p[1]'},
+    {'text': '                  Uddannelse', 'xpath': '/html/body/div[6]/div[2]/header/div[2]/div/div[1]/nav/div[1]/ul/li[2]/ul/li[3]/a'},
+    {'text': 'Kærlighed', 'xpath': '/html/body/div[6]/div[2]/header/div[2]/div/div[1]/div[2]/div/div[2]/div/div[1]/ul/li[3]/a[1]'},
+    {'text': 'Søg', 'xpath': '/html/body/div[6]/div[2]/header/div[2]/div/div[1]/div[2]/div/div[1]/div[1]/div/div/form/div/label'},
+    {'text': '', 'xpath': '/html/body/div[6]/div[2]/div[3]/div[8]/div/div[4]/div[2]/article/a/div/div'},
+    {'text': '                  Wellness', 'xpath': '/html/body/div[6]/div[2]/header/div[2]/div/div[1]/nav/div[1]/ul/li[5]/ul/li[1]/a'},
+    {'text': 'Kundeservice\xa0', 'xpath': '/html/body/div[6]/div[2]/div[4]/div/footer/div/div[1]/p[1]/a'},
+    {'text': 'Søg', 'xpath': '/html/body/div[6]/div[2]/header/div[2]/div/div[1]/div[1]/form/div/label'},
+    {'text': '', 'xpath': '/html/body/div[6]/div[2]/div[3]/div[3]/div/div[1]/div[1]/article/a/div/div'},
+    {'text': '                  Kropspleje', 'xpath': '/html/body/div[6]/div[2]/header/div[2]/div/div[1]/nav/div[1]/ul/li[6]/ul/li[2]/a'},
+    {'text': 'Underholdning', 'xpath': '/html/body/div[6]/div[2]/header/div[2]/div/div[1]/div[2]/div/div[2]/div/div[1]/ul/li[2]/a[1]'},
+    {'text': '', 'xpath': '/html/body/div[6]/div[2]/div[3]/div[5]/div/div[2]/div[2]/article/a/div/div'},
+    {'text': '                  Podcast', 'xpath': '/html/body/div[6]/div[2]/header/div[2]/div/div[1]/nav/div[1]/ul/li[3]/ul/li[4]/a'},
+    {'text': 'Blogs fra læserne', 'xpath': '/html/body/div[6]/div[2]/header/div[2]/div/div[1]/div[2]/div/div[2]/div/div[1]/ul/li[8]/ul/li[2]/a'},
+    {'text': '', 'xpath': '/html/body/div[6]/div[2]/div[3]/div[8]/div/div[1]/div[2]/article/a/div/div'},
+    {'text': '                  Veninder', 'xpath': '/html/body/div[6]/div[2]/header/div[2]/div/div[1]/nav/div[1]/ul/li[2]/ul/li[2]/a'},
+    {'text': 'Klummer fra læserne', 'xpath': '/html/body/div[6]/div[2]/div[3]/div[8]/div/div[4]/div[1]/div/span/a'},
+    {'text': '', 'xpath': '/html/body/div[6]/div[2]/div[3]/div[8]/div/div[1]/div[1]/article/a/div/div'},
+    {'text': '                  Film &amp; Serier', 'xpath': '/html/body/div[6]/div[2]/header/div[2]/div/div[1]/nav/div[1]/ul/li[3]/ul/li[1]/a'},
+    {'text': 'Stjernetegn', 'xpath': '/html/body/div[6]/div[2]/header/div[2]/div/div[1]/div[2]/div/div[2]/div/div[1]/ul/li[7]/a[1]'},
+    {'text': '', 'xpath': '/html/body/div[6]/div[2]/div[3]/div[8]/div/div[2]/div[3]/article/a/div/div'},
+    {'text': '                  Fitness', 'xpath': '/html/body/div[6]/div[2]/header/div[2]/div/div[1]/nav/div[1]/ul/li[5]/ul/li[2]/a'},
+    {'text': 'Klummer fra redaktionen', 'xpath': '/html/body/div[6]/div[2]/div[3]/div[8]/div/div[2]/div[3]/div/span/a'},
+    {'text': '', 'xpath': '/html/body/div[6]/div[2]/div[3]/div[8]/div/div[2]/div[2]/article/a/div/div'},
+    {'text': '                  Hudpleje', 'xpath': '/html/body/div[6]/div[2]/header/div[2]/div/div[1]/nav/div[1]/ul/li[6]/ul/li[3]/a'},
+    {'text': 'Klummer fra redaktionen', 'xpath': '/html/body/div[6]/div[2]/div[3]/div[3]/div/div[1]/div[1]/div/span/a'},
+    {'text': '        Sådan opdaterer du din browser      ', 'xpath': '/html/body/div[6]/div[1]/div/div/a'},
+    {'text': 'Klummer fra læserne', 'xpath': '/html/body/div[6]/div[2]/div[3]/div[8]/div/div[1]/div[3]/div/span/a'},
+    {'text': '                  Blogs fra redaktionen', 'xpath': '/html/body/div[6]/div[2]/header/div[2]/div/div[1]/nav/div[1]/ul/li[9]/

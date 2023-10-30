@@ -1,0 +1,94 @@
+<span class="eieez5y3 css-jr2gsl-StyledText-Author e1w70fa50">Sara Blædel &amp; Mads Peder Nordbo</span>
+/html/body/div/main/div[1]/div[2]/div/section[2]/div[2]/div/div/div/div[8]/div/div/span[2]
+----------------
+<span>Twisted Lies</span>
+/html/body/div/main/div[1]/div[2]/div/section[4]/div[2]/div/div/div/div[12]/div/a/span
+----------------
+<a class="css-cjd9kk-LinkElementWrapper e1irccp01">Mere personlig end nogensinde før</a>
+/html/body/div/main/div[1]/div[2]/div/div[3]/div/div[2]/div/div[1]/div/div/div[3]/div[2]/div/div/h2/a
+----------------
+<a>Lokalhistorie</a>
+/html/body/div/header/ul/li[1]/ul/li[10]/ul/li[5]/a
+----------------
+<div class="css-p69eic-TagItem eokha2j0">Bøger</div>
+/html/body/div/main/div[1]/div[2]/div/div[1]/div[2]/div/div/div/a[1]/div
+----------------
+<p class="css-1njy7qn-ImageTextSpotText e1ms8z5k5">For dig der elsker lydbøger på dansk | Lyt ubegræn</p>
+/html/body/div/main/div[1]/div[2]/div/div[2]/div[2]/div/div/p
+----------------
+<h2 class="ex8kfrm0 css-1v3e2a3-StyledText-SpotHeadingText e1w70fa50">Gå ikke glip af alle de nye udgivelser</h2>
+/html/body/div/main/div[1]/div[2]/div/section[1]/div[1]/h2
+----------------
+<h2 class="ex8kfrm0 css-1v3e2a3-StyledText-SpotHeadingText e1w70fa50">Engelske bøger top 20</h2>
+/html/body/div/main/div[1]/div[2]/div/section[4]/div[1]/h2
+----------------
+<h4 class="css-1bbmpdg-ImageTextGroupCarouselTitle e7rwuyx4">Engelske bestsellere nu på dansk!</h4>
+/html/body/div/main/div[1]/div[2]/div/div[4]/div/div[1]/h4
+----------------
+<h4 class="css-1bbmpdg-ImageTextGroupCarouselTitle e7rwuyx4">Populære nye bøger</h4>
+/html/body/div/main/div[1]/div[2]/div/div[3]/div/div[1]/h4
+----------------
+<span class="eieez5y4 css-jfzsed-StyledText-Header e1w70fa50">Bjørnen Bjørns Godnathistorier</span>
+/html/body/div/main/div[1]/div[2]/div/section[7]/div[2]/div/div/div/div[14]/div/div/span[1]
+----------------
+<span class="eieez5y3 css-jr2gsl-StyledText-Author e1w70fa50">Martin Bigum</span>
+/html/body/div/main/div[1]/div[2]/div/section[1]/div[2]/div/div/div/div[10]/div/div/span[2]
+----------------
+<a>Engelske paperback 3 for 120,-</a>
+/html/body/div/header/ul/li[1]/ul/li[6]/ul/li[11]/a
+----------------
+<a>Tinka penalhus</a>
+/html/body/div/header/ul/li[2]/ul/li[20]/ul/li[5]/a
+----------------
+<div class="css-6w64fz-TagItem eokha2j0">Julegaver 0-4 år</div>
+/html/body/div/main/div[1]/div[2]/div/div[6]/div[2]/div/div/div/a[1]/div
+----------------
+<p class="css-1njy7qn-ImageTextSpotText e1ms8z5k5">Hella Joof og Ellen Hillingsø tager i Hundens Bog </p>
+/html/body/div/main/div[1]/div[2]/div/div[3]/div/div[2]/div/div[1]/div/div/div[2]/div[2]/div/div/p
+----------------
+<h2 class="ex8kfrm0 css-1v3e2a3-StyledText-SpotHeadingText e1w70fa50">Tid til fordybelse? Dyk ned i de mest populære lyd</h2>
+/html/body/div/main/div[1]/div[2]/div/section[2]/div[1]/h2
+----------------
+<h2 class="ex8kfrm0 css-1v3e2a3-StyledText-SpotHeadingText e1w70fa50">Bestseller børnebøger</h2>
+/html/body/div/main/div[1]/div[2]/div/section[5]/div[1]/h2
+----------------
+<span class="eieez5y4 css-jfzsed-StyledText-Header e1w70fa50">Fourth Wing - Bestå ... eller dø</span>
+/html/body/div/main/div[1]/div[2]/div/section[1]/div[2]/div/div/div/div[11]/div/div/span[1]
+----------------
+<span class="eieez5y3 css-jr2gsl-StyledText-Author e1w70fa50">Jussi Adler-Olsen</span>
+/html/body/div/main/div[1]/div[2]/div/section[3]/div[2]/div/div/div/div[5]/div/div/span[2]
+----------------
+<a>Tilbehør til modelbyggesæt</a>
+/html/body/div/header/ul/li[6]/ul/li[7]/ul/li[2]/a
+----------------
+<a>Bryllup</a>
+/html/body/div/header/ul/li[6]/ul/li[11]/ul/li[2]/a
+----------------
+<div class="css-p69eic-TagItem eokha2j0">Forudbestillinger</div>
+/html/body/div/main/div[1]/div[2]/div/div[3]/div/div[2]/div/div[1]/div/div/div[2]/div[2]/div/div/div/a[1]/div
+----------------
+<p class="css-1njy7qn-ImageTextSpotText e1ms8z5k5">Find den perfekte gave til børnene i dit liv med v</p>
+/html/body/div/main/div[1]/div[2]/div/div[6]/div[2]/div/div/p
+----------------
+<h2 class="ex8kfrm0 css-1v3e2a3-StyledText-SpotHeadingText e1w70fa50">Forudbestil efterårets store nyheder</h2>
+/html/body/div/main/div[1]/div[2]/div/section[3]/div[1]/h2
+----------------
+<h2 class="ex8kfrm0 css-1v3e2a3-StyledText-SpotHeadingText e1w70fa50">Sjove spil til efteråret</h2>
+/html/body/div/main/div[1]/div[2]/div/section[6]/div[1]/h2
+----------------
+<span>Atomic Habits: An Easy &amp; Proven Way to Build Good </span>
+/html/body/div/main/div[1]/div[2]/div/section[4]/div[2]/div/div/div/div[6]/div/a/span
+----------------
+<span class="eieez5y3 css-jr2gsl-StyledText-Author e1w70fa50">Christina List</span>
+/html/body/div/main/div[1]/div[2]/div/section[2]/div[2]/div/div/div/div[6]/div/div/span[2]
+----------------
+<a>Professionelle farveblyanter</a>
+/html/body/div/header/ul/li[6]/ul/li[5]/ul/li[9]/a
+----------------
+<a>Bøger om dinosaurer</a>
+/html/body/div/header/ul/li[1]/ul/li[3]/ul/li[4]/a
+----------------
+<div class="css-p69eic-TagItem eokha2j0">nyhed</div>
+/html/body/div/main/div[1]/div[2]/div/div[3]/div/div[2]/div/div[1]/div/div/div[1]/div[2]/div/div/div/a[1]/div
+----------------
+<p class="css-1njy7qn-ImageTextSpotText e1ms8z5k5">Det er halvandet år siden, Vanessa Frank forlod Ri</p>

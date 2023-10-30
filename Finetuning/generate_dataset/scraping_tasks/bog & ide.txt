@@ -1,0 +1,11 @@
+Generate a list of web-scraping task(s):
+1. Extract book author names from the target page and save them as a CSV file.
+2. Retrieve the title of the book "Twisted Lies" and save it as a CSV file.
+3. Fetch the text from the element with the class "css-cjd9kk-LinkElementWrapper" and save it as a CSV file.
+4. Get the category "Lokalhistorie" and save it as a CSV file.
+5. Extract the text from the element with the class "css-p69eic-TagItem" and save it as a CSV file.
+6. Fetch the text from the element with the class "css-1njy7qn-ImageTextSpotText" and save it as a CSV file.
+7. Retrieve the heading text "Gå ikke glip af alle de nye udgivelser" and save it as a CSV file.
+8. Get the heading text "Engelske bøger top 20" and save it as a CSV file.
+9. Retrieve the heading text "Engelske bestsellere nu på dansk!" and save it as a CSV file.
+10. Extract the heading text "Populære nye bøger" and save it as a CSV file.

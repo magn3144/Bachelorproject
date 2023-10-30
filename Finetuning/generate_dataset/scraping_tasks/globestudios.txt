@@ -1,0 +1,11 @@
+Generate a list of web-scraping tasks:
+1. Extract the text from the "TILMELD DIG GLOBE CLUB & MODTAG VORES MYSTISKE RAB" element and save it as a CSV file.
+2. Retrieve the content from the "Product-Drawer-Content" element and save it as a CSV file.
+3. Get the text from the "Track Pants 2.0 'Light Grey'" element and save it as a CSV file.
+4. Extract the text from the "Longsleeve" element and save it as a CSV file.
+5. Retrieve the text from the "Tilføj til kurv" element and save it as a CSV file.
+6. Extract the text from the "Skriv dig op & modtag vores mystiske rabat" element and save it as a CSV file.
+7. Retrieve the text from the "Din kurv er tom" element and save it as a CSV file.
+8. Extract the text from the "KØBENHAVNLIV" element and save it as a CSV file.
+9. Retrieve the text from the "Bliv en del af Globe Club" element and save it as a CSV file.
+10. Extract the text from the "E-mail" element and save it as a CSV file.

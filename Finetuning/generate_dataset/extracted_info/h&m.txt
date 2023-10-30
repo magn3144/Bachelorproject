@@ -1,0 +1,90 @@
+<title id="instagram-logo">Instagram</title>
+/html/body/div/section/footer/div[2]/ul/li[2]/a/button/span[1]/svg/title
+----------------
+<span class="aeecde ac3d9e b19650">299,00 kr.</span>
+/html/body/div/div[3]/main/div[2]/ul/li[10]/section/article/div[2]/div/p/span
+----------------
+<h2 class="d1cd7b a09145 e07e0d a04ae4">Cargobukser i ripstop Regular Fit</h2>
+/html/body/div/div[3]/main/div[2]/ul/li[28]/section/article/div[2]/div/a/h2
+----------------
+<h2 class="d1cd7b a09145 e07e0d a04ae4">Cargojoggers</h2>
+/html/body/div/div[3]/main/div[2]/ul/li[12]/section/article/div[2]/div/a/h2
+----------------
+<h1 class="fa226d e916c9 vutR btCX">BUKSER TIL MÆND</h1>
+/html/body/div/div[3]/main/h1
+----------------
+<legend class="d1cd7b b7f566 a4f585">Filtrer</legend>
+/html/body/div/div[3]/main/div[2]/div[1]/div/div/div/form/legend
+----------------
+<a class="cd8a58">Mørkeblå</a>
+/html/body/div/div[3]/main/div[2]/ul/li[35]/section/article/div[2]/div/div/ul/li[1]/a
+----------------
+<p class="d1cd7b b7f566 bc3b47">Indholdet på dette websted er ophavsretligt beskyt</p>
+/html/body/div/section/footer/div[2]/p
+----------------
+<p class="d1cd7b a09145 e07e0d dc6998 b6eb05">Medlemspris: 279,00 kr.</p>
+/html/body/div/div[3]/main/div[2]/ul/li[11]/section/article/div[2]/div/p[2]
+----------------
+<h3 class="fa226d af6753 f4232a">Populært lige nu</h3>
+/html/body/div/div[3]/main/div[3]/h3
+----------------
+<title id="facebook-logo">Facebook</title>
+/html/body/div/section/footer/div[2]/ul/li[1]/a/button/span[1]/svg/title
+----------------
+<span class="aeecde ac3d9e b19650">349,00 kr.</span>
+/html/body/div/div[3]/main/div[2]/ul/li[21]/section/article/div[2]/div/p/span
+----------------
+<h2 class="d1cd7b a09145 e07e0d a04ae4">2-pak sweatpants Regular Fit</h2>
+/html/body/div/div[3]/main/div[2]/ul/li[11]/section/article/div[2]/div/a/h2
+----------------
+<h2 class="d1cd7b a09145 e07e0d a04ae4">Slim Fit bukser</h2>
+/html/body/div/div[3]/main/div[2]/ul/li[17]/section/article/div[2]/div/a/h2
+----------------
+<a class="cd8a58">Lysegrå/Ternet</a>
+/html/body/div/div[3]/main/div[2]/ul/li[1]/section/article/div[2]/div/div/ul/li[3]/a
+----------------
+<p class="fa226d af6753">Bliv H&amp;M Member og få 10% rabat + fri levering til</p>
+/html/body/div/section/footer/div[1]/div/div[4]/div/div/div/div/p
+----------------
+<p class="d1cd7b a09145 e07e0d dc6998 b6eb05">Medlemspris: 219,00 kr.</p>
+/html/body/div/div[3]/main/div[2]/ul/li[13]/section/article/div[2]/div/p[2]
+----------------
+<title id="hmdefault-logo">H&amp;M</title>
+/html/body/div/div[1]/header/nav/div[1]/a/svg/title
+----------------
+<h2 class="d1cd7b a09145 e07e0d a04ae4">Worker trousers Relaxed Fit</h2>
+/html/body/div/div[3]/main/div[2]/ul/li[36]/section/article/div[2]/div/a/h2
+----------------
+<h2 class="d1cd7b a09145 e07e0d a04ae4">Bukser i fløjl Slim Fit</h2>
+/html/body/div/div[3]/main/div[2]/ul/li[18]/section/article/div[2]/div/a/h2
+----------------
+<h2 class="d1cd7b a09145 e07e0d a04ae4">Cargobukser i ripstop Regular Fit</h2>
+/html/body/div/div[3]/main/div[2]/ul/li[9]/section/article/div[2]/div/a/h2
+----------------
+<h2 class="d1cd7b a09145 e07e0d a04ae4">Bukser i fløjl Slim Fit</h2>
+/html/body/div/div[3]/main/div[2]/ul/li[5]/section/article/div[2]/div/a/h2
+----------------
+<h2 class="d1cd7b a09145 e07e0d a04ae4">Bukser i bomuldstwill Slim Fit</h2>
+/html/body/div/div[3]/main/div[2]/ul/li[16]/section/article/div[2]/div/a/h2
+----------------
+<h2 class="d1cd7b a09145 e07e0d a04ae4">Chinos i bomuld Slim Fit</h2>
+/html/body/div/div[3]/main/div[2]/ul/li[13]/section/article/div[2]/div/a/h2
+----------------
+<h2 class="d1cd7b a09145 e07e0d a04ae4">Cargobukser i ripstop Regular Fit</h2>
+/html/body/div/div[3]/main/div[2]/ul/li[8]/section/article/div[2]/div/a/h2
+----------------
+<h2 class="d1cd7b a09145 e07e0d a04ae4">Relaxed Denim Joggers</h2>
+/html/body/div/div[3]/main/div[2]/ul/li[22]/section/article/div[2]/div/a/h2
+----------------
+<h2 class="d1cd7b a09145 e07e0d a04ae4">Stylede bukser i twill Regular Fit</h2>
+/html/body/div/div[3]/main/div[2]/ul/li[23]/section/article/div[2]/div/a/h2
+----------------
+<h2 class="d1cd7b a09145 e07e0d a04ae4">Fløjlsbukser Regular Fit</h2>
+/html/body/div/div[3]/main/div[2]/ul/li[30]/section/article/div[2]/div/a/h2
+----------------
+<h2 class="d1cd7b a09145 e07e0d a04ae4">Stylede bukser Relaxed Fit</h2>
+/html/body/div/div[3]/main/div[2]/ul/li[15]/section/article/div[2]/div/a/h2
+----------------
+<h2 class="d1cd7b a09145 e07e0d a04ae4">Cargobukser Relaxed Fit</h2>
+/html/body/div/div[3]/main/div[2]/ul/li[7]/section/article/div[2]/div/a/h2
+----------------

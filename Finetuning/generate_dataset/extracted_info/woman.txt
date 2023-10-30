@@ -1,0 +1,127 @@
+<p>Din internetbrowser er desværre uddateret. Denne s</p>
+/html/body/div[6]/div[1]/div/div/p
+----------------
+<p> </p>
+/html/body/div[6]/div[2]/div[3]/div[6]/div/div/div[1]/div/div/p[2]
+----------------
+<a>                  Stand-up</a>
+/html/body/div[6]/div[2]/header/div[2]/div/div[1]/nav/div[1]/ul/li[3]/ul/li[5]/a
+----------------
+<a>Klummer fra redaktionen</a>
+/html/body/div[6]/div[2]/div[3]/div[3]/div/div[2]/div[1]/div/span/a
+----------------
+<label class="sr-only">Søg</label>
+/html/body/div[6]/div[2]/header/div[2]/div/div[1]/nav/div[1]/div/form/div/label
+----------------
+<div class="content-label-widget"></div>
+/html/body/div[6]/div[2]/div[3]/div[5]/div/div[3]/div[2]/article/a/div/div
+----------------
+<h1 class="h2">          Blog        </h1>
+/html/body/div[6]/div[2]/div[3]/div[1]/div/div/h1
+----------------
+<span>Her på siden kan du læse personlige blogindlæg fra</span>
+/html/body/div[6]/div[2]/div[3]/div[2]/div/div/div[1]/p/span
+----------------
+<h2 class="h2">      Serier og sjove quizzer – direkte i din mai</h2>
+/html/body/div[6]/div[2]/div[3]/div[6]/div/div/div[1]/div/h2
+----------------
+<h3>Flere blogindlæg</h3>
+/html/body/div[6]/div[2]/div[3]/div[7]/div/h3
+----------------
+<p>Vil du have gode råd til dating og parforhold, ins</p>
+/html/body/div[6]/div[2]/div[3]/div[6]/div/div/div[1]/div/div/p[1]
+----------------
+<a>                  Uddannelse</a>
+/html/body/div[6]/div[2]/header/div[2]/div/div[1]/nav/div[1]/ul/li[2]/ul/li[3]/a
+----------------
+<a class="caret-before col-xs-10">Kærlighed</a>
+/html/body/div[6]/div[2]/header/div[2]/div/div[1]/div[2]/div/div[2]/div/div[1]/ul/li[3]/a[1]
+----------------
+<label class="sr-only">Søg</label>
+/html/body/div[6]/div[2]/header/div[2]/div/div[1]/div[2]/div/div[1]/div[1]/div/div/form/div/label
+----------------
+<div class="content-label-widget"></div>
+/html/body/div[6]/div[2]/div[3]/div[8]/div/div[4]/div[2]/article/a/div/div
+----------------
+<a>                  Wellness</a>
+/html/body/div[6]/div[2]/header/div[2]/div/div[1]/nav/div[1]/ul/li[5]/ul/li[1]/a
+----------------
+<a>Kundeservice</a> 
+/html/body/div[6]/div[2]/div[4]/div/footer/div/div[1]/p[1]/a
+----------------
+<label class="sr-only">Søg</label>
+/html/body/div[6]/div[2]/header/div[2]/div/div[1]/div[1]/form/div/label
+----------------
+<div class="content-label-widget"></div>
+/html/body/div[6]/div[2]/div[3]/div[3]/div/div[1]/div[1]/article/a/div/div
+----------------
+<a>                  Kropspleje</a>
+/html/body/div[6]/div[2]/header/div[2]/div/div[1]/nav/div[1]/ul/li[6]/ul/li[2]/a
+----------------
+<a class="caret-before col-xs-10">Underholdning</a>
+/html/body/div[6]/div[2]/header/div[2]/div/div[1]/div[2]/div/div[2]/div/div[1]/ul/li[2]/a[1]
+----------------
+<div class="content-label-widget"></div>
+/html/body/div[6]/div[2]/div[3]/div[5]/div/div[2]/div[2]/article/a/div/div
+----------------
+<a>                  Podcast</a>
+/html/body/div[6]/div[2]/header/div[2]/div/div[1]/nav/div[1]/ul/li[3]/ul/li[4]/a
+----------------
+<a>Blogs fra læserne</a>
+/html/body/div[6]/div[2]/header/div[2]/div/div[1]/div[2]/div/div[2]/div/div[1]/ul/li[8]/ul/li[2]/a
+----------------
+<div class="content-label-widget"></div>
+/html/body/div[6]/div[2]/div[3]/div[8]/div/div[1]/div[2]/article/a/div/div
+----------------
+<a>                  Veninder</a>
+/html/body/div[6]/div[2]/header/div[2]/div/div[1]/nav/div[1]/ul/li[2]/ul/li[2]/a
+----------------
+<a>Klummer fra læserne</a>
+/html/body/div[6]/div[2]/div[3]/div[8]/div/div[4]/div[1]/div/span/a
+----------------
+<div class="content-label-widget"></div>
+/html/body/div[6]/div[2]/div[3]/div[8]/div/div[1]/div[1]/article/a/div/div
+----------------
+<a>                  Film &amp; Serier</a>
+/html/body/div[6]/div[2]/header/div[2]/div/div[1]/nav/div[1]/ul/li[3]/ul/li[1]/a
+----------------
+<a class="caret-before col-xs-10">Stjernetegn</a>
+/html/body/div[6]/div[2]/header/div[2]/div/div[1]/div[2]/div/div[2]/div/div[1]/ul/li[7]/a[1]
+----------------
+<div class="content-label-widget"></div>
+/html/body/div[6]/div[2]/div[3]/div[8]/div/div[2]/div[3]/article/a/div/div
+----------------
+<a>                  Fitness</a>
+/html/body/div[6]/div[2]/header/div[2]/div/div[1]/nav/div[1]/ul/li[5]/ul/li[2]/a
+----------------
+<a>Klummer fra redaktionen</a>
+/html/body/div[6]/div[2]/div[3]/div[8]/div/div[2]/div[3]/div/span/a
+----------------
+<div class="content-label-widget"></div>
+/html/body/div[6]/div[2]/div[3]/div[8]/div/div[2]/div[2]/article/a/div/div
+----------------
+<a>                  Hudpleje</a>
+/html/body/div[6]/div[2]/header/div[2]/div/div[1]/nav/div[1]/ul/li[6]/ul/li[3]/a
+----------------
+<a>Klummer fra redaktionen</a>
+/html/body/div[6]/div[2]/div[3]/div[3]/div/div[1]/div[1]/div/span/a
+----------------
+<a class="text-bold">        Sådan opdaterer du din browser      </a>
+/html/body/div[6]/div[1]/div/div/a
+----------------
+<a>Klummer fra læserne</a>
+/html/body/div[6]/div[2]/div[3]/div[8]/div/div[1]/div[3]/div/span/a
+----------------
+<a>                  Blogs fra redaktionen</a>
+/html/body/div[6]/div[2]/header/div[2]/div/div[1]/nav/div[1]/ul/li[9]/ul/li[1]/a
+----------------
+<a>Klummer fra redaktionen</a>
+/html/body/div[6]/div[2]/div[3]/div[8]/div/div[1]/div[2]/div/span/a
+----------------
+<a>Læs mere</a>. Jeg kan altid afmelde mig via linket i e-mailen. Læs persondatapolitikken 
+/html/body/div[6]/div[2]/div[3]/div[6]/div/div/div[1]/div/form/div[1]/div/div/label/p/a[1]
+----------------
+<a>Gravid</a>
+/html/body/div[6]/div[2]/header/div[2]/div/div[1]/div[2]/div/div[2]/div/div[1]/ul/li[6]/ul/li[2]/a
+----------------
+<a>                  Opskrifter</a>

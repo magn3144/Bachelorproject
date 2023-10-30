@@ -1,0 +1,10 @@
+Extract the title of the page and save it as a CSV file.
+Get the text inside the "Visit our LinkedIn account" element and save it as a CSV file.
+Retrieve the text from the "The Line Hotels" element and save it as a CSV file.
+Extract the text from the "Search in WordPress.org" element and save it as a CSV file.
+Get the text inside the "Documentation" element and save it as a CSV file.
+Retrieve the text from the "Tonal" heading element and save it as a CSV file.
+Extract the paragraph text after "Tonal's comprehensive website provides an overview" and save it as a CSV file.
+Retrieve the title of the "More about this site" section and save it as a CSV file.
+Get the heading text from the "Related sites" section and save it as a CSV file.
+Extract the title of the page again and save it as a CSV file.
