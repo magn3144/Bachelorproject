@@ -1,0 +1,10 @@
+Extract all the article submission sites from the target page and save them as a CSV file.
+Retrieve the names and links for all the forums and review sites on the target page and save them as a CSV file.
+Scrape the titles and categories of the latest posts and save them as a CSV file.
+Collect all the training courses offered on the page and save them as a CSV file.
+Get the names and links for all the overseas education counselor jobs listed on the page and save them as a CSV file.
+Extract the names and links of all the digital marketing services mentioned on the page and save them as a CSV file.
+Scrape the names and links for all the artificial intelligence services listed on the page and save them as a CSV file.
+Retrieve the names and links of all the machine learning services mentioned on the page and save them as a CSV file.
+Extract the names and links of all the bulk laptop dealers on the page and save them as a CSV file.
+Scrape the names and links of all the HR and payroll management software mentioned on the page and save them as a CSV file.

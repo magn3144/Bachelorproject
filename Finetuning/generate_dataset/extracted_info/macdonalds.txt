@@ -1,0 +1,103 @@
+<a class="button">                                                 </a>
+/html/body/div/div/div/header/div/div/div/div/div/div/div/div[2]/div/div[2]/div/nav/ul/li[1]/div/div/div/div/div[2]/a
+----------------
+<a class="cmp-navigation__item-link">Bestil nu</a>
+/html/body/div/div/div/header/div/div/div/div/div/div/div/div[2]/div/div[2]/div/nav/ul/li[3]/a
+----------------
+<span class="cmp-list__item-title">Ronald McDonald børnefond</span>
+/html/body/div/div/div/footer/div/div/div/div/div/div[1]/div/nav[2]/div/div/div[2]/div/div/ul/li[1]/a/span
+----------------
+<span class="category-title">Kolde Drikke</span>
+/html/body/div/div/div/main/div/div/div[1]/div/div/div/div[2]/div/div/div[2]/div/div/div/div/div/nav/ul[2]/li[8]/a/span
+----------------
+<div class="cmp-order-delivery-modal__description" id="cmp-order-delivery-modal__description">                Du forlader nu mcdonalds.dk og bl</div>
+/html/body/div/div/div/div/div/div/div/div/div/div/form/div[5]/div[1]
+----------------
+<div class="cmp-category__item-flag" id="product-category-dcc9533019-86860ceaaa_flag"> </div>
+/html/body/div/div/div/main/div/div/div[1]/div/div/div/div[2]/div/div/div[3]/div/div/div/section/div[3]/ul/li[6]/a/div/div/div[1]
+----------------
+<h1 class="cmp-title__text">Nyheder</h1>
+/html/body/div/div/div/main/div/div/div[1]/div/div/div/div[2]/div/div/div[3]/div/div/div/section/div[2]/div/h1
+----------------
+<h2 class="cmp-order-delivery-modal__title" id="cmp-order-delivery-modal__title">        Forlad mcdonalds.dk    </h2>
+/html/body/div/div/div/div/div/div/div/div/div/div/h2
+----------------
+<h2 class="cmp-title__text">Madkvalitet</h2>
+/html/body/div/div/div/footer/div/div/div/div/div/div[1]/div/nav[1]/ul/li[1]/div[1]/h2
+----------------
+<p>©2023 McDonald's. All Rights Reserved</p>
+/html/body/div/div/div/footer/div/div/div/div/div/div[1]/div/div/div[3]/div[2]/div[2]/div/p
+----------------
+<legend>Vælg hvilken McDelivery partner du ønsker at benyt</legend>
+/html/body/div/div/div/div/div/div/div/div/div/div/form/div[2]/fieldset/legend
+----------------
+<a class="cmp-button cmp-button__text modal-toggle-order-now model-toggle-legal-bumper" id="button-ordernow">                                Bestil McDelivery</a>
+/html/body/div/div/div/header/div/div/div/div/div/div/div/div[2]/div/nav/div[2]/ul/li[3]/div/a
+----------------
+<a class="cmp-navigation__item-link">Vil du vide mere?</a>
+/html/body/div/div/div/header/div/div/div/div/div/div/div/div[1]/div[3]/div[2]/nav/ul/li[5]/a
+----------------
+<span class="menu-text">McCafé Barista Kaffe &amp; Kage</span>
+/html/body/div/div/div/header/div/div/div/div/div/div/div/div[1]/div[3]/div[2]/nav/ul/li[1]/div/div/div/div/ul/li[9]/a/span
+----------------
+<span class="menu-text">Coinoffers</span>
+/html/body/div/div/div/header/div/div/div/div/div/div/div/div[1]/div[3]/div[2]/nav/ul/li[1]/div/div/div/div/ul/li[4]/a/span
+----------------
+<div class="cmp-category__item-name" id="product-category-dcc9533019-68f537a674_name">McFlurry® Toms Skildpadde®</div>
+/html/body/div/div/div/main/div/div/div[1]/div/div/div/div[2]/div/div/div[3]/div/div/div/section/div[3]/ul/li[2]/a/div/div/div[2]
+----------------
+<div class="cmp-category__item-flag" id="product-category-dcc9533019-aba3ea0e62_flag"> </div>
+/html/body/div/div/div/main/div/div/div[1]/div/div/div/div[2]/div/div/div[3]/div/div/div/section/div[3]/ul/li[5]/a/div/div/div[1]
+----------------
+<h2 class="cmp-legal-bumper__title" id="cmp-legal-bumper__title">          Forlad mcdonalds.dk        </h2>
+/html/body/div/div/div/footer/div/div/div/div/div/div[2]/div/div[2]/div/div[2]/h2
+----------------
+<h2 class="cmp-title__text">McDonald's i Danmark</h2>
+/html/body/div/div/div/footer/div/div/div/div/div/div[1]/div/nav[1]/ul/li[3]/div[1]/h2
+----------------
+<p> Du forlader nu mcdonalds.dk og bliver linket til </p>
+/html/body/div/div/div/footer/div/div/div/div/div/div[2]/div/div[2]/div/div[2]/div/p
+----------------
+<a class="button">                                                 </a>
+/html/body/div/div/div/header/div/div/div/div/div/div/div/div[1]/div[3]/div[2]/nav/ul/li[1]/div/div/div/div/div[1]/a
+----------------
+<a class="nav-skip-to-content">Skip To Main Content</a>
+/html/body/div/div/div/header/div/div/div/div/div/div/div/a
+----------------
+<span class="category-title">McCafé Barista Kaffe &amp; Kage</span>
+/html/body/div/div/div/main/div/div/div[1]/div/div/div/div[2]/div/div/div[2]/div/div/div/div/div/div[2]/ul[2]/li[9]/a/span
+----------------
+<span class="cmp-list__item-title">Allergitabel</span>
+/html/body/div/div/div/footer/div/div/div/div/div/div[1]/div/nav[1]/ul/li[1]/div[2]/div/ul/li[3]/a/span
+----------------
+<div class="cmp-order-delivery-modal__required-validation-msg d-none">Vælg en McDelivery partner for at fortsætte      </div>
+/html/body/div/div/div/div/div/div/div/div/div/div/form/div[1]/div
+----------------
+<div class="text aem-GridColumn--phone--none aem-GridColumn--phone--10 aem-GridColumn aem-GridColumn--offset--phone--1 aem-GridColumn--default--12"></div>
+/html/body/div/div/div/main/div/div/div[1]/div/div/div/div[1]
+----------------
+<h2 class="cmp-title__text">Kontakt McDonald's</h2>
+/html/body/div/div/div/footer/div/div/div/div/div/div[1]/div/nav[1]/ul/li[4]/div[1]/h2
+----------------
+<a class="button">                                                 </a>
+/html/body/div/div/div/header/div/div/div/div/div/div/div/div[2]/div/div[2]/div/nav/ul/li[1]/div/div/div/div/div[1]/a
+----------------
+<a class="cmp-navigation__item-link">Få mere i app’en</a>
+/html/body/div/div/div/header/div/div/div/div/div/div/div/div[2]/div/div[2]/div/nav/ul/li[2]/a
+----------------
+<span class="cmp-list__item-title">Ronald McDonald børnefond</span>
+/html/body/div/div/div/footer/div/div/div/div/div/div[1]/div/nav[1]/ul/li[2]/div[2]/div/ul/li[1]/a/span
+----------------
+<span class="cmp-list__item-title">Næringsberegner</span>
+/html/body/div/div/div/header/div/div/div/div/div/div/div/div[1]/div[3]/div[1]/ul/li/a/span
+----------------
+<div class="cmp-category__item-name" id="product-category-dcc9533019-1210790c6f_name">Homestyle Bacon Paprika x René Mammen</div>
+/html/body/div/div/div/main/div/div/div[1]/div/div/div/div[2]/div/div/div[3]/div/div/div/section/div[3]/ul/li[1]/a/div/div/div[2]
+----------------
+<div class="image"></div>
+/html/body/div/div/div/footer/div/div/div/div/div/div[1]/div/div/div[1]/div[1]/div[6]
+----------------
+<h2 class="cmp-title__text">Aktuelt</h2>
+/html/body/div/div/div/footer/div/div/div/div/div/div[1]/div/nav[1]/ul/li[2]/div[1]/h2
+----------------
+<a class="cmp-button cmp-button__text modal-toggle-order-now model-toggle-legal-bumper" id="button-ordernow-mobile">                        Bestil McDelivery her   </a>

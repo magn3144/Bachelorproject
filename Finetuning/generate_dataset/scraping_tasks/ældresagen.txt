@@ -1,0 +1,10 @@
+Extract all the menu links and their corresponding categories from the header
+Scrape the name of the doctor in the header
+Get the types of housing options for elderly
+Extract the text of the menu button in the header
+Scrape the text about working and receiving full pension
+Scrape the text from the top layer element in the footer
+Get the text about the need to move to a nursing home or care home
+Extract the CVR number from the footer
+Scrape the hidden information and shortcuts from the footer
+Get the heading and content of the FAQ section

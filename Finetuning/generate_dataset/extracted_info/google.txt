@@ -1,0 +1,27 @@
+<a id="archive-link-link">        Doodles Archive      </a>
+/html/body/div[1]/div/ul/li[1]/a
+----------------
+<a class="enabled" id="doodle-newer"></a>
+/html/body/div[2]/div/a[2]
+----------------
+<h3>This Doodle's Reach</h3>
+/html/body/div[2]/div/ul/li[3]/h3
+----------------
+<div class="time">20 October 2023</div>
+/html/body/div[2]/div/ul/li[1]/div/div
+----------------
+<h2>Celebrating Papeda</h2>
+/html/body/div[2]/div/ul/li[1]/div/h2
+----------------
+<p>So how does one make papeda? After removing the fl</p>
+/html/body/div[2]/div/ul/li[2]/div/div/p[3]
+----------------
+<a id="about-link">        About      </a>
+/html/body/div[1]/div/ul/li[2]/a
+----------------
+<h3>This day in history</h3>
+/html/body/div[2]/div/ul/li[4]/div/h3
+----------------
+<h3>More Doodles</h3>
+/html/body/div[2]/div/div[2]/h3
+----------------

@@ -1,0 +1,123 @@
+<a>Sundhed og personlig pleje</a>
+/html/body/header/div[1]/div[2]/div[2]/div[1]/nav/div[2]/ul/li[22]/section/div/div[1]/div/a
+----------------
+<a>Komponenter</a>
+/html/body/header/div[1]/div[2]/div[2]/div[1]/nav/div[2]/ul/li[17]/section/div/div[1]/ul/li[10]/a
+----------------
+<div class="product-carousel-title">Senest besøgte produkter</div>
+/html/body/div[3]/div[1]
+----------------
+<div class="menu-title menu-title--new">Alle afdelinger</div>
+/html/body/header/div[1]/div[2]/div[2]/div[1]/nav/div[2]/ul/li[2]/div/div/div
+----------------
+<p>Bliv inspireret og se noget af det bedste fra udva</p>
+/html/body/div[1]/section[12]/p
+----------------
+<p class="text-3xl my-2 font-bold">Have</p>
+/html/body/header/div[1]/div[2]/div[2]/div[1]/nav/div[2]/ul/li[32]/section/div/div[2]/div[1]/p
+----------------
+<span>Hovedtelefoner og Headsets</span>
+/html/body/header/div[1]/div[2]/div[2]/div[1]/nav/div[2]/ul/li[17]/section/div/div[2]/ul/li[5]/a/span
+----------------
+<span>Catit</span>
+/html/body/header/div[1]/div[2]/div[2]/div[1]/nav/div[2]/ul/li[10]/section/div/div[4]/ul/li[4]/a/span
+----------------
+<li class="title" id="">Shop legetøj efter alder</li>
+/html/body/header/div[1]/div[2]/div[2]/div[1]/nav/div[2]/ul/li[7]/section/div/div[3]/ul/li[1]
+----------------
+<li class="title submenu__column__list-item" id="">Mærker</li>
+/html/body/header/div[1]/div[2]/div[2]/div[1]/nav/div[2]/ul/li[7]/section/div/div[4]/ul/li[12]
+----------------
+<h6 class="title-text">Mine ordrer</h6>
+/html/body/header/div[3]/div[2]/div/div[1]/div[1]/h6
+----------------
+<h2>Populære produkter på Coolshop</h2>
+/html/body/div[1]/section[15]/h2
+----------------
+<h2 class="cpn-categories__title">Udvalgte kategorier</h2>
+/html/body/div[1]/section[4]/h2
+----------------
+<a>Baby- og småbørnslegetøj</a>
+/html/body/header/div[1]/div[2]/div[2]/div[1]/nav/div[2]/ul/li[6]/section/div/div[1]/ul/li[2]/a
+----------------
+<a>Massagepistoler</a>
+/html/body/header/div[1]/div[2]/div[2]/div[1]/nav/div[2]/ul/li[22]/section/div/div[1]/ul/li[4]/a
+----------------
+<div class="cpn-blog-subtitle">Læs vores nyeste artikler om alt fra gaming til s</div>
+/html/body/div[1]/section[17]/div[2]
+----------------
+<div class="menu-title menu-title--new">Baby og børn</div>
+/html/body/header/div[1]/div[2]/div[2]/div[1]/nav/div[2]/ul/li[21]/div/div/div
+----------------
+<p class="text-3xl my-2 font-bold">Sundhed og personlig pleje</p>
+/html/body/header/div[1]/div[2]/div[2]/div[1]/nav/div[2]/ul/li[22]/section/div/div[2]/div[1]/p
+----------------
+<p class="text-3xl my-2 font-bold">Baby og børn</p>
+/html/body/header/div[1]/div[2]/div[2]/div[1]/nav/div[2]/ul/li[21]/section/div/div[2]/div[1]/p
+----------------
+<span>Sikkerhed og overvågning</span>
+/html/body/header/div[1]/div[2]/div[2]/div[1]/nav/div[2]/ul/li[14]/section/div/div[2]/ul/li[10]/a/span
+----------------
+<span>Se alle produkter</span>
+/html/body/div[1]/section[16]/div[5]/div[1]/a/span
+----------------
+<li class="title submenu__column__list-item" id="">Shop legetøj efter alder</li>
+/html/body/header/div[1]/div[2]/div[2]/div[1]/nav/div[2]/ul/li[6]/section/div/div[4]/ul/li[1]
+----------------
+<li class="footer-links-block__title">Kundeservice</li>
+/html/body/footer/div[4]/div/div/div[2]/ul/li[1]
+----------------
+<h6 class="title-text">Sociale</h6>
+/html/body/header/div[3]/div[2]/div/div[3]/div[1]/h6
+----------------
+<h2>Forudbestillinger og populære udgivelser</h2>
+/html/body/div[1]/section[6]/h2
+----------------
+<h2 class="cpn-recommended-products__title">Anbefalet til dig</h2>
+/html/body/div[1]/section[5]/h2
+----------------
+<a class="iframe">Samtykkeerklæring for elektronisk post</a>
+/html/body/footer/div[2]/div/div[2]/span/a
+----------------
+<a>Sennheiser</a>
+/html/body/header/div[1]/div[2]/div[2]/div[1]/nav/div[2]/ul/li[15]/section/div/div[3]/ul/li[12]/a
+----------------
+<div class="footer-newsletter__message message message--error" id="footerNewsletterErrorMsg">Hov hov! Der gik noget galt. Prøv igen eller kont</div>
+/html/body/footer/div[2]/div/div[4]
+----------------
+<div class="menu-title">Spil og konsoller</div>
+/html/body/header/div[1]/div[2]/div[2]/div[1]/nav/div[2]/ul/li[4]/div/a/div[2]
+----------------
+<p>Hold dig opdateret på de seneste udgivelser fra Lo</p>
+/html/body/div[1]/section[9]/p
+----------------
+<p class="text-3xl my-2 font-bold">Mærker</p>
+/html/body/header/div[1]/div[2]/div[2]/div[1]/nav/div[2]/ul/li[20]/section/div/div[4]/div[1]/p
+----------------
+<span>Klapvogne, barnevogne og tilbehør</span>
+/html/body/header/div[1]/div[2]/div[2]/div[1]/nav/div[2]/ul/li[21]/section/div/div[2]/ul/li[10]/a/span
+----------------
+<span>Senge</span>
+/html/body/header/div[1]/div[2]/div[2]/div[1]/nav/div[2]/ul/li[10]/section/div/div[2]/ul/li[5]/a/span
+----------------
+<li class="title submenu__column__list-item" id="">Shop legetøj efter alder</li>
+/html/body/header/div[1]/div[2]/div[2]/div[1]/nav/div[2]/ul/li[7]/section/div/div[4]/ul/li[1]
+----------------
+<li class="title" id="">Se også</li>
+/html/body/header/div[1]/div[2]/div[2]/div[1]/nav/div[2]/ul/li[24]/section/div/div[1]/ul/li[9]
+----------------
+<h6 class="title-text">Konto</h6>
+/html/body/header/div[3]/div[2]/div/div[2]/div[1]/h6
+----------------
+<h2>Digitale kataloger</h2>
+/html/body/div[1]/section[12]/h2
+----------------
+<a>GPS og elektronik til bilen</a>
+/html/body/header/div[1]/div[2]/div[2]/div[1]/nav/div[2]/ul/li[15]/section/div/div[1]/ul/li[9]/a
+----------------
+<a>Bad og tilbehør</a>
+/html/body/header/div[1]/div[2]/div[2]/div[1]/nav/div[2]/ul/li[21]/section/div/div[1]/ul/li[1]/a
+----------------
+<div>Ja tak, jeg vil gerne modtage nyhedsbrev og skræd</div>
+/html/body/footer/div[2]/div/div[2]/div[1]
+----------------

@@ -1,0 +1,10 @@
+Scrape all the education-related articles and their corresponding URLs.
+Extract the featured games and their descriptions from the website.
+Collect all the ghost-related words and their meanings.
+Scrape the trending Halloween-themed articles and their publication dates.
+Extract all the synonyms of the day and save them in a CSV file.
+Collect the names of the popular horror movies and their ratings.
+Scrape the ghost glossary, including the difference between ghosts and spirits.
+Extract the names and descriptions of all the horror-related games on the website.
+Collect all the frequently used words in horror movies and create a word frequency analysis.
+Scrape the top crossword puzzles and their clues for the day.

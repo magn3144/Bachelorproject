@@ -1,0 +1,124 @@
+<a>cookies og lignende teknologier</a> på dette websted til at indsamle oplysninger om din browsingaktivitet. Oplysningerne bruges til at analysere din brug af webstedet, så vi kan skræddersy vores tjeneste og tilpasse vores internetannoncer. Når din accept er nødvendig, kan du acceptere, afvise ell
+/html/body/div[1]/div/div[1]/div/div/div/div[1]/a[2]
+----------------
+<a class="btn btn-get-started btn-red btn-large">TILMELD DIG NU</a>
+/html/body/div[1]/div/div[2]/main/div/div/a
+----------------
+<span class="nm-collections-title-name">Into the Deep: The Submarine Murder Case</span>
+/html/body/div[1]/div/div[2]/main/section[6]/div/ul/li[12]/span/span[2]
+----------------
+<span class="nm-collections-title-name">Maybe Baby</span>
+/html/body/div[1]/div/div[2]/main/section[5]/div/ul/li[2]/a/span[2]
+----------------
+<div class="nm-content-header-text">SE SERIER OG FILM UDEN BEGRÆNSNINGER</div>
+/html/body/div[1]/div/div[2]/div/div[2]/div
+----------------
+<h1>Danish Movies &amp; TV</h1>
+/html/body/div[1]/div/div[2]/main/section[1]/section/div[1]/h1
+----------------
+<h2 class="nm-collections-row-name">New Releases</h2>
+/html/body/div[1]/div/div[2]/main/section[5]/h2
+----------------
+<p>Netflix har et omfattende bibliotek med spillefilm</p>
+/html/body/div[1]/div/div[2]/main/div/div/p
+----------------
+<a class="pointer cookie-disclosure-link">Få mere at vide om vores brug af cookies og oplysn</a>
+/html/body/div[1]/div/div[1]/div/div/div/div[1]/a[3]
+----------------
+<a class="pointer cookie-disclosure-link">(hvorfor?)</a>. Du kan ændre 
+/html/body/div[1]/div/div[1]/div/div/div/div[2]/a[1]
+----------------
+<span class="nm-collections-title-name">Lifting the Veil: Behind the Scenes of Ehrengard</span>
+/html/body/div[1]/div/div[2]/main/section[7]/div/ul/li[13]/span/span[2]
+----------------
+<span class="nm-collections-title-name">Elsker Dig for Tiden</span>
+/html/body/div[1]/div/div[2]/main/section[2]/div/ul/li[3]/a/span[2]
+----------------
+<h2 class="nm-collections-row-name">Danish TV Programmes</h2>
+/html/body/div[1]/div/div[2]/main/section[3]/h2
+----------------
+<a class="tudum-promo-a">Læs om Netflix-serier og -film, og se bonusvideoer</a>
+/html/body/div[1]/div/div[2]/main/p/a
+----------------
+<a class="footer-top-a">Spørgsmål? Kontakt os.</a>
+/html/body/div[1]/div/div[3]/div[2]/p/a
+----------------
+<span class="nm-collections-title-name">Copenhagen Cowboy: Nightcall with Nicolas Winding </span>
+/html/body/div[1]/div/div[2]/main/section[4]/div/ul/li[24]/a/span[2]
+----------------
+<span class="nm-collections-title-name">Empire</span>
+/html/body/div[1]/div/div[2]/main/section[4]/div/ul/li[7]/a/span[2]
+----------------
+<h2 class="nm-collections-row-name">Scandinavian Films &amp; TV</h2>
+/html/body/div[1]/div/div[2]/main/section[6]/h2
+----------------
+<a class="authLinks">LOG IND</a>
+/html/body/div[1]/div/div[2]/div/div[2]/a
+----------------
+<span class="nm-collections-title-name">Lifting the Veil: Behind the Scenes of Ehrengard</span>
+/html/body/div[1]/div/div[2]/main/section[2]/div/ul/li[39]/a/span[2]
+----------------
+<span class="nm-collections-title-name">Maybe Baby</span>
+/html/body/div[1]/div/div[2]/main/section[2]/div/ul/li[5]/a/span[2]
+----------------
+<h2>Der er endnu mere at se.</h2>
+/html/body/div[1]/div/div[2]/main/div/div/h2
+----------------
+<a class="pointer cookie-disclosure-link">dine cookieindstillinger</a>.
+/html/body/div[1]/div/div[1]/div/div/div/div[2]/a[2]
+----------------
+<span class="nm-collections-title-name">Into the Deep: The Submarine Murder Case</span>
+/html/body/div[1]/div/div[2]/main/section[2]/div/ul/li[33]/a/span[2]
+----------------
+<span class="nm-collections-title-name">Out Stealing Horses</span>
+/html/body/div[1]/div/div[2]/main/section[7]/div/ul/li[11]/span/span[2]
+----------------
+<h2 class="nm-collections-row-name">Popular on Netflix</h2>
+/html/body/div[1]/div/div[2]/main/section[2]/h2
+----------------
+<a class="pointer cookie-disclosure-link">tredjeparter</a> bruger 
+/html/body/div[1]/div/div[1]/div/div/div/div[1]/a[1]
+----------------
+<span class="nm-collections-title-name">LEGO Ninjago: Masters of Spinjitzu</span>
+/html/body/div[1]/div/div[2]/main/section[3]/div/ul/li[2]/a/span[2]
+----------------
+<span class="nm-collections-title-name">Pagten</span>
+/html/body/div[1]/div/div[2]/main/section[2]/div/ul/li[34]/a/span[2]
+----------------
+<h2 class="nm-collections-row-name">Nordic Films &amp; TV</h2>
+/html/body/div[1]/div/div[2]/main/section[7]/h2
+----------------
+<span class="nm-collections-title-name">Lifting the Veil: Behind the Scenes of Ehrengard</span>
+/html/body/div[1]/div/div[2]/main/section[6]/div/ul/li[20]/span/span[2]
+----------------
+<span id="">Privatliv</span>
+/html/body/div[1]/div/div[3]/div[2]/ul/li[11]/a/span
+----------------
+<span class="nm-collections-title-name">Ehrengard: The Art of Seduction</span>
+/html/body/div[1]/div/div[2]/main/section[2]/div/ul/li[11]/a/span[2]
+----------------
+<span class="nm-collections-title-name">Baby Fever</span>
+/html/body/div[1]/div/div[2]/main/section[2]/div/ul/li[19]/a/span[2]
+----------------
+<span class="nm-collections-title-name">Lifting the Veil: Behind the Scenes of Ehrengard</span>
+/html/body/div[1]/div/div[2]/main/section[4]/div/ul/li[21]/a/span[2]
+----------------
+<span class="nm-collections-title-name">Pagten</span>
+/html/body/div[1]/div/div[2]/main/section[4]/div/ul/li[18]/a/span[2]
+----------------
+<span class="nm-collections-title-name">Copenhagen Cowboy: Nightcall with Nicolas Winding </span>
+/html/body/div[1]/div/div[2]/main/section[7]/div/ul/li[16]/span/span[2]
+----------------
+<span class="nm-collections-title-name">A Fortunate Man</span>
+/html/body/div[1]/div/div[2]/main/section[4]/div/ul/li[11]/a/span[2]
+----------------
+<span class="nm-collections-title-name">LEGO Ninjago: Masters of Spinjitzu</span>
+/html/body/div[1]/div/div[2]/main/section[2]/div/ul/li[8]/a/span[2]
+----------------
+<span class="nm-collections-title-name">Elves</span>
+/html/body/div[1]/div/div[2]/main/section[3]/div/ul/li[6]/a/span[2]
+----------------
+<span class="nm-collections-title-name">Arn: Riket vid vägens slut</span>
+/html/body/div[1]/div/div[2]/main/section[7]/div/ul/li[5]/span/span[2]
+----------------
+<span id="">Reklamevalg</span>

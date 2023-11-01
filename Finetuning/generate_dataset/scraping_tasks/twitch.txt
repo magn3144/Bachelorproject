@@ -1,0 +1,10 @@
+Scrape all usernames and follower counts of Twitch users from the category "Social Media"
+Extract all post titles and the number of likes from a social media website
+Gather all article headlines and publication dates from a news website
+Retrieve the names and ratings of restaurants in a specific city from a restaurant review website
+Collect all product names and prices from an e-commerce website
+Scrape all job titles and company names from a job search website
+Extract the titles and ratings of movies from a film review website
+Gather the names and ratings of books from an online bookstore
+Retrieve the names and descriptions of travel destinations from a travel website
+Collect the names and release dates of music albums from a music streaming platform

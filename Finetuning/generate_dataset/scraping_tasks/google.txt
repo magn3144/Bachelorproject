@@ -1,0 +1,9 @@
+Extract all Doodle titles and their corresponding dates from the Doodles Archive
+Retrieve the newer Doodle ID from the "doodle-newer" element
+Get the title of the Doodle with the "This Doodle's Reach" heading
+Fetch the date of the Doodle with the "This Doodle's Reach" heading
+Scrape the title of the Doodle with the "Celebrating Papeda" heading
+Retrieve the description of how to make papeda
+Extract the title of the "About" section
+Get the title of the Doodle from the "This day in history" section
+Retrieve the titles of other Doodles from the "More Doodles" section

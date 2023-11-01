@@ -1,0 +1,11 @@
+Generate a list of web-scraping tasks:
+1. Scrape and save all marketplace sale titles as a CSV file.
+2. Collect and store all newsletter titles as a CSV file.
+3. Extract and save all currency codes as a CSV file.
+4. Scrape and save all headings with class "bs-modal-title" as a CSV file.
+5. Collect and store all form labels with class "form-label bs-control-label" as a CSV file.
+6. Extract and save all sign-in links as a CSV file.
+7. Scrape and save all lead paragraphs as a CSV file.
+8. Collect and store all currency codes within the navigation menu as a CSV file.
+9. Extract and save all form labels with class "form-label bs-control-label" as a CSV file.
+10. Scrape and save all sign-up links as a CSV file.

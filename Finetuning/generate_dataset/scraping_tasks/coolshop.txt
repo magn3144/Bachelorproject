@@ -1,0 +1,10 @@
+Get all categories of products from the navigation menu and save them as a CSV file.
+Extract the titles of the latest visited products and save them as a CSV file.
+Retrieve the titles of the recommended categories and save them as a CSV file.
+Scrape all the featured articles from the blog section and save them as a CSV file.
+Collect the names and links of the popular products and save them as a CSV file.
+Extract the titles and links of the top-selling games and consoles and save them as a CSV file.
+Get the names and links of the brands available on the website and save them as a CSV file.
+Retrieve the titles and links related to different age-based toy categories and save them as a CSV file.
+Extract the titles and links of the baby and children's products and save them as a CSV file.
+Scrape the titles and links from the footer links related to customer service and save them as a CSV file.

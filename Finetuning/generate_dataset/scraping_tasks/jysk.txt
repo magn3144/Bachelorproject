@@ -1,0 +1,10 @@
+Extract all the B2B customers from the website and save them as a CSV file.
+Get the contact information (phone number and fax) from the footer section and save it as a CSV file.
+Scrape all the categories of products available on the website and save them as a CSV file.
+Extract the title of the webpage and save it as a CSV file.
+Retrieve the subtitles on the webpage and save them as a CSV file.
+Get the text description of the newsletter subscription and save it as a CSV file.
+Extract the labels of the input fields (e.g. first name, email) on the webpage and save them as a CSV file.
+Scrape the social media platforms (Facebook, Instagram, LinkedIn) mentioned on the webpage and save them as a CSV file.
+Get the text descriptions of different sections (e.g. customer service, headquarters) on the webpage and save them as a CSV file.
+Extract the text content from the paragraphs and divs on the webpage and save them as a CSV file.

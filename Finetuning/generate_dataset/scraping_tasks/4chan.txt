@@ -1,0 +1,10 @@
+Extract all board titles and corresponding XPaths from the target page. Save them as a CSV file.
+Obtain all categories and their respective XPaths from the target page. Save them as a CSV file.
+Retrieve all dates from the page and save them as a CSV file.
+Scrape all Janitor acceptance emails and their XPaths. Save them as a CSV file.
+Collect all thread subjects and their XPaths from the target page. Save them as a CSV file.
+Extract all trademarks and copyrights mentioned on the page. Save them as a CSV file.
+Retrieve all option labels and their XPaths from the target page. Save them as a CSV file.
+Scrape all URLs for enabling mobile view and desktop site. Save them as a CSV file.
+Collect all feedback links and their XPaths from the target page. Save them as a CSV file.
+Extract all file labels and their XPaths from the target page. Save them as a CSV file.

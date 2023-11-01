@@ -1,0 +1,132 @@
+<a>National Association of State Directors of Develop</a>.
+/html/body/div/footer/div[2]/p[1]/a[3]
+----------------
+<a>Submit a Success Story</a>
+/html/body/div/header/div[2]/nav/div/ul/li[4]/ul/li[2]/a
+----------------
+<span class="screen-reader-text">Search for:</span>
+/html/body/div/header/div[1]/form/label/span[1]
+----------------
+<h1 class="entry-title">Lesson 1. Why people work</h1> 
+/html/body/div/div/header/h1
+----------------
+<p>That’s an easy question. </p>
+/html/body/div/div/div/main/article/div/p[3]
+----------------
+<h2>Do you want to work for these reasons? </h2>
+/html/body/div/div/div/main/article/div/h2[3]
+----------------
+<h2 class="widget-title">Contact</h2> 
+/html/body/div/footer/div[1]/div/div[1]/section/h2
+----------------
+<figcaption>Superhero!</figcaption>
+/html/body/div/div/div/main/article/div/figure/figcaption
+----------------
+<a>Florida Developmental Disabilities Council</a>, the 
+/html/body/div/footer/div[2]/p[1]/a[1]
+----------------
+<a>Florida Leadership</a>
+/html/body/div/header/div[2]/nav/div/ul/li[2]/ul/li[1]/a
+----------------
+<p>	© 1992-2020, the University of Massachusetts Bost</p>
+/html/body/div/footer/div[2]/p[2]
+----------------
+<h2>Are there any other reasons why you want to get a </h2>
+/html/body/div/div/div/main/article/div/h2[4]
+----------------
+<h2>Why do people work?</h2>
+/html/body/div/div/div/main/article/div/h2[2]
+----------------
+<a>How to Get Help from State Agencies</a>
+/html/body/div/div/aside/section/div/p[3]/a[1]
+----------------
+<a>Agency Profiles</a>
+/html/body/div/footer/div[1]/div/div[2]/section/div/ul/li[4]/ul/li[1]/a
+----------------
+<p>Before we start talking about why people work, let</p>
+/html/body/div/div/div/main/article/div/p[1]
+----------------
+<h2>When you were a kid, what did you want to be when </h2>
+/html/body/div/div/div/main/article/div/h2[1]
+----------------
+<h2 class="widget-title">Explore Work Lessons</h2> 
+/html/body/div/div/aside/section/h2
+----------------
+<a>Interviews with People with Disabilities</a>
+/html/body/div/header/div[2]/nav/div/ul/li[3]/ul/li[3]/a
+----------------
+<a>About Us</a>
+/html/body/div/footer/div[1]/div/div[2]/section/div/ul/li[1]/a
+----------------
+<h2 class="widget-title">Links</h2>
+/html/body/div/footer/div[1]/div/div[2]/section/h2
+----------------
+<a>Learn About Transportation</a>
+/html/body/div/div/aside/section/div/p[3]/a[2]
+----------------
+<a>Past Webinars</a>
+/html/body/div/header/div[2]/nav/div/ul/li[5]/a
+----------------
+<a>Interviews with People with Disabilities</a>
+/html/body/div/footer/div[1]/div/div[2]/section/div/ul/li[3]/ul/li[3]/a
+----------------
+<a>Fast Facts</a>
+/html/body/div/footer/div[1]/div/div[2]/section/div/ul/li[3]/ul/li[5]/a
+----------------
+<a>Check out this video for ideas!</a>
+/html/body/div/div/div/main/article/div/p[2]/a
+----------------
+<a>Employment First Florida</a>
+/html/body/div/header/div[2]/div/p/a
+----------------
+<a>How to ask for an Accommodation</a>
+/html/body/div/div/aside/section/div/p[4]/a[4]
+----------------
+<a>Agency Profiles</a>
+/html/body/div/header/div[2]/nav/div/ul/li[4]/ul/li[1]/a
+----------------
+<a>Institute for Community Inclusion at the Universit</a>, and 
+/html/body/div/footer/div[2]/p[1]/a[2]
+----------------
+<a>Florida Leadership</a>
+/html/body/div/footer/div[1]/div/div[2]/section/div/ul/li[2]/ul/li[1]/a
+----------------
+<a>How to Disclose a Disability</a>
+/html/body/div/div/aside/section/div/p[4]/a[3]
+----------------
+<a>About Us</a>
+/html/body/div/header/div[2]/nav/div/ul/li[1]/a
+----------------
+<a>Agency Profiles</a>
+/html/body/div/header/div[2]/nav/div/ul/li[4]/a
+----------------
+<a>Community</a>
+/html/body/div/footer/div[1]/div/div[2]/section/div/ul/li[3]/ul/li[7]/a
+----------------
+<a>What is Self-Employment?</a>
+/html/body/div/div/aside/section/div/p[5]/a
+----------------
+<a class="skip-link screen-reader-text">Skip to content</a>
+/html/body/div/a
+----------------
+<a>Job Stories</a>
+/html/body/div/header/div[2]/nav/div/ul/li[3]/ul/li[4]/a
+----------------
+<a>Explore Work</a>
+/html/body/div/header/div[2]/nav/div/ul/li[3]/ul/li[2]/a
+----------------
+<a>How to be a Self-advocate</a>
+/html/body/div/div/aside/section/div/p[4]/a[2]
+----------------
+<a>Florida Leadership</a>
+/html/body/div/header/div[2]/nav/div/ul/li[2]/a
+----------------
+<a>Why People Work</a>
+/html/body/div/div/aside/section/div/p[1]/a[1]
+----------------
+<a>Job Stories</a>
+/html/body/div/footer/div[1]/div/div[2]/section/div/ul/li[3]/ul/li[4]/a
+----------------
+<a>Learn about work</a>
+/html/body/div/footer/div[1]/div/div[2]/section/div/ul/li[3]/a
+----------------

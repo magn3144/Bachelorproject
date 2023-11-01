@@ -1,0 +1,10 @@
+Scrape all post titles from the homepage and save them as a CSV file.
+Extract all comments from a specific post and store them in a CSV file.
+Gather all user profiles and their corresponding usernames and save them in a CSV file.
+Scrape the URLs of the latest entries from the hidden span element and save them as a CSV file.
+Collect the number of likes and shares for each post and save the data as a CSV file.
+Extract the tags or categories assigned to each post and save them in a CSV file.
+Scrape all post images from the homepage and save them as a CSV file.
+Gather all post captions or descriptions and store them in a CSV file.
+Collect the voting score (e.g., number of upvotes and downvotes) for each post and save the data as a CSV file.
+Scrape the URLs of the latest posts from the logo link and save them as a CSV file.

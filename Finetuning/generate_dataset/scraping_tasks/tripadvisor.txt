@@ -1,0 +1,10 @@
+Scrape all restaurant names and ratings from the "Restauranter i Vejen" page and save them as a CSV file.
+Scrape the community section including titles and descriptions of forum posts from the TripAdvisor forums page and save them as a CSV file.
+Scrape all motel names near Esbjerg Lufthavn (EBJ) and save them as a CSV file.
+Scrape all takeaway pizza places with the "Byens bedste takeaway pizza" label and save them as a CSV file.
+Scrape all restaurants with outdoor seating options and save them as a CSV file.
+Scrape all romantic restaurants in Vejen and save them as a CSV file.
+Scrape all sushi restaurants in Vejen and save them as a CSV file.
+Scrape the top-rated restaurants in Vejen and save them as a CSV file.
+Scrape all European and Danish cuisine restaurants and save them as a CSV file.
+Scrape all hotels near Militarismen and save them as a CSV file.

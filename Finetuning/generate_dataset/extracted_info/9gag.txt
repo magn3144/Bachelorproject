@@ -1,0 +1,6 @@
+<a class="logo">9GAG</a>
+/html/body/div[1]/header/div/a[2]
+----------------
+<span class="hide" id="jsid-latest-entries">avQqRgn,a9qwOAK,a8qNwBO,a7qgn4m,a2KgLnp,aOxE1oD,aj</span>
+/html/body/span
+----------------

@@ -1,0 +1,10 @@
+Scrape all the headings (h1, h2, h3, h4) and their corresponding XPaths from the target page and save them as a CSV file.
+Scrape all the link texts (a) and their corresponding XPaths from the target page and save them as a CSV file.
+Scrape all the paragraphs (p) and their corresponding XPaths from the target page and save them as a CSV file.
+Scrape all the span texts (span) and their corresponding XPaths from the target page and save them as a CSV file.
+Scrape all the div texts (div) and their corresponding XPaths from the target page and save them as a CSV file.
+Scrape all the metadata information (post-meta) and their corresponding XPaths from the target page and save them as a CSV file.
+Scrape all the navigation links (navlinks-parent) and their corresponding XPaths from the target page and save them as a CSV file.
+Scrape all the special thanks information (acknowledgements) and their corresponding XPaths from the target page and save them as a CSV file.
+Scrape all the social media links (sr-only) and their corresponding XPaths from the target page and save them as a CSV file.
+Scrape all the footer links (footer) and their corresponding XPaths from the target page and save them as a CSV file.

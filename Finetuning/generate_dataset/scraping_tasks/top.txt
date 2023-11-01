@@ -1,10 +1,10 @@
-Extract the text and XPaths of all the `<h1>` elements on the page and save them as a CSV file.
-Collect the text and XPaths of all the `<h2>` elements under the category "Digital Websites" and save them as a CSV file.
-Scrape the text and XPaths of all the `<h3>` elements related to Discord bots and save them as a CSV file.
-Get the text and XPaths of all the `<h4>` elements that describe top voted bots and save them as a CSV file.
-Extract the text and XPaths of all the `<h5>` elements that mention a specific keyword and save them as a CSV file.
-Collect the text and XPaths of all the `<h6>` elements that contain specific keywords and save them as a CSV file.
-Scrape the text and XPaths of all the `<a>` elements that provide a link to Discord servers and save them as a CSV file.
-Get the text and XPaths of all the `<p>` elements that have a specific class and save them as a CSV file.
-Extract the text and XPaths of all the `<span>` elements that describe categories or features and save them as a CSV file.
-Collect the text and XPaths of all the `<div>` elements that contain specific keywords and save them as a CSV file.
+Scrape the category of the website and save it as a CSV file.
+Scrape the text from the <p> element and save it as a CSV file.
+Scrape the text from the <h1> element and save it as a CSV file.
+Scrape the text from the <h2> element and save it as a CSV file.
+Scrape the text from the <span> element and save it as a CSV file.
+Scrape the text from the <h3> element and save it as a CSV file.
+Scrape the text from the <h4> element and save it as a CSV file.
+Scrape the text from the <h5> element and save it as a CSV file.
+Scrape the text from the <h6> element and save it as a CSV file.
+Scrape the text from the <a> element and save it as a CSV file.

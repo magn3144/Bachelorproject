@@ -1,0 +1,114 @@
+<span class="icon-text text-uppercase py-1 d-block">B2B Kunde</span>
+/html/body/div[1]/div/div[1]/div/div/div/div/div/a[4]/span/span
+----------------
+<a>+45 89397500</a>· Fax 89397501
+/html/body/div[1]/div/div[3]/div[4]/footer/div/div/div[4]/div[2]/div/div/p[1]/a
+----------------
+<a class="nav-link text-dark d-flex flex-column justify-content-center align-items-center d-lg-inline-block lead text-decoration-none text-center">Gardiner</a>
+/html/body/div[1]/div/div[3]/div[1]/div/div/nav/ul/li[8]/a
+----------------
+<title>JYSK</title>
+/html/body/div[1]/div/div[1]/header/div/div/div/div[1]/div/a/svg/title
+----------------
+<div class="subtitle">Vi har håndplukket et bredt udvalg af varer, som h</div>
+/html/body/div[1]/div/div[3]/div[2]/main/div/div/div[6]/div/div/div[4]/a/div/div[2]/div
+----------------
+<div class="subtitle">Skab dit drømmehjem</div>
+/html/body/div[1]/div/div[3]/div[2]/main/div/div/div[2]/div/div/div[4]/a/div/div[2]/div
+----------------
+<p class="text-header">Vind et gavekort på 3.000 kr. til JYSK</p>
+/html/body/div[1]/div/div[3]/div[3]/section/div/div/div/p[1]
+----------------
+<p class="footer-menu-title">Kundeservice</p>
+/html/body/div[1]/div/div[3]/div[4]/footer/div/div/div[2]/div[1]/div/p
+----------------
+<label class="form-label">E-mail</label>
+/html/body/div[1]/div/div[3]/div[3]/section/div/div/div/form/div[4]/div/label
+----------------
+<span class="icon-text text-uppercase py-1 d-block">Kundeservice</span>
+/html/body/div[1]/div/div[1]/div/div/div/div/div/a[2]/span/span
+----------------
+<a>betingelserne</a>. Samtykket kan til enhver tid trækkes tilbage.
+/html/body/div[1]/div/div[3]/div[3]/section/div/div/div/form/div[1]/div/div/label/span/a[1]
+----------------
+<a>Bæredygtighed</a>
+/html/body/div[1]/div/div[3]/div[4]/footer/div/div/div[3]/div[2]/div/nav/ul/li[9]/a
+----------------
+<div class="subtitle">JYSK har mere end 3000 butikker i 48 lande.</div>
+/html/body/div[1]/div/div[3]/div[2]/main/div/div/div[6]/div/div/div[2]/a/div/div[2]/div
+----------------
+<div class="subtitle">Ugens tilbud fra JYSK</div>
+/html/body/div[1]/div/div[3]/div[2]/main/div/div/div[2]/div/div/div[1]/a/div/div[2]/div
+----------------
+<p class="newsletter-desc mb-4 mb-sm-3">Tilmeld dig vores nyhedsbrev og få nyheder, inspir</p>
+/html/body/div[1]/div/div[3]/div[3]/section/div/div/div/p[2]
+----------------
+<p class="footer-menu-title">Hovedkontor</p>
+/html/body/div[1]/div/div[3]/div[4]/footer/div/div/div[4]/div[1]/p
+----------------
+<label class="form-label">Fornavn</label>
+/html/body/div[1]/div/div[3]/div[3]/section/div/div/div/form/div[2]/div/label
+----------------
+<span>Instagram</span>
+/html/body/div[1]/div/div[3]/div[4]/div[1]/div/div/div/div/a[2]/span
+----------------
+<a>Business to Business – For alle virksomheder</a>
+/html/body/div[1]/div/div[3]/div[2]/main/div/div/div[5]/div/div[2]/div/div[1]/article/div[1]/h2/a
+----------------
+<a>Butikker og åbningstider</a>
+/html/body/div[1]/div/div[3]/div[4]/footer/div/div/div[2]/div[2]/div/nav/ul/li[2]/a
+----------------
+<div class="subtitle">25 års garanti på alle vores GOLD madrasser.</div>
+/html/body/div[1]/div/div[3]/div[2]/main/div/div/div[6]/div/div/div[3]/a/div/div[2]/div
+----------------
+<div class="subtitle">Butikker og åbningstider</div>
+/html/body/div[1]/div/div[3]/div[2]/main/div/div/div[2]/div/div/div[2]/a/div/div[2]/div
+----------------
+<p>Få et godt tilbud til din virksomhed. Du får altid</p>
+/html/body/div[1]/div/div[3]/div[2]/main/div/div/div[5]/div/div[2]/div/div[1]/article/div[1]/div/p
+----------------
+<p class="h1">Mærker</p>
+/html/body/div[1]/div/div[3]/div[2]/main/div/div/div[4]/div/div/div[1]/p
+----------------
+<span class="my-0 h2">Stue</span>
+/html/body/div[1]/div/div[3]/div[2]/main/div/div/div[3]/div/div/div[2]/div/div[4]/a/span[1]/span
+----------------
+<a>Salgs- og leveringsbetingelser</a>
+/html/body/div[1]/div/div[3]/div[4]/footer/div/div/div[2]/div[2]/div/nav/ul/li[4]/a
+----------------
+<a>Job</a>
+/html/body/div[1]/div/div[3]/div[4]/footer/div/div/div[3]/div[2]/div/nav/ul/li[4]/a
+----------------
+<div class="subtitle">Et godt tilbud til din virksomhed</div>
+/html/body/div[1]/div/div[3]/div[2]/main/div/div/div[2]/div/div/div[3]/a/div/div[2]/div
+----------------
+<p>Vores kundeservice sidder klar til at hjælpe dig. </p>
+/html/body/div[1]/div/div[3]/div[2]/main/div/div/div[5]/div/div[2]/div/div[2]/article/div[1]/div/p
+----------------
+<p class="footer-menu-title">JYSK</p>
+/html/body/div[1]/div/div[3]/div[4]/footer/div/div/div[3]/div[1]/div/p
+----------------
+<span class="my-0 h2">Opbevaring</span>
+/html/body/div[1]/div/div[3]/div[2]/main/div/div/div[3]/div/div/div[2]/div/div[6]/a/span[1]/span
+----------------
+<a>Spisestue</a>
+/html/body/div[1]/div/div[3]/div[4]/footer/div/div/div[1]/div[2]/div/nav/ul/li[5]/a
+----------------
+<div class="subtitle">E-mærket er din garanti for en sikker handel.</div>
+/html/body/div[1]/div/div[3]/div[2]/main/div/div/div[6]/div/div/div[1]/a/div/div[2]/div
+----------------
+<p class="h1">Tættere på JYSK</p>
+/html/body/div[1]/div/div[3]/div[2]/main/div/div/div[5]/div/div[1]/p
+----------------
+<span>LinkedIn</span>
+/html/body/div[1]/div/div[3]/div[4]/div[1]/div/div/div/div/a[3]/span
+----------------
+<a>b2b-dk@JYSK.com</a>
+/html/body/div[1]/div/div[3]/div[4]/footer/div/div/div[4]/div[2]/div/div/p[2]/a[2]
+----------------
+<div class="field--name-field-paragraphs-gridstack-json d-none">{"items":{"ba0eed31-bd9f-4160-a41d-18dfc81a00f1":{</div>
+/html/body/div[1]/div/div[3]/div[2]/main/div/div/div[1]/div/div/div/div[2]
+----------------
+<p class="footer-menu-title">Kategorier</p>
+/html/body/div[1]/div/div[3]/div[4]/footer/div/div/div[1]/div[1]/div/p
+----------------

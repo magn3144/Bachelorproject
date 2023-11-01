@@ -1,0 +1,10 @@
+Extract all menu categories and their corresponding XPaths from the target page and save them as a CSV file.
+Retrieve the name and description of a specific menu item using its XPath and save the information as a CSV file.
+Scrape all the links within the navigation menu and save them as a CSV file.
+Collect the titles of various sections on the page and save them as a CSV file.
+Extract the names and XPaths of all child elements within a specific menu category and save them as a CSV file.
+Scrape the text from all the buttons on the page and save it as a CSV file.
+Retrieve the title and description of the legal bumper section and save them as a CSV file.
+Extract all the image URLs on the page and save them as a CSV file.
+Scrape the text from all the links within a specific navigation submenu and save it as a CSV file.
+Retrieve the names and XPaths of all the products within a specific category and save them as a CSV file.

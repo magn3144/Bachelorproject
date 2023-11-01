@@ -1,0 +1,127 @@
+<a class="link link--text list-menu__item list-menu__item--link">                            Declaration of Confor</a>
+/html/body/div[2]/footer/div[1]/div[1]/div[4]/ul/li[8]/a
+----------------
+<a>Did you know?</a>
+/html/body/div[1]/div[2]/sticky-header/header/drawer-component/div/div[2]/div[2]/div/div/div/nav/ul/li[6]/details/div/div/div[2]/div[1]/ul/li[1]/a
+----------------
+<div class="h5">It looks like you are browsing from UAE</div>
+/html/body/geolocation-modal/div/div/div[1]
+----------------
+<div class="badge badge-new-in">New in</div>
+/html/body/main/section[8]/div/div/slider-component/ul/li[20]/div/div/div[1]/div[3]/div
+----------------
+<p>Make your Xmas tree stand out</p>
+/html/body/main/div[4]/div/div/div/div/div[1]/a/div/div[2]/div/div/p
+----------------
+<p>or</p>
+/html/body/drawer-component[3]/div/div[2]/div[2]/form/p
+----------------
+<span class="subtitle--s price-item price-item--regular">            15 kr.      </span>
+/html/body/main/section[3]/div/div/slider-component/ul/li[5]/div/div/div[2]/div/div[1]/div/div/div[1]/span[2]
+----------------
+<span>/</span>
+/html/body/main/section[8]/div/div/slider-component/ul/li[3]/div/div/div[2]/div/div[1]/div/div/small/span[2]/span[2]
+----------------
+<title>Wishlist</title>
+/html/body/main/section[8]/div/div/slider-component/ul/li[19]/div/div/div[1]/div[2]/div/span[2]/svg/title
+----------------
+<h2 class="image-with-text__heading">Find your bauble personality</h2>
+/html/body/main/div[6]/div/div/div/a/div/div/div/div[2]/div/h2
+----------------
+<h2 class="title">Inspirational playground</h2>
+/html/body/main/section[6]/div/div/div/h2
+----------------
+<h3 class="h3">Get inspired by our followers</h3>
+/html/body/main/section[9]/div/ugc-slider/div/div/h3
+----------------
+<h3>Last chance!</h3>
+/html/body/div[1]/div[2]/sticky-header/header/nav/ul/li[15]/header-menu/div/div/div/div/div[2]/div[1]/div/h3
+----------------
+<h4 class="pop-cat-title">                    Celebrate carinval!         </h4>
+/html/body/main/section[6]/div/div/slider-component/ul/li[11]/a/h4
+----------------
+<h6 class="footer-block__heading h6">Sign up for our newsletter!</h6>
+/html/body/div[2]/footer/div[1]/div[1]/div[5]/h6
+----------------
+<h6 class="footer-block__heading h6">About us</h6>
+/html/body/div[2]/footer/div[1]/div[1]/div[3]/h6
+----------------
+<li id="a11y-new-window-message">Opens in a new window.      </li>
+/html/body/ul/li[2]
+----------------
+<label>Language</label>
+/html/body/div[6]/div/div[1]/div/div/form/div/div[1]/div[4]/div[2]/label
+----------------
+<a class="mega-menu__link link">                                                C</a>
+/html/body/div[1]/div[2]/sticky-header/header/nav/ul/li[9]/header-menu/div/div/div/div/div[1]/div[2]/ul[1]/li/a
+----------------
+<a>Sustainability</a>
+/html/body/div[1]/div[2]/sticky-header/header/drawer-component/div/div[2]/div[2]/div/div/div/nav/ul/li[15]/details/div/div/div[2]/div[1]/ul/li[2]/a
+----------------
+<div class="footer__column isolate footer__copyright label">Copyright Digital Flying Tiger Copenhagen A/S</div>
+/html/body/div[2]/footer/div[2]/div[1]/div[1]
+----------------
+<div class="quick-add-modal__content-info" id="QuickAddInfo-6923784552646"></div>
+/html/body/main/section[8]/div/div/slider-component/ul/li[7]/div/div/div[1]/div[2]/quick-add-modal/div/div
+----------------
+<p>No Xmas without a proper party. Get your props and</p>
+/html/body/div[1]/div[2]/sticky-header/header/drawer-component/div/div[2]/div[2]/div/div/div/nav/ul/li[14]/details/div/div/div[1]/a/div/p
+----------------
+<p class="secondary-menu__title">About us</p>
+/html/body/div[1]/div[2]/sticky-header/header/drawer-component/div/div[2]/div[2]/div/div/div/nav/ul/li[3]/details/div/div/div[2]/div[1]/p
+----------------
+<span class="quick-add__label--text">                    Quick view                  </span>
+/html/body/main/section[3]/div/div/slider-component/ul/li[2]/div/div/div[1]/div[2]/modal-opener/button/a/span
+----------------
+<span>/</span>
+/html/body/main/section[8]/div/div/slider-component/ul/li[17]/div/div/div[2]/div/div[1]/div/div/small/span[2]/span[2]
+----------------
+<title id="pi-maestro">Maestro</title>
+/html/body/div[2]/footer/div[2]/div[1]/div[2]/div/ul/li[3]/svg/title
+----------------
+<h2 class="drawer__heading h5">Select country &amp; language</h2>
+/html/body/drawer-component[2]/div/div[2]/div[1]/h2
+----------------
+<h2 class="totals__subtotal-title">SubTotal:</h2>
+/html/body/drawer-component[1]/div/div[3]/div[4]/div[1]/div[1]/h2
+----------------
+<h3>Make the best of your year</h3>
+/html/body/div[1]/div[2]/sticky-header/header/nav/ul/li[13]/header-menu/div/div/div/div/div[2]/div[1]/div/h3
+----------------
+<h3>Shop our bestsellers!</h3>
+/html/body/div[1]/div[2]/sticky-header/header/drawer-component/div/div[2]/div[2]/div/div/div/nav/ul/li[6]/details/div/div/div[1]/a/div/h3
+----------------
+<h4 class="pop-cat-title">                  Halloween                </h4>
+/html/body/main/section[4]/div/div/slider-component/ul/li[8]/a/h4
+----------------
+<h6 class="footer-block__heading h6">Flying Tiger Copenhagen</h6>
+/html/body/div[2]/footer/div[1]/div[1]/div[2]/h6
+----------------
+<li id="a11y-refresh-page-message">Choosing a selection results in a full page refres</li>
+/html/body/ul/li[1]
+----------------
+<label>Country</label>
+/html/body/div[6]/div/div[1]/div/div/form/div/div[1]/div[4]/div[1]/label
+----------------
+<a class="link link--text list-menu__item list-menu__item--link">                            Cookie policy       </a>
+/html/body/div[2]/footer/div[1]/div[1]/div[4]/ul/li[5]/a
+----------------
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset view_all">View all Arts &amp; crafts</a>
+/html/body/div[1]/div[2]/sticky-header/header/drawer-component/div/div[2]/div[2]/div/div/div/nav/ul/li[11]/details/div/div/a
+----------------
+<div class="badge badge-new-in">New in</div>
+/html/body/main/section[8]/div/div/slider-component/ul/li[18]/div/div/div[1]/div[3]/div
+----------------
+<p>Do you want to stay on Global website or go to the</p>
+/html/body/geolocation-modal/div/div/div[2]/p
+----------------
+<p>Delivery fee of 45 kr </p>
+/html/body/div[1]/div[1]/div/div/slideshow-component/div[2]/div[2]/div/p
+----------------
+<span class="quick-add__label--text">                    Quick view                  </span>
+/html/body/main/section[3]/div/div/slider-component/ul/li[5]/div/div/div[1]/div[2]/modal-opener/button/a/span
+----------------
+<span class="visually-hidden visually-hidden--inline">Regular price</span>
+/html/body/main/section[8]/div/div/slider-component/ul/li[7]/div/div/div[2]/div/div[1]/div/div/div[1]/span[1]
+----------------
+<title id="pi-google_pay">Google Pay</title>

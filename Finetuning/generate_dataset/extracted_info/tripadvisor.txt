@@ -1,0 +1,100 @@
+<span class="tvdtW">Byens bedste takeaway pizza</span>
+/html/body/div/main/div/div[4]/div/div/div[2]/div[2]/div[6]/span[30]/div/div/div[2]/div/div[1]/div[2]/div[2]/span/a/span
+----------------
+<span class="biGQs _P ttuOS">Fællesskabet</span>
+/html/body/div/header/div/nav/div[3]/div/div[3]/div/button/span
+----------------
+<div class="biGQs _P pZUbB KxBGd">Vi fandt nogle gode resultater, men nogle af dem e</div>
+/html/body/div/main/div/div[4]/div/div/div[2]/div[2]/div[4]/div/div[2]/div
+----------------
+<div class="lptvk b">Pris i mellemklassen</div>
+/html/body/div/main/div/div[4]/div/div/div[2]/div[2]/div[1]/span[1]/div/div[1]/div
+----------------
+<a class="cJTqz S4">Moteller i nærheden af Esbjerg Lufthavn (EBJ)</a>
+/html/body/div/main/div/nav/div/div/div[1]/div[2]/div[7]/a[5]
+----------------
+<a class="cJTqz S4">Tilføj et sted</a>
+/html/body/div/main/div/nav/div/div/div[2]/div/a[1]
+----------------
+<h1 class="c">Restauranter i Vejen</h1>
+/html/body/div/main/div/div[3]/h1
+----------------
+<h3 class="biGQs _P fiohW fOtGX">Spisestedstype</h3> 
+/html/body/div/main/div/div[4]/div/div/div[2]/div[1]/div[1]/div[2]/span[1]/div/div/div[1]/h3
+----------------
+<span class="biGQs _P fiohW mtnKn fOtGX">Hvilke restauranter i Vejen er de bedste til famil</span>
+/html/body/div/main/div/div[6]/span/dl/dt[3]/button/span[1]
+----------------
+<span class="tvdtW">Bedste oplevelse</span>
+/html/body/div/main/div/div[4]/div/div/div[2]/div[2]/div[6]/span[14]/div/div/div[2]/div/div[1]/div[2]/div[2]/span/a/span
+----------------
+<div class="lptvk b">Mulighed for udendørsservering</div>
+/html/body/div/main/div/div[4]/div/div/div[2]/div[2]/div[1]/span[2]/div/div[1]/div
+----------------
+<div>Rødding</div>
+/html/body/div/main/div/div[4]/div/div/div[2]/div[2]/div[6]/span[18]/div/div/div[2]/header/div/div[2]/div[2]/div[2]/div[2]
+----------------
+<a class="cJTqz S4">Romantiske restauranter i Vejen</a>
+/html/body/div/main/div/nav/div/div/div[1]/div[3]/div[3]/a[8]
+----------------
+<a>Tai Thai cafe og Takeaway</a>
+/html/body/div/main/div/div[6]/span/dl/dd[4]/div/div/div/ul/li[3]/a
+----------------
+<h3 class="biGQs _P fiohW fOtGX">Måltider</h3> 
+/html/body/div/main/div/div[4]/div/div/div[2]/div[1]/div[1]/div[2]/span[2]/div/div/div[1]/h3
+----------------
+<span class="tvdtW">Fantastisk god oplevelse, god service, og skønt st</span>
+/html/body/div/main/div/div[4]/div/div/div[2]/div[2]/div[6]/span[24]/div/div/div[2]/div/div[1]/div[2]/div[2]/span/a/span
+----------------
+<span class="lDsTG o W q">Europæisk, Dansk</span>
+/html/body/div/main/div/div[4]/div/div/div[2]/div[2]/div[1]/span[1]/div/div[2]/div[2]/span/div/div[2]/div/span[1]
+----------------
+<div class="biGQs _P fiohW uuBRH">Mest populære restauranter i Vejen</div>
+/html/body/div/main/div/div[4]/div/div/div[2]/div[2]/div[2]/div[1]/div[1]/div
+----------------
+<div>Holsted</div>
+/html/body/div/main/div/div[4]/div/div/div[2]/div[2]/div[6]/span[29]/div/div/div[2]/header/div/div[2]/div[2]/div[2]/div[2]
+----------------
+<a class="cJTqz S4">Sushi restauranter i Vejen</a>
+/html/body/div/main/div/nav/div/div/div[1]/div[3]/div[2]/a[7]
+----------------
+<a class="TNQhh b o W q">Restaurant Alfa A/S</a>
+/html/body/div/main/div/div[4]/div/div/div[2]/div[2]/div[1]/span[2]/div/div[2]/div[5]/span/div/div[2]/a[1]
+----------------
+<h3 class="biGQs _P fiohW fOtGX">Vurdering fra rejsende</h3> 
+/html/body/div/main/div/div[4]/div/div/div[2]/div[1]/div[1]/div[2]/span[5]/div/div/div[1]/h3
+----------------
+<span class="tvdtW">Fantastisk ophold i en hyggelig Søsuite</span>
+/html/body/div/main/div/div[4]/div/div/div[2]/div[2]/div[6]/span[1]/div/div/div[2]/div/div[1]/div[2]/div[2]/span/a/span
+----------------
+<span class="YECgr">Spisested</span>
+/html/body/div/main/div/div[4]/div/div/div[2]/div[2]/div[6]/span[17]/div/div/div[2]/header/div/div[2]/div[2]/div/div[2]/span[1]/span
+----------------
+<div class="biGQs _P pZUbB avBIb osNWb">Bedste spisesteder i Vejen, Danmark</div>
+/html/body/div/main/div/div[1]/div/h1/div
+----------------
+<div>Lintrup</div>
+/html/body/div/main/div/div[4]/div/div/div[2]/div[2]/div[6]/span[19]/div/div/div[2]/header/div/div[2]/div[2]/div[2]/div[2]
+----------------
+<a class="cJTqz S4">Restauranter i nærheden af Sportshotel Vejen</a>
+/html/body/div/main/div/nav/div/div/div[1]/div[3]/div[4]/a
+----------------
+<a class="TNQhh b o W q">Cafe Orangeriet</a>
+/html/body/div/main/div/div[4]/div/div/div[2]/div[2]/div[1]/span[1]/div/div[2]/div[4]/span/div/div[2]/a[1]
+----------------
+<h3 class="biGQs _P fiohW fOtGX">Restaurantegenskaber</h3> 
+/html/body/div/main/div/div[4]/div/div/div[2]/div[1]/div[1]/div[2]/span[10]/div/div/div[1]/h3
+----------------
+<span class="tvdtW">En dejlig dag på Skovpavillonen </span>
+/html/body/div/main/div/div[4]/div/div/div[2]/div[2]/div[6]/span[9]/div/div/div[2]/div/div[1]/div[2]/div[1]/span/a/span
+----------------
+<span class="YECgr">$$-$$$</span>
+/html/body/div/main/div/div[4]/div/div/div[2]/div[2]/div[6]/span[11]/div/div/div[2]/header/div/div[2]/div[2]/div[1]/div[2]/span[1]/span
+----------------
+<div class="">Højeste vurdering</div>
+/html/body/div/main/div/div[4]/div/div/div[2]/div[2]/div[2]/div[2]/div/span/div/div/div
+----------------
+<a class="cJTqz S4">Hoteller i nærheden af Militarismen</a>
+/html/body/div/main/div/nav/div/div/div[1]/div[2]/div[5]/a[6]
+----------------
+<a class="cJTqz S4">Ferie i Vejen</a>

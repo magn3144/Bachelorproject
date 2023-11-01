@@ -1,0 +1,10 @@
+Extract all the links from the navigation menu and save them as a CSV file.
+Scrape the text from all the paragraphs in the main article and save it as a CSV file.
+Get the text of the header and save it as a CSV file.
+Retrieve the text from all the h2 tags in the main article and save it as a CSV file.
+Collect the text from all the h2 tags in the sidebar and save it as a CSV file.
+Extract the text from all the anchor tags in the footer and save it as a CSV file.
+Scrap the text from all the anchor tags in the header and save it as a CSV file.
+Get the text from the screen-reader-text span and save it as a CSV file.
+Retrieve the text from the figcaption tag in the main article and save it as a CSV file.
+Extract the text from the footer paragraphs and save it as a CSV file.

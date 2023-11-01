@@ -1,0 +1,67 @@
+<a class="footer__link __cms_internal_link kps-link">Elgigantens databeskyttelsespolitik</a>
+/html/body/div[1]/elk-app/ng-component/elk-base-template/mat-sidenav-container/mat-sidenav-content/elk-component-loader-wrapper/elk-footer/footer/div[2]/elk-navigation/div/mat-expansion-panel[1]/div/div/div/ul/li[5]/a
+----------------
+<a class="footer__link __cms_internal_link kps-link">Kundeservice</a>
+/html/body/div[1]/elk-app/ng-component/elk-base-template/mat-sidenav-container/mat-sidenav-content/elk-component-loader-wrapper/elk-footer/footer/div[2]/elk-navigation/div/mat-expansion-panel[1]/div/div/div/ul/li[1]/a
+----------------
+<span class="mini-cart-tooltip cdk-visually-hidden">Antal varer i indkøbskurven</span>
+/html/body/header/div[5]/div/div[5]/label/span/span[1]
+----------------
+<span class="cms-image-title-element__text-carousel ng-star-inserted">Gaming</span>
+/html/body/div[1]/elk-app/ng-component/elk-base-template/mat-sidenav-container/mat-sidenav-content/div[2]/ng-component/div[2]/elk-component-loader-wrapper/elk-cms-template-component-list/div/elk-cms-shell[1]/elk-category-carousel/elk-image-slider/elk-carousel/div/swiper/div/div[6]/elk-image-title-element/a/span
+----------------
+<div class="iconbar__caption iconbar__element-caption-no-detail"> Op til 30 dages returret </div>
+/html/body/div[1]/elk-app/ng-component/elk-base-template/mat-sidenav-container/mat-sidenav-content/elk-component-loader-wrapper/elk-footer/footer/elk-lib-icon-bar/div/div[4]/a/div/div
+----------------
+<div class="mini-cart-text">Indkøbskurv</div>
+/html/body/header/div[5]/div/div[5]/label/div
+----------------
+<h3 class="content-carousel-element__headline ng-star-inserted"> Produkter til lavere priser </h3>
+/html/body/div[1]/elk-app/ng-component/elk-base-template/mat-sidenav-container/mat-sidenav-content/div[2]/ng-component/div[2]/elk-component-loader-wrapper/elk-cms-template-component-list/div/elk-cms-shell[4]/elk-content-carousel/div/elk-carousel/div/swiper/div/div[3]/elk-content-carousel-element/a/h3
+----------------
+<h3 class="content-carousel-element__headline h3 ng-star-inserted"> Månedens gaming gear </h3>
+/html/body/div[1]/elk-app/ng-component/elk-base-template/mat-sidenav-container/mat-sidenav-content/div[2]/ng-component/div[2]/elk-component-loader-wrapper/elk-cms-template-component-list/div/elk-cms-shell[4]/elk-content-carousel/div/elk-carousel/div/swiper/div/div[1]/elk-content-carousel-element/a/h3
+----------------
+<p class="logo__copyright">©2023 Elgiganten A/S | Arne Jacobsens Allé 16, 2. </p>
+/html/body/div[1]/elk-app/ng-component/elk-base-template/mat-sidenav-container/mat-sidenav-content/elk-component-loader-wrapper/elk-footer/footer/div[2]/elk-footer-logo/div/div[2]/p[1]
+----------------
+<h2 class="cms-content-carousel__headline h2 ng-star-inserted"> Lad elektronikken køre i ring </h2>
+/html/body/div[1]/elk-app/ng-component/elk-base-template/mat-sidenav-container/mat-sidenav-content/div[2]/ng-component/div[2]/elk-component-loader-wrapper/elk-cms-template-component-list/div/elk-cms-shell[6]/elk-content-carousel/div[1]/h2
+----------------
+<a class="kps-link">Salgs- og leveringsbetingelser</a>
+/html/body/div[1]/elk-app/ng-component/elk-base-template/mat-sidenav-container/mat-sidenav-content/elk-component-loader-wrapper/elk-footer/footer/div[2]/elk-footer-logo/div/div[2]/p[2]/a[1]
+----------------
+<a class="kps-link">Kategorier</a>
+/html/body/div[1]/elk-app/ng-component/elk-base-template/mat-sidenav-container/mat-sidenav-content/elk-component-loader-wrapper/elk-footer/footer/div[2]/elk-footer-logo/div/div[2]/p[2]/a[2]
+----------------
+<span class="cms-image-title-element__text-carousel ng-star-inserted">Hjem, Rengøring &amp; Køkkenudstyr</span>
+/html/body/div[1]/elk-app/ng-component/elk-base-template/mat-sidenav-container/mat-sidenav-content/div[2]/ng-component/div[2]/elk-component-loader-wrapper/elk-cms-template-component-list/div/elk-cms-shell[1]/elk-category-carousel/elk-image-slider/elk-carousel/div/swiper/div/div[4]/elk-image-title-element/a/span
+----------------
+<span class="cms-image-title-element__text-carousel ng-star-inserted">Epoq køkken &amp; bryggers</span>
+/html/body/div[1]/elk-app/ng-component/elk-base-template/mat-sidenav-container/mat-sidenav-content/div[2]/ng-component/div[2]/elk-component-loader-wrapper/elk-cms-template-component-list/div/elk-cms-shell[1]/elk-category-carousel/elk-image-slider/elk-carousel/div/swiper/div/div[7]/elk-image-title-element/a/span
+----------------
+<div class="custom-header--title" id="Inspiration">Inspiration</div>
+/html/body/div[1]/elk-app/ng-component/elk-base-template/mat-sidenav-container/mat-sidenav-content/elk-component-loader-wrapper/elk-footer/footer/div[2]/elk-navigation/div/mat-expansion-panel[3]/mat-expansion-panel-header/span/mat-panel-title/div
+----------------
+<h3 class="content-carousel-element__headline h3 ng-star-inserted"> Køb med delbetaling </h3>
+/html/body/div[1]/elk-app/ng-component/elk-base-template/mat-sidenav-container/mat-sidenav-content/div[2]/ng-component/div[2]/elk-component-loader-wrapper/elk-cms-template-component-list/div/elk-cms-shell[4]/elk-content-carousel/div/elk-carousel/div/swiper/div/div[4]/elk-content-carousel-element/h3
+----------------
+<p>Hver måned får du som klubmedlem rabatter på udval</p>
+/html/body/div[1]/elk-app/ng-component/elk-base-template/mat-sidenav-container/mat-sidenav-content/div[2]/ng-component/div[2]/elk-component-loader-wrapper/elk-cms-template-component-list/div/elk-cms-shell[4]/elk-content-carousel/div/elk-carousel/div/swiper/div/div[2]/elk-content-carousel-element/a/div/div/p
+----------------
+<a class="footer__link __cms_internal_link kps-link">Whistleblowing i organisationen</a>
+/html/body/div[1]/elk-app/ng-component/elk-base-template/mat-sidenav-container/mat-sidenav-content/elk-component-loader-wrapper/elk-footer/footer/div[2]/elk-navigation/div/mat-expansion-panel[2]/div/div/div/ul/li[10]/a
+----------------
+<a class="footer__link kps-link">Varehuse / åbningstider</a>
+/html/body/div[1]/elk-app/ng-component/elk-base-template/mat-sidenav-container/mat-sidenav-content/elk-component-loader-wrapper/elk-footer/footer/div[2]/elk-navigation/div/mat-expansion-panel[1]/div/div/div/ul/li[2]/a
+----------------
+<span class="cms-image-title-element__text-carousel ng-star-inserted">Mobil, Tablet &amp; Smartwatch</span>
+/html/body/div[1]/elk-app/ng-component/elk-base-template/mat-sidenav-container/mat-sidenav-content/div[2]/ng-component/div[2]/elk-component-loader-wrapper/elk-cms-template-component-list/div/elk-cms-shell[1]/elk-category-carousel/elk-image-slider/elk-carousel/div/swiper/div/div[3]/elk-image-title-element/a/span
+----------------
+<span class="cms-image-title-element__text-carousel ng-star-inserted">Hvidevarer</span>
+/html/body/div[1]/elk-app/ng-component/elk-base-template/mat-sidenav-container/mat-sidenav-content/div[2]/ng-component/div[2]/elk-component-loader-wrapper/elk-cms-template-component-list/div/elk-cms-shell[1]/elk-category-carousel/elk-image-slider/elk-carousel/div/swiper/div/div[2]/elk-image-title-element/a/span
+----------------
+<div class="iconbar__caption iconbar__element-caption-no-detail"> Prismatch </div>
+/html/body/div[1]/elk-app/ng-component/elk-base-template/mat-sidenav-container/mat-sidenav-content/elk-component-loader-wrapper/elk-footer/footer/elk-lib-icon-bar/div/div[3]/a/div/div
+----------------
+<h3 class="content-carousel-element__headline ng-star-inserted"> Elgigantens kundeklub </h3>

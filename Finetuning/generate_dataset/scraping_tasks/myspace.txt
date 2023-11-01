@@ -1,0 +1,10 @@
+Scrape the list of artists on the MySpace homepage and save them as a CSV file.
+Extract the text from the "Discover" section header and save it as a CSV file.
+Retrieve the titles of articles in the "NEWS" category and save them as a CSV file.
+Get the names of all the songs in the "You're now in slide show mode" section and save them as a CSV file.
+Extract the text from the "Connecting to your webcam." heading and save it as a CSV file.
+Scrape the names of people to connect with from the "Connect with People" section and save them as a CSV file.
+Retrieve the descriptions of the Pedicab Interviews and save them as a CSV file.
+Get the titles of the news articles in the "NEWS" category and save them as a CSV file.
+Extract the text from the "The Best in Music & Culture. All In One Place." section header and save it as a CSV file.
+Scrape the song titles from the section with the heading "Myspace Exclusives" and save them as a CSV file.

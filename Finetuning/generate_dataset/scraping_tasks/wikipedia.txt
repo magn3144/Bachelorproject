@@ -1,0 +1,10 @@
+Extract all the statistics from the webpage and save them as a CSV file.
+Scrape all the language options available on the webpage and save them as a CSV file.
+Extract the headline of the featured list and save it as a CSV file.
+Scrape the number of articles available on the webpage and save it as a CSV file.
+Get the names of all the sculptures mentioned on the webpage and save them as a CSV file.
+Extract the number of articles for each language option and save it as a CSV file.
+Scrape the names of all the tools mentioned on the webpage and save them as a CSV file.
+Get the names of all the countries mentioned on the webpage and save them as a CSV file.
+Extract the names of all the projects related to Wikimedia Foundation and save them as a CSV file.
+Scrape the names of all the featured articles mentioned on the webpage and save them as a CSV file.

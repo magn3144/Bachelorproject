@@ -1,0 +1,11 @@
+Generate a list of web-scraping task(s):
+1. Extract all forum topics and their corresponding links from the "Forums and Review Sites" category. Save them as a CSV file.
+2. Retrieve the names of the products listed under the "Surface Laptop Studio 2" category. Save them as a CSV file.
+3. Collect the options for privacy protection and save them as a CSV file.
+4. Scrape the titles of all articles under the "Pc'er og enheder" category. Save them as a CSV file.
+5. Extract the text content of each section under the "Udforsk" header and save it as a CSV file.
+6. Gather the names of all global categories. Save them as a CSV file.
+7. Retrieve the names of all services listed under the "Outlook" category. Save them as a CSV file.
+8. Collect the names of the educational categories. Save them as a CSV file.
+9. Scrape the title and author of each article under the "Hej! Harfjell" category. Save them as a CSV file.
+10. Extract the names of trending topics under the "Windows & enheder" category. Save them as a CSV file.

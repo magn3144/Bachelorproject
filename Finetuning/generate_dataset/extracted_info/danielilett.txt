@@ -1,0 +1,181 @@
+<span>Deep Dives Series | </span>
+/html/body/div[2]/span
+----------------
+<a>YouTube videos</a> or even copies of my 
+/html/body/div[3]/div/div/article/p[387]/a[3]
+----------------
+<a>📖 Tutorials</a>
+/html/body/nav/div/div[2]/ul/li[1]/a
+----------------
+<h1 id="properties--the-blackboard">Properties &amp; The Blackboard</h1>
+/html/body/div[3]/div/div/article/h1[4]
+----------------
+<h1 id="utility-nodes">Utility Nodes</h1>
+/html/body/div[3]/div/div/article/h1[12]
+----------------
+<div class="series-part series-part-this">                      1          </div>
+/html/body/div[2]/a/div
+----------------
+<p>We have several outputs, which looks intimidating </p>
+/html/body/div[3]/div/div/article/p[97]
+----------------
+<h2 id="inputhigh-definition-render-pipeline-nodes">Input/High Definition Render Pipeline Nodes</h2>
+/html/body/div[3]/div/div/article/h2[19]
+----------------
+<h2 id="world-space">World Space</h2>
+/html/body/div[3]/div/div/article/h2[2]
+----------------
+<h3 id="-ambient-occlusion-block">₁₀ Ambient Occlusion (Block)</h3>
+/html/body/div[3]/div/div/article/h3[10]
+----------------
+<h3 id="-uv">₇₀ UV</h3>
+/html/body/div[3]/div/div/article/h3[70]
+----------------
+<h4 id="special-thanks-to-my-patreon-backers-for-may-2021">Special thanks to my Patreon backers for May 2021!</h4>
+/html/body/div[3]/div/div/article/h4[1]
+----------------
+<span class="sr-only">Twitter</span>
+/html/body/footer/div/div/div/ul/li[3]/a/span[2]
+----------------
+<a>buy me a coffee on Ko-fi</a> for PDF versions of each article and to access certain articles early! Some tiers also get early access to my 
+/html/body/div[3]/div/div/article/p[387]/a[2]
+----------------
+<a class="navlinks-parent">🎮 Fun Things</a>
+/html/body/nav/div/div[2]/ul/li[2]/a
+----------------
+<h1>How To Use Every Node in Unity Shader Graph</h1>
+/html/body/header/div[2]/div/div/div/div/h1
+----------------
+<h1 id="channel-nodes">Channel Nodes</h1>
+/html/body/div[3]/div/div/article/h1[7]
+----------------
+<p>This lets you package your normal data into the re</p>
+/html/body/div[3]/div/div/article/p[344]
+----------------
+<h2 id="artisticadjustment-nodes">Artistic/Adjustment Nodes</h2>
+/html/body/div[3]/div/div/article/h2[34]
+----------------
+<h2 id="object-space">Object Space</h2>
+/html/body/div[3]/div/div/article/h2[1]
+----------------
+<h3 id="-sample-virtual-texture">₄₈ Sample Virtual Texture</h3>
+/html/body/div[3]/div/div/article/h3[48]
+----------------
+<h3 id="-invert-colors">₁₇₅ Invert Colors</h3>
+/html/body/div[3]/div/div/article/h3[169]
+----------------
+<h4 id="and-a-shout-out-to-my-top-ko-fi-supporters">And a shout-out to my top Ko-fi supporters!</h4>
+/html/body/div[3]/div/div/article/h4[2]
+----------------
+<span class="sr-only">GitHub</span>
+/html/body/footer/div/div/div/ul/li[2]/a/span[2]
+----------------
+<a>Discord server</a> for people who love shaders! Patreon supporters get a bonus ✨
+/html/body/div[3]/div/div/article/p[3]/a
+----------------
+<a>beautiful-jekyll</a>
+/html/body/footer/div/div/div/p[2]/a
+----------------
+<h1>How To Use Every Node in Unity Shader Graph</h1>
+/html/body/header/div[1]/div/div/div/div/div/h1
+----------------
+<h1 id="acknowledgements">Acknowledgements</h1>
+/html/body/div[3]/div/div/article/h1[14]
+----------------
+<p>It’s best if we briefly talk about spaces before t</p>
+/html/body/div[3]/div/div/article/p[8]
+----------------
+<h2 id="inputmesh-deformation-nodes">Input/Mesh Deformation Nodes</h2>
+/html/body/div[3]/div/div/article/h2[20]
+----------------
+<h2 id="proceduralshapes-nodes">Procedural/Shapes Nodes</h2>
+/html/body/div[3]/div/div/article/h2[38]
+----------------
+<h3 id="-sampler-state-property">₂₈ Sampler State (Property)</h3>
+/html/body/div[3]/div/div/article/h3[28]
+----------------
+<h3 id="-replace-color">₁₇₄ Replace Color</h3>
+/html/body/div[3]/div/div/article/h3[168]
+----------------
+<span class="sr-only">Toggle navigation</span>
+/html/body/nav/div/div[1]/button/span[1]
+----------------
+<a>← Reverse Engineering Effects</a>
+/html/body/div[3]/div/div/ul/li[1]/a
+----------------
+<a>Game Generators</a>
+/html/body/nav/div/div[2]/ul/li[2]/div/a
+----------------
+<h1 id="math-nodes">Math Nodes</h1>
+/html/body/div[3]/div/div/article/h1[9]
+----------------
+<p>The Range node family contains several nodes for m</p>
+/html/body/div[3]/div/div/article/p[223]
+----------------
+<h2 id="absolute-world-space-vs-world-space">Absolute World Space vs World Space</h2>
+/html/body/div[3]/div/div/article/h2[3]
+----------------
+<h2 id="mathbasic-nodes">Math/Basic Nodes</h2>
+/html/body/div[3]/div/div/article/h2[21]
+----------------
+<h3 id="-colorspace-conversion">₁₈₃ Colorspace Conversion</h3>
+/html/body/div[3]/div/div/article/h3[177]
+----------------
+<h3 id="-polygon">₁₉₁ Polygon</h3>
+/html/body/div[3]/div/div/article/h3[185]
+----------------
+<span class="post-meta">Posted on May 20, 2021</span>
+/html/body/header/div[2]/div/div/div/div/span
+----------------
+<a>asset packs</a>!
+/html/body/div[3]/div/div/article/p[387]/a[4]
+----------------
+<h1 id="artistic-nodes">Artistic Nodes</h1>
+/html/body/div[3]/div/div/article/h1[10]
+----------------
+<p>Certain kinds of panoramic images can be decoded u</p>
+/html/body/div[3]/div/div/article/p[200]
+----------------
+<h2 id="artisticnormal-nodes">Artistic/Normal Nodes</h2>
+/html/body/div[3]/div/div/article/h2[35]
+----------------
+<h3 id="-normal-tangentobjectworld-block">₅ Normal (Tangent/Object/World) (Block)</h3>
+/html/body/div[3]/div/div/article/h3[5]
+----------------
+<h3 id="-matrix-4x4">₆₆ Matrix 4x4</h3>
+/html/body/div[3]/div/div/article/h3[66]
+----------------
+<span class="sr-only">itch.io</span>
+/html/body/footer/div/div/div/ul/li[4]/a/span[2]
+----------------
+<a>Snapshot Shaders Pro</a>
+/html/body/nav/div/div[2]/ul/li[3]/div/a[1]
+----------------
+<h1 id="procedural-nodes">Procedural Nodes</h1>
+/html/body/div[3]/div/div/article/h1[11]
+----------------
+<p>As a palate cleanser, we can deal with some Boolea</p>
+/html/body/div[3]/div/div/article/p[372]
+----------------
+<h2 id="mathrange-nodes">Math/Range Nodes</h2>
+/html/body/div[3]/div/div/article/h2[23]
+----------------
+<h3 id="-virtual-texture-property">₂₄ Virtual Texture (Property)</h3>
+/html/body/div[3]/div/div/article/h3[24]
+----------------
+<h3 id="-enum-keyword">₃₀ Enum (Keyword)</h3>
+/html/body/div[3]/div/div/article/h3[30]
+----------------
+<span class="post-meta">Posted on May 20, 2021</span>
+/html/body/header/div[1]/div/div/div/div/div/span
+----------------
+<a class="navlinks-parent">✨ Premium Assets</a>
+/html/body/nav/div/div[2]/ul/li[3]/a
+----------------
+<h1 id="conclusion">Conclusion</h1>
+/html/body/div[3]/div/div/article/h1[13]
+----------------
+<p>The Lighting nodes give us access to different typ</p>
+/html/body/div[3]/div/div/article/p[130]
+----------------
+<h2 id="inputgradient-nodes">Input/Gradient Nodes</h2>

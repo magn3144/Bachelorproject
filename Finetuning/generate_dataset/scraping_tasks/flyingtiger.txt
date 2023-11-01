@@ -1,0 +1,10 @@
+Scrape all product names and prices from a product page and save them as a CSV file.
+Scrape the text inside all `<a>` tags and save it as a CSV file.
+Scrape the text inside all `<div>` tags with class "h5" and save it as a CSV file.
+Scrape the text inside all `<p>` tags and save it as a CSV file.
+Scrape the text inside all `<span>` tags and save it as a CSV file.
+Scrape the text inside all `<h2>` tags and save it as a CSV file.
+Scrape the text inside all `<h3>` tags and save it as a CSV file.
+Scrape the text inside all `<h4>` tags and save it as a CSV file.
+Scrape the text inside all `<h6>` tags and save it as a CSV file.
+Scrape the text inside all `<li>` tags and save it as a CSV file.

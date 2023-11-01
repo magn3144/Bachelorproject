@@ -1,0 +1,42 @@
+<span class="text">Marketplace Spring Fling Sale</span>
+/html/body/div[1]/div[1]/a/span[1]
+----------------
+<span>Newsletter</span>
+/html/body/div[1]/nav/div[1]/ul/li[5]/div/ul/li[5]/a/span
+----------------
+<div class="span currency-code">USD,</div>
+/html/body/div[1]/nav/ul/ul[2]/li[3]/button/span/div[1]
+----------------
+<h3 class="bs-modal-title">Sign In</h3>
+/html/body/div[1]/div[3]/div/div/div[1]/div[2]/h3
+----------------
+<label class="form-label bs-control-label">Password</label>
+/html/body/div[1]/div[3]/div/div/div[1]/form/div[2]/div/div[1]/label
+----------------
+<a>Sign In here</a>
+/html/body/div[1]/div[4]/div/div/div[2]/a
+----------------
+<p class="lead">Join the leading showcase platform for art and des</p>
+/html/body/div[1]/div[4]/div/div/div[1]/p
+----------------
+<span>EUR</span>
+/html/body/div[1]/nav/div[1]/ul/li[6]/div/ul/li[3]/button/span[2]
+----------------
+<div class="span currency-code">USD,</div>
+/html/body/div[1]/nav/div[1]/ul/li[6]/button/span/div[1]
+----------------
+<label class="form-label bs-control-label">Your email</label>
+/html/body/div[1]/div[3]/div/div/div[1]/form/div[1]/label
+----------------
+<a>Sign Up here</a>
+/html/body/div[1]/div[3]/div/div/div[2]/a
+----------------
+<span>Challenges</span>
+/html/body/div[1]/nav/ul/ul[1]/li[3]/div/ul/li[2]/a/span
+----------------
+<a class="fw-normal">Forgot password?</a>
+/html/body/div[1]/div[3]/div/div/div[1]/form/div[2]/div/div[2]/a
+----------------
+<span>Marketplace</span>
+/html/body/div[1]/nav/div[1]/ul/li[3]/div/ul/li[1]/a/span[1]
+----------------

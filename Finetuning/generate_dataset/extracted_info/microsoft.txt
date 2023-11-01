@@ -1,0 +1,129 @@
+<a class="js-subm-uhf-nav-link" id="c-shellmenu_21">Microsoft Store &amp; billing</a>
+/html/body/div/div[2]/div/div/header/div/div/nav/ul/li[6]/div/ul/li[2]/a
+----------------
+<a class="c-uhff-link">Surface Laptop Studio 2</a>
+/html/body/div/div[4]/div/div/div/footer/nav/div[1]/div[1]/ul/li[1]/a
+----------------
+<span>Dine valg om beskyttelse af personlige oplysninger</span>
+/html/body/div/div[4]/div/div/div/footer/div/a[2]/span
+----------------
+<span id="uhf-navspn-shellmenu_47-span">Pc'er og enheder</span>
+/html/body/div/div[2]/div/div/header/div/div/div[4]/div[1]/nav/ul/li/div/ul/li[3]/span
+----------------
+<h2 class="" id="ID0EDH">            Udforsk        </h2>
+/html/body/div/section/div/div/div/div/article/div[3]/div/section/h2
+----------------
+<h2 class="c-uhf-sronly">Global</h2>
+/html/body/div/div[2]/div/div/header/div/div/div[4]/div[1]/nav/ul/li/div/ul/li[1]/h2
+----------------
+<div class="nav-gallery__cta-link__text">                        Outlook                 </div>
+/html/body/div/section/div/div/div/div/article/header/nav/div/div/div[1]/ul/li[2]/a/div/div[2]
+----------------
+<div class="c-heading-4">Uddannelse</div>
+/html/body/div/div[4]/div/div/div/footer/nav/div[1]/div[3]/div
+----------------
+<h1 class="header__title" id="document-title">                Hej!                Harfjell   </h1>
+/html/body/div/section/div/div/div/div/article/header/div/h1
+----------------
+<h3 class="HubPageTrendingTopicsCategoryHeading" id="ID0EDFDBBH">                            Opret grafik med Pain</h3>
+/html/body/div/section/div/div/div/div/article/div[3]/div/section/div/div[1]/div[2]/h3
+----------------
+<h3 class="HubPageTrendingTopicsCategoryHeading">Windows &amp;-enheder</h3>
+/html/body/div/section/div/div/div/div/article/div[1]/div/section/div/div/div[4]/h3
+----------------
+<p>                                Bliv hurtigt prod</p>
+/html/body/div/section/div/div/div/div/article/div[3]/div/section/div/div[2]/div[4]/p[1]
+----------------
+<title>Ikon for fravalg af California Consumer Privacy Ac</title>
+/html/body/div/div[4]/div/div/div/footer/div/a[2]/svg/title
+----------------
+<li>© Microsoft 2023</li>
+/html/body/div/div[4]/div/div/div/footer/div/nav/ul/li[8]
+----------------
+<a class="ocpArticleLink">Find din Windows-produktnøgle</a>
+/html/body/div/section/div/div/div/div/article/div[1]/div/section/div/div/div[3]/ul/li[3]/p/a
+----------------
+<a class="js-subm-uhf-nav-link" id="shellmenu_33">Surface</a>
+/html/body/div/div[2]/div/div/header/div/div/div[4]/div[1]/nav/ul/li/div/ul/li[1]/ul/li[4]/a
+----------------
+<span>Dine valg om beskyttelse af personlige oplysninger</span>
+/html/body/div/div[4]/div/div/div/footer/div/noscript/a/span
+----------------
+<span>Support</span>
+/html/body/div/div[2]/div/div/header/div/div/div[2]/a/span
+----------------
+<h2 class="" id="ID0EDBBBBB">                            Her er adgang til en </h2>
+/html/body/div/section/div/div/div/div/article/div[6]/div/section/div/div/div[2]/h2
+----------------
+<div class="calloutMessage" id="calloutMessage">Vælg den konto, du vil logge på med.</div>
+/html/body/div/div[3]/div[2]/div[4]/div[2]
+----------------
+<div class="calloutMessage" id="calloutMessage">Markér en anden konto.</div>
+/html/body/div/div[3]/div[2]/div[3]/div[2]
+----------------
+<h3 class="HubPageTrendingTopicsCategoryHeading" id="ID0EDBBBBH">                            Microsoft 365 Trainin</h3>
+/html/body/div/section/div/div/div/div/article/div[3]/div/section/div/div[2]/div[4]/h3
+----------------
+<h3 class="HubPageTrendingTopicsCategoryHeading">Aktivering</h3>
+/html/body/div/section/div/div/div/div/article/div[1]/div/section/div/div/div[3]/h3
+----------------
+<p>                                Find de oplysning</p>
+/html/body/div/section/div/div/div/div/article/div[5]/div/section/div/div/div[1]/p[1]
+----------------
+<title>Ikon for fravalg af California Consumer Privacy Ac</title>
+/html/body/div/div[4]/div/div/div/footer/div/noscript/a/svg/title
+----------------
+<a class="ocpArticleLink">Hvordan fungerer Microsoft-lagerplads?</a>
+/html/body/div/section/div/div/div/div/article/div[1]/div/section/div/div/div[2]/ul/li[3]/p/a
+----------------
+<a class="c-uhff-link">Administrer cookies</a>
+/html/body/div/div[4]/div/div/div/footer/div/nav/ul/li[3]/a
+----------------
+<span>Søg</span>
+/html/body/div/div[2]/div/div/header/div/div/div[4]/form/button/span[1]
+----------------
+<h2 class="" id="ID0EDF">            Flere muligheder for support        </h2>
+/html/body/div/section/div/div/div/div/article/div[4]/div/section/h2
+----------------
+<div class="nav-gallery__cta-link__text">                        Microsoft 365           </div>
+/html/body/div/section/div/div/div/div/article/header/nav/div/div/div[1]/ul/li[1]/a/div/div[2]
+----------------
+<div class="msame_Header_name st_msame_placeholder">Log på</div>
+/html/body/div/div[2]/div/div/header/div/div/div[4]/div[2]/div/div
+----------------
+<h3 class="HubPageTrendingTopicsCategoryHeading">Beskyttelse af personlige oplysninger og sikkerhed</h3>
+/html/body/div/section/div/div/div/div/article/div[4]/div/section/div/div/div[3]/h3
+----------------
+<h3 class="HubPageTrendingTopicsCategoryHeading">Mere hjælp</h3>
+/html/body/div/section/div/div/div/div/article/div[4]/div/section/div/div/div[4]/h3
+----------------
+<p>                                Startsiden for di</p>
+/html/body/div/section/div/div/div/div/article/div[3]/div/section/div/div[2]/div[2]/p[1]
+----------------
+<a class="ocpExternalLink supHomeAndLandingPageCTA">GENNEMSE INDSTILLINGER FOR KURSER</a>
+/html/body/div/section/div/div/div/div/article/div[3]/div/section/div/div[2]/div[4]/p[2]/a
+----------------
+<a class="c-uhff-link">Enheder til uddannelse</a>
+/html/body/div/div[4]/div/div/div/footer/nav/div[1]/div[3]/ul/li[2]/a
+----------------
+<span>Annuller</span>
+/html/body/div/div[2]/div/div/header/div/div/div[4]/button/span
+----------------
+<h2 class="" id="ID0EDL">            Mest populære emner        </h2>
+/html/body/div/section/div/div/div/div/article/div[1]/div/section/h2
+----------------
+<div class="nav-gallery__cta-link__text">                        Microsoft Teams         </div>
+/html/body/div/section/div/div/div/div/article/header/nav/div/div/div[1]/ul/li[7]/a/div/div[2]
+----------------
+<div class="calloutHeading" id="calloutHeading">Du har flere konti</div>
+/html/body/div/div[3]/div[2]/div[4]/div[1]
+----------------
+<h3 class="HubPageTrendingTopicsCategoryHeading" id="ID0EDFBBBH">                            Office er nu Microsof</h3>
+/html/body/div/section/div/div/div/div/article/div[3]/div/section/div/div[2]/div[2]/h3
+----------------
+<h3 class="HubPageTrendingTopicsCategoryHeading">Kontakt support.</h3>
+/html/body/div/section/div/div/div/div/article/div[4]/div/section/div/div/div[1]/h3
+----------------
+<p>                                Microsoft 365 Cop</p>
+/html/body/div/section/div/div/div/div/article/div[2]/div/section/div/div/div[2]/p[1]
+----------------

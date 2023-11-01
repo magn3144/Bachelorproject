@@ -1,0 +1,11 @@
+Generate a list of web-scraping tasks:
+1. Extract all forum and review site names from the given website. Save them as a CSV file.
+2. Get the list of recently reviewed companies from the website. Save their names and ratings as a CSV file.
+3. Scrape the country names available on the website's footer. Save them as a CSV file.
+4. Collect the names of insurance companies mentioned on the website. Save them as a CSV file.
+5. Extract the review bodies from the website. Save them as a CSV file.
+6. Get the average rating of each insurance company listed on the website. Save the ratings as a CSV file.
+7. Scrape the names of different categories on the website. Save them as a CSV file.
+8. Extract the names of recently reviewed businesses on Trustpilot. Save them as a CSV file.
+9. Get the names of insurance companies providing travel insurance. Save them as a CSV file.
+10. Scrape the names of support centers mentioned on the website's footer. Save them as a CSV file.

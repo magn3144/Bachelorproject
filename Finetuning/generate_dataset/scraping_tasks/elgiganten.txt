@@ -1,0 +1,11 @@
+Generate a list of web-scraping tasks:
+1. Extract the link and text from the "Elgigantens databeskyttelsespolitik" hyperlink.
+2. Extract the link and text from the "Kundeservice" hyperlink.
+3. Extract the text from the "Antal varer i indkøbskurven" span.
+4. Extract the text from the "Gaming" span.
+5. Extract the text from the "Op til 30 dages returret" div.
+6. Extract the text from the "Indkøbskurv" div.
+7. Extract the text from the "Produkter til lavere priser" h3.
+8. Extract the text from the "Månedens gaming gear" h3.
+9. Extract the text from the "©2023 Elgiganten A/S | Arne Jacobsens Allé 16, 2." p.
+10. Extract the text from the "Lad elektronikken køre i ring" h2.
