@@ -1,0 +1,84 @@
+<a class="brSCsc">Business</a>
+/html/body/div[5]/header/div[3]/div/c-wiz/div[1]/div[7]/a
+----------------
+<span class="iDvCIf xfudi">How these stories are ranked</span>
+/html/body/c-wiz/div/div[2]/main/div[2]/c-wiz/section/div[1]/div[1]/span[2]
+----------------
+<span class="VfPpkd-StrnGf-rymPhb-b9t22c">Get the iOS app</span>
+/html/body/div[5]/header/div[2]/div[2]/div[3]/div[1]/div/div/div[2]/div/ul/li[7]/span[2]
+----------------
+<div class="EY8ABd-OWXEXe-TAWMXe" id="tt-i23">More</div>
+/html/body/c-wiz/div/div[2]/main/div[2]/c-wiz/section/div[3]/div/div[3]/c-wiz/c-wiz/div/div/article[3]/div[2]/div[2]/div/div/div[1]/span/div
+----------------
+<p class="jBYiqc">These news articles are ranked based on their qual</p>
+/html/body/c-wiz/div/div[2]/main/div[2]/c-wiz/section/div[1]/div[2]/p[1]
+----------------
+<h1 class="Da1Shd">Yourbriefing</h1>
+/html/body/c-wiz/div/div[2]/main/div[2]/c-wiz/section/div[2]/div/h1
+----------------
+<h4 class="JtKRv iTin5e">Police tried to check on the Maine gunman over con</h4>
+/html/body/c-wiz/div/div[2]/main/div[2]/c-wiz/section/div[3]/div/div[4]/c-wiz/c-wiz/article/div[1]/div[2]/div/h4
+----------------
+<a class="brSCsc">Following</a>
+/html/body/div[5]/header/div[3]/div/c-wiz/div[1]/div[2]/a
+----------------
+<span class="VfPpkd-StrnGf-rymPhb-b9t22c">About Google</span>
+/html/body/div[5]/header/div[2]/div[2]/div[3]/div[1]/div/div/div[2]/div/ul/li[4]/span[2]
+----------------
+<div class="vr1PYe">ReliefWeb</div>
+/html/body/c-wiz/div/div[2]/main/div[2]/c-wiz/section/div[3]/div/div[3]/c-wiz/c-wiz/div/div/article[3]/div[2]/div[1]/div/div
+----------------
+<h4 class="gPFEn">With conflict entering fourth week, WFP warns of g</h4>
+/html/body/c-wiz/div/div[2]/main/div[2]/c-wiz/section/div[3]/div/div[3]/c-wiz/c-wiz/div/div/article[3]/h4
+----------------
+<a class="brSCsc">Home</a>
+/html/body/div[5]/header/div[3]/div/c-wiz/div[1]/div[1]/a
+----------------
+<span class="VfPpkd-StrnGf-rymPhb-b9t22c">Get the Android app</span>
+/html/body/div[5]/header/div[2]/div[2]/div[3]/div[1]/div/div/div[2]/div/ul/li[6]/span[2]
+----------------
+<div class="Hmgqjd">Wed</div>
+/html/body/c-wiz/div/div[2]/main/div[2]/c-wiz/section/div[2]/c-wiz/div/div[2]/div[1]/div/div[3]/div[1]
+----------------
+<h4 class="gPFEn">UN warns ‘civil order’ declining in Gaza as thousa</h4>
+/html/body/c-wiz/div/div[2]/main/div[2]/c-wiz/section/div[3]/div/div[3]/c-wiz/c-wiz/div/div/article[1]/h4
+----------------
+<a class="brSCsc">U.S.</a>
+/html/body/div[5]/header/div[3]/div/c-wiz/div[1]/div[4]/a
+----------------
+<span class="VfPpkd-StrnGf-rymPhb-b9t22c">Terms</span>
+/html/body/div[5]/header/div[2]/div[2]/div[3]/div[1]/div/div/div[2]/div/ul/li[3]/span[2]
+----------------
+<div class="EY8ABd-OWXEXe-TAWMXe" id="tt-i4">More</div>
+/html/body/div[5]/header/div[3]/div/c-wiz/div[2]/div/div[1]/span/div
+----------------
+<h4 class="gPFEn">UN says Gaza residents broke into food warehouses </h4>
+/html/body/c-wiz/div/div[2]/main/div[2]/c-wiz/section/div[3]/div/div[3]/c-wiz/c-wiz/div/div/article[2]/h4
+----------------
+<a class="brSCsc">Sports</a>
+/html/body/div[5]/header/div[3]/div/c-wiz/div[1]/div[10]/a
+----------------
+<span class="ODg3ac">3°</span>
+/html/body/c-wiz/div/div[2]/main/div[2]/c-wiz/section/div[2]/c-wiz/div/div[2]/div[1]/div/div[1]/div[3]/span[2]
+----------------
+<div class="Hmgqjd">Tue</div>
+/html/body/c-wiz/div/div[2]/main/div[2]/c-wiz/section/div[2]/c-wiz/div/div[2]/div[1]/div/div[2]/div[1]
+----------------
+<h4 class="gPFEn">Gazans storm UN warehouse for food supplies</h4>
+/html/body/c-wiz/div/div[2]/main/div[2]/c-wiz/section/div[3]/div/div[3]/c-wiz/c-wiz/div/article/h4
+----------------
+<a>Learn more</a>
+/html/body/c-wiz/div/div[2]/main/div[2]/c-wiz/section/div[1]/div[2]/p[2]/a
+----------------
+<h4 class="JtKRv iTin5e">Judge Chutkan reinstated restrictions on Trump’s p</h4>
+/html/body/c-wiz/div/div[2]/main/div[2]/c-wiz/section/div[3]/div/div[5]/c-wiz/c-wiz/article/div[1]/div[2]/div/h4
+----------------
+<a class="brSCsc">World</a>
+/html/body/div[5]/header/div[3]/div/c-wiz/div[1]/div[5]/a
+----------------
+<h4 class="JtKRv iTin5e">Hundreds storm airport in Russia in antisemitic ri</h4>
+/html/body/c-wiz/div/div[2]/main/div[2]/c-wiz/section/div[3]/div/div[2]/c-wiz/c-wiz/article/div[1]/div[2]/div/h4
+----------------
+<a class="brSCsc">Local</a>
+/html/body/div[5]/header/div[3]/div/c-wiz/div[1]/div[6]/a
+----------------

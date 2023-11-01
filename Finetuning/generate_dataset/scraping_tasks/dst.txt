@@ -1,0 +1,10 @@
+Extract the number of divorces from the page and save it as a CSV file.
+Get the next update date for the statistics and save it as a CSV file.
+Scrape the selected statistics on divorces and save them as a CSV file.
+Retrieve the contact information and save it as a CSV file.
+Get the documentation of statistics and save it as a CSV file.
+Extract the size, composition, and demographic information of the population and save it as a CSV file.
+Scrape the divorce statistics by duration of the marriage and save them as a CSV file.
+Retrieve the development in the number of divorces and save it as a CSV file.
+Get the keyword box period information and save it as a CSV file.
+Scrape the source data of the statistics and save it as a CSV file.

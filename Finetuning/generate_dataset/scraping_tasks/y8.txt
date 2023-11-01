@@ -1,0 +1,10 @@
+Extract the number of plays from the HTML elements and save them as a CSV file.
+Scrape the tags related to football and save them as a CSV file.
+Retrieve the username of a profile and save it as a CSV file.
+Get the percentage value from the HTML elements and save it as a CSV file.
+Extract the text related to multiplayer games from the HTML element and save it as a CSV file.
+Scrape the text "Browse Games Studios" and save it as a CSV file.
+Retrieve the category "All Categories" and save it as a CSV file.
+Get the technology type "HTML5" and save it as a CSV file.
+Extract the title of a game and save it as a CSV file.
+Scrape the description of the website and save it as a CSV file.

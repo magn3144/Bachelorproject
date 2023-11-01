@@ -1,0 +1,148 @@
+<div class="item__plays-count">          38,304,880 plays      </div>
+/html/body/div[1]/div[5]/div[2]/ul/li[11]/a/div[2]/div[3]
+----------------
+<div class="tag_slug">Football</div>
+/html/body/div[1]/div[1]/div/div[2]/div/div/ul/li[4]/a/div
+----------------
+<span class="username username_box">                        My Profile              </span>
+/html/body/nav/div[1]/div[2]/div[5]/div[2]/div[2]/div/div[1]/span[1]
+----------------
+<span class="item__number">          76%        </span>
+/html/body/div[1]/div[5]/div[2]/ul/li[8]/a/div[2]/div[2]/span
+----------------
+<a>multiplayer games</a>. Play the extensive catalog of 
+/html/body/div[4]/div/div/div[2]/p[2]/a[3]
+----------------
+<a>Browse Games Studios</a>
+/html/body/footer/div/div/div[2]/ul/li[5]/a
+----------------
+<li class="all-categories-btn">        All Categories      </li>
+/html/body/div[1]/div[1]/div/div[1]/div/ul/li[13]
+----------------
+<p class="html5">          HTML5        </p>
+/html/body/div[1]/div[5]/div[2]/ul/li[61]/a/div[2]/div[1]/p
+----------------
+<p class="item__title ltr">Turbo Moto Racer</p>
+/html/body/div[1]/div[5]/div[2]/ul/li[11]/a/div[2]/p
+----------------
+<h1 class="pre-content__title pre-content__title--grey">    Free Online Games for All Ages - Start Playin</h1>
+/html/body/div[3]/div/h1
+----------------
+<h2 class="pre-content__description">    Explore the Best Online Free Games - Immerse </h2>
+/html/body/div[3]/div/h2
+----------------
+<h2 class="pre-content__title pre-content__title--red">    What is Y8?  </h2>
+/html/body/div[4]/div/div/div[1]/h2
+----------------
+<h3>New Online Games Categories Rise</h3>
+/html/body/div[4]/div/div/div[2]/h3[1]
+----------------
+<h3>Extensive Game Network</h3>
+/html/body/div[4]/div/div/div[3]/h3[2]
+----------------
+<div class="item__plays-count">          15,593,160 plays      </div>
+/html/body/div[1]/div[5]/div[2]/ul/li[16]/a/div[2]/div[3]
+----------------
+<div class="flag ro"> </div>
+/html/body/nav/div[1]/div[2]/div[6]/div/ul/li[9]/a/div[1]
+----------------
+<span class="sub-title">              &amp; more            </span>
+/html/body/nav/div[1]/div[2]/div[3]/span
+----------------
+<span class="item__number">          77%        </span>
+/html/body/div[1]/div[5]/div[2]/ul/li[28]/a/div[2]/div[2]/span
+----------------
+<a>flash games</a> archive for all those 
+/html/body/div[4]/div/div/div[3]/p[2]/a[2]
+----------------
+<a>2 player</a>
+/html/body/div[1]/div[2]/div/div/div/div[2]/ul/li[15]/a
+----------------
+<p class="html5">          HTML5        </p>
+/html/body/div[1]/div[5]/div[2]/ul/li[50]/a/div[2]/div[1]/p
+----------------
+<p>Desktop Only</p>
+/html/body/div[1]/div[5]/div[2]/ul/li[56]/div/p
+----------------
+<h2 class="pre-content__title pre-content__title--blue">    Game Categories  </h2>
+/html/body/div[4]/div/div/div[2]/h2
+----------------
+<h3>Evolution of Browser Games</h3>
+/html/body/div[4]/div/div/div[1]/h3[3]
+----------------
+<div class="item__plays-count">          874,729 plays      </div>
+/html/body/div[1]/div[5]/div[2]/ul/li[4]/a/div[2]/div[3]
+----------------
+<div class="locale-name">Polski</div>
+/html/body/nav/div[1]/div[2]/div[6]/div/ul/li[18]/a/div[2]
+----------------
+<span class="new-item-icon">New</span>
+/html/body/div[1]/div[5]/div[2]/ul/li[24]/a/span
+----------------
+<a class="account-menu-link" id="account-menu-link-visited">                          Played Games</a> 
+/html/body/nav/div[1]/div[2]/div[5]/div[2]/div[2]/div/ul/li[4]/a
+----------------
+<a class="account-menu-link" id="account-menu-link-edit-profile">Edit Profile</a>
+/html/body/nav/div[1]/div[2]/div[5]/div[2]/div[2]/div/ul/li[2]/a
+----------------
+<p class="tooltip-description">Chickens With Bombsith is a fun adventure game whe</p>
+/html/body/div[1]/div[5]/div[2]/ul/li[24]/a/div[4]/p
+----------------
+<p class="item__title ltr">ScrapLegs</p>
+/html/body/div[1]/div[5]/div[2]/ul/li[15]/a/div[2]/p
+----------------
+<h2 class="pre-content__title pre-content__title--green">    Technologies  </h2>
+/html/body/div[4]/div/div/div[3]/h2
+----------------
+<h3>Connect with the Player Community</h3>
+/html/body/div[4]/div/div/div[3]/h3[3]
+----------------
+<div class="name">          Best Games        </div>
+/html/body/nav/div[1]/div[2]/div[2]/div/ul/li[3]/a/div[1]
+----------------
+<div class="locale-name">Việt</div>
+/html/body/nav/div[1]/div[2]/div[6]/div/ul/li[15]/a/div[2]
+----------------
+<span class="new-item-icon">New</span>
+/html/body/div[1]/div[5]/div[2]/ul/li[14]/a/span
+----------------
+<a>new games</a> are released hourly.
+/html/body/div[4]/div/div/div[1]/p[2]/a[2]
+----------------
+<a>cooking</a>
+/html/body/div[1]/div[2]/div/div/div/div[2]/ul/li[11]/a
+----------------
+<p class="html5">          HTML5        </p>
+/html/body/div[1]/div[5]/div[2]/ul/li[47]/a/div[2]/div[1]/p
+----------------
+<p class="item__title ltr">Snow Rider 3D</p>
+/html/body/div[1]/div[5]/div[2]/ul/li[3]/a/div[2]/p
+----------------
+<h3>Discover the Best in Multiplayer Gaming</h3>
+/html/body/div[4]/div/div/div[2]/h3[2]
+----------------
+<div class="item__plays-count">          49,318,683 plays      </div>
+/html/body/div[1]/div[5]/div[2]/ul/li[50]/a/div[2]/div[3]
+----------------
+<div class="flag en"> </div>
+/html/body/nav/div[1]/div[2]/div[6]/ul/li/a/div[1]
+----------------
+<span class="name">Management &amp; Sim</span>
+/html/body/div[1]/div[1]/div/div[1]/div/ul/li[6]/a/span
+----------------
+<a>HTML5 games</a> will suit you. if you require a nostalgia boost, visit the legacy 
+/html/body/div[4]/div/div/div[3]/p[2]/a[1]
+----------------
+<a>horror</a>
+/html/body/div[1]/div[2]/div/div/div/div[2]/ul/li[12]/a
+----------------
+<p class="tooltip-description">Join the adventure of a courageous panda in Panda </p>
+/html/body/div[1]/div[5]/div[2]/ul/li[34]/a/div[4]/p
+----------------
+<p class="item__title ltr">Backflip Dive 3D</p>
+/html/body/div[1]/div[5]/div[2]/ul/li[22]/a/div[2]/p
+----------------
+<h3>Y8: Your Ultimate Gaming Website</h3>
+/html/body/div[4]/div/div/div[1]/h3[2]
+----------------
+<div class="item__plays-count">          10,724 plays      </div>

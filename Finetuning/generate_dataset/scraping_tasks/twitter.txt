@@ -1,0 +1,10 @@
+Scrape the text from the h1 tag ("/html/body/noscript/div/h1") and save it as a CSV file.
+Scrape the text from the p tag ("/html/body/noscript/div/p[1]") and save it as a CSV file.
+Scrape the text from the a tag ("/html/body/noscript/div/p[3]/a[5]") and save it as a CSV file.
+Scrape the text from the a tag ("/html/body/noscript/div/p[3]/a[2]") and save it as a CSV file.
+Scrape the text from the span tag ("/html/body/div/div/div/div[2]/form/div/div/span") and save it as a CSV file.
+Scrape the text from the span tag ("/html/body/div/div/div/div[2]/form/div/button/div/div/span/span") and save it as a CSV file.
+Scrape the text from the a tag ("/html/body/noscript/div/p[3]/a[3]") and save it as a CSV file.
+Scrape the text from the a tag ("/html/body/noscript/div/p[3]/a[1]") and save it as a CSV file.
+Scrape the text from the a tag ("/html/body/noscript/div/p[2]/a") and save it as a CSV file.
+Scrape the text from the a tag ("/html/body/noscript/div/p[3]/a[4]") and save it as a CSV file.

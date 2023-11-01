@@ -1,0 +1,30 @@
+<h1>JavaScript is not available.</h1>
+/html/body/noscript/div/h1
+----------------
+<p>We’ve detected that JavaScript is disabled in this</p>
+/html/body/noscript/div/p[1]
+----------------
+<a>Ads info</a>      © 2023 X Corp.    
+/html/body/noscript/div/p[3]/a[5]
+----------------
+<a>Privacy Policy</a>
+/html/body/noscript/div/p[3]/a[2]
+----------------
+<span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">Something went wrong, but don’t fret — let’s give </span>
+/html/body/div/div/div/div[2]/form/div/div/span
+----------------
+<span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">Try again</span>
+/html/body/div/div/div/div[2]/form/div/button/div/div/span/span
+----------------
+<a>Cookie Policy</a>
+/html/body/noscript/div/p[3]/a[3]
+----------------
+<a>Terms of Service</a>
+/html/body/noscript/div/p[3]/a[1]
+----------------
+<a>Help Center</a>
+/html/body/noscript/div/p[2]/a
+----------------
+<a>Imprint</a>
+/html/body/noscript/div/p[3]/a[4]
+----------------

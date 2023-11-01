@@ -1,0 +1,139 @@
+<a>In Statbank Denmark, you can find more data on  Di</a>
+/html/body/div[1]/main/div/div[2]/div[1]/div/div/div[3]/div[2]/div/div[2]/div[2]/a
+----------------
+<a>Information Service</a>
+/html/body/div[1]/header/div/div[2]/nav/ul/li[3]/a
+----------------
+<p>The source of the statistics is Statistic Denmark'</p>
+/html/body/div[1]/main/div/div[2]/div[1]/div/div/div[3]/div[2]/div/div[3]/div/div[6]/p
+----------------
+<span>Search</span>
+/html/body/div[1]/header/div/div[2]/div/div[2]/button/span
+----------------
+<legend class="sr-only">Search dst.dk</legend>
+/html/body/div[1]/header/div/div[2]/div/div[2]/div/form/legend
+----------------
+<li>Divorces</li>
+/html/body/div[1]/main/div/div[1]/div/ul/li[6]
+----------------
+<h1>        Divorces    </h1>
+/html/body/div[1]/main/div/div[2]/div[1]/h1
+----------------
+<div>Here you can see how many divorces there have been</div>
+/html/body/div[1]/main/div/div[2]/div[1]/div/div/div[3]/div[2]/div/div[1]
+----------------
+<div>Next update</div>
+/html/body/div[1]/main/div/div[2]/div[1]/div/div/div[3]/div[3]/div/div[3]/div/div[3]
+----------------
+<h2>Selected statistics on Divorces</h2>
+/html/body/div[1]/main/div/div[2]/div[1]/div/div/div[3]/h2
+----------------
+<h2>Contact</h2>
+/html/body/div[1]/main/div/div[2]/div[1]/div/div/div[6]/div/h2
+----------------
+<h3>See the documentation of statistics to learn more:</h3>
+/html/body/div[1]/main/div/div[2]/div[1]/div/div/div[4]/div/div/h3
+----------------
+<h3>About the website</h3>
+/html/body/div[1]/footer/div[1]/div[3]/h3
+----------------
+<a>Quality in the production of statistics</a>
+/html/body/div[1]/header/div/div[2]/div/div[1]/nav/ul/li/div[4]/div/div[3]/ul/li/ul/li[2]/a
+----------------
+<a class="accordion__header">The Population</a>
+/html/body/div[1]/main/div/div[2]/div[1]/div/div/div[4]/div/div/div[2]/a
+----------------
+<p>These statistics show the size, composition and de</p>
+/html/body/div[1]/main/div/div[2]/div[1]/div/div/div[4]/div/div/div[2]/div/div[1]/p
+----------------
+<span class="KeyBoxNumber__Number">12,319</span>
+/html/body/div[1]/main/div/div[2]/div[1]/div/div/div[1]/div/a/div/div[2]/span[1]
+----------------
+<div>You can go on searching on your own in Statbank De</div>
+/html/body/div[1]/main/div/div[2]/div[1]/div/div/div[5]/div/div[1]
+----------------
+<div>13.2.2024</div>
+/html/body/div[1]/main/div/div[2]/div[1]/div/div/div[3]/div[2]/div/div[3]/div/div[4]
+----------------
+<h2>On the statistics – documentation, sources and met</h2>
+/html/body/div[1]/main/div/div[2]/div[1]/div/div/div[4]/div/div/h2
+----------------
+<h3>Find it fast</h3>
+/html/body/div[1]/footer/div[1]/div[2]/h3
+----------------
+<a>Read more about sources, method and quality in the</a>
+/html/body/div[1]/main/div/div[2]/div[1]/div/div/div[4]/div/div/div[2]/div/div[2]/a
+----------------
+<a>Our team</a>
+/html/body/div[1]/header/div/div[2]/div/div[1]/nav/ul/li/div[3]/div/div[2]/ul/li[5]/a
+----------------
+<p>How many people get divorced each year? The statis</p>
+/html/body/div[1]/main/div/div[2]/div[1]/div/div/div[2]/div/div/p
+----------------
+<span class="sr-only">Search</span>
+/html/body/div[1]/header/div/div[2]/div/div[2]/div/form/button/span
+----------------
+<div>Gain an overview of the purpose, contents and qual</div>
+/html/body/div[1]/main/div/div[2]/div[1]/div/div/div[4]/div/div/div[1]
+----------------
+<div>Next update</div>
+/html/body/div[1]/main/div/div[2]/div[1]/div/div/div[3]/div[2]/div/div[3]/div/div[3]
+----------------
+<h2>Need more data on Divorces?</h2>
+/html/body/div[1]/main/div/div[2]/div[1]/div/div/div[5]/div/h2
+----------------
+<h3>Follow us</h3>
+/html/body/div[1]/footer/div[1]/div[4]/h3
+----------------
+<a>News from International Consulting</a>
+/html/body/div[1]/header/div/div[2]/div/div[1]/nav/ul/li/div[3]/div/div[2]/ul/li[2]/a
+----------------
+<a>Documen­tation</a>
+/html/body/div[1]/header/div/div[2]/div/div[1]/nav/ul/li/div[1]/div/div[4]/ul/li[5]/a
+----------------
+<p>Statistics Denmark implements projects in other co</p>
+/html/body/div[1]/header/div/div[2]/div/div[1]/nav/ul/li/div[3]/div/div[3]/a/article/div/p[2]
+----------------
+<div>Annemette Lindhardt Olsen</div>
+/html/body/div[1]/main/div/div[2]/div[1]/div/div/div[6]/div/div[1]/div[1]
+----------------
+<div>Source data</div>
+/html/body/div[1]/main/div/div[2]/div[1]/div/div/div[3]/div[2]/div/div[3]/div/div[5]
+----------------
+<h2 class="selected_statistics_header">Divorces by duration of the marriage</h2>
+/html/body/div[1]/main/div/div[2]/div[1]/div/div/div[3]/div[3]/div/h2
+----------------
+<h3>Ask us</h3>
+/html/body/div[1]/footer/div[1]/div[1]/h3
+----------------
+<a>Analyses and publications</a>
+/html/body/div[1]/header/div/div[2]/div/div[1]/nav/ul/li/div[1]/div/div[4]/ul/li[1]/a
+----------------
+<a>Annual reports</a>
+/html/body/div[1]/header/div/div[2]/div/div[1]/nav/ul/li/div[3]/div/div[2]/ul/li[6]/a
+----------------
+<p>The source of the statistics is Statistic Denmark'</p>
+/html/body/div[1]/main/div/div[2]/div[1]/div/div/div[3]/div[3]/div/div[3]/div/div[6]/p
+----------------
+<div>See how many people get married each year and the </div>
+/html/body/div[1]/main/div/div[2]/div[1]/div/div/div[3]/a[3]/div/div[1]/div[3]
+----------------
+<div>Phone: +45 39 17 33 84</div>
+/html/body/div[1]/main/div/div[2]/div[1]/div/div/div[6]/div/div[2]/div[2]
+----------------
+<h2 class="selected_statistics_header">Development in the number of divorces</h2>
+/html/body/div[1]/main/div/div[2]/div[1]/div/div/div[3]/div[2]/div/h2
+----------------
+<a>Contact Statistics Denmark</a>
+/html/body/div[2]/nav[2]/ul/li[2]/a
+----------------
+<a class="skipToContent">Skip to content</a>
+/html/body/a
+----------------
+<div class="keyword_box_period">                        2022                    </div>
+/html/body/div[1]/main/div/div[2]/div[1]/div/div/div[1]/div/a/div/div[3]
+----------------
+<div>13.2.2024</div>
+/html/body/div[1]/main/div/div[2]/div[1]/div/div/div[3]/div[3]/div/div[3]/div/div[4]
+----------------
+<a>Subscribe to news from International Consulting</a>
