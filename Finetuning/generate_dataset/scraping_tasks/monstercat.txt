@@ -1,0 +1,10 @@
+Scrape the discography table and save the album names and release dates as a CSV file.
+Scrape the list of featured artists and their songs and save them as a CSV file.
+Scrape the list of EPs and save their titles as a CSV file.
+Scrape the list of LPs and save their titles as a CSV file.
+Scrape the table of recent images and their details and save them as a CSV file.
+Scrape the list of forums and review sites and save their names and URLs as a CSV file.
+Scrape the global footer section and save the section headers and corresponding content as a CSV file.
+Scrape the Fandom Apps section and save the app names and descriptions as a CSV file.
+Scrape the Popular Pages section and save the page names as a CSV file.
+Scrape the Explore properties section and save the property names as a CSV file.

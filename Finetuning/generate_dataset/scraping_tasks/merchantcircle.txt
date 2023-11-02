@@ -1,16 +1,10 @@
-Scrape all the fullText spans
-Scrape all the sub-menu-header texts
-Scrape the text of all the url org tags
-Scrape the text of all the locality spans
-Scrape the text of all the street-address spans
-Scrape the text of all the inDesktop spans
-Scrape the text of all the itemDesc links
-Scrape the text of all the viewMoreLink links
-Scrape the text of all the active tags
-Scrape the text of all the bottomSignature links
-Scrape the text of all the review-link links
-Scrape the text of all the itemDesc links with class btn-filled
-Scrape the text of all the inMob spans
-Scrape the text of all the viewMoreLink links with class btn-filled
-Scrape the text of all the itemDesc links with class btn-filled
-Scrape the text of all the btnDir links
+Extract all business names and phone numbers from the given webpage. Save them as a CSV file.
+Scrape the category names listed on the webpage and save them as a CSV file.
+Retrieve the addresses and corresponding websites of the businesses mentioned on the page. Save them as a CSV file.
+Collect the names and descriptions of the merchant tools mentioned on the webpage. Save them as a CSV file.
+Extract the names and URLs of articles or blog posts linked on the webpage. Save them as a CSV file.
+Scrape the labels from the search form on the webpage (e.g. 'Find', 'Near') and save them as a CSV file.
+Retrieve the names of the categories mentioned on the page. Save them as a CSV file.
+Extract the full texts of the reviews provided on the webpage. Save them as a CSV file.
+Collect the names and phone numbers of the businesses listed in a specific section on the webpage. Save them as a CSV file.
+Extract the names and URLs of the organizations mentioned on the webpage. Save them as a CSV file.

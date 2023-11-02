@@ -1,23 +1,29 @@
-import csv
 from bs4 import BeautifulSoup
+import csv
 
-# Open the HTML file
+# Read the HTML file
 with open('downloaded_pages/espn.html', 'r') as file:
     html = file.read()
 
-# Create a BeautifulSoup object
+# Create BeautifulSoup object
 soup = BeautifulSoup(html, 'html.parser')
 
-# Find all Quick Links titles
-quick_links = soup.find_all(class_='QuickLinks__Item__Title')
+# Find the more sports section
+more_sports_section = soup.find('ul', class_='more-sports')
 
-# Create a list to store the titles
+# Extract titles and links from more sports section
 titles = []
-for link in quick_links:
-    titles.append(link.text)
+links = []
 
-# Save the titles as a CSV file
+for item in more_sports_section.find_all('li'):
+    title = item.a.get_text(strip=True)
+    link = item.a['href']
+    titles.append(title)
+    links.append(link)
+
+# Save data to CSV file
 with open('scraped_data.csv', 'w', newline='') as file:
     writer = csv.writer(file)
-    writer.writerow(['Title'])
-    writer.writerows(zip(titles))
+    writer.writerow(['Title', 'Link'])
+    for title, link in zip(titles, links):
+        writer.writerow([title, link])

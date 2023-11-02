@@ -1,11 +1,5 @@
-Generate a list of web scraping tasks:
 1. Extract the text of the movie titles and their corresponding XPaths from the target page. Save them as a CSV file.
 2. Get the text of the category "New Releases" and save it as a CSV file.
 3. Retrieve the text of the TV programme titles and their corresponding XPaths from the target page. Save them as a CSV file.
 4. Extract the text of the category "Popular on Netflix" and save it as a CSV file.
 5. Retrieve the text of the movie titles in the category "Scandinavian Films & TV" and save them as a CSV file.
-6. Get the text of the category "Danish TV Programmes" and save it as a CSV file.
-7. Extract the text of the HTML elements with class "nm-collections-title-name" and save them as a CSV file.
-8. Retrieve the text of the movie titles in the category "Nordic Films & TV" and save them as a CSV file.
-9. Get the text of the category "Movie Websites" and save it as a CSV file.
-10. Extract the text of the HTML elements with class "nm-content-header-text" and save them as a CSV file.

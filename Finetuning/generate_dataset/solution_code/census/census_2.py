@@ -1,18 +1,31 @@
 import csv
-from bs4 import BeautifulSoup
+from lxml import etree
 
-# Open the HTML file
-with open('downloaded_pages/census.html', 'r') as f:
-    html = f.read()
+# Define the HTML file path
+html_file = 'downloaded_pages/census.html'
 
-# Create a BeautifulSoup object
-soup = BeautifulSoup(html, 'html.parser')
+# Define the XPaths
+xpaths = {
+    'search_placeholder': '/html/body/div[3]/div/div/div[3]/header/div[1]/div[2]/div[2]/div[2]/span'
+}
 
-# Find the director's blog post
-director_blog = soup.find('p', class_='uscb-footer-text').text
+# Function to extract data from HTML using xpath
+def extract_data(html, xpath):
+    parser = etree.HTMLParser()
+    tree = etree.parse(html, parser)
+    element = tree.xpath(xpath)
+    if element:
+        return element[0].text.strip()
+    else:
+        return ''
 
-# Save the scraped data as a CSV file
-with open('scraped_data.csv', 'w', newline='') as file:
-    writer = csv.writer(file)
-    writer.writerow(['Director Blog'])
-    writer.writerow([director_blog])
+# Extract the search_placeholder
+search_placeholder = extract_data(html_file, xpaths['search_placeholder'])
+
+# Save the scraped data as CSV file
+data = [{'search_placeholder': search_placeholder}]
+
+with open('scraped_data.csv', 'w', newline='') as csvfile:
+    writer = csv.DictWriter(csvfile, fieldnames=['search_placeholder'])
+    writer.writeheader()
+    writer.writerows(data)

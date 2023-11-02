@@ -1,24 +1,18 @@
-import re
 import csv
+from lxml import etree
 
-html_file = "downloaded_pages/homefinder.html"
-target_elements = [
-    '<label class="font-weight-bold">Cities Near New York, NY</label>',
-    '<a class="search-internal-link d-block">'
-]
+# Read the HTML file
+tree = etree.parse("downloaded_pages/homefinder.html")
 
-with open(html_file, 'r') as file:
-    html_content = file.read()
+# Find the element containing the number of homes for sale
+num_homes_element = tree.xpath("//a[contains(@class, 'search-internal-link') and contains(text(), '10011')]")
+if num_homes_element:
+    num_homes = num_homes_element[0].text.strip()
+else:
+    num_homes = "N/A"
 
-city_list = []
-
-for element in target_elements:
-    match = re.search(r'({0})(.*?)</a>'.format(element), html_content)
-    if match:
-        city = match.group(2).strip()
-        city_list.append(city)
-
-with open('scraped_data.csv', 'w', newline='') as file:
-    writer = csv.writer(file)
-    writer.writerow(['City'])
-    writer.writerows(zip(city_list))
+# Save the scraped data as a CSV file
+with open('scraped_data.csv', 'w', newline='') as csvfile:
+    writer = csv.writer(csvfile)
+    writer.writerow(['Number of Homes for Sale'])
+    writer.writerow([num_homes])

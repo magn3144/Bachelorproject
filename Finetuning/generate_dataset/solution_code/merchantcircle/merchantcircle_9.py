@@ -1,22 +1,23 @@
 import csv
-from bs4 import BeautifulSoup
+from lxml import html
 
-html_file = 'downloaded_pages/merchantcircle.html'
-category = 'Directories'
-data_elements = [
-    '<a class="bottomSignature"> -- Latest Update February 04, 2011 at 06:10 AM by</a>',
-    '<a id="_bl_link">A Buyerlink </a> inc. company. All Rights Reserved.'
-    # Add more elements here if needed
-]
+# Open and parse the HTML file
+with open('downloaded_pages/merchantcircle.html', 'r') as f:
+    page_content = f.read()
+tree = html.fromstring(page_content)
 
-# Scrape the text of all bottomSignature links
-soup = BeautifulSoup(open(html_file), 'html.parser')
-bottom_signature_links = soup.find_all('a', class_='bottomSignature')
+# Find all the organizations mentioned on the webpage
+organizations = tree.xpath("//a[contains(@class, 'url')]")
+data = []
 
-# Extract the text and save as CSV
-with open('scraped_data.csv', 'w', newline='') as csvfile:
-    writer = csv.writer(csvfile)
-    writer.writerow(['Category', 'Link Text'])
+# Extract the names and URLs of the organizations
+for org in organizations:
+    name = org.text.strip()
+    url = org.get('href', '')
+    data.append([name, url])
 
-    for link in bottom_signature_links:
-        writer.writerow([category, link.get_text().strip()])
+# Save the scraped data as a CSV file
+with open('scraped_data.csv', 'w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerow(['Name', 'URL'])
+    writer.writerows(data)

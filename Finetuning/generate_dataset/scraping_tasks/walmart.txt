@@ -1,0 +1,11 @@
+Scraping Tasks:
+1. Extract the names and prices of all products on the Walmart e-commerce page. Save them as a CSV file.
+2. Retrieve the addresses of Walmart stores from the webpage. Save them as a CSV file.
+3. Gather the prices of all fresh produce items listed on the website. Save them as a CSV file.
+4. Get the names and descriptions of all salad kits available on the Walmart website. Save them as a CSV file.
+5. Collect the prices of various meat and cheese alternatives. Save them as a CSV file.
+6. Obtain the names of all Thanksgiving-related products on the website. Save them as a CSV file.
+7. Retrieve the prices and sizes of honeycrisp apples in different packages. Save them as a CSV file.
+8. Get the names and descriptions of different types of berries available on the website. Save them as a CSV file.
+9. Extract the names and prices of melons from the Walmart page. Save them as a CSV file.
+10. Gather information on how to choose the best melons. Save it as a CSV file.

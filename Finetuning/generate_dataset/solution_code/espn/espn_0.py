@@ -1,19 +1,28 @@
 import csv
-from bs4 import BeautifulSoup
+from pathlib import Path
+from lxml import html
 
-# Parse the HTML file
-with open('downloaded_pages/espn.html', 'r') as file:
-    html = file.read()
+# Define the XPath expressions for the elements
+xpath_expressions = {
+    "article_title": '//h1[@class="News__Item__Headline"]/text()',
+    "article_description": '//div[@class="News__Item__Description"]/text()'
+}
 
-soup = BeautifulSoup(html, 'html.parser')
+# Load the HTML file
+html_file = Path('downloaded_pages/espn.html').read_text()
 
-# Find all gamecast links
-gamecast_links = soup.find_all('a', class_='AnchorLink MatchInfo__Link')
+# Parse the HTML content
+tree = html.fromstring(html_file)
 
-# Save the links as a CSV file
-with open('scraped_data.csv', 'w', newline='') as file:
-    writer = csv.writer(file)
-    writer.writerow(['Gamecast Links'])
+# Scrape the data using XPath expressions
+article_titles = tree.xpath(xpath_expressions["article_title"])
+article_descriptions = tree.xpath(xpath_expressions["article_description"])
 
-    for link in gamecast_links:
-        writer.writerow([link.get('href')])
+# Combine the scraped data into a list
+scraped_data = list(zip(article_titles, article_descriptions))
+
+# Write the scraped data to a CSV file
+with open('scraped_data.csv', 'w', newline='') as csvfile:
+    writer = csv.writer(csvfile)
+    writer.writerow(['Article Title', 'Article Description'])
+    writer.writerows(scraped_data)

@@ -1,18 +1,21 @@
 import csv
 from bs4 import BeautifulSoup
 
-html_file = "downloaded_pages/washingtonpost.html"
+# Read the HTML file
+with open('downloaded_pages/washingtonpost.html', 'r') as file:
+    soup = BeautifulSoup(file, 'html.parser')
 
-with open(html_file, "r") as f:
-    soup = BeautifulSoup(f, "html.parser")
+# Find all featured articles and their authors
+featured_articles = soup.find_all(class_='wpds-c-fJKSbB wpds-c-fJKSbB-lheJVL-featured-false')
+article_authors = soup.find_all(class_='wpds-c-knSWeD wpds-c-knSWeD-iRfhkg-as-a')
 
-span_tags = soup.find_all("span", class_="Politics")
+# Create a list to store the scraped data
+scraped_data = []
+for article, author in zip(featured_articles, article_authors):
+    scraped_data.append([article.get_text(), author.get_text()])
 
-data = []
-for tag in span_tags:
-    data.append(tag.text)
-
-with open("scraped_data.csv", "w", newline="") as file:
+# Save the scraped data as a CSV file
+with open('scraped_data.csv', 'w', newline='') as file:
     writer = csv.writer(file)
-    for item in data:
-        writer.writerow([item])
+    writer.writerow(['Article', 'Author'])
+    writer.writerows(scraped_data)

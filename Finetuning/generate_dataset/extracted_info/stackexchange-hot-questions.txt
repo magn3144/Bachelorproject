@@ -1,0 +1,156 @@
+<a class="question-link">                    Compute the conjugate of a pa</a>
+/html/body/div/section/div/div[2]/div[2]/div[3]/div/h2/a
+----------------
+<a>All Sites</a>
+/html/body/div/header[2]/div/ul/li[1]/a
+----------------
+<div id="noscript-warning">Stack Exchange works best with JavaScript enabled</div>
+/html/body/noscript[2]/div
+----------------
+<div class="v-visible-sr">Loading…</div>
+/html/body/div/header[1]/div/form/div/div/div[2]/div/div
+----------------
+<span class="sb-siteName">Science Fiction &amp; Fantasy</span>
+/html/body/div/section/div/div[3]/div[2]/div[10]/div/span[2]
+----------------
+<span class="sb-siteName">Worldbuilding</span>
+/html/body/div/section/div/div[3]/div[2]/div[5]/div/span[2]
+----------------
+<h3 class="title">Stack Exchange Q&amp;A communities are different. Here</h3>
+/html/body/div/section/div/div[1]/div[2]/div[1]/h3
+----------------
+<h1>Stack Exchange</h1>
+/html/body/div/header[2]/div/a/h1
+----------------
+<a class="post-tag">metagaming</a>3 answers |                    asked yesterday                    
+/html/body/div/section/div/div[2]/div[2]/div[23]/div/div/a[5]
+----------------
+<a class="post-tag">electric-fields</a>
+/html/body/div/section/div/div[2]/div[2]/div[17]/div/div/a[2]
+----------------
+<div class="heading">Top Network Askers</div>
+/html/body/div/section/div/div[3]/div[2]/div[1]
+----------------
+<span class="flex--item fl1">            Meta Stack Exchange        </span>
+/html/body/div/header[1]/div/nav/ol/li[2]/div/div[2]/ul/li[2]/a/span
+----------------
+<span class="sb-siteName">Electrical Engineering</span>
+/html/body/div/section/div/div[3]/div[2]/div[25]/div/span[2]
+----------------
+<h3>your communities            </h3>
+/html/body/div/header[1]/div/nav/ol/li[2]/div/div[3]/h3
+----------------
+<a class="question-link">                    Is "forced expulsion" equival</a>
+/html/body/div/section/div/div[2]/div[2]/div[1]/div/h2/a
+----------------
+<a class="post-tag">xetex</a>
+/html/body/div/section/div/div[2]/div[2]/div[12]/div/div/a[1]
+----------------
+<div class="stats-label">questions</div>
+/html/body/div/section/div/div[3]/div[1]/div[2]/div[3]/div[1]/div[2]
+----------------
+<span class="old">182</span>                     communities is built by people passionate about a focused topic.                
+/html/body/div/section/div/div[1]/div[2]/div[2]/div[1]/div/span
+----------------
+<span class="sb-siteName">Law</span>
+/html/body/div/section/div/div[3]/div[2]/div[6]/div/span[2]
+----------------
+<a class="post-tag">code-golf</a>34 answers |                    asked yesterday                    
+/html/body/div/section/div/div[2]/div[2]/div[3]/div/div/a[1]
+----------------
+<a>Jones</a>
+/html/body/div/section/div/div[3]/div[2]/div[21]/div/span[1]/a
+----------------
+<div class="stats-label">answers</div>
+/html/body/div/section/div/div[3]/div[1]/div[2]/div[3]/div[2]/div[2]
+----------------
+<span class="sb-siteName">Geographic Information Systems</span>
+/html/body/div/section/div/div[3]/div[2]/div[23]/div/span[2]
+----------------
+<span class="page-numbers current">1</span>
+/html/body/div/section/div/div[2]/div[2]/div[32]/span
+----------------
+<a class="question-host">politics                </a>
+/html/body/div/section/div/div[2]/div[2]/div[1]/div/div/a[3]
+----------------
+<a class="post-tag">materials</a>
+/html/body/div/section/div/div[2]/div[2]/div[4]/div/div/a[2]
+----------------
+<div class="stats">8k</div>
+/html/body/div/section/div/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]
+----------------
+<span class="flex--item fl1">            Stack Exchange        </span>
+/html/body/div/header[1]/div/nav/ol/li[2]/div/div[2]/ul/li[1]/div[1]/a/span
+----------------
+<span class="page-numbers">4</span>
+/html/body/div/section/div/div[2]/div[2]/div[32]/a[3]/span
+----------------
+<a class="question-link">                    What is the minimum temperatu</a>
+/html/body/div/section/div/div[2]/div[2]/div[30]/div/h2/a
+----------------
+<a>Monty Wild</a>
+/html/body/div/section/div/div[3]/div[2]/div[11]/div/span[1]/a
+----------------
+<div class="stats">8.3k</div>
+/html/body/div/section/div/div[3]/div[1]/div[2]/div[3]/div[2]/div[1]
+----------------
+<span class="sb-siteName">English Language Learners</span>
+/html/body/div/section/div/div[3]/div[2]/div[21]/div/span[2]
+----------------
+<span class="sb-siteName">Personal Finance &amp; Money</span>
+/html/body/div/section/div/div[3]/div[2]/div[7]/div/span[2]
+----------------
+<a class="post-tag">getfeatureinfo</a>2 answers |                    asked 13 hours ago                    
+/html/body/div/section/div/div[2]/div[2]/div[22]/div/div/a[3]
+----------------
+<a>Kerrick</a>
+/html/body/div/section/div/div[3]/div[2]/div[24]/div/span[1]/a
+----------------
+<div class="heading">Today's Featured Site</div>
+/html/body/div/section/div/div[3]/div[1]/div[1]
+----------------
+<span class="sb-siteName">Politics</span>
+/html/body/div/section/div/div[3]/div[2]/div[15]/div/span[2]
+----------------
+<a>opaque_dragon</a> on                    
+/html/body/div/section/div/div[2]/div[2]/div[17]/div/div/span/a
+----------------
+<a class="-link js-gps-track">LinkedIn</a>
+/html/body/footer/div/div[2]/ul/li[4]/a
+----------------
+<div class="heading">Top Network Sites</div>
+/html/body/div/section/div/div[3]/div[3]/div
+----------------
+<span class="sb-siteName">Role-playing Games</span>
+/html/body/div/section/div/div[3]/div[2]/div[24]/div/span[2]
+----------------
+<a class="post-tag">matches</a>9 answers |                    asked yesterday                    
+/html/body/div/section/div/div[2]/div[2]/div[13]/div/div/a[2]
+----------------
+<a class="js-gps-track -link">Legal</a>
+/html/body/footer/div/nav/div[2]/ul/li[7]/a
+----------------
+<div class="stats">78%</div>
+/html/body/div/section/div/div[3]/div[1]/div[2]/div[3]/div[3]/div[1]
+----------------
+<span class="sb-siteName">Travel</span>
+/html/body/div/section/div/div[3]/div[2]/div[12]/div/span[2]
+----------------
+<a class="post-tag">algorithms</a>3 answers |                    asked yesterday                    
+/html/body/div/section/div/div[2]/div[2]/div[19]/div/div/a[3]
+----------------
+<a class="login-link js-gps-track">Sign up</a> or 
+/html/body/div/header[1]/div/nav/ol/li[2]/div/div[4]/div/a[1]
+----------------
+<a class="post-tag">multipole-expansion</a>5 answers |                    asked yesterday                    
+/html/body/div/section/div/div[2]/div[2]/div[17]/div/div/a[5]
+----------------
+<a>RogerA</a>
+/html/body/div/section/div/div[3]/div[2]/div[14]/div/span[1]/a
+----------------
+<a class="login-link js-gps-track">log in</a> to customize your list.                
+/html/body/div/header[1]/div/nav/ol/li[2]/div/div[4]/div/a[2]
+----------------
+<a class="js-gps-track -link">Contact</a>
+/html/body/footer/div/nav/div[1]/ul/li[2]/a
+----------------

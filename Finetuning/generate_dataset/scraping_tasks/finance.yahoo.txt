@@ -1,0 +1,11 @@
+Generate a list of web-scraping tasks:
+1. Scrape the options with highest implied volatility and save them as a CSV file.
+2. Skip to the main content and save it as a CSV file.
+3. Scrape the search label and save it as a CSV file.
+4. Scrape the news and associated information and save it as a CSV file.
+5. Scrape the text element and save it as a CSV file.
+6. Scrape the notifications and save them as a CSV file.
+7. Scrape the fortune element and save it as a CSV file.
+8. Scrape the trending tickers and save them as a CSV file.
+9. Scrape the Fed decision, ADP data, and earnings and save them as a CSV file.
+10. Scrape the mail element and save it as a CSV file.

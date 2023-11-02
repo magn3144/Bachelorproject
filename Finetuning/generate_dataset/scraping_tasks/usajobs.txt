@@ -1,0 +1,11 @@
+Generate a list of web-scraping tasks:
+1. Scrape the job titles and hiring paths from the search results page. Save them as a CSV file.
+2. Scrape the cities where the job applies from the search filters. Save them as a CSV file.
+3. Scrape the agency names from the search results page. Save them as a CSV file.
+4. Scrape the opening and closing dates from the search results page. Save them as a CSV file.
+5. Scrape the job categories from the search filters. Save them as a CSV file.
+6. Scrape the search features titles and descriptions from the search results page. Save them as a CSV file.
+7. Scrape the sorting options from the search controls. Save them as a CSV file.
+8. Scrape the grade labels from the search filters. Save them as a CSV file.
+9. Scrape the department names from the search results page. Save them as a CSV file.
+10. Scrape the jump titles and target XPaths from the search filters. Save them as a CSV file.

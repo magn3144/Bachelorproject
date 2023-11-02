@@ -1,20 +1,30 @@
 from bs4 import BeautifulSoup
 import csv
 
-# Read the HTML file
-with open('downloaded_pages/homefinder.html', 'r') as file:
-    html = file.read()
+# Define the path to the HTML file
+html_file = 'downloaded_pages/homefinder.html'
 
-# Create a BeautifulSoup object
-soup = BeautifulSoup(html, 'html.parser')
+# Create a list to store the scraped data
+scraped_data = []
 
-# Find all the anchor tags with class 'search-internal-link'
-neighborhood_links = soup.find_all('a', class_='search-internal-link')
+# Open the HTML file and parse it using BeautifulSoup
+with open(html_file, 'r') as file:
+    soup = BeautifulSoup(file, 'html.parser')
 
-# Extract the neighborhood names from the anchor tags
-neighborhood_names = [link.text.strip() for link in neighborhood_links]
+    # Find the div element containing the real estate agent's name
+    name_div = soup.find(class_='cobrand-attribution-line1 mt-1')
 
-# Save the neighborhood names as a CSV file
-with open('scraped_data.csv', 'w', newline='') as file:
-    writer = csv.writer(file)
-    writer.writerows([name] for name in neighborhood_names)
+    # Get the text of the real estate agent's name
+    name = name_div.get_text(strip=True) if name_div else ""
+
+    # Append the name to the scraped data list
+    scraped_data.append({'Real Estate Agent Name': name})
+
+# Define the path and filename for the CSV file
+csv_file = 'scraped_data.csv'
+
+# Write the scraped data to the CSV file
+with open(csv_file, 'w', newline='') as file:
+    writer = csv.DictWriter(file, fieldnames=['Real Estate Agent Name'])
+    writer.writeheader()
+    writer.writerows(scraped_data)

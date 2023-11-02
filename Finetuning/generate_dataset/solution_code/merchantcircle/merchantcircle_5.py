@@ -1,20 +1,18 @@
 import csv
-from bs4 import BeautifulSoup
+from lxml import html
 
-html_file = 'downloaded_pages/merchantcircle.html'
+# Load the HTML file
+with open('downloaded_pages/merchantcircle.html', 'r') as f:
+    html_content = f.read()
 
-def scrape_html(html_file):
-    with open(html_file, 'r') as file:
-        soup = BeautifulSoup(file, 'html.parser')
-        in_desktop_spans = soup.find_all('span', class_='inDesktop')
-        text_list = [span.get_text(strip=True) for span in in_desktop_spans]
-        return text_list
+# Parse the HTML
+tree = html.fromstring(html_content)
 
-def save_to_csv(data):
-    with open('scraped_data.csv', 'w', newline='') as file:
-        writer = csv.writer(file)
-        writer.writerow(['Text'])
-        writer.writerows([[text] for text in data])
+# Find the labels from the search form
+labels = tree.xpath("//form//label/text()")
 
-target_data = scrape_html(html_file)
-save_to_csv(target_data)
+# Write the labels to the CSV file
+with open('scraped_data.csv', 'w', newline='') as csvfile:
+    writer = csv.writer(csvfile)
+    writer.writerow(['Labels'])
+    writer.writerows([[label] for label in labels])

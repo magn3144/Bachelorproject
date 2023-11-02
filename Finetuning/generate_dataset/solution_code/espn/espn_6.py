@@ -1,27 +1,27 @@
 import csv
-from bs4 import BeautifulSoup
+from lxml import etree
 
-# Path to the HTML file
+# Define the target HTML file path
 html_path = 'downloaded_pages/espn.html'
 
-# HTML elements containing video descriptions
-video_description_elements = [
-    'p.vjs-modal-dialog-description',
-    'div.News__Item__Description',
-    'div.MediaList__item__description',
-]
+# Define the XPaths for captions and descriptions
+caption_xpath = "//span[@class='vjs-control-text']"
+description_xpath = "//p[@class='vjs-modal-dialog-description vjs-control-text']"
 
-# Retrieve video descriptions from the HTML file
-video_descriptions = []
-with open(html_path, 'r') as file:
-    soup = BeautifulSoup(file, 'html.parser')
-    for element in video_description_elements:
-        descriptions = soup.select(element)
-        for description in descriptions:
-            video_descriptions.append(description.text.strip())
+# Parse the HTML file
+tree = etree.parse(html_path)
 
-# Save video descriptions as CSV file
+# Find the captions
+captions = tree.xpath(caption_xpath)
+
+# Find the descriptions
+descriptions = tree.xpath(description_xpath)
+
+# Prepare the data as a list of tuples
+data = list(zip(captions, descriptions))
+
+# Save the data as a CSV file
 with open('scraped_data.csv', 'w', newline='') as file:
     writer = csv.writer(file)
-    for description in video_descriptions:
-        writer.writerow([description])
+    writer.writerow(['Caption', 'Description'])
+    writer.writerows(data)

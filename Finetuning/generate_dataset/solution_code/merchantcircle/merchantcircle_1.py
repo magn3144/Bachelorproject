@@ -1,18 +1,18 @@
 import csv
-from bs4 import BeautifulSoup
+from scrapy import Selector
 
-def scrape_sub_menu_headers(html_file):
-    with open(html_file, 'r') as f:
-        soup = BeautifulSoup(f, 'html.parser')
-        sub_menu_headers = soup.find_all('li', class_='sub-menu-header')
+# Load the HTML file
+with open('downloaded_pages/merchantcircle.html') as file:
+    html = file.read()
 
-    data = []
-    for header in sub_menu_headers:
-        data.append(header.text.strip())
+# Create a selector object
+sel = Selector(text=html)
 
-    with open('scraped_data.csv', 'w', newline='') as csvfile:
-        writer = csv.writer(csvfile)
-        writer.writerow(['Sub Menu Headers'])
-        writer.writerows(data)
+# Get the category names
+category_names = sel.xpath('//h2/a/text()').extract()
 
-scrape_sub_menu_headers('downloaded_pages/merchantcircle.html')
+# Save the scraped data as CSV
+with open('scraped_data.csv', 'w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerow(['Category Name'])
+    writer.writerows(zip(category_names))

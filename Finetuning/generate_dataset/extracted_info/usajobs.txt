@@ -1,0 +1,113 @@
+<p class="usajobs-search-result--core__hiring-path">                        This job is open to:    </p>
+/html/body/section/section/div/main/div[5]/div[11]/div[2]/div[12]/div[1]/div[2]/ul/li[3]/p
+----------------
+<p class="usajobs-form__help-brief">Applies only to cities</p>
+/html/body/section/section/div/aside/div/div[2]/div[3]/div[2]/ul/li[1]/div/div[2]/ul/li[1]/div/ul/li/p
+----------------
+<div class="usajobs-assistive-text" id="usajobs-modal-description-map">                View Map            </div>
+/html/body/div[2]/div/div/div[1]
+----------------
+<div>Save</div>
+/html/body/section/section/div/main/div[5]/div[13]/nav/div/a[3]/div/div
+----------------
+<title>family-of-overseas-employees-icon</title>
+/html/body/svg/symbol[1]/title
+----------------
+<title id="fa-title-0gpMkE7cjMgx">Opening and closing dates</title>
+/html/body/section/section/div/main/div[5]/div[11]/div[2]/div[24]/div[2]/p/svg/title
+----------------
+<span>                    3801 - Miscellaneous Metal Wo</span>
+/html/body/section/section/div/aside/div/div[2]/div[3]/div[1]/ul/li[4]/div/div[2]/div[2]/div[34]/ul/li[1]/label/span[1]
+----------------
+<span class="usajobs-search-filters__count">(0)</span>
+/html/body/section/section/div/aside/div/div[2]/div[3]/div[1]/ul/li[3]/div/div[2]/section[2]/div[2]/ul[4]/li[1]/label/span[2]
+----------------
+<a class="usajobs-search-no-params-highlight__list-item">                                    Fishery biolo</a>
+/html/body/section/section/div/main/div[5]/div[6]/ul/li[12]/a
+----------------
+<a class="usajobs-search-refiner__jump-letter usajobs-search-refiner__jump-link usajobs-search-link-disabled">F</a>
+/html/body/section/section/div/aside/div/div[2]/div[3]/div[1]/ul/li[3]/div/div[2]/section[1]/ol/li[6]/a
+----------------
+<h3 class="usa-alert-heading">                            Saved Search        </h3>
+/html/body/section/section/div/main/div[1]/div[2]/h3
+----------------
+<h3 class="usajobs-search-save__title">Save search</h3>
+/html/body/section/section/div/main/div[5]/div[10]/div/div/div/h3
+----------------
+<h4 class="usajobs-search-result--core__agency">                Customs and Border Protection   </h4>
+/html/body/section/section/div/main/div[5]/div[11]/div[2]/div[21]/div[1]/div[1]/h4[1]
+----------------
+<h4 class="usajobs-search-refiner__letter" id="agency-group-N">    N</h4>
+/html/body/section/section/div/aside/div/div[2]/div[3]/div[1]/ul/li[3]/div/div[2]/section[2]/div[2]/h4[16]
+----------------
+<h2 class="usajobs-modal__title">Your session is about to expire!</h2>
+/html/body/div[3]/div/div/div[2]/h2
+----------------
+<h2 class="usajobs-search-no-params-highlight--blue__title">Search features</h2>
+/html/body/section/section/div/main/div[5]/div[5]/h2
+----------------
+<label class="usajobs-search-controls__sort-label" id="sort_direction_label">            Sort direction        </label>
+/html/body/section/section/div/main/div[5]/div[7]/div/div/label[2]
+----------------
+<label class="usajobs-search-filters__label">Grade</label>
+/html/body/section/section/div/aside/div/div[2]/div[3]/div[1]/ul/li[2]/div/div[2]/ul/li[3]/label
+----------------
+<h5 class="usajobs-search-result--core__department">                Department of the Army          </h5>
+/html/body/section/section/div/main/div[5]/div[11]/div[2]/div[16]/div[1]/div[1]/h5
+----------------
+<h5 class="usajobs-search-refiner__jump-title">Jump to</h5>
+/html/body/section/section/div/aside/div/div[2]/div[3]/div[1]/ul/li[3]/div/div[2]/section[1]/h5
+----------------
+<li class="usajobs-search-result--core__item usajobs-search-result--core__appt-type">                            Permanent • Full-time</li>
+/html/body/section/section/div/main/div[5]/div[11]/div[2]/div[8]/div[1]/div[2]/ul/li[2]
+----------------
+<li class="ui-autocomplete-category occupations">occupations</li>
+/html/body/ul[2]/li[5]
+----------------
+<h1>                    Please wait while map is bein</h1>
+/html/body/div[2]/div/div/div[2]/h1
+----------------
+<p class="usajobs-search-result--core__hiring-path">                        This job is open to:    </p>
+/html/body/section/section/div/main/div[5]/div[11]/div[2]/div[23]/div[1]/div[2]/ul/li[3]/p
+----------------
+<div class="usajobs-assistive-text">                Beginning of a dialog window for </div>
+/html/body/div[3]/div/div/div[1]
+----------------
+<div>Programmer Analyst</div>
+/html/body/div[5]/div
+----------------
+<title>federal-employees-competitive-service-icon</title>
+/html/body/svg/symbol[2]/title
+----------------
+<title>se-other</title>
+/html/body/svg/symbol[15]/title
+----------------
+<span>            Armed forces        </span>
+/html/body/section/section/div/aside/div/div[2]/div[3]/div[1]/ul/li[1]/div/div[2]/ul[3]/li[1]/span[1]
+----------------
+<span class="usajobs-search-filters__count">(0)</span>
+/html/body/section/section/div/aside/div/div[2]/div[3]/div[1]/ul/li[4]/div/div[2]/div[2]/div[5]/ul/li[10]/label/span[2]
+----------------
+<a class="usajobs-search-no-params-highlight__list-item">                                    Cyber effects</a>
+/html/body/section/section/div/main/div[5]/div[6]/ul/li[8]/a
+----------------
+<a class="usajobs-search-refiner__jump-number usajobs-search-refiner__jump-link usajobs-search-link-disabled">        3400    </a>
+/html/body/section/section/div/aside/div/div[2]/div[3]/div[1]/ul/li[4]/div/div[2]/ol/li[30]/a
+----------------
+<h4 class="usajobs-search-refiner__number" id="series-group-1800">        1800 - Inspection, Investigation    </h4>
+/html/body/section/section/div/aside/div/div[2]/div[3]/div[1]/ul/li[4]/div/div[2]/div[2]/div[19]/h4
+----------------
+<h4 class="usajobs-search-refiner__letter" id="agency-group-J">    J</h4>
+/html/body/section/section/div/aside/div/div[2]/div[3]/div[1]/ul/li[3]/div/div[2]/section[2]/div[2]/h4[13]
+----------------
+<label class="usajobs-search-controls__sort-label">            Sort by        </label>
+/html/body/section/section/div/main/div[5]/div[7]/div/div/label[1]
+----------------
+<label class="sr-only" id="usajobs-salary-min-label">Minimum salary</label>
+/html/body/section/section/div/aside/div/div[2]/div[3]/div[1]/ul/li[2]/div/div[2]/ul/li[2]/div/ul/li[1]/label
+----------------
+<h5 class="usajobs-search-result--core__department">                Department of Agriculture       </h5>
+/html/body/section/section/div/main/div[5]/div[11]/div[2]/div[17]/div[1]/div[1]/h5
+----------------
+<h5 class="usajobs-search-refiner__jump-title" id="filter-series-jump-list">Jump to</h5>
+/html/body/section/section/div/aside/div/div[2]/div[3]/div[1]/ul/li[4]/div/div[2]/h5

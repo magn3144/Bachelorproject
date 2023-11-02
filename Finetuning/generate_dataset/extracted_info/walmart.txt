@@ -1,0 +1,85 @@
+<a class="f6 no-underline black db underline-hover pb2 mb1">Brussels Sprouts &amp; Cabbage</a>
+/html/body/div/div[1]/div/div/div[2]/div/div/main/div[1]/div[2]/div/div[1]/div/div/section[2]/ul/li[2]/ul/li[4]/a
+----------------
+<a class="no-underline sub-nav-link white ph2 sub-nav-link-focus">Thanksgiving</a>
+/html/body/div/div[1]/div/div/div[1]/div/div[1]/section[2]/nav/ul/li[3]/a
+----------------
+<div class="f7">8915 Gerber Road, Sacramento, CA 95829</div>
+/html/body/div/div[1]/div/div/div[1]/div/div[1]/section[1]/div/div/div/div[1]/div/div[2]/div/button/div[1]/div[1]/div[2]/div[2]/div
+----------------
+<div class="gray mr1 f7 f6-l">$1.98/lb</div>
+/html/body/div/div[1]/div/div/div[2]/div/div/main/div[1]/div[2]/div/div[2]/div/div/div[2]/section/section/div/ul/li[1]/div/div[4]/div[3]
+----------------
+<span class="normal dark-gray mb0 mt1 lh-title f6 f5-l">Dole Roadhouse BBQ Chopped Salad Kit, 11.88 oz, Fr</span>
+/html/body/div/div[1]/div/div/div[2]/div/div/main/div[1]/div[2]/div/div[2]/div/div/div[5]/section/section/div/ul/li[15]/div/span/span/span
+----------------
+<span class="mr3">each </span>
+/html/body/div/div[1]/div/div/div[2]/div/div/main/div[1]/div[2]/div/div[2]/div/div/div[2]/section/section/div/ul/li[17]/div/div[4]/div[2]/span
+----------------
+<h1>Fresh Produce</h1>
+/html/body/div/div[1]/div/div/div[2]/div/div/main/span/h1
+----------------
+<h2>How do I choose the best melons?</h2>
+/html/body/div/div[1]/div/div/div[2]/div/div/main/div[1]/div[3]/div/div/div/section/div/div/h2[2]
+----------------
+<h2 class="f4 f3-m lh-title ma0">New in produce</h2>
+/html/body/div/div[1]/div/div/div[2]/div/div/main/div[1]/div[2]/div/div[2]/div/div/div[5]/section/section/header/section/div/div/div/h2
+----------------
+<h3>Crunch Pak Grab N Go! Apple Slices Multi-Pack of 6</h3>
+/html/body/div/div[1]/div/div/div[2]/div/div/main/div[1]/div[2]/div/div[2]/div/div/div[5]/section/section/div/ul/li[12]/div/a/span/h3
+----------------
+<h3>Fresh Envy Apples, Each</h3>
+/html/body/div/div[1]/div/div/div[2]/div/div/main/div[1]/div[2]/div/div[2]/div/div/div[2]/section/section/div/ul/li[14]/div/a/span/h3
+----------------
+<p class="f6 ma0 mid-gray lh-copy">Every purchase improves lives and protects the pla</p>
+/html/body/div/div[1]/div/div/div[2]/div/div/main/div[1]/div[2]/div/div[2]/div/div/section/div/div[1]/article/a/div/p
+----------------
+<a class="f6 no-underline black db underline-hover pb2 mb1">Meat &amp; Cheese Alternatives</a>
+/html/body/div/div[1]/div/div/div[2]/div/div/main/div[1]/div[2]/div/div[1]/div/div/section[2]/ul/li[9]/ul/li[2]/a
+----------------
+<a class="no-underline sub-nav-link white ph2 sub-nav-link-focus">Grocery &amp; Essentials</a>
+/html/body/div/div[1]/div/div/div[1]/div/div[1]/section[2]/nav/ul/li[2]/a
+----------------
+<div class="f7">Add an address for shipping and delivery</div>
+/html/body/div/div[1]/div/div/div[1]/div/div[1]/section[1]/div/div/div/div[1]/div/div[1]/div/div/div/div[1]/div[2]/div[1]/div
+----------------
+<div class="mr1 mr2-xl b black lh-copy f5 f4-l">$1.04</div>
+/html/body/div/div[1]/div/div/div[2]/div/div/main/div[1]/div[2]/div/div[2]/div/div/div[2]/section/section/div/ul/li[17]/div/div[4]/div[1]
+----------------
+<span class="normal dark-gray mb0 mt1 lh-title f6 f5-l">Fresh Honeycrisp Apples, 3 lb Bag</span>
+/html/body/div/div[1]/div/div/div[2]/div/div/main/div[1]/div[2]/div/div[2]/div/div/div[2]/section/section/div/ul/li[6]/div/span/span/span
+----------------
+<span class="mr2">Add</span>
+/html/body/div/div[1]/div/div/div[2]/div/div/main/div[1]/div[2]/div/div[2]/div/div/div[3]/section/section/div/ul/li[5]/div/div[2]/div[2]/div/button/span
+----------------
+<h2>Do fresh fruits and fresh vegetables make good app</h2>
+/html/body/div/div[1]/div/div/div[2]/div/div/main/div[1]/div[3]/div/div/div/section/div/div/h2[4]
+----------------
+<h2 class="f4 f3-m lh-title ma0">Peak season produce</h2>
+/html/body/div/div[1]/div/div/div[2]/div/div/main/div[1]/div[2]/div/div[2]/div/div/div[2]/section/section/header/section/div/div/div/h2
+----------------
+<h3>Dole Hibachi Miso Chopped Salad Kit, 9.49 oz Bag, </h3>
+/html/body/div/div[1]/div/div/div[2]/div/div/main/div[1]/div[2]/div/div[2]/div/div/div[5]/section/section/div/ul/li[16]/div/a/span/h3
+----------------
+<h3 class="f4 ma0 mb1 mb2-xl dark-gray lh-title truncate">Grapes from California</h3>
+/html/body/div/div[1]/div/div/div[2]/div/div/main/div[1]/div[1]/div/div/section[2]/div[2]/div[3]/article/a/div/h3
+----------------
+<p>The best-tasting melons are ripe but not overripe.</p>
+/html/body/div/div[1]/div/div/div[2]/div/div/main/div[1]/div[3]/div/div/div/section/div/div/p[6]
+----------------
+<a class="f6 no-underline mb3 ma0-hdkp footer-link mr4-hdkp db">Request My Personal Information</a>
+/html/body/div/div[1]/div/div/span/footer/section[2]/ul/li[19]/a
+----------------
+<a class="f6 no-underline black db underline-hover pb2 mb1">Berries</a>
+/html/body/div/div[1]/div/div/div[2]/div/div/main/div[1]/div[2]/div/div[1]/div/div/section[2]/ul/li[1]/ul/li[5]/a
+----------------
+<div class="f7 lh-title mt6 pb5 ph3 pt1 tc-hdkp pa0-hdkp pt2-hdkp ma0-hdkp pb5-hdkp footer-copyright">© 2023 Walmart. All Rights Reserved.</div>
+/html/body/div/div[1]/div/div/span/footer/section[2]/div
+----------------
+<div class="gray mr1 f7 f6-l">37.3 ¢/fl oz</div>
+/html/body/div/div[1]/div/div/div[2]/div/div/main/div[1]/div[2]/div/div[2]/div/div/div[5]/section/section/div/ul/li[3]/div/div[4]/div[2]
+----------------
+<span class="w_iUH7">Available for Pickup or Delivery</span>
+/html/body/div/div[1]/div/div/div[2]/div/div/main/div[1]/div[2]/div/div[2]/div/div/div[5]/section/section/div/ul/li[14]/div/div[6]/span[1]
+----------------
+<span class="w_VbBP w_mFV6 w_I_19 w_3oNC w_AAn7 mr1 mt1 ph1">Pickup</span>

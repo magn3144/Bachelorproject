@@ -1,19 +1,26 @@
 import csv
-from bs4 import BeautifulSoup
+import re
+from lxml import html
 
-html_file = 'downloaded_pages/washingtonpost.html'
-target_elements = ['<p class="wpds-c-kjCVnC">', '</p>']
+# Open the HTML file and parse it as HTML
+with open('downloaded_pages/washingtonpost.html', 'r', encoding='utf-8') as f:
+    html_content = f.read()
 
-with open(html_file, 'r') as file:
-    soup = BeautifulSoup(file, 'html.parser')
-    p_tags = soup.find_all('p', class_='wpds-c-kjCVnC')
+tree = html.fromstring(html_content)
 
-    data = []
-    for tag in p_tags:
-        text = tag.get_text(strip=True)
-        data.append(text)
+# Scrape the date and article summaries
+dates = tree.xpath('//span[contains(@class, "font-xxxs")]/text()')
+article_summaries = tree.xpath('//div[contains(@class, "font-size-blurb")]/text()')
 
-    with open('scraped_data.csv', 'w', newline='') as csvfile:
-        writer = csv.writer(csvfile)
-        writer.writerow(['Scraped Data'])
-        writer.writerows([[d] for d in data])
+# Clean up the scraped data
+dates = [re.sub(r'\s+', ' ', date.strip()) for date in dates]
+article_summaries = [re.sub(r'\s+', ' ', summary.strip()) for summary in article_summaries]
+
+# Combine the scraped data into a list of rows
+data = list(zip(dates, article_summaries))
+
+# Save the scraped data as a CSV file
+with open('scraped_data.csv', 'w', newline='', encoding='utf-8') as f:
+    writer = csv.writer(f)
+    writer.writerow(['Date', 'Article Summary'])
+    writer.writerows(data)

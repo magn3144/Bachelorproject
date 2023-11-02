@@ -1,21 +1,23 @@
 import csv
-from bs4 import BeautifulSoup
+import requests
+from lxml import html
 
-# Load HTML file
-html_file = 'downloaded_pages/census.html'
-with open(html_file, 'r') as file:
-    html = file.read()
+# Set the URL and local file path
+url = 'https://www.census.gov/'
+file_path = 'downloaded_pages/census.html'
 
-# Parse HTML
-soup = BeautifulSoup(html, 'html.parser')
+# Read the HTML file
+with open(file_path, 'r') as file:
+    html_content = file.read()
 
-# Find last modified date
-last_modified = soup.find(id='uscb-automation-lastmodified-date').text
+# Parse the HTML content
+tree = html.fromstring(html_content)
 
-# Write data to CSV file
-data = [['Last Modified']]
-data.append([last_modified])
+# Find all dataset tags using XPaths
+dataset_tags = tree.xpath('//span[contains(@class, "uscb-tag-label")]/text()')
 
+# Write the scraped data to a CSV file
 with open('scraped_data.csv', 'w', newline='') as file:
     writer = csv.writer(file)
-    writer.writerows(data)
+    writer.writerow(['Dataset Tags'])
+    writer.writerows([[tag] for tag in dataset_tags])

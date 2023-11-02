@@ -35,6 +35,4 @@ Retrieve the "Buying Format" header
 Extract the text for "Central African Republic 
 Retrieve the text for "Thailand 
 Scrape the breadcrumb trail "Pre-loved is always in style!"
-Extract the text for "Vietnam 
-Retrieve the text for "United Arab Emirates 
-Scrap the region "Europe"
+Extract the text for "Vietnam

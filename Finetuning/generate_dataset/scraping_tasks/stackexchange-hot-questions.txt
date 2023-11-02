@@ -1,0 +1,10 @@
+Extract all the question links from the target page and save them as a CSV file.
+Get the names and URLs of all the sites listed under the "All Sites" section and save them as a CSV file.
+Scrape the warning message for websites that work best with JavaScript enabled and save it as a CSV file.
+Extract the text content of the "Loading..." element and save it as a CSV file.
+Retrieve the names of all the Science Fiction & Fantasy sites listed and save them as a CSV file.
+Get the name of the Worldbuilding site and save it as a CSV file.
+Extract the title of the page and save it as a CSV file.
+Save the name of the website as a CSV file.
+Get all the post tags and corresponding numbers of answers and save them as a CSV file.
+Extract the names of all the top network askers and save them as a CSV file.

@@ -1,15 +1,11 @@
-Get all the property details (bedrooms, bathrooms, sqft) from the page and save them as a CSV file.
-Extract the status (New, For Sale, House For Sale, Condo For Sale) of each property and save it as a CSV file.
-Scrape the names of the real estate agents and their respective agencies from the page and save them as a CSV file.
-Retrieve the neighborhood names (e.g. Lenox Hill, Panorama, Upper West Side) from the page and save them as a CSV file.
-Collect the zip codes associated with each property from the page and save them as a CSV file.
-Extract the city names near New York, NY from the page and save them as a CSV file.
-Get the address components (street address and city, state, zip) of each property and save them as a CSV file.
-Scrape the phone numbers of the real estate agents from the page and save them as a CSV file.
-Retrieve the names of the real estate agents and their corresponding brokerage firms from the page and save them as a CSV file.
-Extract the property types (Apartment For Sale, House For Sale, Condo For Sale) from the page and save them as a CSV file.
-Scrape the details of pending listings (address, real estate agent) from the page and save them as a CSV file.
-Get the neighborhood names in New York, NY from the page and save them as a CSV file.
-Extract the details of condo listings (address, real estate agent) from the page and save them as a CSV file.
-Scrape the details of house listings (address, real estate agent) from the page and save them as a CSV file.
-Retrieve the details of apartment listings (address, real estate agent) from the page and save them as a CSV file.
+Generate a list of web-scraping tasks:
+1. Extract the address of the first property and save it as a CSV file.
+2. Scrape the listing details of the second property and save them as a CSV file.
+3. Retrieve the name of the real estate agent from the third property and save it as a CSV file.
+4. Collect the text of the "Sign In" button and save it as a CSV file.
+5. Fetch the number of homes for sale in the zip code "10011" and save it as a CSV file.
+6. Scrape the title of an article from the "Articles by HomeFinder" section and save it as a CSV file.
+7. Extract the search title "New York, NY Homes For Sale" and save it as a CSV file.
+8. Retrieve the description of becoming a homeowner in New York and save it as a CSV file.
+9. Scrape the mortgage information and save it as a CSV file.
+10. Extract the list of neighborhoods in New York, NY and save it as a CSV file.

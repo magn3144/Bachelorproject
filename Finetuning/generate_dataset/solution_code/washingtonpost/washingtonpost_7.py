@@ -1,22 +1,29 @@
 import csv
-from bs4 import BeautifulSoup
+from lxml import etree
 
-# Define the path to the HTML file
-html_file_path = "downloaded_pages/washingtonpost.html"
+# Define the target HTML file path
+html_file = 'downloaded_pages/washingtonpost.html'
 
-# Initialize a list to store the scraped data
-scraped_data = []
+# Define the target category
+category = 'News'
 
-# Open the HTML file and create a BeautifulSoup object
-with open(html_file_path, "r", encoding="utf-8") as file:
-    soup = BeautifulSoup(file, "html.parser")
+# Define the XPath expressions for technology-related article titles and authors
+title_xpath = '//h3[contains(@class, "font--headline")]/text()'
+author_xpath = '//a[contains(@class, "wpds-c-knSWeD")]/text()'
 
-# Find all the <a> tags with the specified class and extract the text
-a_tags = soup.find_all("a", class_="wpds-c-iifZmx wpds-c-iifZmx-gzQzMU-desktopVariant-true")
-for a_tag in a_tags:
-    scraped_data.append(a_tag.get_text())
+# Parse the HTML file
+parser = etree.HTMLParser()
+tree = etree.parse(html_file, parser)
 
-# Save the scraped data as a CSV file
-with open("scraped_data.csv", "w", newline="", encoding="utf-8") as file:
-    writer = csv.writer(file)
-    writer.writerows(scraped_data)
+# Extract the title and author information
+titles = tree.xpath(title_xpath)
+authors = tree.xpath(author_xpath)
+
+# Zip the scraped data
+scraped_data = zip(titles, authors)
+
+# Write the scraped data to a CSV file
+with open('scraped_data.csv', 'w', newline='', encoding='utf-8') as csvfile:
+    writer = csv.writer(csvfile)
+    writer.writerow(['Title', 'Author'])  # Write the header row
+    writer.writerows(scraped_data)  # Write the data rows

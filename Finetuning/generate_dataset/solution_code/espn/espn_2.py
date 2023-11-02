@@ -1,22 +1,56 @@
-from bs4 import BeautifulSoup
 import csv
+import os
+from lxml import etree
 
-# Read the HTML file
-with open('downloaded_pages/espn.html', 'r') as file:
-    html = file.read()
+# Set the path to the HTML file
+html_file = 'downloaded_pages/espn.html'
 
-soup = BeautifulSoup(html, 'html.parser')
+# Set the category and website
+category = 'Sports Websites'
+website = 'espn'
 
-# Find all the location details
-location_details = soup.find_all(class_='LocationDetail__Item')
+# Set the XPaths for headlines and authors
+xpaths = {
+    'headlines': [
+        {
+            'xpath': '/html/body/div[1]/div/div/div/main/div[3]/div/div[2]/div/aside[2]/section/div/div/div[2]/a/div/h2',
+            'name': 'headline'
+        },
+    ],
+    'authors': [
+        {
+            'xpath': '/html/body/div[1]/div/div/div/main/div[3]/div/div[2]/div/aside[2]/section/div/div/div[3]/a/div/ul/li[2]',
+            'name': 'author'
+        },
+    ]  
+}
 
-# Open the CSV file for writing
-with open('scraped_data.csv', 'w', newline='') as csvfile:
-    writer = csv.writer(csvfile)
+# Create a function to scrape data based on the given XPaths
+def scrape_data(file_path, xpaths):
+    scraped_data = []
+    tree = etree.parse(file_path)
 
-    # Write the headers
-    writer.writerow(['Location'])
+    for key, values in xpaths.items():
+        for value in values:
+            elements = tree.xpath(value['xpath'])
+            data = [element.text.strip() if element.text else '' for element in elements]
+            scraped_data.append({'name': value['name'], 'data': data})
 
-    # Write the location details
-    for detail in location_details:
-        writer.writerow([detail.get_text().strip()])
+    return scraped_data
+
+# Scrape the data
+scraped_data = scrape_data(html_file, xpaths)
+
+# Save the scraped data as a CSV file
+csv_file = 'scraped_data.csv'
+
+if not os.path.exists(csv_file):
+    with open(csv_file, 'w', newline='') as file:
+        writer = csv.DictWriter(file, fieldnames=['category', 'website', 'name', 'data'])
+        writer.writeheader()
+
+with open(csv_file, 'a', newline='') as file:
+    writer = csv.writer(file)
+    for data in scraped_data:
+        for d in data['data']:
+            writer.writerow([category, website, data['name'], d])

@@ -1,26 +1,26 @@
 import csv
-from bs4 import BeautifulSoup
+from lxml import etree
 
-# Open the HTML file and read its content
-with open('downloaded_pages/washingtonpost.html') as file:
-    html_content = file.read()
+# Define the XPath expressions for article titles and authors
+title_xpath = "//h3[contains(@class, 'font--headline')]/text()"
+author_xpath = "//a[contains(@class, 'wpds-c-knSWeD')]/text()"
 
-# Create a BeautifulSoup object to parse the HTML
-soup = BeautifulSoup(html_content, 'html.parser')
+# Load the HTML file
+html = open('downloaded_pages/washingtonpost.html', 'r').read()
 
-# Find all the headlines and their corresponding authors
-headlines = soup.find_all('span')
-authors = soup.find_all('a')
+# Parse the HTML content
+parser = etree.HTMLParser()
+tree = etree.fromstring(html, parser)
 
-# Store the extracted data in a list of dictionaries
-data = []
-for i in range(len(headlines)):
-    headline = headlines[i].text.strip()
-    author = authors[i].text.strip()
-    data.append({'Headline': headline, 'Author': author})
+# Extract the article titles and authors
+titles = tree.xpath(title_xpath)
+authors = tree.xpath(author_xpath)
+
+# Zip the titles and authors together
+data = list(zip(titles, authors))
 
 # Save the data as a CSV file
 with open('scraped_data.csv', 'w', newline='') as file:
-    writer = csv.DictWriter(file, fieldnames=['Headline', 'Author'])
-    writer.writeheader()
+    writer = csv.writer(file)
+    writer.writerow(['Title', 'Author'])
     writer.writerows(data)

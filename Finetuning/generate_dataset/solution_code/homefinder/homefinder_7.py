@@ -1,21 +1,24 @@
 import csv
-from bs4 import BeautifulSoup
+from lxml import html
+
+# Define the local path to the HTML file
+path_to_html = "downloaded_pages/homefinder.html"
 
 # Read the HTML file
-with open('downloaded_pages/homefinder.html') as file:
-    html = file.read()
+with open(path_to_html, 'r') as f:
+    html_content = f.read()
 
-# Create a BeautifulSoup object
-soup = BeautifulSoup(html, 'html.parser')
+# Parse the HTML content
+tree = html.fromstring(html_content)
 
-# Find all the elements containing phone numbers
-phone_elements = soup.find_all('p', class_='phone-action')
+# Extract the search title
+search_title_xpath = '/html/body/div/div/div/section/div[1]/div[4]/div[1]/div[1]/div/div[1]/h1'
+search_title_element = tree.xpath(search_title_xpath)
 
-# Extract the phone numbers
-phone_numbers = [element.get_text(strip=True) for element in phone_elements]
+# Get the text from the search title element
+search_title = search_title_element[0].text_content() if search_title_element else ""
 
-# Save the scraped data as a CSV file
+# Save the search title as CSV
 with open('scraped_data.csv', 'w', newline='') as file:
     writer = csv.writer(file)
-    writer.writerow(['Phone Number'])
-    writer.writerows([[number] for number in phone_numbers])
+    writer.writerow([search_title])

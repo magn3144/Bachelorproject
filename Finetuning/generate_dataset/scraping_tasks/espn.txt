@@ -1,15 +1,10 @@
-Get all gamecast links and save them as a CSV file.
-Extract all player names and save them as a CSV file.
-Capture all location details and save them as a CSV file.
-Fetch all headlines and save them as a CSV file.
-Collect all news descriptions and save them as a CSV file.
-Retrieve all timestamps and save them as a CSV file.
-Retrieve all video descriptions and save them as a CSV file.
-Get all fantasy football inactives and save them as a CSV file.
-Extract all stat labels and save them as a CSV file.
-Capture all Quick Links titles and save them as a CSV file.
-Fetch all legal footer links and save them as a CSV file.
-Capture all score network items and save them as a CSV file.
-Extract all field locations and save them as a CSV file.
-Fetch all over/under values and save them as a CSV file.
-Extract all media descriptions and save them as a CSV file.
+Get the list of all sports articles and their descriptions from the target page. Save them as a CSV file.
+Extract the scores and networks airing the games from the NFL scoreboard page. Save them as a CSV file.
+Scrape the headlines and authors from the news section. Save them as a CSV file.
+Retrieve the video titles and links from the NFL videos section. Save them as a CSV file.
+Extract the inactives and analysis for fantasy football from the target page. Save them as a CSV file.
+Get the dates and headlines from the main section of the page. Save them as a CSV file.
+Extract the captions and descriptions from the video player. Save them as a CSV file.
+Get the titles and links of the recommended videos. Save them as a CSV file.
+Retrieve the player stats and labels from the NFL stats section. Save them as a CSV file.
+Extract the titles and links from the more sports section. Save them as a CSV file.

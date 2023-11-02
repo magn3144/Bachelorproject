@@ -1,24 +1,23 @@
 import csv
-from bs4 import BeautifulSoup
 
-# Open the HTML file and read its contents
-with open('downloaded_pages/homefinder.html', 'r') as file:
-    html = file.read()
+from lxml import etree
 
-# Create a BeautifulSoup object
-soup = BeautifulSoup(html, 'html.parser')
 
-# Find all the elements containing the agent names and agencies
-agent_elements = soup.find_all('span', class_='cobrand-attribution-line1 mt-1')
+def scrape_listing_details(html, xpath):
+    tree = etree.parse(html)
+    elements = tree.xpath(xpath)
+    listing_details = [element.text.strip() for element in elements]
+    return listing_details
 
-# Extract the agent names and agencies
-agent_data = []
-for element in agent_elements:
-    agent_name = element.text.strip()
-    agency = element.next_sibling.string.strip()
-    agent_data.append([agent_name, agency])
 
-# Save the scraped data as a CSV file
-with open('scraped_data.csv', 'w', newline='') as file:
-    writer = csv.writer(file)
-    writer.writerows(agent_data)
+def save_data_as_csv(data, filename):
+    with open(filename, 'w', newline='') as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerows(data)
+
+
+if __name__ == '__main__':
+    html = "downloaded_pages/homefinder.html"
+    xpath = "/html/body/div/div/div/section/div[1]/div[4]/div[1]/div[2]/div[6]/a/div[1]/div[2]/div[1]"
+    scraped_data = scrape_listing_details(html, xpath)
+    save_data_as_csv(scraped_data, "scraped_data.csv")

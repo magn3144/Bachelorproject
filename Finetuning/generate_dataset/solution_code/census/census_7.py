@@ -1,19 +1,22 @@
 import csv
-from bs4 import BeautifulSoup
+from urllib.request import urlopen
+from lxml import etree
 
+# Open the local HTML file
+html = urlopen("file://path/to/downloaded_pages/census.html")
 
-def extract_email_subscription_text(html_file):
-    with open(html_file, 'r') as file:
-        soup = BeautifulSoup(file, 'html.parser')
-        elements = soup.find_all('p', class_='uscb-email-subscription-text')
-        subscription_text = [element.text.strip() for element in elements]
+# Parse the HTML content
+parser = etree.HTMLParser()
+tree = etree.parse(html, parser)
 
-    with open('scraped_data.csv', 'w', newline='') as file:
-        writer = csv.writer(file)
-        writer.writerow(['Email Subscription Text'])
-        for text in subscription_text:
-            writer.writerow([text])
+# Find the American Community link
+link = tree.xpath("//a[contains(@class, 'uscb-header-panel-content-link') and normalize-space(text())='American Communit']")
 
+# Extract the text of the link
+link_text = link[0].text.strip() if link else None
 
-html_file = 'downloaded_pages/census.html'
-extract_email_subscription_text(html_file)
+# Save the scraped data as a CSV file
+with open('scraped_data.csv', 'w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerow(["Link"])
+    writer.writerow([link_text])

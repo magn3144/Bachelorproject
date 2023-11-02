@@ -1,93 +1,97 @@
-<a class="wpds-c-iifZmx wpds-c-iifZmx-gzQzMU-desktopVariant-true">Digital Products Terms of Sale </a>
-<a>Chelsea Janes</a>
-<span>What a ground war in Gaza could look like</span>
-<span>Politics</span>
-<div class="gray-dark">10:20 a.m.</div>Shelling across the border between Israel and Lebanon continued Sunday. The Israel Defense Forces said that...
-<div class="wpds-c-kvdtEy">Contact Us</div>
-<figcaption class="gray-dark font-xxxxs left pb-xs font--meta-text lh-sm mt-xxs">(The Washington Post/Illustration by Emily Sabens/</figcaption>
-<figcaption class="gray-dark font-xxxxs left pb-xs font--meta-text lh-sm mt-xxs">(Stacy Zarin Goldberg)</figcaption>
-<label>Font Color</label>
-<h3>This Video is Being Viewed in Another Window</h3>
-<p class="wpds-c-kjCVnC">Biden fast-tracks building Trump’s wall</p>
+<a class="wpds-c-knSWeD wpds-c-knSWeD-iRfhkg-as-a">Elizabeth Dwoskin</a>
+/html/body/div[1]/div[3]/div/main/article/div/div[17]/div/div[1]/span[2]/a
+----------------
+<span>Some tech leaders fear AI. ScaleAI is selling it t</span>
+/html/body/div[1]/div[3]/div/main/aside/div/div[2]/div/ul/li[3]/a/div[2]/div[2]/span
+----------------
+<span class="hover-blue pl-xs">RSS</span>
+/html/body/div[1]/div[3]/div/main/aside/div/div[3]/div/span/a/span[2]
+----------------
+<div class="transition-all duration-200 ease-in-out empty-dn font-xxxs gray-dark mb-xxs justify-center dib h-auto o-1">The most important news stories of the day, curate</div>
+/html/body/div[1]/div[3]/div/main/aside/div/div[5]/div/div/div/div/div/div[3]
+----------------
+<div class="bold font-xs gray-darkest mb-xxs empty-dn">Today’s Headlines</div>
+/html/body/div[1]/div[3]/div/main/aside/div/div[5]/div/div/div/div/div/div[2]
+----------------
+<title>The Washington Post</title>
+/html/body/div[1]/div[3]/div/main/article/div/div[6]/div/div[1]/div/span/div/svg/title
+----------------
+<h3 class="font-md font-bold font--headline lh-sm gray-darkest hover-blue mb-0 antialiased mb-xxs">Spy vs. spy: How Israelis tried to stop Russia’s i</h3>
+/html/body/div[1]/div[3]/div/main/article/div/div[6]/div/div[1]/a/h3
+----------------
+<p class="pt-xs pb-xs font-size-blurb lh-fronts-tiny font-light gray-dark dn db-ns">How (and whether) you should prepare for AI voice </p>
+/html/body/div[1]/div[3]/div/main/article/div/div[21]/div/div[1]/p
+----------------
 <li class="wpds-c-cFhpZV wpds-c-cFhpZV-kEJnWT-mbSm-true">© 1996-2023 The Washington Post</li>
-<a class="wpds-c-iifZmx wpds-c-iifZmx-gzQzMU-desktopVariant-true">Newsroom Policies &amp; Standards </a>
-<a class="wpds-c-iifZmx wpds-c-iifZmx-gzQzMU-desktopVariant-true">Report a Vulnerability </a>
-<span>Capitals’ two-goal comeback isn’t enough during an</span>
-<span>Recent</span>
-<div class="flex dn-hp-sm-to-xs items-center justify-center italic font-xxs lh-sm font-family-georgia gray-dark relative dib bg-white">Democracy Dies in Darkness</div>
-<div class="byline gray-dark font-xxxxs pb-xs">By Dave Kindy</div>
-<figcaption class="gray-dark font-xxxxs left pb-xs font--meta-text lh-sm mt-xxs">Sierra Schuetz and Fred Flipse organize food at Co</figcaption>
-<figcaption class="gray-dark font-xxxxs left pb-xs font--meta-text lh-sm mt-xxs">(Reuters)</figcaption>
-<label class="powa-ys-field-name">Font Size</label>
-<p class="wpds-c-kjCVnC">Five accessible tools to make gardening easier</p>
-<a class="wpds-c-iifZmx wpds-c-iifZmx-gzQzMU-desktopVariant-true">Print Archives (Subscribers Only) </a>
-<a class="wpds-c-iifZmx wpds-c-iifZmx-gzQzMU-desktopVariant-true">Newsletters &amp; Alerts </a>
-<span>NFL primer: Anthony Richardson is out, and the Col</span>
-<span>Most Read</span>
-<div class="gray-dark font-xxxxs left pb-xs font--meta-text lh-sm">Swindall holds one of her many Taylor Swift blanke</div>
-<div class="dib font-md font--headline">4</div>
-<figcaption class="gray-dark font-xxxxs left pb-xs font--meta-text lh-sm mt-xxs">(Martina Tuaty/For The Washington Post)</figcaption>
-<figcaption class="gray-dark font-xxxxs left pb-xs font--meta-text lh-sm mt-xxs">(iStock /iStock)</figcaption>
-<label>Background</label>
-<p class="wpds-c-kjCVnC">Annular solar eclipse creates ‘ring of fire’</p>
-<a>Akilah Johnson</a> and Charlotte Gomez
-<a>Chris Richards</a>
-<span>How to upgrade a powder room before the holidays? </span>
-<span class="items-center uppercase gray-darkest font-sans-serif font-xxxxs nowrap bg-white light border-box h-20 flex pl-xs pr-xs pb-0 bc-gray-darkest bw b-solid bw-sibling bw-l-sibling">THURSDAYS</span>
-<div class="pl-sm pr-sm lh-initial font--headline bold font-sm db">Stay ahead of what’s ahead.</div>
-<div>Advertisement</div>
-<figcaption class="gray-dark font-xxxxs left pb-xs font--meta-text lh-sm mt-xxs">(Recorded Books; Macmillan Audio; Bloomsbury)</figcaption>
-<figcaption class="gray-dark font-xxxxs left pb-xs font--meta-text lh-sm mt-xxs">(Chris Seward/AP)</figcaption>
-<label>Font Edge</label>
-<p class="wpds-c-kjCVnC">How Post reporters mapped India’s hottest neighbor</p>
-<a class="wpds-c-iifZmx">Download the Washington Post App </a>
-<a>Karina Elwood</a>, 
-<span>Split-screen: Biden speaks to the world, Republica</span>
-<span>More in Style</span>
-<div class="gray-dark">10:48 a.m.</div>Map: Latest updates in the conflict 
-<div class="byline gray-dark font-xxxxs pb-xs">By Patrick Stevens</div>
-<figcaption class="gray-dark font-xxxxs left pb-xs font--meta-text lh-sm mt-xxs">(Celia Jacobs for The Washington Post)</figcaption>
-<label class="powa-ys-field-name">Font</label>
-<p class="wpds-c-kjCVnC">What to know about House speaker hopefuls Scalise </p>
-<a class="gray underline">Privacy Policy</a>. You may also receive promotional emails from The Washington Post. You can opt out at any time.
-<a>Tatum Hunter</a>
-<span>Republicans target visas of student protesters. Th</span>
-<span>REVIEWS</span>
-<div class="bold font-xs gray-darkest mb-xxs empty-dn">Well+Being: Tips and guidance on food, fitness and</div>
-<div class="dib font-md font--headline">2</div>
-<figcaption class="gray-dark font-xxxxs left pb-xs font--meta-text lh-sm mt-xxs">An Israeli officer shows confiscated Hamas weapons</figcaption>
-<p class="wpds-c-kjCVnC">We shot Olivia Rodrigo’s music video with iPhone 1</p>
-<a class="sr-only">Press Enter to skip to end of carousel</a>
-<a>Ben Golliver</a>
-<span>Puberty starts earlier now, but kids’ needs are th</span>
-<span>Analysis</span>
-<div class="gray-dark font-xxxxs left pb-xs font--meta-text lh-sm">Jim Jordan, right, wrestles an opponent while at t</div>
-<div class="dib font-lg font--headline b bb bc-offblack">1</div>
-<figcaption class="gray-dark font-xxxxs left pb-xs font--meta-text lh-sm mt-xxs">(Jasu Hu/Jasu Hu for The Washington Post)</figcaption>
-<p class="wpds-c-kjCVnC">Sifting through ocean DNA to find the elusive ange</p>
-<a class="wpds-c-iifZmx">Print Products Terms of Sale </a>
-<a>Dan Balz</a>
-<span>Jacksonville struggles to overcome a racism ‘baked</span>
-<span>Your questions answered</span>
+/html/body/div[1]/div[4]/div/footer/div/ul/li[2]
+----------------
+<a class="wpds-c-knSWeD wpds-c-knSWeD-iRfhkg-as-a">Danielle Abril</a>
+/html/body/div[1]/div[3]/div/main/article/div/div[15]/div/div[1]/span[1]/a
+----------------
+<span>Israel-Gaza war prompts U.S. employees to demand c</span>
+/html/body/div[1]/div[3]/div/main/aside/div/div[2]/div/ul/li[4]/a/div[2]/div[2]/span
+----------------
+<span class="wpds-c-iKQyrV font-xxxs font-light font--meta-text lh-sm gray-dark dot-xxs-gray-dark">October 23, 2023</span>
+/html/body/div[1]/div[3]/div/main/article/div/div[1]/div/div[1]/span[2]
+----------------
 <div class="wpds-c-kvdtEy">Terms of Use</div>
-<figcaption class="gray-dark font-xxxxs left pb-xs font--meta-text lh-sm mt-xxs">Former U.N. Ambassador Nikki Haley and Florida Gov</figcaption>
-<p class="wpds-c-kjCVnC">How to set a Google passkey</p>
-<a>Frances Stead Sellers</a> and Catarina Fernandes Martins
-<a>Karina Elwood</a>
-<span>How a wacky Instagram account became a go-to news </span>
-<span class="wpds-c-iSKIAI">Previous</span>
-<div>Advertisement</div>
-<figcaption class="gray-dark font-xxxxs left pb-xs font--meta-text lh-sm mt-xxs">(Kristen Zeis for The Post)</figcaption>
-<p class="wpds-c-kjCVnC">‘I will never leave my home’: Israeli family stays</p>
-<a class="wpds-c-iifZmx wpds-c-iifZmx-gzQzMU-desktopVariant-true">Contact the Opinions Team </a>
-<a>Mary Beth Sheridan</a>
-<span>He rushed from Maryland to Israel to fight. On Fri</span>
-<span class="wpds-c-iSKIAI">Previous</span>
-<div class="wpds-c-kvdtEy">Get The Post</div>
-<figcaption class="gray-dark font-xxxxs left pb-xs font--meta-text lh-sm mt-xxs">(Nathaniel Brown for The Post)</figcaption>
-<p class="wpds-c-kjCVnC">Danny DeVito does it all — even Broadway with his </p>
-<a>Steve Hendrix</a>
-<span>Can — and should — you caulk windows where metal m</span>
-<span>exclusive</span>
-<div class="byline gray-dark font-xxxxs pb-xs">By Washington Post Staff</div>
-<figcaption class="gray-dark font-xxxxs left pb-xs font--meta-text lh-sm mt-xxs">Rite Aid, which filed for bankruptcy last week, is</figcaption>
+/html/body/div[1]/div[4]/footer/div[1]/div[4]/div[1]
+----------------
+<title>Close</title>
+/html/body/div[1]/div[2]/svg/title
+----------------
+<h3 class="font-md font-bold font--headline lh-sm gray-darkest hover-blue mb-0 antialiased mb-xxs">Newspapers want payment for articles used to power</h3>
+/html/body/div[1]/div[3]/div/main/article/div/div[8]/div/div[1]/a/h3
+----------------
+<p class="pt-xs pb-xs font-size-blurb lh-fronts-tiny font-light gray-dark dn db-ns">The artificial intelligence gold rush has sparked </p>
+/html/body/div[1]/div[3]/div/main/article/div/div[8]/div/div[1]/p
+----------------
+<a class="PJLV PJLV-ieDwgbC-css">Tech</a>
+/html/body/div[1]/div[3]/div/main/article/div/div[10]/div/div[1]/div/a
+----------------
+<span>Ignored by police, twin sisters took down their cy</span>
+/html/body/div[1]/div[3]/div/main/aside/div/div[2]/div/ul/li[1]/a[2]/div[2]/div/span
+----------------
+<span class="wpds-c-iKQyrV font-xxxs font-light font--meta-text lh-sm gray-dark dot-xxs-gray-dark">October 22, 2023</span>
+/html/body/div[1]/div[3]/div/main/article/div/div[5]/div/div[1]/span[2]
+----------------
+<div class="wpds-c-fJKSbB wpds-c-fJKSbB-lheJVL-featured-false">3</div>
+/html/body/div[1]/div[3]/div/main/aside/div/div[2]/div/ul/li[3]/a/div[1]
+----------------
+<title>Rss</title>
+/html/body/div[1]/div[3]/div/main/aside/div/div[3]/div/span/a/span[1]/button/div/svg/title
+----------------
+<h3 class="font-md font-bold font--headline lh-sm gray-darkest hover-blue mb-0 antialiased mb-xxs">Hamas turns to social media to get its message out</h3>
+/html/body/div[1]/div[3]/div/main/article/div/div[17]/div/div[1]/a/h3
+----------------
+<p class="pt-xs pb-xs font-size-blurb lh-fronts-tiny font-light gray-dark dn db-ns">Buzzy AI start-ups are landing big investments, dr</p>
+/html/body/div[1]/div[3]/div/main/article/div/div[2]/div/div[1]/p
+----------------
+<a class="PJLV PJLV-ieDwgbC-css">Tech Policy</a>
+/html/body/div[1]/div[3]/div/main/article/div/div[20]/div/div[1]/div/a
+----------------
+<span>From doom to boom: AI is slowly re-energizing San </span>
+/html/body/div[1]/div[3]/div/main/aside/div/div[2]/div/ul/li[2]/a/div[2]/div[2]/span
+----------------
+<span class="items-center uppercase gray-darkest font-sans-serif font-xxxxs nowrap bg-white bold border-box h-20 flex pl-xs pr-xs pb-0 bc-gray-darkest bw b-solid bw-sibling bw-l-sibling">Newsletter</span>
+/html/body/div[1]/div[3]/div/main/aside/div/div[5]/div/div/div/div/div/div[1]/span/span[1]
+----------------
+<div class="wpds-c-fJKSbB wpds-c-fJKSbB-lheJVL-featured-false">4</div>
+/html/body/div[1]/div[3]/div/main/aside/div/div[2]/div/ul/li[4]/a/div[1]
+----------------
+<h3 class="font-md font-bold font--headline lh-sm gray-darkest hover-blue mb-0 antialiased mb-xxs">Mike Huckabee says Microsoft and Meta stole his bo</h3>
+/html/body/div[1]/div[3]/div/main/article/div/div[12]/div/div[1]/a/h3
+----------------
+<p class="pt-xs pb-xs font-size-blurb lh-fronts-tiny font-light gray-dark dn db-ns">Years into the pandemic, white-collar workers are </p>
+/html/body/div[1]/div[3]/div/main/article/div/div[15]/div/div[1]/p
+----------------
+<a class="wpds-c-knSWeD wpds-c-knSWeD-iRfhkg-as-a">Shira Ovide</a>
+/html/body/div[1]/div[3]/div/main/article/div/div[9]/div/div[1]/span[1]/a
+----------------
+<span class="wpds-c-jqdRJh wpds-c-jqdRJh-eAVXJL-variant-primary">Democracy Dies in Darkness</span>
+/html/body/div[1]/div[1]/nav/div[2]/a/span
+----------------
+<span class="items-center uppercase gray-darkest font-sans-serif font-xxxxs nowrap bg-white light border-box h-20 flex pl-xs pr-xs pb-0 bc-gray-darkest bw b-solid bw-sibling bw-l-sibling">Daily</span>
+/html/body/div[1]/div[3]/div/main/aside/div/div[5]/div/div/div/div/div/div[1]/span/span[2]
+----------------
+<div class="wpds-c-fJKSbB wpds-c-fJKSbB-lheJVL-featured-false">2</div>

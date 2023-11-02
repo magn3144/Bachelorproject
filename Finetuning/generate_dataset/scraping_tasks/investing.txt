@@ -1,0 +1,10 @@
+Extract all the stock names from the page and save them as a CSV file.
+Retrieve the current prices for each stock and save them as a CSV file.
+Scrape the popular searches for stocks and save them as a CSV file.
+Get the names of all the cryptocurrencies listed on the page and save them as a CSV file.
+Extract the price changes for each cryptocurrency and save them as a CSV file.
+Retrieve the names of all the investment funds displayed on the page and save them as a CSV file.
+Scrape the names of all the currency pairs listed on the page and save them as a CSV file.
+Get the names of all the indices displayed on the page and save them as a CSV file.
+Extract the names of all the bonds listed on the page and save them as a CSV file.
+Scrape the names of all the stock brokers mentioned on the page and save them as a CSV file.

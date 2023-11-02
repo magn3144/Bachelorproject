@@ -53,7 +53,7 @@ News,theguardian,theguardian.com
 Educational Websites,mitocw.mit.edu,mitocw.mit.edu
 Jobs,snagajob,snagajob.com
 Educational Websites,yale.edu,yale.edu
-Stocks,finance.yahoo,finance.yahoo.com
+Stocks,finance.yahoo,https://finance.yahoo.com/gainers
 Educational Websites,khanacademy,khanacademy.org
 Directories,superpages,superpages.com
 Weather Websites,weather,weather.gov
@@ -80,12 +80,11 @@ Sports Websites,skysports,skysports.com
 Forums and Review Sites,stackexchange,stackexchange.com
 E-commerce,walmart,walmart.com
 Educational Websites,nature,nature.com
-Jobs,usajobs,usajobs.gov
+Jobs,usajobs,https://www.usajobs.gov/Search/Results?jt=Programmer%20Analyst&p=1
 Directories,hotfrog,hotfrog.com
 Real Estate Websites,realtor,realtor.com
-Social Media,youtube,youtube.com
+Social Media,youtube-comments,https://www.youtube.com/watch?v=czjisEGe5Cw
 Stocks,zacks,zacks.com
-Stocks,investing,investing.com
 Sports Websites,mlb,mlb.com
 Weather Websites,metoffice,metoffice.gov.uk
 Forums and Review Sites,yelp,yelp.com
@@ -109,3 +108,151 @@ Social Media,instagram,instagram.com
 Sports Websites,nhl,nhl.com
 Government and Public Databases,nasa,nasa.gov
 Jobs,linkedin,linkedin.com
+Application Websites,google play,https://play.google.com/store/games?hl=da&gl=US
+Armory Websites,zeromike,https://zeromike.dk/produkter/253-ruger-reservedele/
+Blogs,woman,https://woman.dk/blog
+Blogs,wordpress,https://wordpress.org/showcase/tonal/
+Blogs,bloggersroad,https://www.bloggersroad.com
+Book Websites,bog & ide,https://www.bog-ide.dk/?gclsrc=aw.ds&gad_source=1&gclid=CjwKCAjwnOipBhBQEiwACyGLunpay8eV8Cz5HEbYMhYB46JUgFKT3dLE77YT81i0Detl6-e7QafgmxoCFhkQAvD_BwE
+Clothing Websites,globestudios,https://globestudios.dk/?gclid=CjwKCAjwnOipBhBQEiwACyGLutsVxURBzY24T9T4EkL7GotdAs9OOltofXkLrjB7oEvZuBEy37z_3BoCTTwQAvD_BwE
+Clothing Websites,h&m,https://www2.hm.com/da_dk/herre/produkt/bukser.html
+Construction Websites,jem&fix,https://www.jemogfix.dk/braendsel/110801/
+Digital Websites,top,https://top.gg
+Digital Websites,artstation,https://www.artstation.com/?sort_by=community&dimension=all
+Digital Websites,textures,https://www.textures.com/library
+Directories,hotfrog,hotfrog.com
+Directories,aboutus,https://aboutus.com/Reddit.com
+Directories,merchantcircle,https://www.merchantcircle.com/ny-new-york
+Directories,spoke,spoke.com
+Directories,superpages,superpages.com
+Directories,whitepages,whitepages.com
+Directories,yell,yell.com
+Directories,yellowbook,yellowbook.com
+E-commerce,alibaba,https://www.alibaba.com/trade/search?spm=a2700.product_home_newuser.header.196.2ce267afVrEZg0&categoryId=201329808&SearchText=Suitcases&indexArea=product_en&fsb=y&productId=1600826495857
+E-commerce,aliexpress,https://www.aliexpress.com/category/70803003/mini-pc.html
+E-commerce,amazon,https://www.amazon.com/s?k=gaming+keyboard
+E-commerce,bestbuy,https://www.bestbuy.com/site/searchpage.jsp?st=playstation&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+E-commerce,ebay,https://www.ebay.com/e/row/pre-loved-row
+E-commerce,etsy,https://www.etsy.com/dk-en/c/clothing/mens-clothing/hoodies-and-sweatshirts/hoodies?ordering_strategy_key=Search2_CategoryPages_TaxonomyOrdering_GmsWithSubChildren&explicit=1&ref=catcard-1852-473162624
+E-commerce,newegg,newegg.com
+E-commerce,target,target.com
+E-commerce,walmart,https://www.walmart.com/cp/fresh-produce/976793?povid=976759_LHNCP_4302028_FreshFoods_FreshProduce_shopall_04_26
+Educational Websites,brilliant,https://brilliant.org
+Educational Websites,wikipedia,https://en.wikipedia.org/wiki/2022_Tour_Championship
+Educational Websites,unity,https://unity.com/learn
+Educational Websites,britannica,https://www.britannica.com/Science-Tech
+Educational Websites,coursera,https://www.coursera.org/search?query=machine%20learning&
+Educational Websites,edx,https://www.edx.org/learn/artificial-intelligence?linked_from=sitenav&list=subjects
+Educational Websites,employmentfirstfl,https://www.employmentfirstfl.org/lesson-1-why-people-work/
+Educational Websites,google,https://www.google.com/doodles/celebrating-papeda
+Educational Websites,thesaurus,https://www.thesaurus.com/?adobe_mc=MCORGID%3DAA9D3B6A630E2C2A0A495C40%2540AdobeOrg%7CTS%3D1698341964
+Educational Websites,jstor,jstor.org
+Educational Websites,khanacademy,khanacademy.org
+Educational Websites,mitocw.mit.edu,mitocw.mit.edu
+Educational Websites,nature,nature.com
+Educational Websites,stanfordonline.stanford,stanfordonline.stanford.edu
+Educational Websites,udemy,udemy.com
+Educational Websites,yale.edu,yale.edu
+Ecommerce Websites,elgiganten,https://www.elgiganten.dk
+Food Websites,macdonalds,https://www.mcdonalds.com/dk/da-dk/vores-menu.html
+Forums and Review Sites,boardgamegeek,https://boardgamegeek.com/forums
+Forums and Review Sites,danielilett,https://danielilett.com/2021-05-20-every-shader-graph-node/
+Forums and Review Sites,trustpilot,https://dk.trustpilot.com/categories/travel_insurance_company
+Forums and Review Sites,microsoft,https://support.microsoft.com/da-dk
+Forums and Review Sites,avsforum,https://www.avsforum.com/threads/can-the-hdmi-plugs-go-bad-is-it-possible-to-use-a-fire-stick-hdmi-on-another-type-of-plug-in-avoiding-the-hdmi-slots-that-seem-to-have-gone-bad.3286466/
+Forums and Review Sites,bodybuilding,https://www.bodybuilding.com/workout-plans
+Forums and Review Sites,city-data,https://www.city-data.com/so/so-Abbeville-Alabama.html
+Forums and Review Sites,techasoft,https://www.techasoft.com/post/top-100-article-submission-sites-list-for-2021-to-rank-higher
+Forums and Review Sites,quora,quora.com
+Forums and Review Sites,slickdeals,slickdeals.net
+Forums and Review Sites,stackexchange-hot-questions,stackexchange.com
+Forums and Review Sites,tripadvisor,tripadvisor.com
+Forums and Review Sites,yelp,yelp.com
+Furtunite Websites,flyingtiger,https://flyingtiger.com/en-dk
+Furtunite Websites,jysk,https://jysk.dk/?gclsrc=aw.ds&gad_source=1&gclid=CjwKCAjwnOipBhBQEiwACyGLuraEsRFMYCeBaqlY9UDdSdCaHa6trv4r7pW5ypRHtD6JrAGKReA-thoCE-oQAvD_BwE
+Government and Public Databases,data,https://data.cdc.gov/browse?category=Vaccinations
+Government and Public Databases,ppubs,https://ppubs.uspto.gov/pubwebapp/static/pages/ppubsbasic.html
+Government and Public Databases,census,https://www.census.gov/data/datasets.html
+Government and Public Databases,fbi,https://www.fbi.gov/wanted/fugitives
+Government and Public Databases,nasa,nasa.gov
+Government and Public Databases,sec,sec.gov
+Government and Public Databases,usa,usa.gov
+Jobs,glassdoor,glassdoor.com
+Jobs,indeed,https://dk.indeed.com/jobs?q=programm%C3%B8r&l=Kongens%20Lyngby&from=searchOnHP
+Jobs,careerbuilder,https://www.careerbuilder.com/salary
+Jobs,dice,"https://www.dice.com/jobs?q=programmer&location=New%20York,%20NY,%20USA&latitude=40.7127753&longitude=-74.0059728&countryCode=US&locationPrecision=City&radius=30&radiusUnit=mi&page=1&pageSize=20&language=en"
+Jobs,ziprecruiter,https://www.ziprecruiter.co.uk/jobs/search?q=programmer&l=Oxford%2C+UK&lat=51.75&long=-1.26&d=
+Jobs,linkedin,linkedin.com
+Jobs,monster,monster.com
+Jobs,simplyhired,simplyhired.com
+Jobs,snagajob,snagajob.com
+Jobs,usajobs,usajobs.gov
+Movie Websites,netflix,https://www.netflix.com/dk/browse/genre/107573
+News,forbes,forbes.com
+News,foxnews,foxnews.com
+News,google news,https://news.google.com/home?hl=en-US&gl=US&ceid=US:en
+News,ældresagen,https://www.aeldresagen.dk/viden-og-raadgivning/hjaelp-og-stoette/plejebolig-og-plejehjem
+News,aljazeera,https://www.aljazeera.com/middle-east/
+News,bbc,https://www.bbc.com/news
+News,cnn,https://www.cnn.com/politics
+News,nytimes,https://www.nytimes.com/section/climate
+News,washingtonpost,https://www.washingtonpost.com/business/technology/
+News,huffpost,huffpost.com
+News,theguardian,theguardian.com
+Real Estate Websites,homes,homes.com
+Real Estate Websites,homefinder,https://homefinder.com/homes-for-sale/NY/New-York
+Real Estate Websites,century21,https://www.century21.com/real-estate/new-york-ny/LCNYNEWYORK/
+Real Estate Websites,redfin,https://www.redfin.com/city/30749/NY/New-York
+Real Estate Websites,loopnet,loopnet.com
+Real Estate Websites,realtor,realtor.com
+Real Estate Websites,remax,remax.com
+Real Estate Websites,trulia,trulia.com
+Real Estate Websites,zillow,zillow.com
+Shop Websites,coolshop,https://www.coolshop.dk
+Shop Websites,normal,https://www.normal.dk
+Social Media,flickr,flickr.com
+Social Media,9gag,https://9gag.com/gag/aeQzEYp#comment
+Social Media,4chan,https://boards.4channel.org/o/catalog
+Social Media,myspace,https://myspace.com
+Social Media,reddit,https://www.reddit.com/r/wallstreetbets/comments/179yndm/update_on_50k_nvda_puts/
+Social Media,twitch,https://www.twitch.tv
+Social Media,instagram,instagram.com
+Social Media,pinterest,pinterest.com
+Social Media,snapchat,snapchat.com
+Social Media,tumblr,tumblr.com
+Social Media,twitter,twitter.com
+Social Media,facebook,https://www.facebook.com/morten.lyk
+Sports Websites,goal,goal.com
+Sports Websites,bleacherreport,https://bleacherreport.com/nba
+Sports Websites,cbsports,https://www.cbsports.com/collections/mens
+Sports Websites,espn,https://www.espn.com/nfl/scoreboard
+Sports Websites,fifa,https://www.fifa.com/fifaplus/en/tournaments/mens/u17worldcup/indonesia-2023?intcmp=(p_fifaplus)_(d_)_(c_webheader-main)_(sc_tournaments)_(ssc_fu17wc-2023)_(da_11072023)_(l_en)
+Sports Websites,mlb,mlb.com
+Sports Websites,nba,nba.com
+Sports Websites,nfl,nfl.com
+Sports Websites,nhl,nhl.com
+Sports Websites,skysports,skysports.com
+Statistics,dst,https://www.dst.dk/en/Statistik/emner/borgere/husstande-familier-og-boern/skilsmisser
+Stocks,finance.yahoo,finance.yahoo.com
+Stocks,fool,fool.com
+Stocks,finviz,https://finviz.com/screener.ashx?v=110
+Stocks,seekingalpha,https://seekingalpha.com/market-news
+Stocks,bloomberg,https://www.bloomberg.com/markets/etfs
+Stocks,nasdaq,https://www.nasdaq.com/market-activity/earnings
+Stocks,investing,https://www.investing.com/crypto/currencies
+Stocks,marketwatch,marketwatch.com
+Stocks,reuters,reuters.com
+Stocks,zacks,zacks.com
+Video game Websites,gx games,https://gx.games/?utm_source=gxsd
+Video game Websites,y8,https://www.y8.com
+Weather Websites,almanac,almanac.com/weather
+Weather Websites,foreca,foreca.com
+Weather Websites,accuweather,https://www.accuweather.com/en/dk/kongens-lyngby/649991/weather-forecast/649991
+Weather Websites,bbc_weather,https://www.bbc.com/weather/2643743
+Weather Websites,meteoblue,meteoblue.com
+Weather Websites,metoffice,metoffice.gov.uk
+Weather Websites,weather,weather.com
+Weather Websites,weather,weather.gov
+Weather Websites,weatherbug,weatherbug.com
+Weather Websites,wunderground,wunderground.com
+Forums and Review Sites,monstercat,https://monstercat.fandom.com/wiki/Silk_Music_Discography

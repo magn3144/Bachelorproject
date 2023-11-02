@@ -1,27 +1,22 @@
-import re
+from lxml import etree
 import csv
 
-def extract_address_components(html_file):
-    with open(html_file, 'r') as f:
-        html = f.read()
+# Define the XPaths for the article title
+article_title_xpath = "/html/body/div/div/div/header/nav/div/div[2]/div/ul[2]/li[2]/a"
 
-    address_components = re.findall(r'<div\sclass="addr-component[^>]*>([^<]+)', html)
-    address_components = [component.strip() for component in address_components]
+# Open the HTML file
+with open("downloaded_pages/homefinder.html", "r") as html_file:
+    # Parse the HTML content
+    tree = etree.parse(html_file)
 
-    properties = re.findall(r'<div\sclass="text-muted">([^<]+)', html)
+    # Find the article title element using the XPath
+    article_title_element = tree.xpath(article_title_xpath)
 
-    rows = []
-    for i in range(len(properties)):
-        if i < len(address_components):
-            address = address_components[i]
-        else:
-            address = ""
+    # Extract the text from the article title element
+    article_title = article_title_element[0].text.strip()
 
-        rows.append([address, properties[i]])
-
-    with open('scraped_data.csv', 'w', newline='') as f:
-        writer = csv.writer(f)
-        writer.writerow(['Address', 'Property'])
-        writer.writerows(rows)
-
-extract_address_components('downloaded_pages/homefinder.html')
+    # Save the scraped data as CSV
+    with open("scraped_data.csv", "w", newline="") as csv_file:
+        writer = csv.writer(csv_file)
+        writer.writerow(["Article Title"])
+        writer.writerow([article_title])

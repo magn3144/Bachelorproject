@@ -1,0 +1,102 @@
+<title>Investing.com - Financial Markets Worldwide</title>
+/html/body/div/header/div[1]/section/div[1]/a/svg/title
+----------------
+<span>Blockmason Credit Protocol</span>
+/html/body/div/div[2]/div/div/div/main/div[5]/div/div[2]/div/div[2]/div/div[4]/div[2]/div[166]/span/span[2]
+----------------
+<span>$</span>2.7938
+/html/body/div/div[2]/div/div/div/main/div[6]/div[1]/div/div/table/tbody/tr[108]/td[5]/span
+----------------
+<h4 class="text-sm font-semibold font-bold">Popular Searches</h4>
+/html/body/div/header/div[1]/section/div[2]/div[2]/div[1]/div/header/h4
+----------------
+<h5 class="text-sm font-normal">Please try another search</h5>
+/html/body/div/header/div[1]/section/div[2]/div[2]/div[1]/div/div/div/h5
+----------------
+<a class="inv-link navbar_multi_list_link__B8IEy text-xs desktop:font-bold">American Funds Capital Income Builder A</a>
+/html/body/div/header/div[2]/div[1]/nav/ul/li[1]/ul/li[7]/div/div/div/div[2]/ul/li[3]/a
+----------------
+<a class="inv-link navbar_multi_list_link__B8IEy text-xs desktop:font-bold">USD/TRY</a>
+/html/body/div/header/div[2]/div[1]/nav/ul/li[1]/ul/li[5]/div/div/div/div[2]/ul/li[8]/a
+----------------
+<div>A comprehensive dashboard view of all Cryptocurren</div>
+/html/body/div/div[2]/div/div/div/main/div[1]/div/div[2]/div[2]/div
+----------------
+<div class="crypto-coins-table_cellNameText__aaXmK">Tezos</div>
+/html/body/div/div[2]/div/div/div/main/div[6]/div[1]/div/div/table/tbody/tr[56]/td[4]/div[1]/a/div
+----------------
+<td class="datatable_cell__LJp3C datatable_cell--align-end__qgxDQ datatable_cell--down___c4Fq !text-sm">-1.22%</td>
+/html/body/div/div[2]/div/div/div/main/div[6]/div[1]/div/div/table/tbody/tr[183]/td[6]
+----------------
+<p class="watchlist-tooltip_wl-suggested-tooltip--text__UKqs5">Click the star to add this asset to your watchlist</p>
+/html/body/div/header/div[3]/div/div/div/div/form/div[4]/table/tbody[2]/tr/td/div/p
+----------------
+<span>Tattoocoin (Standard Edition)</span>
+/html/body/div/div[2]/div/div/div/main/div[5]/div/div[2]/div/div[2]/div/div[4]/div[2]/div[1094]/span/span[2]
+----------------
+<span>$</span>71.77M
+/html/body/div/div[2]/div/div/div/main/div[6]/div[1]/div/div/table/tbody/tr[62]/td[9]/span
+----------------
+<a class="inv-link navbar_multi_list_link__B8IEy text-xs desktop:font-bold">SPDR Dow Jones Industrial Average</a>
+/html/body/div/header/div[2]/div[1]/nav/ul/li[1]/ul/li[6]/div/div/div/div[2]/ul/li[3]/a
+----------------
+<a class="inv-link navbar_multi_list_link__B8IEy text-xs desktop:font-bold">FTSE 100</a>
+/html/body/div/header/div[2]/div[1]/nav/ul/li[1]/ul/li[1]/div/div/div/div[2]/ul/li[5]/a
+----------------
+<div class="watchlist-onboarding_name-v2__JWHVS">Dow Jones Industrial Average</div>
+/html/body/div/header/div[3]/div/div/div/div/form/div[4]/table/tbody[4]/tr[2]/td/div/div[1]
+----------------
+<div class="crypto-coins-table_cellNameText__aaXmK">Litecoin</div>
+/html/body/div/div[2]/div/div/div/main/div[6]/div[1]/div/div/table/tbody/tr[17]/td[4]/div[1]/a/div
+----------------
+<td class="datatable_cell__LJp3C datatable_cell--align-end__qgxDQ hidden">TBD</td>
+/html/body/div/div[2]/div/div/div/main/div[6]/div[1]/div/div/table/tbody/tr[59]/td[11]
+----------------
+<span class="inv-link-title-text">Trade With A Regulated Broker</span>
+/html/body/div/div[2]/footer/div[1]/span/div/span/a/span
+----------------
+<span>$</span>185.93M
+/html/body/div/div[2]/div/div/div/main/div[6]/div[1]/div/div/table/tbody/tr[151]/td[8]/span
+----------------
+<a class="inv-link navbar_multi_list_link__B8IEy text-xs desktop:font-bold">Vanguard Total Bond Market II Index Fund Investor </a>
+/html/body/div/header/div[2]/div[1]/nav/ul/li[1]/ul/li[7]/div/div/div/div[2]/ul/li[2]/a
+----------------
+<a class="inv-link navbar_multi_list_link__B8IEy text-xs desktop:font-bold">World</a>
+/html/body/div/header/div[2]/div[1]/nav/ul/li[4]/div[2]/div/div[2]/div/ul/li[5]/a
+----------------
+<div class="crypto-coins-table_cellNameText__aaXmK">USD Coin</div>
+/html/body/div/div[2]/div/div/div/main/div[6]/div[1]/div/div/table/tbody/tr[6]/td[4]/div[1]/a/div
+----------------
+<td class="datatable_cell__LJp3C datatable_cell--align-end__qgxDQ datatable_cell--up__hIuZF !text-sm">+14.61%</td>
+/html/body/div/div[2]/div/div/div/main/div[6]/div[1]/div/div/table/tbody/tr[153]/td[6]
+----------------
+<span>Leading Coin 4 Entrepreneurs</span>
+/html/body/div/div[2]/div/div/div/main/div[5]/div/div[2]/div/div[2]/div/div[4]/div[2]/div[664]/span/span[2]
+----------------
+<span>Komodo</span>
+/html/body/div/div[2]/div/div/div/main/div[5]/div/div[2]/div/div[2]/div/div[4]/div[2]/div[649]/span/span[2]
+----------------
+<a class="inv-link navbar_multi_list_link__B8IEy text-xs desktop:font-bold">Interactive Currency Chart</a>
+/html/body/div/header/div[2]/div[1]/nav/ul/li[7]/div[2]/div/div[2]/ul/li[1]/a
+----------------
+<a class="inv-link navbar_multi_list_link__B8IEy text-xs desktop:font-bold">Stock Brokers</a>
+/html/body/div/header/div[2]/div[1]/nav/ul/li[9]/div[2]/div/div[1]/div/ul/li[2]/a
+----------------
+<div class="crypto-coins-table_cellNameText__aaXmK">STP</div>
+/html/body/div/div[2]/div/div/div/main/div[6]/div[1]/div/div/table/tbody/tr[182]/td[4]/div[1]/a/div
+----------------
+<td class="datatable_cell__LJp3C datatable_cell--align-end__qgxDQ datatable_cell--up__hIuZF !text-sm">+0.40%</td>
+/html/body/div/div[2]/div/div/div/main/div[6]/div[1]/div/div/table/tbody/tr[140]/td[7]
+----------------
+<span class="whitespace-nowrap ml-1.5">Fusion Media Limited. All Rights Reserved.</span>
+/html/body/div/div[2]/footer/div[2]/div[2]/div[2]/span[2]
+----------------
+<span>Korean Won</span>
+/html/body/div/div[2]/div/div/div/main/div[5]/div/div[2]/div/div[2]/div/div[3]/div[2]/div[69]/span/span[2]
+----------------
+<a class="inv-link navbar_multi_list_link__B8IEy text-xs desktop:font-bold">iShares MSCI Emerging Markets</a>
+/html/body/div/header/div[2]/div[1]/nav/ul/li[1]/ul/li[6]/div/div/div/div[2]/ul/li[2]/a
+----------------
+<a class="inv-link navbar_multi_list_link__B8IEy text-xs desktop:font-bold">Interactive Indices Chart</a>
+/html/body/div/header/div[2]/div[1]/nav/ul/li[7]/div[2]/div/div[2]/ul/li[3]/a
+----------------

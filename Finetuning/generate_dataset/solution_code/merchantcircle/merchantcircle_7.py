@@ -1,19 +1,26 @@
 import csv
-from bs4 import BeautifulSoup
+from lxml import etree
 
-html_file = 'downloaded_pages/merchantcircle.html'
-target_elements = ['viewMoreLink']
+# Define the target XPath for reviews
+reviews_xpath = '/html/body/div[1]/div[4]/div/div[1]/div[2]/div/div/div[1]/div/div[1]/div/div[2]/div/div[1]/article/div[2]/div[1]/div[1]'
 
-# Scrape the text of all the viewMoreLink links
+# Load the HTML file
+with open('downloaded_pages/merchantcircle.html', 'r') as file:
+    html = file.read()
+
+# Parse the HTML
+tree = etree.HTML(html)
+
+# Extract the reviews using the XPath
+reviews = tree.xpath(reviews_xpath)
+
+# Prepare the scraped data
 scraped_data = []
-with open(html_file, 'r') as file:
-    soup = BeautifulSoup(file, 'html.parser')
-    for element in target_elements:
-        links = soup.find_all('a', class_=element)
-        for link in links:
-            scraped_data.append(link.get_text())
+for review in reviews:
+    scraped_data.append(review.text.strip())
 
-# Save the scraped data as CSV
-with open('scraped_data.csv', 'w', newline='') as file:
+# Save the scraped data as a CSV file
+with open('scraped_data.csv', 'w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
-    writer.writerows(scraped_data)
+    writer.writerow(['Review'])
+    writer.writerows(zip(scraped_data))

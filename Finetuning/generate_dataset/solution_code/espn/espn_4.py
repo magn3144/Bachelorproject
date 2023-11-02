@@ -1,19 +1,34 @@
 import csv
 from bs4 import BeautifulSoup
 
-# HTML file path
-html_file_path = 'downloaded_pages/espn.html'
+html_file = 'downloaded_pages/espn.html'
 
-# Parse HTML file
-with open(html_file_path, 'r') as file:
-    soup = BeautifulSoup(file, 'html.parser')
+def parse_html(html_file):
+    with open(html_file, 'r') as file:
+        soup = BeautifulSoup(file, 'html.parser')
+    return soup
 
-# Find all news descriptions
-news_descriptions = soup.find_all('div', class_='News__Item__Description')
+def extract_inactives(soup):
+    inactives = ""
+    for div in soup.find_all('div', class_='News__Item__Description'):
+        inactives = div.text.strip()
+    return inactives
 
-# Save data as CSV
-with open('scraped_data.csv', 'w', newline='', encoding='utf-8') as file:
-    writer = csv.writer(file)
-    writer.writerow(['News Descriptions'])
-    for description in news_descriptions:
-        writer.writerow([description.get_text()])
+def extract_analysis(soup):
+    analysis = ""
+    for p in soup.find_all('p', class_='n9 clr-gray-03'):
+        analysis = p.text.strip()
+    return analysis
+
+def save_to_csv(data):
+    headers = ['Inactives', 'Analysis']
+    with open('scraped_data.csv', 'w', newline='') as file:
+        writer = csv.writer(file)
+        writer.writerow(headers)
+        writer.writerow(data)
+
+soup = parse_html(html_file)
+inactives = extract_inactives(soup)
+analysis = extract_analysis(soup)
+data = [inactives, analysis]
+save_to_csv(data)

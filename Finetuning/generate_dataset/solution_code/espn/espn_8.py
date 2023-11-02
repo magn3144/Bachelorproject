@@ -1,19 +1,26 @@
-from bs4 import BeautifulSoup
 import csv
+from lxml import etree
+            
+def extract_stats_labels():
+    # Define XPaths for player stats and labels
+    stats_xpath = "/html/body/div[1]/div/div/div/main/div[3]/div/div[1]/div[1]/div/section[1]/div/section[4]/div[1]/div/div[3]/div/div/div[3]/a/div[2]/div[2]/div/div/span"
+    labels_xpath = "/html/body/div[1]/div/div/div/main/div[3]/div/div[1]/div[1]/div/section[1]/div/section[4]/div[1]/div/div[3]/div/div/div[3]/a/div[2]/div[2]/div/div/span[1]"
 
-# Open the HTML file
-with open('downloaded_pages/espn.html', 'r') as file:
-    html = file.read()
-
-# Parse the HTML
-soup = BeautifulSoup(html, 'html.parser')
-
-# Find all stat labels using relevant HTML elements
-stat_labels = soup.find_all(class_='Athlete__Stats--label') + soup.find_all(class_='n10 clr-gray-03')
-
-# Save the stat labels as a CSV file
-with open('scraped_data.csv', 'w', newline='') as file:
-    writer = csv.writer(file)
-    writer.writerow(['Stat Label'])
-    for label in stat_labels:
-        writer.writerow([label.text])
+    # Parse the HTML file
+    tree = etree.parse('downloaded_pages/espn.html', etree.HTMLParser())
+    
+    # Extract player stats
+    stats_elements = tree.xpath(stats_xpath)
+    stats = [elem.text for elem in stats_elements]
+    
+    # Extract labels
+    labels_elements = tree.xpath(labels_xpath)
+    labels = [elem.text for elem in labels_elements]
+    
+    # Save data as CSV
+    with open('scraped_data.csv', 'w', newline='') as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerow(['Stats', 'Labels'])  # Write header
+        writer.writerows(zip(stats, labels))
+    
+extract_stats_labels()

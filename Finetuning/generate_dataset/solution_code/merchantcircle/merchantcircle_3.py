@@ -1,21 +1,24 @@
 import csv
-from bs4 import BeautifulSoup
+from lxml import etree
 
-# Define the target file path
-file_path = 'downloaded_pages/merchantcircle.html'
+# Define XPath expressions for the merchant tools names and descriptions
+names_xpath = '//li[contains(@class, "sub-menu-header")]/text()'
+descriptions_xpath = '//li[contains(@class, "sub-menu-header")]/following-sibling::li/text()'
 
-# Create a soup object from the HTML file
-with open(file_path, 'r', encoding='utf-8') as file:
-    soup = BeautifulSoup(file, 'html.parser')
+# Parse the HTML file
+parser = etree.HTMLParser()
+tree = etree.parse('downloaded_pages/merchantcircle.html', parser)
 
-# Find all locality spans
-locality_spans = soup.find_all('span', class_='locality')
+# Extract the names and descriptions using XPath expressions
+names = tree.xpath(names_xpath)
+descriptions = tree.xpath(descriptions_xpath)
 
-# Extract the text from the locality spans
-localities = [span.get_text(strip=True) for span in locality_spans]
+# Combine the names and descriptions into a list of dictionaries
+data = [{'Name': name.strip(), 'Description': description.strip()} for name, description in zip(names, descriptions)]
 
-# Save the scraped data as CSV
-with open('scraped_data.csv', 'w', newline='', encoding='utf-8') as file:
-    writer = csv.writer(file)
-    writer.writerow(['Localities'])
-    writer.writerows(zip(localities))
+# Save the data as a CSV file
+with open('scraped_data.csv', 'w', newline='') as csv_file:
+    fieldnames = ['Name', 'Description']
+    writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
+    writer.writeheader()
+    writer.writerows(data)

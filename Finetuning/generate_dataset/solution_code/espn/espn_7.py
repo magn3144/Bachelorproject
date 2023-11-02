@@ -1,21 +1,25 @@
 import csv
-from bs4 import BeautifulSoup
+import os
+from lxml import etree
 
-file_path = 'downloaded_pages/espn.html'
-target_elements = ['Fantasy football Week 7 inactives:', 'Fantasy football inactives:']
-scraped_data = []
+# Define the XPath expressions for the video titles and links
+title_xpath = '//span[@class="QuickLinks__Item__Title"]'
+link_xpath = '//a[@class="QuickLinks__Item__Title"]/@href'
 
-with open(file_path, 'r') as file:
-    soup = BeautifulSoup(file, 'html.parser')
-    
-    for element in target_elements:
-        data = soup.find('h2', text=element)
-        if data:
-            inactives = data.find_next('li', class_='MediaList__item__playing')
-            if inactives:
-                scraped_data.append(inactives.text)
+# Load the HTML file
+html_file = os.path.join('downloaded_pages', 'espn.html')
+tree = etree.parse(html_file)
+root = tree.getroot()
 
-with open('scraped_data.csv', 'w', newline='') as file:
-    writer = csv.writer(file)
-    writer.writerow(['Fantasy Football Inactives'])
-    writer.writerows([[inactive] for inactive in scraped_data])
+# Scrape the video titles and links
+titles = root.xpath(title_xpath)
+links = root.xpath(link_xpath)
+
+# Combine the titles and links into a list of pairs
+data = list(zip(titles, links))
+
+# Save the scraped data as a CSV file
+with open('scraped_data.csv', 'w', newline='') as csvfile:
+    writer = csv.writer(csvfile)
+    writer.writerow(['Title', 'Link'])
+    writer.writerows(data)

@@ -1,0 +1,10 @@
+Extract all comments from the YouTube video and save them as a CSV file.
+Get the upload date of the YouTube video and save it as a CSV file.
+Scrape the channel name of the YouTube video and save it as a CSV file.
+Retrieve the number of views of the YouTube video and save it as a CSV file.
+Extract the title of a suggested video and save it as a CSV file.
+Get the number of likes for a specific YouTube comment and save it as a CSV file.
+Scrape the duration of the YouTube video and save it as a CSV file.
+Extract the category of the YouTube video and save it as a CSV file.
+Get the number of dislikes for a specific YouTube comment and save it as a CSV file.
+Scrape the name of the verified channel associated with a YouTube video and save it as a CSV file.

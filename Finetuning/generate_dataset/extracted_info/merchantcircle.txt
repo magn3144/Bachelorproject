@@ -1,89 +1,147 @@
-<span class="fullText">Very useful app, need not go in search of medicine</span>
-<span>13 hours ago</span>
-<li class="sub-menu-header">Merchant Tools</li>
-<a class="btn-filled btnDir">                            Directions          </a>
-<a>Expert Insights</a>
-<label class="label-near">Near</label>
-<div class="subUiBar"></div>
-<h2>Categories</h2>
-<span class="fullText">Metformin REVIEWS&lt;&lt;&lt;&lt; Buy Online Metformin REVIEWS</span>
-<span>Retail Shopping</span>
-<a>Knicks</a> (basketball).  New York is composed of five boroughs 
-<a>...</a>
-<label class="label-find">Find</label>
-<div class="" id="related_businesses_909050_675907"></div>
-<span class="fullText">lunesta AVAILABILITY ONLINE&lt;&lt;&lt;&lt; Buy Online lunesta</span>
-<span class="inMob">Call</span>
-<a>Metropolitan Museum of Art</a>, 
-<a class="photoMoreBtn">View all 201169</a>
-<span class="locality">New York</span>,                                
-<span class="inDesktop">212-283-5000</span>
-<a class="url org">ChannelSale Software Services</a>
-<a>2</a>
-<span class="street-address">401 Seventh Avenue Suite #112 Play Poker FREE! Win</span>,                                
-<span class="inDesktop">212-802-1439</span>
-<a>Cryptocurrency Evolution: Navigating the Intersect</a>
-<a>Read More…</a>
 <span class="street-address">12 western nover 1919 </span>,                                
-<span class="inDesktop">917-775-9550</span>
-<a class="itemDesc">Save money? Call 347-263-7630</a>
-<a class="viewMoreLink">...read more</a>
-<span>		Best Businesses in New York, NY</span>
-<span>Sign up</span>
-<a class="itemDesc">https://www.movers-newyorkcity.com</a>
-<a>Rockefeller Center</a>, 
-<span class="fullText">I registered with them a few years back and was to</span>
-<span>Home &amp; Garden</span>
-<a>Do Not Sell or Share My Personal Information</a>
-<a class="review-link">Write a review</a>
-<span class="locality">New York</span>,                                
-<span class="inDesktop">212-977-7700</span>
-<a class="url org">Automotive Luxury Limo and Car Service</a>
-<a>Mets</a> and 
-<span class="fullText">I believe that XL International USA LLC offers goo</span>
-<span>Log in</span>
-<a class="url org">Play Texas Holdem Poker Online FREE! No Download ~</a>
-<a>				akhilkumar					</a>
+/html/body/div[1]/div[4]/main/section/section[3]/div/div[1]/div[1]/div/a[2]/span[1]
+----------------
+<span class="country-name">U.S.A</span>
+/html/body/div[1]/div[4]/main/section/section[2]/div/div[1]/div[1]/div/a[2]/span[4]
+----------------
+<li class="sub-menu-header">Merchant Tools</li>
+/html/body/div[1]/div[1]/header/div[1]/ul/li[1]/ul/li[1]
+----------------
+<a>Cryptocurrency Evolution: Navigating the Intersect</a>
+/html/body/div[1]/div[4]/section/section[4]/section[3]/h2/a
+----------------
+<a>...</a>
+/html/body/div[1]/div[4]/main/div/a[6]
+----------------
+<label class="label-find">Find</label>
+/html/body/div[1]/div[1]/header/div[2]/form/div/div[1]/label
+----------------
+<div class="subUiBar"></div>
+/html/body/div[1]/div[2]
+----------------
+<h2>Categories</h2>
+/html/body/div[1]/div[3]/section/h2
+----------------
 <span class="fullText">In the rapidly evolving landscape of global financ</span>
-<span class="inMob">Call</span>
-<a>Staten Island</a>.  For more more information please visit the offical website for 
-<a class="viewMoreLink">...read more</a>
-<span>Sign up</span>
-<a class="url org">Pulse Laser &amp; Skincare Center</a>
-<a>Empire State Building</a>, 
-<span>Sign up</span>
-<a class="bottomSignature"> -- Latest Update February 04, 2011 at 06:10 AM by</a>
-<a class="active">1</a>
-<span class="inDesktop">917-877-8619</span>
-<a>United Nations</a> Headquarters, it is also an important center for international affairs. Major attactions include 
-<a>Read More…</a>
-<span>Legal &amp; Financial</span>
-<a class="url org">christopher financial link</a>
-<a>5</a>
+/html/body/div[1]/div[4]/section/section[4]/section[3]/div[1]/div/p/span
+----------------
+<span class="inDesktop">210-714-0603</span>
+/html/body/div[1]/div[4]/main/section/section[1]/div/div[2]/div/a[1]/span[2]
+----------------
 <a class="url org">M.A. Land Transport Company (Pvt) Ltd</a>
-<a class="btn-filled">Website</a>
-<a>Contact New York Movers at (347) 263-7630 to see h</a>
-<a class="btn-filled">Website</a>
-<a class="url org">A.N. Shell Realty of Manhattanville</a>
-<a>				janice648					</a>
-<a>                               Merchant Support </a>
-<a>3</a>
-<a id="_bl_link">A Buyerlink </a> inc. company. All Rights Reserved.        
-<a>Jets</a> (football), 
-<a>https://www.movers-newyorkcity.com</a>
-<a class="btn-filled">Website</a>
-<a class="url org">Eviction Removal Pros-Remove Your Evictions From C</a>
-<a class="btn-filled">Website</a>
-<a>Limit the Use of Sensitive Personal Information</a>
-<a>Listing</a>
-<a class="itemDesc">FOR A FREE MOVING ESTIMATE CONTACT US TODAY AT (34</a>
+/html/body/div[1]/div[4]/main/section/section[16]/div/div[1]/div[1]/h2/a
+----------------
+<a>About Us</a>
+/html/body/footer/div/div/ul/li[2]/ul/li[1]/a
+----------------
+<label class="label-near">Near</label>
+/html/body/div[1]/div[1]/header/div[2]/form/div/div[2]/label
+----------------
+<div class="" id="related_businesses_909050_675907"></div>
+/html/body/div[1]/div[4]/main/section/div
+----------------
+<span>		Best Businesses in New York, NY</span>
+/html/body/div[1]/div[4]/main/section/h2/span
+----------------
+<span>Cancel</span>
+/html/body/div[1]/div[1]/header/div[2]/form/div/button[1]/span
+----------------
+<a class="itemDesc">Save money? Call 347-263-7630</a>
+/html/body/div[1]/div[4]/section/section[3]/section[1]/div/div/a[1]
+----------------
 <a>Read More…</a>
-<a> pregabalin On Sale Cheap Online </a>
-<a>Central Park</a>, 
+/html/body/div[1]/div[4]/main/section/section[4]/div/div[1]/div[2]/span/a
+----------------
+<span class="fullText">lunesta AVAILABILITY ONLINE&lt;&lt;&lt;&lt; Buy Online lunesta</span>
+/html/body/div[1]/div[4]/section/section[4]/section[2]/div[1]/div/p/span
+----------------
+<span>Sign up</span>
+/html/body/div[1]/div[1]/header/div[1]/a[4]/span
+----------------
+<a class="url org">Automotive Luxury Limo and Car Service</a>
+/html/body/div[1]/div[4]/main/section/section[9]/div/div[1]/div[1]/h2/a
+----------------
+<a>Broadway Theater</a>, 
+/html/body/div[1]/div[4]/main/article/section/p/a[5]
+----------------
+<span class="locality">New York</span>,                                
+/html/body/div[1]/div[4]/main/section/section[3]/div/div[1]/div[1]/div/a[2]/span[2]
+----------------
+<span class="inDesktop">917-775-9550</span>
+/html/body/div[1]/div[4]/main/section/section[4]/div/div[2]/div/a[1]/span[2]
+----------------
+<a class="bottomSignature"> -- Latest Update February 04, 2011 at 06:10 AM by</a>
+/html/body/div[1]/div[4]/main/article/section/div/a
+----------------
+<a>201169 photos</a>
+/html/body/div[1]/div[4]/section/section[2]/h2/a
+----------------
+<span class="fullText">I believe that XL International USA LLC offers goo</span>
+/html/body/div[1]/div[4]/section/section[1]/section[3]/div[2]/p/span
+----------------
+<span class="inMob">Call</span>
+/html/body/div[1]/div[4]/main/section/section[16]/div/div[2]/div/a[1]/span[1]
+----------------
+<a>Knicks</a> (basketball).  New York is composed of five boroughs 
+/html/body/div[1]/div[4]/main/article/section/p/a[16]
+----------------
+<a>Mets</a> and 
+/html/body/div[1]/div[4]/main/article/section/p/a[11]
+----------------
+<span class="fullText">Metformin REVIEWS&lt;&lt;&lt;&lt; Buy Online Metformin REVIEWS</span>
+/html/body/div[1]/div[4]/section/section[4]/section[1]/div[1]/div/p/span
+----------------
+<span>Education</span>
+/html/body/div[1]/div[3]/section/div/div/a[9]/span
+----------------
 <a>FREE MOVING ESTIMATE www.movers-newyorkcity.com</a>
-<a>Claim Your Business</a>
-<a class="btn-filled btnDir">                            Directions          </a>
-<a>Giants</a> and 
+/html/body/div[1]/div[4]/section/section[3]/section[2]/div/div/h2/a
+----------------
+<a class="btn-filled">Website</a>
+/html/body/div[1]/div[4]/main/section/section[8]/div/div[2]/div/a[2]
+----------------
+<span class="fullText">Very useful app, need not go in search of medicine</span>
+/html/body/div[1]/div[4]/section/section[1]/section[1]/div[2]/p/span
+----------------
+<span>Electronics</span>
+/html/body/div[1]/div[3]/section/div/div/a[10]/span
+----------------
 <a> Buy phentermine Without Perscription</a>
-<a>New York State</a> tourism.
-<a>Bronx Zoo</a> to name only a few.  New York City has teams in the four major North American professional sports leagues including 
+/html/body/div[1]/div[4]/section/section[4]/section[1]/h2/a
+----------------
+<a class="viewMoreLink">...read more</a>
+/html/body/div[1]/div[4]/section/section[1]/section[1]/div[2]/p/a
+----------------
+<span class="locality">New York</span>,                                
+/html/body/div[1]/div[4]/main/section/section[2]/div/div[1]/div[1]/div/a[2]/span[2]
+----------------
+<span class="inDesktop">917-775-9550</span>
+/html/body/div[1]/div[4]/main/section/section[8]/div/div[2]/div/a[1]/span[2]
+----------------
+<a id="_bl_link">A Buyerlink </a> inc. company. All Rights Reserved.        
+/html/body/footer/div/p/a
+----------------
+<a>Expert Insights</a>
+/html/body/footer/div/div/ul/li[4]/ul/li[2]/a
+----------------
+<span class="fullText">I registered with them a few years back and was to</span>
+/html/body/div[1]/div[4]/section/section[1]/section[2]/div[2]/p/span
+----------------
+<span class="inMob">Call</span>
+/html/body/div[1]/div[4]/main/section/section[3]/div/div[2]/div/a[1]/span[1]
+----------------
+<a class="itemDesc">https://www.movers-newyorkcity.com</a>
+/html/body/div[1]/div[4]/section/section[3]/section[3]/div/div/a[1]
+----------------
+<a>Terms of Use</a>
+/html/body/footer/div/div/ul/li[2]/ul/li[2]/a
+----------------
+<span class="street-address">401 Seventh Avenue Suite #112 Play Poker FREE! Win</span>,                                
+/html/body/div[1]/div[4]/main/section/section[2]/div/div[1]/div[1]/div/a[2]/span[1]
+----------------
+<span class="inMob">Call</span>
+/html/body/div[1]/div[4]/main/section/section[15]/div/div[2]/div/a[1]/span[1]
+----------------
+<a class="url org">Pulse Laser &amp; Skincare Center</a>
+/html/body/div[1]/div[4]/main/section/section[17]/div/div[1]/div[1]/h2/a
+----------------

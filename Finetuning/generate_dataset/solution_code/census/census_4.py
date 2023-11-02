@@ -1,17 +1,14 @@
 import csv
-from bs4 import BeautifulSoup
+from lxml import html
 
-html_file = 'downloaded_pages/census.html'
-target_data = []
+# Load the HTML file
+tree = html.parse('downloaded_pages/census.html')
 
-with open(html_file, 'r') as file:
-    soup = BeautifulSoup(file, 'html.parser')
-    fact_sheet_titles = soup.find_all('a', class_='uscb-header-panel-content-link')
+# Retrieve the page title
+title = tree.xpath('/html/head/title/text()')[0]
 
-    for title in fact_sheet_titles:
-        target_data.append(title.get_text().strip())
-
-with open('scraped_data.csv', 'w', newline='') as csvfile:
-    writer = csv.writer(csvfile)
-    writer.writerow(["Fact Sheet Titles"])
-    writer.writerows(zip(target_data))
+# Write the scraped data to a CSV file
+with open('scraped_data.csv', 'w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerow(['Page Title'])
+    writer.writerow([title])

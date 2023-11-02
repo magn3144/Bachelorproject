@@ -1,21 +1,26 @@
 import csv
-from bs4 import BeautifulSoup
+import lxml.html as lh
 
-html_file = 'downloaded_pages/washingtonpost.html'
+# Define the XPath expressions for category names and article titles
+category_xpath = "//nav[@data-qa='{category}']//a[@data-pb-field='category-name']"
+title_xpath = "//h3[contains(@class, 'font--headline')]"
 
-def scrape_links(html_file):
-    with open(html_file) as file:
-        soup = BeautifulSoup(file, 'html.parser')
-    links = soup.find_all('a')
-    data = []
-    for link in links:
-        if link.get('href'):
-            data.append({'Link': link.get('href')})
-    return data
+# Read the HTML file
+with open('downloaded_pages/washingtonpost.html', 'r') as file:
+    content = file.read()
 
-data = scrape_links(html_file)
+# Create a document tree from the HTML content
+doc = lh.fromstring(content)
 
+# Find all category names
+categories = doc.xpath(category_xpath.format(category='category'))
+
+# Find all article titles
+titles = doc.xpath(title_xpath)
+
+# Save the scraped data as a CSV file
 with open('scraped_data.csv', 'w', newline='') as file:
-    writer = csv.DictWriter(file, fieldnames=['Link'])
-    writer.writeheader()
-    writer.writerows(data)
+    writer = csv.writer(file)
+    writer.writerow(['Category', 'Title'])
+    for category, title in zip(categories, titles):
+        writer.writerow([category.text_content(), title.text_content()])

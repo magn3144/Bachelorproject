@@ -1,22 +1,21 @@
 import csv
-from bs4 import BeautifulSoup
+from lxml import html
 
-# Load the HTML file
-with open("downloaded_pages/washingtonpost.html", "r") as f:
-    html = f.read()
+# Read the HTML file and parse it
+with open('downloaded_pages/washingtonpost.html', 'r', encoding='utf-8') as f:
+    html_data = f.read()
 
-# Parse the HTML
-soup = BeautifulSoup(html, "html.parser")
+tree = html.fromstring(html_data)
 
-# Find all the image captions
-image_captions = []
-for img in soup.find_all("img"):
-    caption = img.get("alt", "")
-    if caption:
-        image_captions.append(caption)
+# Find all subscription newsletter titles and descriptions using XPath
+titles = tree.xpath('//div[contains(@class, "wpds-c-fJKSbB")]/text()')
+descriptions = tree.xpath('//span[contains(@class, "items-center")]/text()')
 
-# Save the scraped data as a CSV file
-with open("scraped_data.csv", "w", newline="") as f:
+# Zip titles and descriptions together
+data = zip(titles, descriptions)
+
+# Save data as a CSV file
+with open('scraped_data.csv', 'w', encoding='utf-8', newline='') as f:
     writer = csv.writer(f)
-    writer.writerow(["Image Caption"])
-    writer.writerows(zip(image_captions))
+    writer.writerow(['Title', 'Description'])  # Write header
+    writer.writerows(data)  # Write data rows

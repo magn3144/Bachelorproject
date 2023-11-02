@@ -1,21 +1,22 @@
 import csv
-from bs4 import BeautifulSoup
+from lxml import html
 
 # Read the HTML file
 with open('downloaded_pages/washingtonpost.html', 'r') as file:
-    html = file.read()
+    html_str = file.read()
 
-# Create a soup object
-soup = BeautifulSoup(html, 'html.parser')
+# Create an HTML tree from the string
+tree = html.fromstring(html_str)
 
-# Find all div tags with class "gray-dark"
-div_tags = soup.find_all('div', class_='gray-dark')
+# Find the headlines and their dates
+headlines = tree.xpath('//div[contains(@class, "wpds-c-fJKSbB")]/text()')
+dates = tree.xpath('//div[contains(@class, "bold") and contains(@class, "font-xs")]/text()')
 
-# Extract the text from the div tags
-texts = [div.text.strip() for div in div_tags]
+# Combine headlines and dates into a list of tuples
+data = list(zip(headlines, dates))
 
-# Write the data to a CSV file
+# Save the data as a CSV file
 with open('scraped_data.csv', 'w', newline='') as file:
     writer = csv.writer(file)
-    for text in texts:
-        writer.writerow([text])
+    writer.writerow(['Headline', 'Date'])
+    writer.writerows(data)
