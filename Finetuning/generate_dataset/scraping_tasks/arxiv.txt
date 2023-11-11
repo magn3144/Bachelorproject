@@ -1,0 +1,10 @@
+Extract all primary subjects
+Extract all descriptors
+Extract all arXiv IDs and their cross-list category
+Extract all authors
+Extract the main heading
+Extract the secondary heading
+Extract the date and number of entries
+Extract the title of the footer link "subscribe to arXiv mailings"
+Extract the title of the footer link "contact arXiv"
+Extract all subjects for each entry

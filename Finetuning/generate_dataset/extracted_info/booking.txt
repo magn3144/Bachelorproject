@@ -1,0 +1,94 @@
+<div class="a53cbfa6de e7c28a2436">Entire unit located on ground floor</div> 
+/html/body/div[13]/div[3]/div[1]/div/div/div[22]/div[3]/label/span[3]/div/div/div
+----------------
+<div class="a53cbfa6de e7c28a2436">Strawberry</div> 
+/html/body/div[5]/div/div[4]/div[1]/div[2]/div[1]/div/div/div[3]/div[19]/div[7]/label/span[3]/div/div/div
+----------------
+<span class="abf093bdfe d068504c75 f68ecd98ea">Travel Sustainable Level 3+</span>
+/html/body/div[5]/div/div[4]/div[1]/div[1]/div[4]/div[2]/div[2]/div/div/div[3]/div[31]/div[1]/div[2]/div/div[1]/div/div[1]/div/div[3]/span/span/div/span[2]
+----------------
+<span>Metro access</span>
+/html/body/div[5]/div/div[4]/div[1]/div[1]/div[4]/div[2]/div[2]/div/div/div[3]/div[43]/div[1]/div[2]/div/div[1]/div/div[1]/div/div[2]/div/span[2]/span/span
+----------------
+<h1 class="f6431b446c d5f78961c3">Copenhagen: 155 properties found</h1>
+/html/body/div[5]/div/div[4]/div[1]/div[1]/div[1]/div/div/h1
+----------------
+<h3 class="e1eebb6a1e e0a7dcceb5" id=":rie:">76% of places to stay are unavailable for your dat</h3>
+/html/body/div[5]/div/div[4]/div[1]/div[1]/div[4]/div[2]/div[2]/div/div/div[3]/div[1]/section[1]/div/div/div/div/h3
+----------------
+<h3 class="a3332d346a e6208ee469 d0caee4251">Private bathrooms</h3>
+/html/body/div[13]/div[3]/div[1]/div/div/div[13]/div[1]/h3
+----------------
+<h2 class="ac4a7896c7">Browse the results for Copenhagen</h2>
+/html/body/div[5]/div/div[4]/div[1]/div[1]/div[4]/div[2]/div[2]/div/div/div[3]/h2
+----------------
+<h2 class="e1eebb6a1e e6208ee469 d0caee4251">Filter by:</h2>
+/html/body/div[13]/div[3]/div[1]/div/div/div[1]/h2
+----------------
+<h4 class="abf093bdfe e8f7c070a7">Double Private Capsule in 8 Capsule Room</h4>
+/html/body/div[5]/div/div[4]/div[1]/div[1]/div[4]/div[2]/div[2]/div/div/div[3]/div[21]/div[1]/div[2]/div/div[3]/div[1]/div/div/div/h4
+----------------
+<h4 class="abf093bdfe e8f7c070a7">Standard Twin Room</h4>
+/html/body/div[5]/div/div[4]/div[1]/div[1]/div[4]/div[2]/div[2]/div/div/div[3]/div[15]/div[1]/div[2]/div/div[3]/div[1]/div/div/div/h4
+----------------
+<label class="invisible_spoken">Enter your email address and we'll send you our b</label>
+/html/body/div[7]/div[1]/form/div/div[1]/div[4]/label
+----------------
+<a>Unpacked: Travel articles</a>
+/html/body/div[7]/div[3]/div[2]/div/div/div[3]/ul/li[4]/a
+----------------
+<a>Mobile version</a>
+/html/body/div[7]/div[3]/div[1]/div[2]/div/ul/li[1]/a
+----------------
+<p class="rlp-intro-how__desc">After their trip, guests tell us about their stay.</p>
+/html/body/div[8]/div[2]/div/ul/li[5]/p
+----------------
+<p id="calendar_check_out_title">Check-out date</p>
+/html/body/div[9]/div[1]/p[2]
+----------------
+<th>Su</th>
+/html/body/div[9]/table/tbody/tr[1]/th[7]
+----------------
+<td> </td>
+/html/body/div[9]/table/tbody/tr[3]/td[1]
+----------------
+<div class="abf093bdfe f45d8e4c32">Includes taxes and charges</div>
+/html/body/div[5]/div/div[4]/div[1]/div[1]/div[4]/div[2]/div[2]/div/div/div[3]/div[49]/div[1]/div[2]/div/div[3]/div[2]/div/div[1]/div[3]
+----------------
+<div class="a53cbfa6de e7c28a2436">Breakfast included</div> 
+/html/body/div[5]/div/div[4]/div[1]/div[2]/div[1]/div/div/div[4]/div/div/div/div/div[14]/label/span[3]/div/div/div
+----------------
+<span class="aee5343fdb def9bc142a">Copenhagen City Centre, Copenhagen</span>
+/html/body/div[5]/div/div[4]/div[1]/div[1]/div[4]/div[2]/div[2]/div/div/div[3]/div[17]/div[1]/div[2]/div/div[1]/div/div[1]/div/div[2]/div/a/span/span[1]
+----------------
+<span class="aee5343fdb def9bc142a">Amager Vest, Copenhagen</span>
+/html/body/div[5]/div/div[4]/div[1]/div[1]/div[4]/div[2]/div[2]/div/div/div[3]/div[13]/div[1]/div[2]/div/div[1]/div/div[1]/div/div[2]/div/a/span/span[1]
+----------------
+<h3 class="a3332d346a e6208ee469 d0caee4251">Distance from centre of Copenhagen</h3>
+/html/body/div[13]/div[3]/div[1]/div/div/div[7]/div[1]/h3
+----------------
+<h3 class="a3332d346a e6208ee469 d0caee4251">Room accessibility</h3>
+/html/body/div[5]/div/div[4]/div[1]/div[2]/div[1]/div/div/div[3]/div[21]/div[1]/h3
+----------------
+<h2 class="bui-modal__title">Verified reviews from real guests.</h2>
+/html/body/div[8]/div[1]/h2
+----------------
+<h2 class="rlp-intro__title rlp-intro__a11y-exp-title">How does it work?</h2>
+/html/body/div[8]/div[2]/div/h2
+----------------
+<h4 class="abf093bdfe e8f7c070a7">Premier Apartment with Sea View</h4>
+/html/body/div[5]/div/div[4]/div[1]/div[1]/div[4]/div[2]/div[2]/div/div/div[3]/div[19]/div[1]/div[2]/div/div[3]/div[1]/div/div/div/h4
+----------------
+<h4 class="abf093bdfe e8f7c070a7">King Room</h4>
+/html/body/div[5]/div/div[4]/div[1]/div[1]/div[4]/div[2]/div[2]/div/div/div[3]/div[17]/div[1]/div[2]/div/div[3]/div[1]/div/div/div/h4
+----------------
+<a>Coronavirus (COVID-19) FAQs</a>
+/html/body/div[7]/div[3]/div[2]/div/div/div[5]/ul/li[1]/a
+----------------
+<a>Cities</a>
+/html/body/div[7]/div[3]/div[2]/div/div/div[1]/ul/li[3]/a
+----------------
+<p class="rlp-intro-how__desc">The only way to leave a review is to first make a </p>
+/html/body/div[8]/div[2]/div/ul/li[1]/p
+----------------
+<p class="rlp-intro-how__num rlp-intro-how__num--citytrip">2</p>

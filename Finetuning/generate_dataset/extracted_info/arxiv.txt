@@ -1,0 +1,159 @@
+<span class="primary-subject">Artificial Intelligence (cs.AI)</span>
+/html/body/div[4]/div/dl/dd[4]/div/div[3]/span[2]
+----------------
+<span class="descriptor">Subjects:</span> 
+/html/body/div[4]/div/dl/dd[11]/div/div[4]/span[1]
+----------------
+<a>arXiv:2311.05419</a> (cross-list from cs.CL) [
+/html/body/div[4]/div/dl/dt[20]/span/a[1]
+----------------
+<a>Hao Cheng</a>, 
+/html/body/div[4]/div/dl/dd[19]/div/div[2]/a[2]
+----------------
+<h1>Artificial Intelligence </h1>
+/html/body/div[4]/div/h1
+----------------
+<h2>Authors and titles for recent submissions</h2>
+/html/body/div[4]/div/h2
+----------------
+<h3>Fri, 10 Nov 2023 (showing first 25 of 85 entries)</h3>
+/html/body/div[4]/div/h3
+----------------
+<title>subscribe to arXiv mailings</title>
+/html/body/footer/div/div[1]/div/div[2]/ul/li[2]/svg/title
+----------------
+<title>contact arXiv</title>
+/html/body/footer/div/div[1]/div/div[2]/ul/li[1]/svg/title
+----------------
+<span class="primary-subject">Computer Vision and Pattern Recognition (cs.CV)</span>; Artificial Intelligence (cs.AI); Computation and Language (cs.CL)
+/html/body/div[4]/div/dl/dd[9]/div/div[3]/span[2]
+----------------
+<span>&gt;</span> 
+/html/body/div[3]/h1/span[2]
+----------------
+<a>arXiv:2311.05596</a> (cross-list from cs.LG) [
+/html/body/div[4]/div/dl/dt[8]/span/a[1]
+----------------
+<a>other</a>]
+/html/body/div[4]/div/dl/dt[1]/span/a[4]
+----------------
+<span class="descriptor">Title:</span> Removing RLHF Protections in GPT-4 via Fine-Tuning
+/html/body/div[4]/div/dl/dd[13]/div/div[1]/span
+----------------
+<span class="descriptor">Authors:</span>
+/html/body/div[4]/div/dl/dd[19]/div/div[2]/span
+----------------
+<a>arXiv:2311.05580</a> (cross-list from cs.DS) [
+/html/body/div[4]/div/dl/dt[12]/span/a[1]
+----------------
+<a>Shaoyan Sun</a>, 
+/html/body/div[4]/div/dl/dd[24]/div/div[2]/a[12]
+----------------
+<span class="descriptor">Comments:</span> 25 pages, 25M file size. Project Page: 
+/html/body/div[4]/div/dl/dd[19]/div/div[3]/span
+----------------
+<span class="descriptor">Subjects:</span> 
+/html/body/div[4]/div/dl/dd[9]/div/div[3]/span[1]
+----------------
+<a>arXiv:2311.05511</a> (cross-list from cs.LG) [
+/html/body/div[4]/div/dl/dt[16]/span/a[1]
+----------------
+<a>2311</a>,
+/html/body/div[4]/p/a[6]
+----------------
+<span class="descriptor">Title:</span> Inference for Probabilistic Dependency Graphs
+/html/body/div[4]/div/dl/dd[12]/div/div[1]/span
+----------------
+<span class="descriptor">Subjects:</span> 
+/html/body/div[4]/div/dl/dd[17]/div/div[4]/span[1]
+----------------
+<a>arXiv:2311.05332</a> (cross-list from cs.CV) [
+/html/body/div[4]/div/dl/dt[24]/span/a[1]
+----------------
+<a>Fri, 10 Nov 2023</a>
+/html/body/div[4]/div/ul[1]/li[1]/a
+----------------
+<span class="primary-subject">Cryptography and Security (cs.CR)</span>; Artificial Intelligence (cs.AI); Computation and Language (cs.CL)
+/html/body/div[4]/div/dl/dd[5]/div/div[4]/span[2]
+----------------
+<span class="descriptor">Authors:</span>
+/html/body/div[4]/div/dl/dd[21]/div/div[2]/span
+----------------
+<a>arXiv:2311.05472</a> (cross-list from cs.CL) [
+/html/body/div[4]/div/dl/dt[17]/span/a[1]
+----------------
+<a>[16]</a>   
+/html/body/div[4]/div/dl/dt[16]/a
+----------------
+<span class="descriptor">Title:</span> meta4: semantically-aligned generation of metaphoric gestures using  self-supervised text and speech representation
+/html/body/div[4]/div/dl/dd[2]/div/div[1]/span
+----------------
+<span class="descriptor">Subjects:</span> 
+/html/body/div[4]/div/dl/dd[23]/div/div[3]/span[1]
+----------------
+<a>arXiv:2311.05450</a> (cross-list from cs.CL) [
+/html/body/div[4]/div/dl/dt[18]/span/a[1]
+----------------
+<a>Junfei Ren</a>, 
+/html/body/div[4]/div/dl/dd[20]/div/div[2]/a[2]
+----------------
+<span class="descriptor">Title:</span> Real-Time Neural Rasterization for Large Scenes
+/html/body/div[4]/div/dl/dd[6]/div/div[1]/span
+----------------
+<span class="descriptor">Subjects:</span> 
+/html/body/div[4]/div/dl/dd[14]/div/div[3]/span[1]
+----------------
+<a>arXiv:2311.05546</a> (cross-list from quant-ph) [
+/html/body/div[4]/div/dl/dt[14]/span/a[1]
+----------------
+<a>Yuzhe Zhang</a>, 
+/html/body/div[4]/div/dl/dd[23]/div/div[2]/a[2]
+----------------
+<span class="descriptor">Title:</span> Cognitively Inspired Components for Social Conversational Agents
+/html/body/div[4]/div/dl/dd[18]/div/div[1]/span
+----------------
+<span class="descriptor">Authors:</span>
+/html/body/div[4]/div/dl/dd[22]/div/div[2]/span
+----------------
+<a>arXiv:2311.05591</a> (cross-list from cs.CV) [
+/html/body/div[4]/div/dl/dt[9]/span/a[1]
+----------------
+<a>[17]</a>   
+/html/body/div[4]/div/dl/dt[17]/a
+----------------
+<span class="descriptor">Title:</span> Text Representation Distillation via Information Bottleneck Principle
+/html/body/div[4]/div/dl/dd[17]/div/div[1]/span
+----------------
+<span class="descriptor">Authors:</span>
+/html/body/div[4]/div/dl/dd[17]/div/div[2]/span
+----------------
+<a>arXiv:2311.05316</a> (cross-list from cs.LG) [
+/html/body/div[4]/div/dl/dt[25]/span/a[1]
+----------------
+<a>[14]</a>   
+/html/body/div[4]/div/dl/dt[14]/a
+----------------
+<span class="primary-subject">Computer Vision and Pattern Recognition (cs.CV)</span>; Artificial Intelligence (cs.AI); Graphics (cs.GR)
+/html/body/div[4]/div/dl/dd[6]/div/div[4]/span[2]
+----------------
+<span class="descriptor">Authors:</span>
+/html/body/div[4]/div/dl/dd[16]/div/div[2]/span
+----------------
+<a>Web Accessibility Assistance</a>
+/html/body/footer/div/div[2]/div/div[2]/ul/li[1]/a
+----------------
+<a>Tianshuo Cong</a>, 
+/html/body/div[4]/div/dl/dd[5]/div/div[2]/a[5]
+----------------
+<span class="descriptor">Title:</span> ABIGX: A Unified Framework for eXplainable Fault Detection and  Classification
+/html/body/div[4]/div/dl/dd[25]/div/div[1]/span
+----------------
+<span class="descriptor">Subjects:</span> 
+/html/body/div[4]/div/dl/dd[19]/div/div[4]/span[1]
+----------------
+<a>arXiv:2311.05374</a> (cross-list from cs.CL) [
+/html/body/div[4]/div/dl/dt[22]/span/a[1]
+----------------
+<a>Joachim A. Behar</a>, 
+/html/body/div[4]/div/dl/dd[21]/div/div[2]/a[1]
+----------------

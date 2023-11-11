@@ -1,0 +1,10 @@
+Scraping the definitions and corresponding XPaths from the target page, and saving them as a CSV file.
+Scraping the categories and corresponding XPaths from the target page, and saving them as a CSV file.
+Scraping the "Advertise" link and its XPath from the target page, and saving it as a CSV file.
+Scraping the "Flag" link and its XPath from the target page, and saving it as a CSV file.
+Scraping the "Define a Word" link and its XPath from the target page, and saving it as a CSV file.
+Scraping the "Discord" link and its XPath from the target page, and saving it as a CSV file.
+Scraping the "Facebook" link and its XPath from the target page, and saving it as a CSV file.
+Scraping the "H" link and its XPath from the target page, and saving it as a CSV file.
+Scraping the "I will write this on your tomb" link and its XPath from the target page, and saving it as a CSV file.
+Scraping the "Ghetto Baby" link and its XPath from the target page, and saving it as a CSV file.

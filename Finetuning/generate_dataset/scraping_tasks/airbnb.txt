@@ -1,0 +1,10 @@
+Retrieve all Airbnb-friendly apartments and store them as a CSV file.
+Scrape the Sitemap page and save the information as a CSV file.
+Collect information about Guest Favorites, the most-loved homes, and save it as a CSV file.
+Extract details of Grand pianos and save them in a CSV file.
+Collect information about Nykøbing Sjælland, Denmark and store it as a CSV file.
+Scrape data about Guest favorites and save it as a CSV file.
+Gather inspiration for future getaways and save it as a CSV file.
+Retrieve information from the Site Footer and save it as a CSV file.
+Extract details about Hosting and store it as a CSV file.
+Scrape information about Airbnb.org emergency stays and save it as a CSV file.

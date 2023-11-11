@@ -1,0 +1,10 @@
+Scrape all property names and their corresponding prices from the search results page and save them as a CSV file.
+Extract the location and rating of each property in the search results and save them as a CSV file.
+Retrieve the amenities of each property in the search results and save them as a CSV file.
+Scrape the descriptions of the available rooms in a specific property and save them as a CSV file.
+Extract the address and contact information of each property in the search results and save them as a CSV file.
+Retrieve the availability status of each property in the search results and save them as a CSV file.
+Scrape the average review ratings and the number of reviews for each property in the search results and save them as a CSV file.
+Extract the names and descriptions of the featured articles in the "Unpacked: Travel articles" section and save them as a CSV file. 
+Scrape the facility names and corresponding icons for each property in the search results and save them as a CSV file.
+Retrieve the distances from the center of Copenhagen for each property in the search results and save them as a CSV file.

@@ -1,0 +1,10 @@
+Extract all the course titles from the target page and save them as a CSV file.
+Get the text from the "DTU.dk" link and save it as a CSV file.
+Retrieve the text from the "Centre for Technology Entrepreneurship" heading and save it as a CSV file.
+Collect the text from the "Newsletter" heading and save it as a CSV file.
+Extract the text from the "Education" link and save it as a CSV file.
+Get the text from the "News and events" button and save it as a CSV file.
+Collect the text from the "Persons" label and save it as a CSV file.
+Retrieve the text from the "All entrepreneurship courses" heading and save it as a CSV file.
+Extract the text from the "All entrepreneurship and innovation courses are li" paragraph and save it as a CSV file.
+Get the text from the "11 NOVEMBER 2023" div element and save it as a CSV file.
