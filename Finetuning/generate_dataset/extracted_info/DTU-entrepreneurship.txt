@@ -1,23 +1,23 @@
-<span>38106 Developing an entrepreneurial mindset throug</span>
-/html/body/form/div[3]/div[5]/div[6]/div/div[1]/div/h2/span
+<span>38103 X-Tech Entrepreneurship | 10 ECTS | MSc | Di</span>
+/html/body/form/div[3]/div[5]/div[8]/div/div[2]/div/h2/span
 ----------------
-<span class="servicemenu__link-text">DTU.dk</span>
-/html/body/form/div[3]/footer/div[2]/div[1]/div/div[1]/a/span
+<span class="subscriptionFormError" id="ctl17_ctl06_ctl00_ctl00">Valid email address</span>
+/html/body/form/div[3]/footer/div[1]/div/div[4]/div[2]/div/span[1]
 ----------------
-<h2 class="hide-mobile">Centre for Technology Entrepreneurship</h2>
-/html/body/form/div[3]/footer/div[1]/div/div[2]/h2
+<h2 class="a-heading-h1 o-hero__title">Explore entrepreneurship and innovation courses </h2>
+/html/body/form/div[3]/div[5]/div[2]/div/div[2]/div/h2
 ----------------
-<h2>Newsletter</h2>
-/html/body/form/div[3]/footer/div[1]/div/div[4]/div[2]/h2
+<h2 class="a-heading-h1 o-hero__title">Spring semester</h2>
+/html/body/form/div[3]/div[5]/div[11]/div/div[2]/div/h2
 ----------------
-<a>                    Education                </a>
-/html/body/form/div[3]/div[5]/div[1]/div/div/div/a[2]
+<a>DTU Electrical Engineering</a>
+/html/body/form/div[3]/header/div[1]/div[2]/div/div[2]/nav/div[1]/div/div/div[3]/ul[1]/li[8]/a
 ----------------
-<a class="mainButton">News and events</a>
-/html/body/form/div[3]/header/div[2]/div/div/nav/ul/li[6]/div/div/a
+<a>DTU Physics</a>
+/html/body/form/div[3]/footer/div[2]/div[1]/div/div[2]/nav/div[1]/div/div/div[3]/ul[3]/li[4]/a
 ----------------
-<label>Persons</label>
-/html/body/form/div[3]/header/div[1]/div[2]/div/div[3]/div/div[2]/ul/li[2]/label
+<label>Projects</label>
+/html/body/form/div[3]/footer/div[2]/div[1]/div/div[3]/div/div[2]/ul/li[4]/label
 ----------------
 <h1 class="invisible" id="outercontent_0_ContentHeading">All entrepreneurship courses</h1>
 /html/body/form/div[3]/div[5]/h1
@@ -34,26 +34,95 @@
 <span>In addition, DTU also offers courses as part of th</span>
 /html/body/form/div[3]/div[5]/div[15]/div/div[1]/div/h2/span
 ----------------
+<span class="servicemenu__link-text">DTU.dk</span>
+/html/body/form/div[3]/header/div[1]/div[2]/div/div[1]/a/span
+----------------
+<h2 class="hide-mobile">Centre for Technology Entrepreneurship</h2>
+/html/body/form/div[3]/footer/div[1]/div/div[2]/h2
+----------------
+<h2>Research groups</h2>
+/html/body/form/div[3]/header/div[1]/div[2]/div/div[2]/nav/div[1]/div/div/div[4]/h2
+----------------
+<a>38203 Due diligence of new ventures </a>
+/html/body/form/div[3]/div[5]/div[15]/div/div[1]/ul/li[1]/a
+----------------
+<a>Dansk</a>
+/html/body/form/div[3]/footer/div[2]/div[1]/div/div[2]/nav/div[7]/a
+----------------
+<label>Publications</label>
+/html/body/form/div[3]/header/div[1]/div[2]/div/div[3]/div/div[2]/ul/li[3]/label
+----------------
+<div class="footeraddresstitle grid_5 alpha">            DTU Entrepreneurship         </div>
+/html/body/form/div[3]/footer/div[1]/div/div[2]/div[2]/div[1]
+----------------
+<div class="container_12"></div>
+/html/body/form/div[3]/div[5]/div[18]/div[2]
+----------------
+<span>38101 Knowledge-based entrepreneurship | 5 ECTS  |</span>
+/html/body/form/div[3]/div[5]/div[7]/div/div[1]/div/h2/span
+----------------
 <span class="subscriptionFormError" id="ctl17_ctl06_ctl00_EmailValidator">Valid email address</span>
 /html/body/form/div[3]/footer/div[1]/div/div[4]/div[2]/div/span[2]
 ----------------
 <h2 class="a-heading-h1 o-hero__title">Do you want to write an entrepreneurial thesis wit</h2>
 /html/body/form/div[3]/div[5]/div[16]/div/div[2]/div/h2
 ----------------
-<h2>Departments and Centres</h2>
-/html/body/form/div[3]/footer/div[2]/div[1]/div/div[2]/nav/div[1]/div/div/div[3]/h2
+<h2 class="a-heading-h1 o-hero__title">Autumn semester</h2>
+/html/body/form/div[3]/div[5]/div[4]/div/div[2]/div/h2
 ----------------
-<a>“Tech push” – Industry &amp; DTU technology projects |</a>
-/html/body/form/div[3]/div[5]/div[14]/div/div[2]/ul/li/a
+<a>DTU Engineering Technology</a>
+/html/body/form/div[3]/footer/div[2]/div[1]/div/div[2]/nav/div[1]/div/div/div[3]/ul[2]/li[2]/a
 ----------------
-<a>DTU Physics</a>
-/html/body/form/div[3]/header/div[1]/div[2]/div/div[2]/nav/div[1]/div/div/div[3]/ul[3]/li[4]/a
+<a>Contact</a>
+/html/body/form/div[3]/footer/div[2]/div[1]/div/div[2]/nav/div[5]/a
 ----------------
-<label>Persons</label>
-/html/body/form/div[3]/footer/div[2]/div[1]/div/div[3]/div/div[2]/ul/li[2]/label
+<label>Publications</label>
+/html/body/form/div[3]/footer/div[2]/div[1]/div/div[3]/div/div[2]/ul/li[3]/label
 ----------------
 <div class="grid_9">            https://www.entrepreneurship.dtu.dk/e</div>
 /html/body/form/div[3]/footer/div[3]/div[1]
+----------------
+<div class="o-hero__background"></div>
+/html/body/form/div[3]/div[5]/div[4]/div/div[1]
+----------------
+<span>38102 Technology entrepreneurship | 5 ECTS | MSc |</span>
+/html/body/form/div[3]/div[5]/div[8]/div/div[1]/div/h2/span
+----------------
+<span class="servicemenu__link-text">DTU.dk</span>
+/html/body/form/div[3]/footer/div[2]/div[1]/div/div[1]/a/span
+----------------
+<h2>Newsletter</h2>
+/html/body/form/div[3]/footer/div[1]/div/div[4]/div[2]/h2
+----------------
+<a>Supplier information (CVR and EAN)</a>
+/html/body/form/div[3]/footer/div[2]/div[1]/div/div[2]/nav/div[3]/div/div/div[3]/ul/li[3]/a
+----------------
+<a class="mainButton">Collaboration</a>
+/html/body/form/div[3]/header/div[2]/div/div/nav/ul/li[5]/div/div/a
+----------------
+<label>Projects</label>
+/html/body/form/div[3]/header/div[1]/div[2]/div/div[3]/div/div[2]/ul/li[4]/label
+----------------
+<div class="o-hero__background"></div>
+/html/body/form/div[3]/div[5]/div[11]/div/div[1]
+----------------
+<span>38103 X-Tech Entrepreneurship | 10 ECTS | MSc | Di</span>
+/html/body/form/div[3]/div[5]/div[14]/div/div[2]/div/h2/span
+----------------
+<span class="sitetextlogo">DTU Entrepreneurship </span>
+/html/body/form/div[3]/header/div[2]/div/div/div[1]/a/span
+----------------
+<h2>Departments and Centres</h2>
+/html/body/form/div[3]/footer/div[2]/div[1]/div/div[2]/nav/div[1]/div/div/div[3]/h2
+----------------
+<a>Click to see overview of all entrepreneurship cour</a>
+/html/body/form/div[3]/div[5]/div[3]/div/div[1]/div/h2/a
+----------------
+<a>Societal challenges</a>
+/html/body/form/div[3]/div[5]/div[14]/div/div[1]/ul/li/a
+----------------
+<label>Persons</label>
+/html/body/form/div[3]/footer/div[2]/div[1]/div/div[3]/div/div[2]/ul/li[2]/label
 ----------------
 <div class="o-hero__background"></div>
 /html/body/form/div[3]/div[5]/div[17]/div/div[1]
@@ -61,79 +130,10 @@
 <span>38107 Business design for sustainability | 5 ECTS </span>
 /html/body/form/div[3]/div[5]/div[5]/div/div[1]/div/h2/span
 ----------------
-<span class="servicemenu__link-text">DTU.dk</span>
-/html/body/form/div[3]/header/div[1]/div[2]/div/div[1]/a/span
+<h2>Departments and Centres</h2>
+/html/body/form/div[3]/header/div[1]/div[2]/div/div[2]/nav/div[1]/div/div/div[3]/h2
 ----------------
-<h2 class="a-heading-h1 o-hero__title">Explore entrepreneurship and innovation courses </h2>
-/html/body/form/div[3]/div[5]/div[2]/div/div[2]/div/h2
+<a>“Tech push” – Industry &amp; DTU technology projects |</a>
+/html/body/form/div[3]/div[5]/div[8]/div/div[2]/ul/li/a
 ----------------
-<h2 class="top-border-mobile">Follow us on</h2>
-/html/body/form/div[3]/footer/div[1]/div/div[4]/h2
-----------------
-<a>Technology push | Lectures, discussion and in-clas</a>
-/html/body/form/div[3]/div[5]/div[10]/div/div[1]/ul/li/a
-----------------
-<a>DTU Electro</a>
-/html/body/form/div[3]/footer/div[2]/div[1]/div/div[2]/nav/div[1]/div/div/div[3]/ul[2]/li[6]/a
-----------------
-<label>DTU Entrepreneurship </label>
-/html/body/form/div[3]/header/div[1]/div[2]/div/div[3]/div/div[2]/ul/li[1]/label
-----------------
-<div class="footeraddresstitle grid_5 alpha">            DTU Entrepreneurship         </div>
-/html/body/form/div[3]/footer/div[1]/div/div[2]/div[2]/div[1]
-----------------
-<div class="o-hero__background"></div>
-/html/body/form/div[3]/div[5]/div[11]/div/div[1]
-----------------
-<span>38102 Technology entrepreneurship | 5 ECTS | MSc |</span>
-/html/body/form/div[3]/div[5]/div[8]/div/div[1]/div/h2/span
-----------------
-<span class="sitetextlogo">DTU Entrepreneurship </span>
-/html/body/form/div[3]/header/div[2]/div/div/div[1]/a/span
-----------------
-<h2>Research groups</h2>
-/html/body/form/div[3]/header/div[1]/div[2]/div/div[2]/nav/div[1]/div/div/div[4]/h2
-----------------
-<a>38202 Entrepreneurship leadership journey |5 ects </a>
-/html/body/form/div[3]/div[5]/div[13]/div/div[2]/div/h2/a
-----------------
-<a>DTU Inside</a> (intranet)
-/html/body/form/div[3]/footer/div[2]/div[1]/div/div[2]/nav/div[3]/div/div/div[5]/ul/li[3]/a
-----------------
-<label>Projects</label>
-/html/body/form/div[3]/footer/div[2]/div[1]/div/div[3]/div/div[2]/ul/li[4]/label
-----------------
-<div class="o-hero__background"></div>
-/html/body/form/div[3]/div[5]/div[9]/div/div[1]
-----------------
-<span>38105 Digital trends for entrepreneurs | 5 ECTS | </span>
-/html/body/form/div[3]/div[5]/div[5]/div/div[2]/div/h2/span
-----------------
-<span class="subscriptionFormError" id="ctl17_ctl06_ctl00_ctl00">Valid email address</span>
-/html/body/form/div[3]/footer/div[1]/div/div[4]/div[2]/div/span[1]
-----------------
-<h2 class="a-heading-h1 o-hero__title">3 weeks in January</h2>
-/html/body/form/div[3]/div[5]/div[9]/div/div[2]/div/h2
-----------------
-<a>DTU Electrical Engineering</a>
-/html/body/form/div[3]/footer/div[2]/div[1]/div/div[2]/nav/div[1]/div/div/div[3]/ul[1]/li[8]/a
-----------------
-<a>DTU Aqua</a>
-/html/body/form/div[3]/header/div[1]/div[2]/div/div[2]/nav/div[1]/div/div/div[3]/ul[1]/li[1]/a
-----------------
-<label>DTU Entrepreneurship </label>
-/html/body/form/div[3]/footer/div[2]/div[1]/div/div[3]/div/div[2]/ul/li[1]/label
-----------------
-<div class="o-hero__background"></div>
-/html/body/form/div[3]/div[5]/div[4]/div/div[1]
-----------------
-<span>38001 SDG Lab | 5 ects | bsc </span>
-/html/body/form/div[3]/div[5]/div[14]/div/div[1]/div/h2/span
-----------------
-<h2 class="a-heading-h1 o-hero__title">Spring semester</h2>
-/html/body/form/div[3]/div[5]/div[11]/div/div[2]/div/h2
-----------------
-<a>Corporate innovation focus and innovation tools | </a>
-/html/body/form/div[3]/div[5]/div[7]/div/div[2]/ul/li/a
-----------------
-<a class="a-button a-button--primary-negative o-hero__button">Explore your options</a>
+<a>DTU Civil Engineering</a>

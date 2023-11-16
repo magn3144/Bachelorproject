@@ -1,11 +1,10 @@
-Generate a list of web-scraping tasks:
-1. Get the titles and ratings of all the movies on the IMDb Top 250 Movies list and save them as a CSV file.
-2. Extract the descriptions of news articles from the "News" section and save them as a CSV file.
-3. Scrape the release years of the movies on the Top Rated Movie list and save them as a CSV file.
-4. Retrieve the titles and positions of the movies from the Top 250 Movies list and save them as a CSV file.
-5. Extract the titles and positions of the movies from the "Apocalypse Now" to "Witness for the Prosecution" range and save them as a CSV file.
-6. Scrape the titles and positions of the movies from the "Finding Nemo" to "Pirates of the Caribbean: The Curse of the Black Pearl" range and save them as a CSV file.
-7. Get the movie titles, release years, and ratings for the movies with positions 136, 154, and 228 on the Top 250 Movies list and save them as a CSV file.
-8. Extract the release year of the movie "Judgment at Nuremberg" and save it as a CSV file.
-9. Scrape the titles and release years of all the movies on the IMDb Top 250 Movies list and save them as a CSV file.
-10. Retrieve the titles and release years of the movies in the range of positions 55 to 66 on the Top 250 Movies list and save them as a CSV file.
+Scrape all the movie titles from the IMDb Top 250 list and store them in a CSV file.
+Extract all the movie rankings from the IMDb Top 250 list and save them in a CSV file.
+Gather all the user ratings for each movie in the IMDb Top 250 and save the data in a CSV file.
+Collect the metadata for each movie in the IMDb Top 250 list and store it in a CSV file.
+Retrieve all the news article titles displayed on the page and store them in a CSV file.
+Get the list of site navigation options and their corresponding links, and save them as a CSV file.
+Scrape all the descriptions for sections on the page and save them in a CSV file.
+Extract all the movie titles along with their rank and user ratings from the IMDb Top 250 list and save them in a CSV file.
+Gather all the footer links and their corresponding text and store them in a CSV file.
+Collect all the labels/text associated with any selectable options on the page and store them in a CSV file.

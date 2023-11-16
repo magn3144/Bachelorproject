@@ -1,27 +1,24 @@
-import os
+import re
 import csv
-from bs4 import BeautifulSoup
+from lxml import html
 
-# Define the local path to the HTML file
-html_file = 'downloaded_pages/DTU-entrepreneurship.html'
 
-# Define the target HTML element XPath
-target_xpath = '/html/body/form/div[3]/footer/div[3]/div[2]'
+def get_identifiers(page_content):
+    identifiers = re.findall(r'[0-9]{6,}', page_content)
+    return identifiers
 
-# Load the HTML file
-with open(html_file, 'r') as file:
-    html = file.read()
+def save_to_file(data):
+    with open('scraped_data.csv', 'w') as f:
+        writer = csv.writer(f)
+        for row in data:
+            writer.writerow([row])
 
-# Create BeautifulSoup object
-soup = BeautifulSoup(html, 'html.parser')
+def scrape_file(file_path):
+    with open(file_path, 'r') as f:
+        page_content = f.read()
 
-# Find the target element using XPath
-target_element = soup.find('div', class_='grid_3 pagefootercolumn inline-block minHeight')
+    identifiers = get_identifiers(page_content)
+    save_to_file(identifiers)
 
-# Extract the text from the target element
-scraped_text = target_element.get_text().strip()
 
-# Create the CSV file and write the scraped data
-with open('scraped_data.csv', 'w', newline='') as file:
-    writer = csv.writer(file)
-    writer.writerow([scraped_text])
+scrape_file('downloaded_pages/DTU-entrepreneurship.html')

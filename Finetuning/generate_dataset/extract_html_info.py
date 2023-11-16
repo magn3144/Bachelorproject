@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import random
 import tiktoken
 
-encoding = tiktoken.encoding_for_model("gpt-3.5-turbo")
+encoding = tiktoken.encoding_for_model("gpt-4")
 
 
 def extract_text_objects(html_content):

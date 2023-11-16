@@ -1,24 +1,37 @@
 import csv
-from pathlib import Path
-from bs4 import BeautifulSoup
+import os
+from lxml import html, etree
 
-# Open the HTML file
-file_path = Path("downloaded_pages/airbnb.html")
-with open(file_path, "r") as file:
-    html_content = file.read()
+class XpathScraper:
 
-# Create a BeautifulSoup object
-soup = BeautifulSoup(html_content, "html.parser")
+    def __init__(self, html_file_path):
+        self.html_file_path = html_file_path
+        self.tree = self._load_html()
+        
+    def _load_html(self):
+        with open(self.html_file_path, 'r') as file:
+            src = file.read()
+        return html.fromstring(src)
 
-# Find all the Airbnb-friendly apartments
-apartments = soup.find_all("a", class_="l1ovpqvx c1kblhex dir dir-ltr")
+    def get_links_from_section(self, section):
+        xpath = f'//h3[text()="{section}"]/following-sibling::ul[1]/li/a/@href'
+        return self.tree.xpath(xpath)
 
-# Store the apartments in a list
-apartment_list = [apartment.text for apartment in apartments]
 
-# Save the scraped data as a CSV file
-csv_file = Path("scraped_data.csv")
-with open(csv_file, mode="w", newline="") as file:
-    writer = csv.writer(file)
-    writer.writerow(["Apartment"])
-    writer.writerows(apartment_list)
+scraper = XpathScraper('downloaded_pages/airbnb.html')
+sections = ['Support', 'Hosting', 'Airbnb']
+
+data = {}
+for section in sections:
+    data[section] = scraper.get_links_from_section(section)
+
+longest_list_len = max(len(data[section]) for section in sections)
+
+# Normalize list lengths
+for section in sections:
+    data[section].extend([''] * (longest_list_len - len(data[section])))
+
+with open('scraped_data.csv', 'w', newline='') as csvfile:
+    writer = csv.writer(csvfile)
+    writer.writerow(sections)
+    writer.writerows(zip(*data.values()))

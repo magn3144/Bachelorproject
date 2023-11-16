@@ -1,22 +1,31 @@
 import csv
 from lxml import html
+import os
 
-# Open the HTML file
-local_path = 'downloaded_pages/DTU-entrepreneurship.html'
-with open(local_path, 'r', encoding='utf-8') as file:
-    html_content = file.read()
+def save_to_csv(data, filename):
+    keys = data[0].keys()
+    with open(filename, 'w', newline='') as output_file:
+        dict_writer = csv.DictWriter(output_file, keys)
+        dict_writer.writeheader()
+        dict_writer.writerows(data)
 
-# Parse the HTML
-tree = html.fromstring(html_content)
+def scrape_newsletters(html_content):
+    tree = html.fromstring(html_content)
+    newsletters = tree.xpath('/html/body/form/div[3]/footer/div[1]/div/div[4]/div[2]/h2')
+    newsletter_data = []
+    for newsletter in newsletters:
+        data = {
+            "Newsletter": newsletter.text_content().strip(),
+            "XPath": tree.getpath(newsletter)
+        }
+        newsletter_data.append(data)
+    return newsletter_data
 
-# Find the DTU.dk link
-dtu_link_element = tree.xpath("/html/body/form/div[3]/footer/div[2]/div[1]/div/div[1]/a/span")[0]
+def main():
+    with open('downloaded_pages/DTU-entrepreneurship.html', 'r') as file:
+        content = file.read()
+    newsletters = scrape_newsletters(content)
+    save_to_csv(newsletters, 'scraped_data.csv')
 
-# Get the text from the DTU.dk link
-dtu_link_text = dtu_link_element.text.strip()
-
-# Save the scraped data as a CSV file
-with open('scraped_data.csv', 'w', encoding='utf-8', newline='') as file:
-    writer = csv.writer(file)
-    writer.writerow(['Category', 'DTU.dk Text'])
-    writer.writerow(['Educational Websites', dtu_link_text])
+if __name__ == '__main__':
+    main()

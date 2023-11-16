@@ -1,21 +1,28 @@
 import csv
-from lxml import etree
+import re
+from bs4 import BeautifulSoup
 
-# Define the target HTML file path
-html_file_path = "downloaded_pages/DTU-entrepreneurship.html"
+def parse_html(file_path):
+    with open(file_path, 'r') as f:
+        soup = BeautifulSoup(f, 'html.parser')
+    return soup
 
-# Define the XPaths for the desired elements
-course_heading_xpath = "/html/body/form/div[3]/div[5]/h1"
+def extract_dates(soup):
+    date_pattern = re.compile(r'\b(\d{1,2}\s[A-Z][a-z]+\s\d{4})\b')
+    dates = []
+    for tag in soup.find_all(text=date_pattern):
+        match = date_pattern.search(tag)
+        if match: 
+            dates.append(match.group())
+    return dates
 
-# Parse the HTML file
-tree = etree.parse(html_file_path)
+def write_to_csv(dates, file_path='scraped_data.csv'):
+    with open(file_path, 'w') as f:
+        writer = csv.writer(f)
+        writer.writerow(['Dates'])
+        for date in dates:
+            writer.writerow([date])
 
-# Retrieve the text from the "All entrepreneurship courses" heading
-course_heading_element = tree.xpath(course_heading_xpath)[0]
-course_heading_text = course_heading_element.text.strip()
-
-# Save the scraped data as a CSV file
-with open("scraped_data.csv", "w", newline="") as csvfile:
-    writer = csv.writer(csvfile)
-    writer.writerow(["Category", "Task", "Scraped Data"])
-    writer.writerow(["Educational Websites", "Retrieve the text from 'All entrepreneurship courses' heading", course_heading_text])
+soup = parse_html('downloaded_pages/DTU-entrepreneurship.html')
+dates = extract_dates(soup)
+write_to_csv(dates)

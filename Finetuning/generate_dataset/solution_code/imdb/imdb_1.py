@@ -1,27 +1,26 @@
 import csv
 from bs4 import BeautifulSoup
 
-def get_text_from_xpath(soup, xpath):
-    elements = soup.xpath(xpath)
-    return [element.get_text() for element in elements]
+def scrape_imdb_top250(html_path):
+    with open(html_path, 'r') as f:
+        content = f.read()
 
-def save_data_as_csv(data):
-    with open('scraped_data.csv', 'w', newline='') as file:
-        writer = csv.writer(file)
-        writer.writerow(['Title', 'Rating'])
-        for title, rating in data:
-            writer.writerow([title, rating])
+    soup = BeautifulSoup(content, 'lxml')
 
-def main():
-    html_file = 'downloaded_pages/imdb.html'
-    with open(html_file, 'r') as file:
-        soup = BeautifulSoup(file, 'html.parser')
+    top250 = soup.select('div.ul > li')
 
-    titles = get_text_from_xpath(soup, '//h3[@class="ipc-title__text"]')
-    ratings = get_text_from_xpath(soup, '//span[@class="ipc-rating-star--rate"]')
+    movie_rankings = []
 
-    data = list(zip(titles, ratings))
-    save_data_as_csv(data)
+    for movie in top250:
+        rank = movie.h3.contents[0].strip().split('.')[0]
+        movie_rankings.append(rank)
 
-if __name__ == '__main__':
-    main()
+    return movie_rankings
+
+file_path = "downloaded_pages/imdb.html"
+rankings = scrape_imdb_top250(file_path)
+
+with open('scraped_data.csv', 'w', newline='') as file:
+    writer = csv.writer(file)
+    for rank in rankings:
+       writer.writerow([rank])

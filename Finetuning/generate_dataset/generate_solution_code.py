@@ -23,7 +23,7 @@ def generate_solution_code(website, HTML_file, category, HTML_string, task, task
     user_prompt = user_prompt.format(website=website, HTML_file=HTML_file, category=category, HTML_string=HTML_string, task=task)
 
     # Get response from GPT-4
-    response = get_response(system_prompt, user_prompt, "gpt-3.5-turbo")
+    response = get_response(system_prompt, user_prompt, "gpt-4")
 
     # Extract the code from the response
     scraper_code = re.search(r"(?<=```python\n)[\s\S]+?(?=\n```)", response)

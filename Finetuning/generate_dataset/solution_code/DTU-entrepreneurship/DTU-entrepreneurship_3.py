@@ -1,20 +1,34 @@
 import csv
-from bs4 import BeautifulSoup
+import requests
+from lxml import html
 
-# Read the HTML file
-with open('downloaded_pages/DTU-entrepreneurship.html', 'r') as file:
-    html = file.read()
+def scrape_page(path):
+    with open(path, 'r') as file:
+        page_content = file.read()
+    tree = html.fromstring(page_content)
+    projects = tree.xpath('//label[text() = "Projects"]')
+    
+    project_data = []
+    for project in projects:
+        project_info = {}
+        
+        project_info['text'] = project.text_content()
+        project_info['xpath'] = tree.getpath(project)
+        
+        project_data.append(project_info)
 
-# Create a BeautifulSoup object
-soup = BeautifulSoup(html, 'html.parser')
+    return project_data
 
-# Find the text under the "Newsletter" heading
-newsletter_heading = soup.find('h2', text='Newsletter')
-newsletter_text = newsletter_heading.next_sibling.strip()
+def export_to_csv(data):
+    keys = data[0].keys()
+    with open('scraped_data.csv', 'w', newline='') as output_file:
+        dict_writer = csv.DictWriter(output_file, keys)
+        dict_writer.writeheader()
+        dict_writer.writerows(data)
 
-# Save the scraped data as a CSV file
-data = [['Category', 'Text'], ['Educational Websites', newsletter_text]]
-
-with open('scraped_data.csv', 'w', newline='') as file:
-    writer = csv.writer(file)
-    writer.writerows(data)
+def main():
+    local_file_path = 'downloaded_pages/DTU-entrepreneurship.html'
+    project_data = scrape_page(local_file_path)
+    export_to_csv(project_data)
+    
+main()

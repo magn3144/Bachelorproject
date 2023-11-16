@@ -1,18 +1,39 @@
 import csv
-from lxml import etree
+import os
+from lxml import html
 
-# Define the XPath for extracting news article descriptions
-news_description_xpath = '/html/body/div[2]/main/div/div[3]/section/div/div[2]/section/div[5]/section/div/div/div/div/div/div'
+def get_ratings():
+    # Load the html file
+    with open('downloaded_pages/imdb.html', 'r') as file:
+        page_content = file.read()
 
-# Parse the HTML file
-parser = etree.HTMLParser()
-tree = etree.parse('downloaded_pages/imdb.html', parser)
+    # Parse the html content
+    parsed_content = html.fromstring(page_content)
 
-# Extract the news article descriptions
-news_descriptions = tree.xpath(news_description_xpath)
+    # Get the ratings
+    ratings = parsed_content.xpath('//div[@class="ipc-star INTEGER"]/text()')
 
-# Save the scraped data as a CSV file
-with open('scraped_data.csv', 'w', newline='', encoding='utf-8') as file:
-    writer = csv.writer(file)
-    writer.writerow(['News Article Description'])
-    writer.writerows([[desc.text.strip()] for desc in news_descriptions])
+    # Return the ratings
+    return ratings
+
+
+def save_csv(data):
+    # Prepare csv file
+    filename = 'scraped_data.csv'
+    with open(filename, 'w', newline='') as file:
+        writer = csv.writer(file)
+        writer.writerow(['User Ratings'])
+        for row in data:
+            writer.writerow(row)
+
+
+def main():
+    # Get ratings
+    data = get_ratings()
+
+    # Save as csv
+    save_csv(data)
+
+
+if __name__ == '__main__':
+    main()

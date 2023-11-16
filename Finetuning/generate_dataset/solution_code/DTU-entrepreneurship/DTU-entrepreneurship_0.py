@@ -1,18 +1,24 @@
 import csv
+import re
 from lxml import html
 
-# Open the HTML file
-with open('downloaded_pages/DTU-entrepreneurship.html', 'r', encoding='utf-8') as file:
-    html_content = file.read()
+with open('downloaded_pages/DTU-entrepreneurship.html', 'r') as file:
+    page = file.read()
 
-# Parse the HTML
-tree = html.fromstring(html_content)
+tree = html.fromstring(page)
 
-# Find all course titles
-course_titles = tree.xpath('//h2[contains(@class, "a-heading-h1")]/text()')
+course_elements = tree.xpath('//*[contains(text(),"ECTS")]')
 
-# Save the course titles as a CSV file
-with open('scraped_data.csv', 'w', encoding='utf-8', newline='') as file:
+course_list = []
+for element in course_elements:
+    course_info = element.text.strip()
+    match = re.search(r'^(.*\|) *(.*) ECTS.*$', course_info)
+    if match:
+        course_name = match.group(1).strip(' |')
+        course_ects = match.group(2).strip()
+        course_list.append((course_name, course_ects))
+
+with open('scraped_data.csv', 'w', newline='') as file:
     writer = csv.writer(file)
-    writer.writerow(['Course Title'])
-    writer.writerows([[title] for title in course_titles])
+    writer.writerow(["Course Name", "ECTS"])
+    writer.writerows(course_list)

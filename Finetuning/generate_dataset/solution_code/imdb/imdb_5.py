@@ -1,19 +1,24 @@
 import csv
-from lxml import etree
+import lxml.html as lh
+import os
 
-def extract_movies_positions(html_file):
-    tree = etree.parse(html_file)
-    movies = tree.xpath("/html/body/div[2]/main/div/div[3]/section/div/div[2]/div/ul/li[position()>=55 and position()<=66]/div[2]/div/div/div[1]/a/h3")
-    positions = [movie.text.split(". ")[0] for movie in movies]
-    titles = [movie.text.split(". ")[1] for movie in movies]
-    return list(zip(positions, titles))
+path = "downloaded_pages/imdb.html"
+doc = lh.fromstring(open(path).read())
 
-def save_csv(data):
-    with open('scraped_data.csv', 'w', newline='', encoding='utf-8') as file:
-        writer = csv.writer(file)
-        writer.writerow(['Position', 'Title'])
-        writer.writerows(data)
+nav_elements = doc.xpath('//*[@id="navMenu1"]/div[2]/ul/li')
+nav_dict = {'Site Options': [], 'Links': []}
 
-html_file = 'downloaded_pages/imdb.html'
-movies_positions = extract_movies_positions(html_file)
-save_csv(movies_positions)
+for element in nav_elements:
+    nav_text = element.xpath('.//a/text()')
+    link = element.xpath('.//a/@href')
+
+    if nav_text and link: 
+        nav_dict['Site Options'].append(nav_text[0])
+        nav_dict['Links'].append(link[0])
+
+with open('scraped_data.csv', 'w', newline='') as csvfile:
+    fieldnames = ['Site Options', 'Links']
+    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+
+    writer.writeheader()
+    writer.writerows([{'Site Options': n, 'Links': l} for n, l in zip(nav_dict['Site Options'], nav_dict['Links'])])

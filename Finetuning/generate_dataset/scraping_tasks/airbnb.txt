@@ -1,10 +1,10 @@
-Retrieve all Airbnb-friendly apartments and store them as a CSV file.
-Scrape the Sitemap page and save the information as a CSV file.
-Collect information about Guest Favorites, the most-loved homes, and save it as a CSV file.
-Extract details of Grand pianos and save them in a CSV file.
-Collect information about Nykøbing Sjælland, Denmark and store it as a CSV file.
-Scrape data about Guest favorites and save it as a CSV file.
-Gather inspiration for future getaways and save it as a CSV file.
-Retrieve information from the Site Footer and save it as a CSV file.
-Extract details about Hosting and store it as a CSV file.
-Scrape information about Airbnb.org emergency stays and save it as a CSV file.
+Scrape all links in the footer under support, hosting and Airbnb, and save them in a CSV in three seperate columns.
+Save the class of the "show more" button as a single string in a CSV file.
+Get the location, and distance of each Airbnb, and save them in a CSV file.
+Get the date of each Airbnb and save them in a CSV.
+Extract the location and price of each Airbnb and save them to a CSV.
+Get the location and link for each Airbnb on the page and save them to a CSV.
+Get the text and link of each location under the "popular" tab under the "Inspiration for future getaways" header.
+Extract all the Airbnb types in the header menu, like "Cabins" and "OMG!". Save as a CSV.
+Extract the location and amount of stars of each airbnb and save them as a CSV file.
+Extract the location and wether its a guest favorite for each Airbnb, and save the two columns as a CSV file.

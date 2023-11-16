@@ -1,29 +1,27 @@
 import csv
-from bs4 import BeautifulSoup
+import lxml.html as html_parser
 
-# Load the HTML file
+# open source file
 with open('downloaded_pages/imdb.html', 'r') as file:
-    html = file.read()
+    webpage = file.read().replace('\n', '')
 
-# Parse the HTML
-soup = BeautifulSoup(html, 'html.parser')
+# parse html
+parsed_webpage = html_parser.fromstring(webpage)
 
-# Find the range of movies
-start_movie = soup.find('h3', text='154. Finding Nemo')
-end_movie = soup.find('h3', text='228. Pirates of the Caribbean: The Curse of the Black Pearl')
+# xpaths to the target elements
+xpaths = ['//*[@class="ipc-title__description"]', '//*[@class="ipc-title__text chart-layout-specific-title-text"]']
 
-# Scrape the titles and positions of the movies
-movies = []
-next_movie = start_movie.find_next('h3')
-while next_movie != end_movie:
-    position = next_movie.text.split('.')[0].strip()
-    title = next_movie.text.split('.')[1].strip()
-    movies.append({'Position': position, 'Title': title})
-    next_movie = next_movie.find_next('h3')
+# find elements
+elements = []
+for xpath in xpaths:
+    elements += parsed_webpage.xpath(xpath)
 
-# Save the scraped data as a CSV file
-with open('scraped_data.csv', 'w', newline='') as csvfile:
-    fieldnames = ['Position', 'Title']
-    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-    writer.writeheader()
-    writer.writerows(movies)
+# get element text
+data = [el.text_content() for el in elements]
+
+# write to csv file
+with open('scraped_data.csv', 'w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerow(["Descriptions"])
+    for description in data:
+        writer.writerow([description])

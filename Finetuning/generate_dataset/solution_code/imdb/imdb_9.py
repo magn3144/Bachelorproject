@@ -1,27 +1,34 @@
 import csv
-from selenium import webdriver
-from selenium.webdriver.common.by import By
+import lxml.html
 
-# Set up the web driver
-driver = webdriver.Chrome()
+def write_to_csv(data, filename):
+    keys = data[0].keys()
+    with open(filename, 'w') as output_file:
+        dict_writer = csv.DictWriter(output_file, keys)
+        dict_writer.writeheader()
+        dict_writer.writerows(data)
 
-# Open the local HTML file
-driver.get("file:///path/to/downloaded_pages/imdb.html")
+def scrape_selectable(html_file_path):
+    with open(html_file_path, 'r') as f:
+        tree = lxml.html.fromstring(f.read())
+    
+    data = []
+    labels = tree.xpath('.//*[self::label or self::span or self::div or self::a or self::h3 or self::p or self::li or self::title]')
+    
+    for label in labels:
+        if 'class' in label.attrib:
+            class_value = label.attrib['class'].split(' ')
+            for value in class_value:
+                if "select" in value or "option" in value or "link" in value:
+                    data.append({"text": label.text})
+                else:
+                    continue
+        else:
+            continue
+            
+    return data
 
-# Find all the movie titles and release years
-titles = driver.find_elements(By.XPATH, "//h3[@class='ipc-title__text']")
-release_years = driver.find_elements(By.XPATH, "//span[@class='sc-c7e5f54-8 fiTXuB cli-title-metadata-item']")
-
-# Create a list to store the scraped data
-scraped_data = []
-for title, release_year in zip(titles, release_years):
-    scraped_data.append({"Title": title.text, "Release Year": release_year.text})
-
-# Save the scraped data as a CSV file
-with open("scraped_data.csv", "w", newline="") as file:
-    writer = csv.DictWriter(file, fieldnames=["Title", "Release Year"])
-    writer.writeheader()
-    writer.writerows(scraped_data)
-
-# Close the web driver
-driver.quit()
+if __name__ == "__main__":
+    html_file_path = 'downloaded_pages/imdb.html'
+    data = scrape_selectable(html_file_path)
+    write_to_csv(data, 'scraped_data.csv')

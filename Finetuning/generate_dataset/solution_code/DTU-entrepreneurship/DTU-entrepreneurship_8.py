@@ -1,18 +1,16 @@
 import csv
-from lxml import etree
+from bs4 import BeautifulSoup
 
-# Parse the HTML file
-tree = etree.parse('downloaded_pages/DTU-entrepreneurship.html')
-root = tree.getroot()
+def get_contact_links(file_name):
+    with open(file_name, 'r') as f:
+        soup = BeautifulSoup(f, 'html.parser')
+        contact_links = soup.findAll('a', text='Contact')
+        
+        with open('scraped_data.csv', mode='w', newline='') as file:
+            writer = csv.writer(file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+            writer.writerow(['Contact Links'])
+            
+            for link in contact_links:
+                writer.writerow([link.get('href')])
 
-# Find the desired paragraph using XPath
-paragraph_xpath = '/html/body/form/div[3]/div[5]/div[2]/div/div[2]/div/p'
-paragraph_element = root.xpath(paragraph_xpath)[0]
-
-# Extract the text from the paragraph element
-paragraph_text = paragraph_element.text.strip()
-
-# Save the scraped data as a CSV file
-with open('scraped_data.csv', 'w', newline='') as csvfile:
-    writer = csv.writer(csvfile)
-    writer.writerow([paragraph_text])
+get_contact_links('downloaded_pages/DTU-entrepreneurship.html')

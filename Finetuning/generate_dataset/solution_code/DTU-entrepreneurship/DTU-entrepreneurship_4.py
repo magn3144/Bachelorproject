@@ -1,16 +1,34 @@
 import csv
-from pathlib import Path
-from lxml import etree
+from lxml import html as html_parser
 
-# Load the HTML file
-path = Path("downloaded_pages/DTU-entrepreneurship.html")
-html = etree.parse(str(path), etree.HTMLParser())
+def extract_validation_messages(file_path):
+    with open(file_path, 'r') as html_file:
+        source_code = html_file.read()
+        
+    html_tree = html_parser.fromstring(source_code)
+    
+    validation_messages_xpaths = [
+        '/html/body/form/div[3]/footer/div[1]/div/div[4]/div[2]/div/span[1]',
+        '/html/body/form/div[3]/footer/div[1]/div/div[4]/div[2]/div/span[2]'
+    ]
+    
+    validation_messages = []
+    for xpath in validation_messages_xpaths:
+        elements = html_tree.xpath(xpath)
+        for element in elements:
+            validation_messages.append(element.text)
+    
+    return validation_messages
 
-# Find the education link using XPath
-education_link = html.xpath("/html/body/form/div[3]/div[5]/div[1]/div/div/div/a[2]")[0].text
 
-# Save the extracted text as a CSV file
-data = [[education_link]]
-with open('scraped_data.csv', 'w', newline='') as csvfile:
-    writer = csv.writer(csvfile)
-    writer.writerows(data)
+def write_to_csv(validation_messages):
+    with open('scraped_data.csv', 'w', newline='') as csv_file:
+        writer = csv.writer(csv_file)
+        writer.writerow(["Email Validation Messages"])
+        for message in validation_messages:
+            writer.writerow([message])
+
+
+if __name__ == "__main__":
+    validation_messages = extract_validation_messages('downloaded_pages/DTU-entrepreneurship.html')
+    write_to_csv(validation_messages)

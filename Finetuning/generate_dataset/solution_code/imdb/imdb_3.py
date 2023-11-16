@@ -1,19 +1,25 @@
 import csv
-from lxml import html
+import lxml.html as lh
+from selenium import webdriver
 
-# Define the XPaths for the release years
-release_year_xpath = "/html/body/div[2]/main/div/div[3]/section/div/div[2]/div/ul/li/div[2]/div/div/div[2]/span[1]"
+def scrape_data():
+    path = "downloaded_pages/imdb.html"
+    driver = webdriver.Firefox()
+    driver.get("file:///" + path)
 
-# Parse the HTML file
-with open('downloaded_pages/imdb.html', 'r') as file:
-    content = file.read()
-tree = html.fromstring(content)
+    movies = {}
+    for i in range(1, 251):
+        movie_title_xpath = f"/html/body/div[2]/main/div/div[3]/section/div/div[2]/div/ul/li[{i}]/div[2]/div/div/div[1]/a/h3"
+        movie_meta_xpath = f"/html/body/div[2]/main/div/div[3]/section/div/div[2]/div/ul/li[{i}]/div[2]/div/div/div[2]/span[3]"
+        title = driver.find_element_by_xpath(movie_title_xpath).text
+        meta = driver.find_element_by_xpath(movie_meta_xpath).text
+        movies[title] = meta
 
-# Extract the release years using XPath
-release_years = [year.text.strip() for year in tree.xpath(release_year_xpath)]
+    with open('scraped_data.csv', 'w') as f:
+        writer = csv.writer(f)
+        for key, value in movies.items():
+            writer.writerow([key, value])
 
-# Save the release years as a CSV file
-with open('scraped_data.csv', 'w', newline='') as file:
-    writer = csv.writer(file)
-    writer.writerow(['Release Year'])
-    writer.writerows(zip(release_years))
+    driver.close()
+
+scrape_data()
