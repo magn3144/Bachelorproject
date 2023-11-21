@@ -163,3 +163,8 @@ cython_debug/
 Scraper/tests/
 # Ignore the downloaded pages folder
 downloaded_pages/
+
+# Ignore adapter_config.json, adaper_model.bin, and README.md
+adapter_config.json
+adapter_model.bin
+README.md
