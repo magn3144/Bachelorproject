@@ -1,29 +1,26 @@
 import csv
-from lxml import html
-from lxml.html import fromstring
+from bs4 import BeautifulSoup
 
 # Load the HTML data from local file.
 with open('downloaded_pages/airbnb.html', 'r') as file:
     page_content = file.read().replace('\n', '')
 
-tree = html.fromstring(page_content)
+# Get the text of all div elements with the class "t1jojoys dir dir-ltr"
+soup = BeautifulSoup(page_content, 'html.parser')
+divs = soup.find_all("div", {"class": "t1jojoys dir dir-ltr"})
+divs_text = [div.text for div in divs]
 
-# XPaths for location elements and distance elements
-location_xpath = "//div[contains(@class, 't1jojoys dir dir-ltr')]"
-distance_xpath = "//span[contains(@class, 'a8jt5op dir dir-ltr')]"
+# Get the text of all span elements with the class "dir dir-ltr"
+soup = BeautifulSoup(page_content, 'html.parser')
+spans = soup.find_all("span", {"class": "dir dir-ltr"})
+spans_text = [span.text for span in spans]
+# Remove empty strings from the list
+spans_text = list(filter(None, spans_text))
+# Remove dates containing "–" from the list
+spans_text = [span for span in spans_text if "–" not in span]
 
-locations = tree.xpath(location_xpath)
-distances = tree.xpath(distance_xpath)
-
-data = []
-
-for location, distance in zip(locations, distances):
-    data.append({"Location": location.text, "Distance": distance.text})
-
-keys = data[0].keys()
-
-# Save the scraped data in a CSV file
-with open('scraped_data.csv', 'w', newline='')  as output_file:
-    dict_writer = csv.DictWriter(output_file, keys)
-    dict_writer.writeheader()
-    dict_writer.writerows(data)
+# Save the data to a CSV file in two seperate columns.
+with open('scraped_data.csv', 'w', newline='') as file:
+    writer = csv.writer(file)
+    for div, span in zip(divs_text, spans_text):
+        writer.writerow([div, span])

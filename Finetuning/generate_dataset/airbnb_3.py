@@ -1,24 +1,19 @@
 import csv
-from lxml import html
+from bs4 import BeautifulSoup
 
-def extract_dates():
-    # Parse the HTML
-    with open("downloaded_pages/airbnb.html", "r") as f:
-        page_content = f.read()
-        tree = html.fromstring(page_content)
+# Load the HTML data from local file.
+with open('downloaded_pages/airbnb.html', 'r') as file:
+    page_content = file.read().replace('\n', '')
 
-    # Extract date elements
-    dates_xpath = '/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[2]/div/div/div/div/div[1]/div[10]/div/div[2]/div/div/div/div/div/div[2]/div[3]/span/span'
-    date_elements = tree.xpath(dates_xpath)
+# Get the text of all span elements with the class "dir dir-ltr"
+soup = BeautifulSoup(page_content, 'html.parser')
+spans = soup.find_all("span", {"class": "dir dir-ltr"})
+spans_text = [span.text for span in spans]
+# Remove dates containing "–" from the list
+spans_text = [span for span in spans_text if "–" in span]
 
-    # Extract text from elements
-    dates = [date.text for date in date_elements]
-
-    # Write dates to a CSV file
-    with open('scraped_data.csv', 'w', newline='') as f:
-        writer = csv.writer(f)
-        writer.writerow(['Date'])
-        for date in dates:
-            writer.writerow([date])
-
-extract_dates()
+# Save the data to a CSV file.
+with open('scraped_data.csv', 'w', newline='') as file:
+    writer = csv.writer(file)
+    for span in spans_text:
+        writer.writerow([span])

@@ -1,5 +1,5 @@
 Scrape all links in the footer under support, hosting and Airbnb, and save them in a CSV in three seperate columns.
-Save the class of the "show more" button as a single string in a CSV file.
+Save the classes of the "show more" button in seperate rows in a CSV file.
 Get the location, and distance of each Airbnb, and save them in a CSV file.
 Get the date of each Airbnb and save them in a CSV.
 Extract the location and price of each Airbnb and save them to a CSV.
