@@ -1,30 +1,24 @@
 import csv
 from bs4 import BeautifulSoup
 
-def extract_info(soup):
-    data = []
-    listings = soup.select('div._r243u8q.l1ovpqvx.dir.dir-ltr')
-    for listing in listings:
-        location = listing.select_one('div.t1jojoys.dir.dir-ltr').text
-        stars_container = listing.select_one('div.t1qa5xaj.dir.dir-ltr')
-        if stars_container and "Guest favorite" in stars_container.text:
-            stars = 5
-        else:
-            stars = 0
-        data.append([location, stars])
-    return data
+# Load the HTML data from local file.
+with open('downloaded_pages/airbnb.html', 'r') as file:
+    page_content = file.read().replace('\n', '')
 
-def save_to_csv(data):
-    with open('scraped_data.csv', 'w', newline='') as file:
-        writer = csv.writer(file)
-        writer.writerow(["Location", "Stars"])
-        writer.writerows(data)
+soup = BeautifulSoup(page_content, 'html.parser')
+location_divs = soup.find_all("div", {"class": "t1jojoys dir dir-ltr"})
+divs_text = [div.text for div in location_divs]
 
-def main():
-    with open("downloaded_pages/airbnb.html") as file:
-        soup = BeautifulSoup(file, "lxml")
-    data = extract_info(soup)
-    save_to_csv(data)
+# Amount of stars for each location
+listing_divs = soup.find_all("div", {"class": "g1qv1ctd c1v0rf5q dir dir-ltr"})
+star_texts = []
+for div in listing_divs:
+    stars = div.find_all("span", {"class": "r1dxllyb dir dir-ltr"})
+    star_text = [star.text for star in stars]
+    star_texts.append(star_text)
 
-if __name__ == "__main__":
-    main()
+# Save the data to a CSV file in two seperate columns.
+with open('scraped_data.csv', 'w', newline='') as file:
+    writer = csv.writer(file)
+    for div, span in zip(divs_text, star_texts):
+        writer.writerow([div, span])
