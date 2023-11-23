@@ -44,7 +44,7 @@ def validation_loss(model, tokenizer, validation_set):
 
 dataset_name = "magnus42/GPTWebScrapingPythonCode"
 base_model_name = "codellama/CodeLlama-7b-Python-hf"
-save_directory = "trained_models/lr_e_round1"
+save_directory = "trained_models/lr_e_checked"
 validation_set = load_dataset(dataset_name, split="validation")["training_sample"]
 validation_loss_dict = {}
 

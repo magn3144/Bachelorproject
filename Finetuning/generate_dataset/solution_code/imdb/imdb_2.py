@@ -1,39 +1,20 @@
 import csv
-import os
 from lxml import html
 
-def get_ratings():
-    # Load the html file
-    with open('downloaded_pages/imdb.html', 'r') as file:
-        page_content = file.read()
+# open the local file
+with open('downloaded_pages/imdb.html', 'r', encoding='utf-8') as file:
+    page_html = file.read()
 
-    # Parse the html content
-    parsed_content = html.fromstring(page_content)
+# create the HTML Element object
+page_element = html.fromstring(page_html)
 
-    # Get the ratings
-    ratings = parsed_content.xpath('//div[@class="ipc-star INTEGER"]/text()')
+# define the XPaths to select data
+ratings = []
+for i in range(1, 251):
+    xpath_rating = f'//*[@id="__next"]/main/div/div[3]/section/div/div[2]/div/ul/li[{i}]/div[2]/div/div/span/div/span/text()'
+    ratings.append(page_element.xpath(xpath_rating))
 
-    # Return the ratings
-    return ratings
-
-
-def save_csv(data):
-    # Prepare csv file
-    filename = 'scraped_data.csv'
-    with open(filename, 'w', newline='') as file:
-        writer = csv.writer(file)
-        writer.writerow(['User Ratings'])
-        for row in data:
-            writer.writerow(row)
-
-
-def main():
-    # Get ratings
-    data = get_ratings()
-
-    # Save as csv
-    save_csv(data)
-
-
-if __name__ == '__main__':
-    main()
+# write the data into a CSV file
+with open('scraped_data.csv', 'w', newline='', encoding='utf-8') as file:
+    writer = csv.writer(file)
+    writer.writerows(ratings)

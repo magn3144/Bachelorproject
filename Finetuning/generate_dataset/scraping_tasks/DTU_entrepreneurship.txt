@@ -1,0 +1,10 @@
+Extract all course names and corresponding ECTS points from the educational website and save in a CSV file. Ignore the courses without information about ECTS.
+Scrape all the socials links.
+Get the DTU entrepreneourship adress and save it in a csv file in a single row. Remove quotation marks from the address text, and add quotation marks around the whole address.
+Get the text of each button in the header (like about us, and education) and save them in seperate rows.
+For each course on the page get the semester and course name of that course. The course titles start with a 5-digit number.
+Save all links on the site to a CSV file.
+Get all the descriptions in small text under the title of each course.
+Scrape all the big h2 headings on the page.
+Save the description of DTU entrepreneourship, which is under the header "CENTRE FOR TECHNOLOGY ENTREPRENEURSHIP".
+Collect the department name and department link on the button of the page under "Departments and Centers"

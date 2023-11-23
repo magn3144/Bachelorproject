@@ -1,25 +1,20 @@
 import csv
-import lxml.html as lh
-from selenium import webdriver
+from lxml import html
 
-def scrape_data():
-    path = "downloaded_pages/imdb.html"
-    driver = webdriver.Firefox()
-    driver.get("file:///" + path)
+# open the local file
+with open('downloaded_pages/imdb.html', 'r', encoding='utf-8') as file:
+    page_html = file.read()
 
-    movies = {}
-    for i in range(1, 251):
-        movie_title_xpath = f"/html/body/div[2]/main/div/div[3]/section/div/div[2]/div/ul/li[{i}]/div[2]/div/div/div[1]/a/h3"
-        movie_meta_xpath = f"/html/body/div[2]/main/div/div[3]/section/div/div[2]/div/ul/li[{i}]/div[2]/div/div/div[2]/span[3]"
-        title = driver.find_element_by_xpath(movie_title_xpath).text
-        meta = driver.find_element_by_xpath(movie_meta_xpath).text
-        movies[title] = meta
+# create the HTML Element object
+page_element = html.fromstring(page_html)
 
-    with open('scraped_data.csv', 'w') as f:
-        writer = csv.writer(f)
-        for key, value in movies.items():
-            writer.writerow([key, value])
+# define the XPaths to select data
+ratings = []
+for i in range(1, 251):
+    xpath_rating = f'//*[@id="__next"]/main/div/div[3]/section/div/div[2]/div/ul/li[{i}]/div[2]/div/div/div[2]/span[2]/text()'
+    ratings.append(page_element.xpath(xpath_rating))
 
-    driver.close()
-
-scrape_data()
+# write the data into a CSV file
+with open('scraped_data.csv', 'w', newline='', encoding='utf-8') as file:
+    writer = csv.writer(file)
+    writer.writerows(ratings)
