@@ -2,17 +2,17 @@ import csv
 import re
 from lxml import html
 
-with open('downloaded_pages/DTU-entrepreneurship.html', 'r') as file:
+with open('downloaded_pages/DTU_entrepreneurship.html', 'r') as file:
     page = file.read()
 
 tree = html.fromstring(page)
 
-course_elements = tree.xpath('//*[contains(text(),"ECTS")]')
+course_elements = tree.xpath('//*[contains(text(),"ECTS")] | //*[contains(text(),"ects")]')
 
 course_list = []
 for element in course_elements:
     course_info = element.text.strip()
-    match = re.search(r'^(.*\|) *(.*) ECTS.*$', course_info)
+    match = re.search(r'^(.*\|) *(.*) (ECTS|ects).*$', course_info)
     if match:
         course_name = match.group(1).strip(' |')
         course_ects = match.group(2).strip()
