@@ -1,26 +1,18 @@
-import csv
 from bs4 import BeautifulSoup
+import csv
+import re
 
-def scrape_imdb_top250(html_path):
-    with open(html_path, 'r') as f:
-        content = f.read()
+html_file = open('downloaded_pages/imdb.html', 'r')
+soup = BeautifulSoup(html_file, 'html.parser')
 
-    soup = BeautifulSoup(content, 'lxml')
+csv_data = [['Release Year']]
+# Find all the spans with class 'sc-479faa3c-8 bNrEFi cli-title-metadata-item'
+for movie_meta in soup.find_all('span', class_='sc-479faa3c-8 bNrEFi cli-title-metadata-item'):
+    year_text = movie_meta.text
+    if re.search(r'\d{4}', year_text):
+        year = re.search(r'\d{4}', year_text).group()
+        csv_data.append([year])
 
-    top250 = soup.select('div.ul > li')
-
-    movie_rankings = []
-
-    for movie in top250:
-        rank = movie.h3.contents[0].strip().split('.')[0]
-        movie_rankings.append(rank)
-
-    return movie_rankings
-
-file_path = "downloaded_pages/imdb.html"
-rankings = scrape_imdb_top250(file_path)
-
-with open('scraped_data.csv', 'w', newline='') as file:
-    writer = csv.writer(file)
-    for rank in rankings:
-       writer.writerow([rank])
+with open("scraped_data.csv", "w") as csv_file:
+    writer = csv.writer(csv_file)
+    writer.writerows(csv_data)

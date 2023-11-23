@@ -1,22 +1,27 @@
+from bs4 import BeautifulSoup
 import csv
-from lxml import etree
+import os
 
-html_path = 'downloaded_pages/imdb.html'
-csv_path = 'scraped_data.csv'
+def get_social_links(filepath):
+    with open(filepath, 'r') as f:
+        contents = f.read()
 
-with open(html_path, 'r') as f:
-    html_string = f.read()
+    soup = BeautifulSoup(contents, 'lxml')
+    footer = soup.find('footer')
+    social_links = footer.find_all('a', {'class': 'ipc-icon-link ipc-icon-link--baseAlt ipc-icon-link--onBase'})
 
-parser = etree.HTMLParser()
-tree = etree.fromstring(html_string, parser)
+    data = []
+    for link in social_links:
+        href = link.get('href')
+        if "http" in href:
+            data.append({ "social_link": href })
+            
+    keys = data[0].keys()
 
-ranks = [element.text for element in tree.xpath('//div[@class="ipc-simple-select__selected-option"]')]
-titles = [element.text for element in tree.xpath('//h3[@class="ipc-title__text"]')]
-ratings = [element.text for element in tree.xpath('//span[@class="ipc-rating-star--voteCount"]')]
+    with open('scraped_data.csv', 'w', newline='')  as f:
+        dict_writer = csv.DictWriter(f, keys)
+        dict_writer.writeheader()
+        dict_writer.writerows(data)
 
-movies = list(zip(ranks, titles, ratings))
-
-with open(csv_path, 'w', newline='') as f:
-    writer = csv.writer(f)
-    writer.writerow(["Rank", "Title", "Rating"])
-    writer.writerows(movies)
+filepath = os.path.join("downloaded_pages", "imdb.html")
+get_social_links(filepath)

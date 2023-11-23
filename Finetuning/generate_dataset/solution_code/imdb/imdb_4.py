@@ -1,16 +1,20 @@
-from bs4 import BeautifulSoup
 import csv
-import os
+from lxml import html
 
-with open(os.path.join('downloaded_pages', 'imdb.html'), 'r') as html_file:
-    soup = BeautifulSoup(html_file, 'lxml')
-    news_titles = soup.find_all('div', class_='sc-bb1bba6c-1 ipcpFw news-preview-card-articleTitle')
+# open the local file
+with open('downloaded_pages/imdb.html', 'r', encoding='utf-8') as file:
+    page_html = file.read()
 
-data = []
-for title in news_titles:
-    data.append([title.text.strip()])
+# create the HTML Element object
+page_element = html.fromstring(page_html)
 
-with open('scraped_data.csv', 'w', newline='') as csv_file:
-    writer = csv.writer(csv_file)
-    for row in data:
-        writer.writerow(row)
+# define the XPaths to select data
+ratings = []
+for i in range(1, 251):
+    xpath_rating = f'//*[@id="__next"]/main/div/div[3]/section/div/div[2]/div/ul/li[{i}]/div[2]/div/div/div[2]/span[3]/text()'
+    ratings.append(page_element.xpath(xpath_rating))
+
+# write the data into a CSV file
+with open('scraped_data.csv', 'w', newline='', encoding='utf-8') as file:
+    writer = csv.writer(file)
+    writer.writerows(ratings)

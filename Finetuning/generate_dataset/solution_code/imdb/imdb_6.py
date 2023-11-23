@@ -1,27 +1,36 @@
 import csv
-import lxml.html as html_parser
+from lxml import html
+from os.path import join, dirname, realpath
 
-# open source file
-with open('downloaded_pages/imdb.html', 'r') as file:
-    webpage = file.read().replace('\n', '')
+def save_to_file(data):
+    with open('scraped_data.csv', 'w', newline='') as file:
+        writer = csv.writer(file)
+        writer.writerows(data)
 
-# parse html
-parsed_webpage = html_parser.fromstring(webpage)
+def scrape():
+    file_path = join('downloaded_pages', 'imdb.html')
+    parser = html.HTMLParser(encoding='utf-8')
+    with open(file_path, 'r', encoding='utf-8') as file:
+        tree = html.parse(file, parser=parser)
 
-# xpaths to the target elements
-xpaths = ['//*[@class="ipc-title__description"]', '//*[@class="ipc-title__text chart-layout-specific-title-text"]']
+    # Get the links
+    links = []
+    link_elems = []
+    for i in range(2, 9):
+        links_xpath = f'//*[@id="__next"]/main/div/div[3]/section/div/div[2]/section/div[4]/div[{i}]/a'
+        link_elems.append(tree.xpath(links_xpath))
+        links.append(link_elems[-1][0].get('href'))
 
-# find elements
-elements = []
-for xpath in xpaths:
-    elements += parsed_webpage.xpath(xpath)
+    # For each link element get the h3 text
+    h3texts = []
+    for link in link_elems:
+        h3text = link[0].xpath('.//h3/text()')[0]
+        h3texts.append(h3text)
 
-# get element text
-data = [el.text_content() for el in elements]
+    data = []
+    for i in range(len(h3texts)):
+        data.append([h3texts[i], links[i]])
+    save_to_file(data)
 
-# write to csv file
-with open('scraped_data.csv', 'w', newline='') as file:
-    writer = csv.writer(file)
-    writer.writerow(["Descriptions"])
-    for description in data:
-        writer.writerow([description])
+
+scrape()

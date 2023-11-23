@@ -1,10 +1,10 @@
 Scrape all the movie titles from the IMDb Top 250 list and store them in a CSV file.
-Extract all the movie rankings from the IMDb Top 250 list and save them in a CSV file.
-Gather all the user ratings for each movie in the IMDb Top 250 and save the data in a CSV file.
-Collect the metadata for each movie in the IMDb Top 250 list and store it in a CSV file.
-Retrieve all the news article titles displayed on the page and store them in a CSV file.
-Get the list of site navigation options and their corresponding links, and save them as a CSV file.
-Scrape all the descriptions for sections on the page and save them in a CSV file.
-Extract all the movie titles along with their rank and user ratings from the IMDb Top 250 list and save them in a CSV file.
+Extract each movies release year.
+Gather the user raiting score for each movie in the IMDb Top 250 and save the data in a CSV file.
+Collect the duration for each movie in the IMDb Top 250 list and store it in a CSV file.
+Collect the age rating for each movie in the IMDb Top 250 list and store it in a CSV file.
+Collect the amount of ratings for each movie in the IMDb Top 250 list and store it in a CSV file.
+Scrape the text and link of each h3 under "more to explore".
+Get the socials links on the bottom of the page.
 Gather all the footer links and their corresponding text and store them in a CSV file.
-Collect all the labels/text associated with any selectable options on the page and store them in a CSV file.
+Get the title of the list and save it as a single row in a CSV file.

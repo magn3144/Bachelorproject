@@ -1,15 +1,19 @@
 import csv
 from lxml import html
-from bs4 import BeautifulSoup
 
+# Open the file and parse into an html element tree
 with open('downloaded_pages/imdb.html', 'r') as file:
-    soup = BeautifulSoup(file, 'lxml')
+    tree = html.fromstring(file.read())
 
-footer = soup.find('footer')
-links = footer.find_all('a')
+# XPath to match all footer link elements
+footer_link_elements = tree.xpath('//body//footer//a')
+
+# Open CSV file
 with open('scraped_data.csv', 'w', newline='') as csvfile:
-    fieldnames = ['Text', 'Link']
+    fieldnames = ['Link Text', 'Link URL']
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+
     writer.writeheader()
-    for link in links:
-        writer.writerow({'Text': link.text, 'Link': link.get('href')})
+    # Write each footer link to the CSV
+    for element in footer_link_elements:
+        writer.writerow({ 'Link Text': element.text_content().strip(), 'Link URL': element.get('href') })

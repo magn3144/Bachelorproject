@@ -1,24 +1,32 @@
 import csv
-import lxml.html as lh
+from lxml import html
 import os
 
-path = "downloaded_pages/imdb.html"
-doc = lh.fromstring(open(path).read())
+file_path = os.path.join("downloaded_pages", "imdb.html")
 
-nav_elements = doc.xpath('//*[@id="navMenu1"]/div[2]/ul/li')
-nav_dict = {'Site Options': [], 'Links': []}
+with open(file_path, "r") as file:
+    content = file.read()
 
-for element in nav_elements:
-    nav_text = element.xpath('.//a/text()')
-    link = element.xpath('.//a/@href')
+parsed_html = html.fromstring(content)
 
-    if nav_text and link: 
-        nav_dict['Site Options'].append(nav_text[0])
-        nav_dict['Links'].append(link[0])
+data = []
+for i in range(1, 251):
+    movie_name_path = f"/html/body/div[2]/main/div/div[3]/section/div/div[2]/div/ul/li[{i}]/div[2]/div/div/div[1]/a/h3"
+    movie_ratings_path = f"/html/body/div[2]/main/div/div[3]/section/div/div[2]/div/ul/li[{i}]/div[2]/div/div/span/div/span/span"
 
-with open('scraped_data.csv', 'w', newline='') as csvfile:
-    fieldnames = ['Site Options', 'Links']
-    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+    movie_name = parsed_html.xpath(movie_name_path)
+    movie_ratings = parsed_html.xpath(movie_ratings_path)
 
+    if movie_name and movie_ratings:
+        movie_name = movie_name[0].text_content()
+        movie_ratings = movie_ratings[0].text_content().replace("(", "").replace(")", "").replace("K", "000")
+
+        data.append({
+            "Movie": movie_name,
+            "Ratings": movie_ratings
+        })
+
+with open("scraped_data.csv", "w", newline="") as file:
+    writer = csv.DictWriter(file, fieldnames=["Movie", "Ratings"])
     writer.writeheader()
-    writer.writerows([{'Site Options': n, 'Links': l} for n, l in zip(nav_dict['Site Options'], nav_dict['Links'])])
+    writer.writerows(data)
