@@ -130,7 +130,7 @@ print("2a: dataset loaded")
 lr = 0.001
 epochs = 1
 r = 16
-data_splits = [860/10 * i for i in range(1, 11)]
+data_splits = [int(860/10 * i) for i in range(1, 11)]
 print("Data splits:", data_splits)
 
 for data_split in data_splits:
