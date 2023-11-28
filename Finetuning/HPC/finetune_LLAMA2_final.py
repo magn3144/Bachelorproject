@@ -1,7 +1,7 @@
 # Save a txt file to trained_models folder, to show that this script has started
 print("1: This script has started")
 
-from transformers import AutoModelForCausalLM,AutoTokenizer,BitsAndBytesConfig,TrainingArguments
+from transformers import AutoModelForCausalLM,AutoTokenizer,BitsAndBytesConfig,TrainingArguments,set_seed
 from peft import LoraConfig, PeftModel
 import torch
 from datasets import load_dataset
@@ -124,31 +124,26 @@ def upload_to_huggingface(model, tokenizer, finetuned_model_name):
 model_name = "codellama/CodeLlama-7b-Python-hf" # "meta-llama/Llama-2-7b-hf"
 dataset_name = "magnus42/GPTWebScrapingPythonCode"
 finetuned_model_name = "magnus42/llama2-python-web-scraping"
-save_directory = "/work3/s204164/LLAMA2_Finetuning/trained_models/epochs_test"
+save_directory = "/work3/s204164/LLAMA2_Finetuning/trained_models/final_model"
 dataset = load_dataset(dataset_name, split="train[0:860]") #860
 print("2a: dataset loaded")
 
 lr = 0.001
-epoch_values = [epoch for epoch in range(1, 16)]
+epochs = 1
 r = 16
-print("epoch values:", epoch_values)
+seed = 42
 
-for epochs in epoch_values:
-    finetune_name = f"finetuned_epochs{epochs}"
-    # Check if model has already been trained
-    if os.path.exists(save_directory + "/" + finetune_name):
-        print(f"Model '{finetune_name}' has already been trained")
-        continue
-
-    print(f"finetune_name: {finetune_name}")
-    trainer, model = reload_model(model_name, dataset, r, epochs, lr)
-    trainer.train()
-    save_model(trainer, model, save_directory, finetune_name)
-    # upload_to_huggingface(model_name, save_directory, finetune_name)
-    print(f"4: Model '{finetune_name}' has been trained and saved to file")
-    # Clear the memory footprint
-    del model, trainer
-    torch.cuda.empty_cache()
+set_seed(seed)
+finetune_name = f"finetuned_lr{lr}_e{epochs}_r{r}_seed{seed}"
+print(f"finetune_name: {finetune_name}")
+trainer, model = reload_model(model_name, dataset, r, epochs, lr)
+trainer.train()
+save_model(trainer, model, save_directory, finetune_name)
+# upload_to_huggingface(model_name, save_directory, finetune_name)
+print(f"4: Model '{finetune_name}' has been trained and saved to file")
+# Clear the memory footprint
+del model, trainer
+torch.cuda.empty_cache()
 
 
 print("This script has finished")

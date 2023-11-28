@@ -15,7 +15,8 @@ def validation_loss(model, tokenizer, validation_set):
     for i in range(len(validation_set["input_ids"])):
         input_ids = validation_set["input_ids"][i].unsqueeze(0)
         attention_mask = validation_set["attention_mask"][i].unsqueeze(0)
-        outputs = model(input_ids=input_ids, attention_mask=attention_mask, labels=input_ids)
+        with torch.no_grad():
+            outputs = model(input_ids=input_ids, attention_mask=attention_mask, labels=input_ids)
         loss = outputs.loss
         validation_loss_sum += loss.item()
     validation_loss = validation_loss_sum / len(validation_set["input_ids"])

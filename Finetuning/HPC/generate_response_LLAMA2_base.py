@@ -4,9 +4,10 @@ import os
 import torch
 from datasets import load_dataset
 import json
+import pandas as pd
 
 
-def load_finetuned_model(base_model_name, model_directory, finetune_name):
+def load_base_model(base_model_name):
     base_model = AutoModelForCausalLM.from_pretrained(
         base_model_name,
         low_cpu_mem_usage=True,
@@ -14,11 +15,6 @@ def load_finetuned_model(base_model_name, model_directory, finetune_name):
         torch_dtype=torch.float16,
         device_map= {"": 0})
 
-    print(model_directory + "/" + finetune_name)
-    model = PeftModel.from_pretrained(base_model, model_directory + "/" + finetune_name)
-    model = model.merge_and_unload()
-
-    # Reload tokenizer
     tokenizer = AutoTokenizer.from_pretrained(base_model_name, trust_remote_code=True)
     tokenizer.pad_token = tokenizer.eos_token
     tokenizer.padding_side = "right"
@@ -36,25 +32,19 @@ def get_prompt(dataset, index):
     return dataset[index] + " ### Response: ```"
 
 
-folder_name = "final_model"
 dataset_name = "magnus42/GPTWebScrapingPythonCode"
 base_model_name = "codellama/CodeLlama-7b-Python-hf"
-save_directory = f"trained_models/{folder_name}"
 test_set = load_dataset(dataset_name, split="test")["prompt"]
-response_dict = {}
+responses = []
 
-# For each folder in the save directory
-for finetune_name in os.listdir(save_directory):
-    if "finetuned" not in finetune_name:
-        continue
-    model, tokenizer = load_finetuned_model(base_model_name, save_directory, finetune_name)
-    for i in range(len(test_set)):
-        prompt = get_prompt(test_set, i)
-        print(prompt)
-        print("-------------------")
-        response = generate_response(model, tokenizer, prompt)
-        response_dict.setdefault(finetune_name, []).append(response)
+model, tokenizer = load_base_model(base_model_name)
+for i in range(len(test_set)):
+    prompt = get_prompt(test_set, i)
+    print(prompt)
+    print("-------------------")
+    response = generate_response(model, tokenizer, prompt)
+    responses.append(response)
 
-# Save the respose_dict as a json file using json.dump
-with open(f"trained_models/{folder_name}/generated_responses.json", "w") as file:
-    json.dump(response_dict, file)
+# Save the resposes list as a CSV file
+df = pd.DataFrame(responses)
+df.to_csv(f"generated_responses_base.csv", index=False)
