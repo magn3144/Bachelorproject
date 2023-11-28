@@ -19,7 +19,7 @@ def load_base_model(base_model_name):
     tokenizer.pad_token = tokenizer.eos_token
     tokenizer.padding_side = "right"
 
-    return model, tokenizer
+    return base_model, tokenizer
 
 def generate_response(model, tokenizer, prompt):
     runtimeFlag = "cuda:0"
