@@ -1,20 +1,22 @@
 import csv
 from lxml import html
+from bs4 import BeautifulSoup
 
-# open the local file
-with open('downloaded_pages/imdb.html', 'r', encoding='utf-8') as file:
-    page_html = file.read()
+# Load the page
+with open("downloaded_pages/imdb.html", "r") as f:
+    page = f.read()
 
-# create the HTML Element object
-page_element = html.fromstring(page_html)
+# Parse the page with BeautifulSoup
+soup = BeautifulSoup(page, 'lxml')
 
-# define the XPaths to select data
-ratings = []
-for i in range(1, 251):
-    xpath_rating = f'//*[@id="__next"]/main/div/div[3]/section/div/div[2]/div/ul/li[{i}]/div[2]/div/div/div[2]/span[2]/text()'
-    ratings.append(page_element.xpath(xpath_rating))
+# Find the movie duration elements by their class
+duration_elements = soup.find_all('span', {'class': 'sc-c7e5f54-8 fiTXuB cli-title-metadata-item'})
 
-# write the data into a CSV file
-with open('scraped_data.csv', 'w', newline='', encoding='utf-8') as file:
-    writer = csv.writer(file)
-    writer.writerows(ratings)
+# Extract the durations and movie titles, then store them in a list of dictionaries
+data = [{'movie': elem.find_previous('h3', {'class': 'ipc-title__text'}).text, 'duration': elem.text} for elem in duration_elements]
+
+# Write the list of dictionaries to a CSV file
+with open('scraped_data.csv', 'w') as f:
+    writer = csv.DictWriter(f, fieldnames=['movie', 'duration'])
+    writer.writeheader()
+    writer.writerows(data)

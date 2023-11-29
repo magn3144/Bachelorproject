@@ -1,13 +1,22 @@
 import csv
 from lxml import html
+from pathlib import Path
 
-with open('downloaded_pages/imdb.html', 'r') as file:
-    page_content = file.read()
+def get_title(file_path):
+    tree = html.parse(file_path)
+    title_path = '/html/body/div[2]/main/div/div[3]/section/div/div[1]/div/div[2]/hgroup/h1'
+    title = tree.xpath(title_path)[0].text
+    return title
 
-tree = html.fromstring(page_content)
+def save_to_csv(data, file_name):
+    with open(file_name, 'w', newline='') as file:
+        writer = csv.writer(file)
+        writer.writerow([data])
 
-title = tree.xpath('/html/body/div[2]/main/div/div[3]/section/div/div[1]/div/div[2]/hgroup/h1/text()')[0]
+def main():
+    file_path = 'downloaded_pages/imdb.html'
+    title = get_title(file_path)
+    save_to_csv(title, 'scraped_data.csv')
 
-with open('scraped_data.csv', 'w', newline='') as csvfile:
-    writer = csv.writer(csvfile)
-    writer.writerow([title])
+if __name__ == "__main__":
+    main()

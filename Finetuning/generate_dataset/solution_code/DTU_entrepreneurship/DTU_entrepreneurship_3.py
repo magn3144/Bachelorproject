@@ -1,19 +1,22 @@
-import requests
-from bs4 import BeautifulSoup
 import csv
+from bs4 import BeautifulSoup
 
-html_path = "downloaded_pages/DTU_entrepreneurship.html"
-with open(html_path, "r") as f:
-    page_content = f.read()
+def write_to_csv(buttons):
+    with open("scraped_data.csv", "w", newline='') as file:
+        writer = csv.writer(file)
+        writer.writerow(["Button Text"])
+        for button in buttons:
+            writer.writerow([button])
 
-soup = BeautifulSoup(page_content, 'html.parser')
+def get_button_texts(path):
+    with open(path, "r") as file:
+        soup = BeautifulSoup(file, "html.parser")
+        nav = soup.find('nav')
+        if nav is not None:
+            anchors = nav.find_all('a')
+            return [anchor.text for anchor in anchors]
+        return []
 
-# Find all with class mainButton
-header_buttons = soup.find_all("a", class_="mainButton")
-
-header_text = [button.text for button in header_buttons]
-
-with open("scraped_data.csv", "w", newline="") as f:
-    writer = csv.writer(f)
-    for header in header_text:
-        writer.writerow([header])
+path = "downloaded_pages/DTU_entrepreneurship.html"
+buttons = get_button_texts(path)
+write_to_csv(buttons)

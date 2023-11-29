@@ -1,24 +1,19 @@
 import csv
 from lxml import html
-from typing import List
 
-def parse(file_path: str) -> List[str]:
-    parser = html.HTMLParser(encoding='utf-8')
-    with open(file_path, 'r', encoding='utf-8') as file:
-        tree = html.parse(file, parser=parser)
-    titles = tree.xpath('//h3[@class="ipc-title__text"]/text()')
-    # Remove titles not starting with a number
-    titles = [title for title in titles if title[0].isdigit()]
+# read the html file
+with open('downloaded_pages/imdb.html', 'r') as f:
+    page_content = f.read()
 
-    return titles
+# convert it into an html element tree
+tree = html.fromstring(page_content)
 
-def write_to_csv(data: List[str], file_name: str = 'scraped_data.csv') -> None:
-    with open(file_name, 'w', newline='', encoding='utf-8') as file:
-        writer = csv.writer(file)
-        for item in data:
-            writer.writerow([item])
+# get movie titles
+movie_titles = tree.xpath('//div[@class="lister-list"]/div//a/h3/text()')
 
-
-file_path = 'downloaded_pages/imdb.html'
-parsed_data = parse(file_path)
-write_to_csv(parsed_data)
+# write the data into a CSV file
+with open('scraped_data.csv', 'w') as f:
+    writer = csv.writer(f)
+    writer.writerow(['Movie Title'])
+    for title in movie_titles:
+        writer.writerow([title])

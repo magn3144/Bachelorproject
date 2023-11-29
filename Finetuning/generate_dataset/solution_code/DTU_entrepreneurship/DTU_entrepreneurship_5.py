@@ -1,22 +1,15 @@
 import csv
+from lxml import html
 from bs4 import BeautifulSoup
-import os
 
+html_content = ''
+with open('downloaded_pages/DTU_entrepreneurship.html', 'r') as file:
+    html_content = file.read()
 
-html_file_path = os.path.join('downloaded_pages', 'DTU_entrepreneurship.html')
+soup = BeautifulSoup(html_content, "lxml")
+links = soup.find_all('a')
+absolute_links = ['http://www.dtu.dk' + link.get('href') if link.get('href').startswith('/') else link.get('href') for link in links if link.get('href') != None]
 
-with open(html_file_path, 'r') as file:
-    soup = BeautifulSoup(file.read(), 'html.parser')
-
-    links = soup.find_all('a')
-
-    with open('scraped_data.csv', 'w', newline='') as csvfile:
-        writer = csv.writer(csvfile)
-        writer.writerow(['Link Text', 'Link URL'])
-
-        for link in links:
-            link_text = link.text
-            link_text = link_text.replace(',', '').replace('\n', '')
-            link_url = link.get('href')
-            if link_text and link_url:
-                writer.writerow([link_text, link_url])
+with open('scraped_data.csv', 'w') as file:
+    writer = csv.writer(file)
+    [writer.writerow([link]) for link in absolute_links]

@@ -1,32 +1,25 @@
 import csv
-from lxml import html
-import os
+import lxml.html
 
-file_path = os.path.join("downloaded_pages", "imdb.html")
+def scrape_html(file_path):
+    tree = lxml.html.parse(file_path)
+    root = tree.getroot()
+    
+    movies = root.xpath('//div[@class="ipc-title__text"]/a/h3')
+    ratings = root.xpath('//span[@class="ipc-rating-star--voteCount"]')
 
-with open(file_path, "r") as file:
-    content = file.read()
+    data = []
+    for movie, rating in zip(movies, ratings):
+        data.append([movie.text, rating.text.strip()])
 
-parsed_html = html.fromstring(content)
+    return data
 
-data = []
-for i in range(1, 251):
-    movie_name_path = f"/html/body/div[2]/main/div/div[3]/section/div/div[2]/div/ul/li[{i}]/div[2]/div/div/div[1]/a/h3"
-    movie_ratings_path = f"/html/body/div[2]/main/div/div[3]/section/div/div[2]/div/ul/li[{i}]/div[2]/div/div/span/div/span/span"
+def save_to_csv(data, file_path):
+    with open(file_path, 'w', newline='') as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerow(["Title", "Ratings count"])
+        writer.writerows(data)
 
-    movie_name = parsed_html.xpath(movie_name_path)
-    movie_ratings = parsed_html.xpath(movie_ratings_path)
-
-    if movie_name and movie_ratings:
-        movie_name = movie_name[0].text_content()
-        movie_ratings = movie_ratings[0].text_content().replace("(", "").replace(")", "").replace("K", "000")
-
-        data.append({
-            "Movie": movie_name,
-            "Ratings": movie_ratings
-        })
-
-with open("scraped_data.csv", "w", newline="") as file:
-    writer = csv.DictWriter(file, fieldnames=["Movie", "Ratings"])
-    writer.writeheader()
-    writer.writerows(data)
+if __name__ == "__main__":
+    data = scrape_html('downloaded_pages/imdb.html')
+    save_to_csv(data, 'scraped_data.csv')

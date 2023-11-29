@@ -1,26 +1,31 @@
-import requests
-from bs4 import BeautifulSoup
 import csv
+from bs4 import BeautifulSoup
+import os
 
-def write_to_csv(data):
-    with open('scraped_data.csv', mode='w') as file:
-        writer = csv.writer(file)
-        for url in data:
-            writer.writerow([url])
+def get_social_links(soup):
+    footer = soup.find('footer')
+    links = footer.find_all('a')
 
-def extract_social_links(page_path):
-    with open(page_path, 'r', encoding='utf8') as file:
-        page_content = file.read()
-    soup = BeautifulSoup(page_content, 'lxml')
     social_links = []
-
-    for link in soup.find_all('a', href=True):
-        if "facebook.com" in link['href'] or "instagram.com" in link['href'] or \
-           "linkedin.com" in link['href'] or "twitter.com" in link['href'] or "youtube.com" in link['href']:
-            social_links.append(link['href'].replace('\n', ''))
-    
+    for link in links:
+        href = link.get('href')
+        if 'facebook.com' in href or 'linkedin.com' in href or 'instagram.com' in href or 'twitter.com' in href:
+            social_links.append(href)
     return social_links
 
+def write_to_csv(data):
+    with open('scraped_data.csv', 'w', newline='') as file:
+        writer = csv.writer(file)
+        writer.writerow(["social_links"])
+        for row in data:
+            writer.writerow([row])
 
-social_links = extract_social_links("downloaded_pages/DTU_entrepreneurship.html")
-write_to_csv(social_links)
+if __name__ == "__main__":
+    filepath = os.path.join('downloaded_pages', 'DTU_entrepreneurship.html')
+    with open(filepath, 'r') as file:
+        content = file.read()
+
+    soup = BeautifulSoup(content, 'html.parser')
+    social_links = get_social_links(soup)
+    
+    write_to_csv(social_links)

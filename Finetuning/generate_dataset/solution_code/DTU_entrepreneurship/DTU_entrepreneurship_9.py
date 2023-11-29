@@ -1,39 +1,30 @@
 import csv
-from lxml import html
 import requests
+from lxml import html
 
+def scrape_department_links(path):
+    with open(path, 'r') as file:
+        page_content = file.read()
 
-def scrape_DTU():
-    with open("./downloaded_pages/DTU_entrepreneurship.html", "r") as file:
-        page = file.read()
+    tree = html.fromstring(page_content)
 
-    tree = html.fromstring(page)
-    
-    departments_and_centres = tree.xpath(
-        '/html/body/form/div[3]/footer/div[2]/div[1]/div/div[2]/nav/div[1]/div/div/div[3]//*')
+    department_headers = tree.xpath('//h2[text()="Departments and Centres"]')
 
-    scraped_data = []
-    scraped_data.extend(get_data(departments_and_centres))
+    departments = []
 
-    write_to_csv(scraped_data)
+    for header in department_headers:
+        div = header.getparent()
+        links = div.xpath('.//a')
 
+        for link in links:
+            name = link.text_content()
+            departments.append({'name': name})
 
-def get_data(elements):
-    data = []
-    for element in elements:
-        text = element.text
-        link = element.get('href')
-        if text and link:
-            data.append({"department name": text, "link": link})
-    return data
+    with open('scraped_data.csv', 'w', newline='') as file:
+        fieldnames = ['name']
+        writer = csv.DictWriter(file, fieldnames=fieldnames)
 
+        writer.writeheader()
+        writer.writerows(departments)
 
-def write_to_csv(data):
-    keys = data[0].keys()
-    with open('scraped_data.csv', 'w', newline='') as output_file:
-        dict_writer = csv.DictWriter(output_file, keys)
-        dict_writer.writeheader()
-        dict_writer.writerows(data)
-
-
-scrape_DTU()
+scrape_department_links('downloaded_pages/DTU_entrepreneurship.html')

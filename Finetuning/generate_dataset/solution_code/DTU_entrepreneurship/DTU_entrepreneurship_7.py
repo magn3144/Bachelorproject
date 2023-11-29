@@ -1,17 +1,18 @@
 import csv
+from lxml import etree
 from bs4 import BeautifulSoup
 
-with open('downloaded_pages/DTU_entrepreneurship.html', 'r') as file:
-    soup = BeautifulSoup(file, 'html.parser')
+def scrape_headings(file_path):
+    with open(file_path, 'r') as file:
+        html_text = file.read()
 
-h2_headings = soup.find_all('h2', class_="a-heading-h1 o-hero__title")
+    soup = BeautifulSoup(html_text, 'lxml')
+    headings = [heading.text for heading in soup.find_all('h2')]
 
-data = []
+    with open('scraped_data.csv', 'w', newline='') as file:
+        writer = csv.writer(file)
 
-for h2 in h2_headings:
-    data.append(h2.text)
+        for heading in headings:
+            writer.writerow([heading])
 
-with open('scraped_data.csv', 'w') as file:
-    writer = csv.writer(file)
-    for row in data:
-        writer.writerow([row])
+scrape_headings('downloaded_pages/DTU_entrepreneurship.html')
