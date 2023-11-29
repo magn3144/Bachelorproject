@@ -34,8 +34,9 @@ def get_prompt(dataset, index):
 
 dataset_name = "magnus42/GPTWebScrapingPythonCode"
 base_model_name = "codellama/CodeLlama-7b-Python-hf"
+response_directory = f"responses_base"
 test_set = load_dataset(dataset_name, split="test")["prompt"]
-responses = []
+task_names = load_dataset(dataset_name, split="test")["task"]
 
 model, tokenizer = load_base_model(base_model_name)
 for i in range(len(test_set)):
@@ -43,8 +44,7 @@ for i in range(len(test_set)):
     print(prompt)
     print("-------------------")
     response = generate_response(model, tokenizer, prompt)
-    responses.append(response)
-
-# Save the resposes list as a CSV file
-df = pd.DataFrame(responses)
-df.to_csv(f"generated_responses_base.csv", index=False)
+    if not os.path.exists(response_directory):
+        os.makedirs(response_directory)
+    with open(f"{response_directory}/{task_names[i]}.txt", "w") as file:
+        file.write(response)

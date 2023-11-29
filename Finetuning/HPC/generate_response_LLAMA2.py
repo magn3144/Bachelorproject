@@ -40,8 +40,9 @@ folder_name = "final_model"
 dataset_name = "magnus42/GPTWebScrapingPythonCode"
 base_model_name = "codellama/CodeLlama-7b-Python-hf"
 save_directory = f"trained_models/{folder_name}"
+response_directory = f"trained_models/{folder_name}/responses"
 test_set = load_dataset(dataset_name, split="test")["prompt"]
-response_dict = {}
+task_names = load_dataset(dataset_name, split="test")["task"]
 
 # For each folder in the save directory
 for finetune_name in os.listdir(save_directory):
@@ -53,8 +54,8 @@ for finetune_name in os.listdir(save_directory):
         print(prompt)
         print("-------------------")
         response = generate_response(model, tokenizer, prompt)
-        response_dict.setdefault(finetune_name, []).append(response)
-
-# Save the respose_dict as a json file using json.dump
-with open(f"trained_models/{folder_name}/generated_responses.json", "w") as file:
-    json.dump(response_dict, file)
+        # Save the response as a text file in the response directory (create if it doesn't exist)
+        if not os.path.exists(response_directory):
+            os.makedirs(response_directory)
+        with open(f"{response_directory}/{task_names[i]}.txt", "w") as file:
+            file.write(response)
