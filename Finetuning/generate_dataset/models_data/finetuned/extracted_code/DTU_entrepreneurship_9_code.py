@@ -4,18 +4,16 @@ from lxml import html
 
 # Load the HTML file
 with open('downloaded_pages/DTU_entrepreneurship.html', 'r') as f:
-    page_content = f.read()
+    content = f.read()
 
 # Parse the HTML
-tree = html.fromstring(page_content)
+tree = html.fromstring(content)
 
-# Find the element with the text "11 NOVEMBER 2023"
-element = tree.xpath("//div[contains(text(), '11 NOVEMBER 2023')]")
+# Find the department name and link
+department_name = tree.xpath('//*[@id="footerDepartments"]/h2')[0].text
+department_link = tree.xpath('//*[@id="footerDepartments"]/ul/li[1]/a')[0].attrib['href']
 
-# Extract the text from the element
-text = element[0].text.strip()
-
-# Save the scraped data as a CSV file
+# Save the data as a CSV file
 with open('scraped_data.csv', 'w', newline='') as f:
     writer = csv.writer(f)
-    writer.writerow([text])
+    writer.writerow([department_name, department_link])

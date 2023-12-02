@@ -9,13 +9,23 @@ with open('downloaded_pages/DTU_entrepreneurship.html', 'r') as f:
 # Parse the HTML
 tree = html.fromstring(page_content)
 
-# Find the Education link
-education_link = tree.xpath('//*[@id="footerJob"]/div/div[2]/ul/li[2]/a')
+# Find all courses on the page
+courses = tree.xpath('//div[contains(@class, "course")]')
 
-# Extract the text from the link
-education_text = education_link[0].text
+# Create a list to store the scraped data
+scraped_data = []
+
+# Iterate over the courses
+for course in courses:
+    # Get the course name and semester
+    course_name = course.xpath('.//h2/span/text()')[0].strip()
+    semester = course.xpath('.//h2/span[2]/text()')[0].strip()
+
+    # Save the data
+    scraped_data.append([semester, course_name])
 
 # Save the scraped data as a CSV file
-with open('scraped_data.csv', 'w', newline='') as csvfile:
-    writer = csv.writer(csvfile)
-    writer.writerow([education_text])
+with open('scraped_data.csv', 'w', newline='') as f:
+    writer = csv.writer(f)
+    writer.writerow(['Semester', 'Course Name'])
+    writer.writerows(scraped_data)

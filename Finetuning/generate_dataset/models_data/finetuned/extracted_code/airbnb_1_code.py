@@ -9,24 +9,14 @@ with open('downloaded_pages/airbnb.html', 'r') as f:
 # Parse the HTML
 tree = html.fromstring(content)
 
-# Find the sitemap link
-sitemap_link = tree.xpath('//a[contains(text(), "Site")]')[0].get('href')
+# Find the "show more" buttons
+show_more_buttons = tree.xpath('//div[@class="_b0zlx4m"]/button[@class="_14lwomh"]')
 
-# Download the sitemap
-with open('sitemap.html', 'w') as f:
-    f.write(sitemap_link)
+# Extract the classes of the buttons
+button_classes = [button.attrib['class'] for button in show_more_buttons]
 
-# Parse the sitemap
-tree = html.fromstring(content)
-
-# Find all the listings
-listings = tree.xpath('//div[contains(@class, "t1jojoys")]')
-
-# Save the scraped data as a CSV file
-with open('scraped_data.csv', 'w') as f:
+# Save the data as a CSV file
+with open('scraped_data.csv', 'w', newline='') as f:
     writer = csv.writer(f)
-    writer.writerow(['Title', 'URL'])
-    for listing in listings:
-        title = listing.xpath('div[@class="t1jojoys dir dir-ltr"]')[0].text
-        url = listing.xpath('a[@class="l1ovpqvx c1kblhex dir dir-ltr"]')[0].get('href')
-        writer.writerow([title, url])
+    writer.writerow(['Classes'])
+    writer.writerows([button_classes])

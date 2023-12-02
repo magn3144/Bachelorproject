@@ -9,15 +9,10 @@ with open('downloaded_pages/imdb.html', 'r') as f:
 # Parse the HTML
 tree = html.fromstring(page_content)
 
-# Find the elements with the given XPaths
-titles = tree.xpath('//*[@class="ipc-title__text"]')
-release_years = tree.xpath('//*[@class="ipc-title__year"]')
+# Find the title of the list
+title = tree.xpath('//*[@id="top250-title"]/div/h1/text()')[0]
 
-# Create a list of tuples with the title and release year
-data = list(zip(titles, release_years))
-
-# Save the data as a CSV file
+# Save the scraped data as a CSV file
 with open('scraped_data.csv', 'w', newline='') as f:
     writer = csv.writer(f)
-    writer.writerow(['Title', 'Release Year'])
-    writer.writerows(data)
+    writer.writerow([title])

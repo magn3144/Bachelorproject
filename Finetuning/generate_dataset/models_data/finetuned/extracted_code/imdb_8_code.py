@@ -9,13 +9,14 @@ with open('downloaded_pages/imdb.html', 'r') as f:
 # Parse the HTML
 tree = html.fromstring(page_content)
 
-# Find the elements with the given XPaths
-titles = tree.xpath('//*[@class="ipc-title__text"]')
-release_years = tree.xpath('//*[@class="ipc-meta-item__value"]')
+# Find all the footer links
+footer_links = tree.xpath('//footer/div[3]/div[1]/div[3]/ul/li/a')
 
-# Save the scraped data as a CSV file
+# Create a list of tuples containing the link text and the corresponding URL
+data = [(link.text, link.attrib['href']) for link in footer_links]
+
+# Save the data as a CSV file
 with open('scraped_data.csv', 'w', newline='') as f:
     writer = csv.writer(f)
-    writer.writerow(['Title', 'Release Year'])
-    for title, release_year in zip(titles, release_years):
-        writer.writerow([title.text, release_year.text])
+    writer.writerow(['Link Text', 'URL'])
+    writer.writerows(data)

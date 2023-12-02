@@ -9,14 +9,17 @@ with open('downloaded_pages/imdb.html', 'r') as f:
 # Parse the HTML
 tree = html.fromstring(page_content)
 
-# Find the elements containing the release years
-release_years = tree.xpath('//span[@class="fiTXuB cli-title-metadata-item"]')
+# Find all the movie rating elements
+rating_elements = tree.xpath('//span[@class="ipc-rating-star--rate"]')
 
-# Extract the release years
-release_years = [release_year.text for release_year in release_years]
+# Find all the movie title elements
+title_elements = tree.xpath('//div[@class="sc-bb1bba6c-1 ipcpFw news-preview-card-articleTitle"]')
 
-# Save the release years as a CSV file
+# Create a list of tuples containing the rating and the movie title
+data = [(rating_elements[i].text, title_elements[i].text) for i in range(len(rating_elements))]
+
+# Save the data as a CSV file
 with open('scraped_data.csv', 'w', newline='') as f:
     writer = csv.writer(f)
-    writer.writerow(['Release Year'])
-    writer.writerows([release_years])
+    writer.writerow(['Rating', 'Movie'])
+    writer.writerows(data)

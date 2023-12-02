@@ -9,13 +9,17 @@ with open('downloaded_pages/DTU_entrepreneurship.html', 'r') as f:
 # Parse the HTML
 tree = html.fromstring(content)
 
-# Find the newsletter heading
-newsletter_heading = tree.xpath('//h2[contains(text(), "Newsletter")]')[0]
+# Find all the header buttons
+buttons = tree.xpath('//header/div[2]/div/div/button')
 
-# Extract the text from the newsletter heading
-newsletter_text = newsletter_heading.text_content().strip()
+# Create a list to store the scraped data
+scraped_data = []
+
+# Loop over the buttons and extract the text
+for button in buttons:
+    scraped_data.append([button.text])
 
 # Save the scraped data as a CSV file
 with open('scraped_data.csv', 'w', newline='') as f:
     writer = csv.writer(f)
-    writer.writerow([newsletter_text])
+    writer.writerows(scraped_data)

@@ -9,13 +9,14 @@ with open('downloaded_pages/DTU_entrepreneurship.html', 'r') as f:
 # Parse the HTML
 tree = html.fromstring(page_content)
 
-# Find the link element
-link_element = tree.xpath('//span[contains(text(), "DTU.dk")]/../a')
+# Find all the social links
+social_links = tree.xpath('//a[contains(@class, "sitelink")]')
 
-# Extract the text from the link element
-link_text = link_element[0].text
+# Extract the social links and their corresponding text
+social_links_and_text = [(link.text, link.attrib['href']) for link in social_links]
 
 # Save the scraped data as a CSV file
-with open('scraped_data.csv', 'w', newline='') as csvfile:
-    writer = csv.writer(csvfile)
-    writer.writerow([link_text])
+with open('scraped_data.csv', 'w', newline='') as f:
+    writer = csv.writer(f)
+    writer.writerow(['Text', 'URL'])
+    writer.writerows(social_links_and_text)

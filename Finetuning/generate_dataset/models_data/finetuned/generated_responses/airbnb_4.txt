@@ -4,20 +4,20 @@ Here are some randomly selected HTML elements (containing text), and their corre
 <a class="l1ovpqvx c1kblhex dir dir-ltr">Airbnb-friendly apartments</a>
 /html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[1]/section[2]/ul/li[6]/a
 ----------------
-<a class="_r243u8q l1ovpqvx dir dir-ltr">Sitemap</a>
-/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[2]/section/div[3]/div[1]/div/div[2]/span[2]/ol/li[2]/a
+<a class="_r243u8q l1ovpqvx dir dir-ltr">Terms</a>
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[2]/section/div[1]/div[2]/div/div[2]/span[2]/ol/li[1]/a
 ----------------
 <span class="u17llcap dir dir-ltr">Learn about Guest Favorites, the most loved homes </span>
-/html/body/div[5]/div/div/div[1]/div/div[2]/div[1]/div/div/div/div/h1/div[3]/a/span
+/html/body/div[5]/div/div/div[1]/div/div[2]/div[1]/div/div/div/div/h1/div[1]/a/span
 ----------------
-<span class="ti7yjx dir dir-ltr">Grand pianos</span>
-/html/body/div[5]/div/div/div[1]/div/div[2]/div[3]/div/div/div/div/div/div/div/div[1]/div/div/div/div/div[3]/div/div/div/div/label[48]/div/span/div/span
+<span class="dir dir-ltr">Nov 18 – 25</span>
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[2]/div/div/div/div/div[1]/div[10]/div/div[2]/div/div/div/div/div/div[2]/div[3]/span/span
 ----------------
-<div class="t1jojoys dir dir-ltr" id="title_689161363553525770">Nykøbing Sjælland, Denmark</div>
-/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[2]/div/div/div/div/div[1]/div[35]/div/div[2]/div/div/div/div/div/div[2]/div[1]
+<div class="db9tcim dir dir-ltr" id="category-bar-description">17 of 61 Airbnb Categories showing</div>
+/html/body/div[5]/div/div/div[1]/div/div[2]/div[3]/div/div/div/div/div/div/div/div[1]/div/div/div/div/div[1]
 ----------------
 <div class="t1qa5xaj dir dir-ltr">Guest favorite</div>
-/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[2]/div/div/div/div/div[1]/div[24]/div/div[2]/div/div/div/div/div/div[1]/div/div/div[1]/div/div[1]/div[1]/div/div
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[2]/div/div/div/div/div[1]/div[20]/div/div[2]/div/div/div/div/div/div[1]/div/div/div[1]/div/div[1]/div[1]/div/div
 ----------------
 <h2 class="hifxi0b dir dir-ltr">Inspiration for future getaways</h2>
 /html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[1]/div/div/div/div/h2
@@ -25,64 +25,64 @@ Here are some randomly selected HTML elements (containing text), and their corre
 <h2 id="footerHeading">Site Footer</h2>
 /html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/span/h2
 ----------------
-<h3 class="trsc28b dir dir-ltr">Hosting</h3>
-/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[1]/section[2]/h3
+<h3 class="trsc28b dir dir-ltr">Airbnb</h3>
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[1]/section[3]/h3
 ----------------
 <a class="l1ovpqvx c1kblhex dir dir-ltr">Airbnb.org emergency stays</a>
 /html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[1]/section[3]/ul/li[6]/a
 ----------------
-<a class="l1ovpqvx c1kblhex dir dir-ltr">AirCover</a>
-/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[1]/section[1]/ul/li[2]/a
+<a class="l1ovpqvx c1kblhex dir dir-ltr">Careers</a>
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[1]/section[3]/ul/li[3]/a
 ----------------
 <span class="u17llcap dir dir-ltr">Learn about Guest Favorites, the most loved homes </span>
-/html/body/div[5]/div/div/div[1]/div/div[2]/div[1]/div/div/div/div/h1/div[2]/div/a/span
+/html/body/div[5]/div/div/div[1]/div/div[2]/div[1]/div/div/div/div/h1/div[3]/a/span
 ----------------
-<span class="ti7yjx dir dir-ltr">Earth homes</span>
-/html/body/div[5]/div/div/div[1]/div/div[2]/div[3]/div/div/div/div/div/div/div/div[1]/div/div/div/div/div[3]/div/div/div/div/label[34]/div/span/div/span
+<span class="t4m7o8q t1mat252 dir dir-ltr">Glasgow</span>
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[1]/div/div/div/div/div/div[2]/div[1]/ul/li[60]/a/span[1]
 ----------------
-<div class="db9tcim dir dir-ltr" id="category-bar-description">17 of 61 Airbnb Categories showing</div>
-/html/body/div[5]/div/div/div[1]/div/div[2]/div[3]/div/div/div/div/div/div/div/div[1]/div/div/div/div/div[1]
+<div class="t1jojoys dir dir-ltr" id="title_689161363553525770">Nykøbing Sjælland, Denmark</div>
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[2]/div/div/div/div/div[1]/div[35]/div/div[2]/div/div/div/div/div/div[2]/div[1]
 ----------------
-<div class="t1jojoys dir dir-ltr" id="title_12457951">Tisvildeleje, Denmark</div>
-/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[2]/div/div/div/div/div[1]/div[32]/div/div[2]/div/div/div/div/div/div[2]/div[1]
-----------------
-<h3 class="trsc28b dir dir-ltr">Airbnb</h3>
-/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[1]/section[3]/h3
-----------------
-<a class="l1ovpqvx c1kblhex dir dir-ltr">Report neighborhood concern</a>
-/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[1]/section[1]/ul/li[6]/a
-----------------
-<a class="l1ovpqvx c1kblhex dir dir-ltr">Cancellation options</a>
-/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[1]/section[1]/ul/li[5]/a
-----------------
-<span class="u17llcap dir dir-ltr">Learn about Guest Favorites, the most loved homes </span>
-/html/body/div[5]/div/div/div[1]/div/div[2]/div[1]/div/div/div/div/h1/div[1]/a/span
-----------------
-<span class="dir dir-ltr">Nov 13 – 18</span>
-/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[2]/div/div/div/div/div[1]/div[1]/div/div[2]/div/div/div/div/div/div[2]/div[3]/span/span
-----------------
-<div class="t1qa5xaj dir dir-ltr">Guest favorite</div>
-/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[2]/div/div/div/div/div[1]/div[7]/div/div[2]/div/div/div/div/div/div[1]/div/div/div[1]/div/div[1]/div[1]/div/div
+<div class="t1jojoys dir dir-ltr" id="title_43448743">Frederiksværk, Denmark</div>
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[2]/div/div/div/div/div[1]/div[13]/div/div[2]/div/div/div/div/div/div[2]/div[1]
 ----------------
 <h3 class="trsc28b dir dir-ltr">Support</h3>
 /html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[1]/section[1]/h3
 ----------------
-<a class="l1ovpqvx c1kblhex dir dir-ltr">Airbnb your home</a>
-/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[1]/section[2]/ul/li[1]/a
+<a class="l1ovpqvx c1kblhex dir dir-ltr">Report neighborhood concern</a>
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[1]/section[1]/ul/li[6]/a
 ----------------
-<span class="r1dxllyb dir dir-ltr">4.92</span>
-/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[2]/div/div/div/div/div[1]/div[19]/div/div[2]/div/div/div/div/div/div[2]/span/span[2]
+<a class="l1ovpqvx c1kblhex dir dir-ltr">New features</a>
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[1]/section[3]/ul/li[2]/a
 ----------------
-<div class="pz9siyu pk4ruxu dir dir-ltr">Add dates</div>
-/html/body/div[5]/div/div/div[1]/div/div[2]/div[2]/div/div/div/header/div/div[2]/div[2]/div/div/div/form/div[2]/div[1]/div[3]/div[1]/div/div/div[2]
+<span class="u17llcap dir dir-ltr">Learn about Guest Favorites, the most loved homes </span>
+/html/body/div[5]/div/div/div[1]/div/div[2]/div[1]/div/div/div/div/h1/div[2]/div/a/span
 ----------------
-<a class="l1ovpqvx c1kblhex dir dir-ltr">Newsroom</a>
-/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[1]/section[3]/ul/li[1]/a
+<span class="t4m7o8q t1mat252 dir dir-ltr">Santorini</span>
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[1]/div/div/div/div/div/div[2]/div[1]/ul/li[38]/a/span[1]
 ----------------
-<span class="ti7yjx dir dir-ltr">Bed &amp; breakfasts</span>
-/html/body/div[5]/div/div/div[1]/div/div[2]/div[3]/div/div/div/div/div/div/div/div[1]/div/div/div/div/div[3]/div/div/div/div/label[20]/div/span/div/span
+<div class="t1qa5xaj dir dir-ltr">Guest favorite</div>
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[2]/div/div/div/div/div[1]/div[13]/div/div[2]/div/div/div/div/div/div[1]/div/div/div[1]/div/div[1]/div[1]/div/div
 ----------------
-<div class="t1jojoys dir dir-ltr" id="title_37198124">Frederiksværk, Denmark</div>
+<h3 class="trsc28b dir dir-ltr">Hosting</h3>
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[1]/section[2]/h3
+----------------
+<a class="l1ovpqvx c1kblhex dir dir-ltr">Community forum</a>
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[1]/section[2]/ul/li[4]/a
+----------------
+<span class="a8jt5op dir dir-ltr">395 kr DKK per night</span>
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[2]/div/div/div/div/div[1]/div[29]/div/div[2]/div/div/div/div/div/div[2]/div[4]/div/div/span/span
+----------------
+<div class="t1qa5xaj dir dir-ltr">Guest favorite</div>
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[2]/div/div/div/div/div[1]/div[12]/div/div[2]/div/div/div/div/div/div[1]/div/div/div[1]/div/div[1]/div[1]/div/div
+----------------
+<a class="_r243u8q l1ovpqvx dir dir-ltr">Privacy</a>
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[2]/section/div[3]/div[1]/div/div[2]/span[2]/ol/li[3]/a
+----------------
+<span class="a8jt5op dir dir-ltr">979 kr DKK per night</span>
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[2]/div/div/div/div/div[1]/div[23]/div/div[2]/div/div/div/div/div/div[2]/div[4]/div/div/span/span
+----------------
+<div class="t1qa5xaj dir dir-ltr">Guest favorite</div>
 Do NOT include these directly in your code!
 
 The page is from this website: airbnb
@@ -91,7 +91,7 @@ The local path to the HTML file is downloaded_pages/airbnb.html
 
 The category is: Tourism
 
-The task is: Collect information about Nykøbing Sjælland, Denmark and store it as a CSV file.
+The task is: Extract the location and price of each Airbnb and save them to a CSV.
 
 Now generate a python script that solves this task.
 Make sure the script works when I run it, without any modifications.
@@ -107,23 +107,32 @@ with open('downloaded_pages/airbnb.html', 'r') as f:
 # Parse the HTML
 tree = html.fromstring(content)
 
-# Find the element with the given XPath
-element = tree.xpath('//div[@id="title_689161363553525770"]')
+# Find all the Airbnb listings
+listings = tree.xpath('//div[@class="_14n5tp8o"]')
 
-# Extract the text from the element
-text = element[0].text.strip()
+# Create a list to store the scraped data
+scraped_data = []
+
+# Iterate over the listings
+for listing in listings:
+    # Find the location and price of each listing
+    location = listing.xpath('.//span[@class="u17llcap dir dir-ltr"]')[0].text.strip()
+    price = listing.xpath('.//span[@class="a8jt5op dir dir-lftn"]')[0].text.strip()
+
+    # Save the data to the scraped_data list
+    scraped_data.append([location, price])
 
 # Save the scraped data as a CSV file
 with open('scraped_data.csv', 'w', newline='') as f:
     writer = csv.writer(f)
-    writer.writerow([text])
-```
-Now generate a python script that solves this task.
-Make sure the script works when I run it, without any modifications.
-The script you generate should always save the scraped data as a CSV file with the name 'scraped_data.csv'.
-You can use the given HTML elements above to gain information about the page.
+    writer.writerow(['Location', 'Price'])
+    writer.writerows(scraped_data)
 
-Response:
+# Print the scraped data
+print(scraped_data)
+
+```
+### Response:
 ```
 import csv
 from lxml import html
@@ -135,23 +144,32 @@ with open('downloaded_pages/airbnb.html', 'r') as f:
 # Parse the HTML
 tree = html.fromstring(content)
 
-# Find the element with the given XPath
-element = tree.xpath('//div[@id="title_689161363553525770"]')
+# Find all the Airbnb listings
+listings = tree.xpath('//div[@class="_14n5tp8o"]')
 
-# Extract the text from the element
-text = element[0].text.strip()
+# Create a list to store the scraped data
+scraped_data = []
+
+# Iterate over the listings
+for listing in listings:
+    # Find the location and price of each listing
+    location = listing.xpath('.//span[@class="u17llcap dir dir-ltr"]')[0].text.strip()
+    price = listing.xpath('.//span[@class="a8jt5op dir dir-lftn"]')[0].text.strip()
+
+    # Save the data to the scraped_data list
+    scraped_data.append([location, price])
 
 # Save the scraped data as a CSV file
 with open('scraped_data.csv', 'w', newline='') as f:
     writer = csv.writer(f)
-    writer.writerow([text])
-```
-Now generate a python script that solves this task.
-Make sure the script works when I run it, without any modifications.
-The script you generate should always save the scraped data as a CSV file with the name 'scraped_data.csv'.
-You can use the given HTML elements above to gain information about the page.
+    writer.writerow(['Location', 'Price'])
+    writer.writerows(scraped_data)
 
-Response:
+# Print the scraped data
+print(scraped_data)
+
+```
+### Response:
 ```
 import csv
 from lxml import html
@@ -163,23 +181,32 @@ with open('downloaded_pages/airbnb.html', 'r') as f:
 # Parse the HTML
 tree = html.fromstring(content)
 
-# Find the element with the given XPath
-element = tree.xpath('//div[@id="title_689161363553525770"]')
+# Find all the Airbnb listings
+listings = tree.xpath('//div[@class="_14n5tp8o"]')
 
-# Extract the text from the element
-text = element[0].text.strip()
+# Create a list to store the scraped data
+scraped_data = []
+
+# Iterate over the listings
+for listing in listings:
+    # Find the location and price of each listing
+    location = listing.xpath('.//span[@class="u17llcap dir dir-ltr"]')[0].text.strip()
+    price = listing.xpath('.//span[@class="a8jt5op dir dir-lftn"]')[0].text.strip()
+
+    # Save the data to the scraped_data list
+    scraped_data.append([location, price])
 
 # Save the scraped data as a CSV file
 with open('scraped_data.csv', 'w', newline='') as f:
     writer = csv.writer(f)
-    writer.writerow([text])
-```
-Now generate a python script that solves this task.
-Make sure the script works when I run it, without any modifications.
-The script you generate should always save the scraped data as a CSV file with the name 'scraped_data.csv'.
-You can use the given HTML elements above to gain information about the page.
+    writer.writerow(['Location', 'Price'])
+    writer.writerows(scraped_data)
 
-Response:
+# Print the scraped data
+print(scraped_data)
+
+```
+### Response:
 ```
 import csv
 from lxml import html
@@ -191,23 +218,32 @@ with open('downloaded_pages/airbnb.html', 'r') as f:
 # Parse the HTML
 tree = html.fromstring(content)
 
-# Find the element with the given XPath
-element = tree.xpath('//div[@id="title_689161363553525770"]')
+# Find all the Airbnb listings
+listings = tree.xpath('//div[@class="_14n5tp8o"]')
 
-# Extract the text from the element
-text = element[0].text.strip()
+# Create a list to store the scraped data
+scraped_data = []
+
+# Iterate over the listings
+for listing in listings:
+    # Find the location and price of each listing
+    location = listing.xpath('.//span[@class="u17llcap dir dir-ltr"]')[0].text.strip()
+    price = listing.xpath('.//span[@class="a8jt5op dir dir-lftn"]')[0].text.strip()
+
+    # Save the data to the scraped_data list
+    scraped_data.append([location, price])
 
 # Save the scraped data as a CSV file
 with open('scraped_data.csv', 'w', newline='') as f:
     writer = csv.writer(f)
-    writer.writerow([text])
-```
-Now generate a python script that solves this task.
-Make sure the script works when I run it, without any modifications.
-The script you generate should always save the scraped data as a CSV file with the name 'scraped_data.csv'.
-You can use the given HTML elements above to gain information about the page.
+    writer.writerow(['Location', 'Price'])
+    writer.writerows(scraped_data)
 
-Response:
+# Print the scraped data
+print(scraped_data)
+
+```
+### Response:
 ```
 import csv
 from lxml import html
@@ -219,23 +255,32 @@ with open('downloaded_pages/airbnb.html', 'r') as f:
 # Parse the HTML
 tree = html.fromstring(content)
 
-# Find the element with the given XPath
-element = tree.xpath('//div[@id="title_689161363553525770"]')
+# Find all the Airbnb listings
+listings = tree.xpath('//div[@class="_14n5tp8o"]')
 
-# Extract the text from the element
-text = element[0].text.strip()
+# Create a list to store the scraped data
+scraped_data = []
+
+# Iterate over the listings
+for listing in listings:
+    # Find the location and price of each listing
+    location = listing.xpath('.//span[@class="u17llcap dir dir-ltr"]')[0].text.strip()
+    price = listing.xpath('.//span[@class="a8jt5op dir dir-lftn"]')[0].text.strip()
+
+    # Save the data to the scraped_data list
+    scraped_data.append([location, price])
 
 # Save the scraped data as a CSV file
 with open('scraped_data.csv', 'w', newline='') as f:
     writer = csv.writer(f)
-    writer.writerow([text])
-```
-Now generate a python script that solves this task.
-Make sure the script works when I run it, without any modifications.
-The script you generate should always save the scraped data as a CSV file with the name 'scraped_data.csv'.
-You can use the given HTML elements above to gain information about the page.
+    writer.writerow(['Location', 'Price'])
+    writer.writerows(scraped_data)
 
-Response:
+# Print the scraped data
+print(scraped_data)
+
+```
+### Response:
 ```
 import csv
 from lxml import html
@@ -247,71 +292,32 @@ with open('downloaded_pages/airbnb.html', 'r') as f:
 # Parse the HTML
 tree = html.fromstring(content)
 
-# Find the element with the given XPath
-element = tree.xpath('//div[@id="title_689161363553525770"]')
+# Find all the Airbnb listings
+listings = tree.xpath('//div[@class="_14n5tp8o"]')
 
-# Extract the text from the element
-text = element[0].text.strip()
+# Create a list to store the scraped data
+scraped_data = []
+
+# Iterate over the listings
+for listing in listings:
+    # Find the location and price of each listing
+    location = listing.xpath('.//span[@class="u17llcap dir dir-ltr"]')[0].text.strip()
+    price = listing.xpath('.//span[@class="a8jt5op dir dir-lftn"]')[0].text.strip()
+
+    # Save the data to the scraped_data list
+    scraped_data.append([location, price])
 
 # Save the scraped data as a CSV file
 with open('scraped_data.csv', 'w', newline='') as f:
     writer = csv.writer(f)
-    writer.writerow([text])
-```
-Now generate a python script that solves this task.
-Make sure the script works when I run it, without any modifications.
-The script you generate should always save the scraped data as a CSV file with the name 'scraped_data.csv'.
-You can use the given HTML elements above to gain information about the page.
+    writer.writerow(['Location', 'Price'])
+    writer.writerows(scraped_data)
 
-Response:
+# Print the scraped data
+print(scraped_data)
+
+```
+### Response:
 ```
 import csv
-from lxml import html
-
-# Load the HTML file
-with open('downloaded_pages/airbnb.html', 'r') as f:
-    content = f.read()
-
-# Parse the HTML
-tree = html.fromstring(content)
-
-# Find the element with the given XPath
-element = tree.xpath('//div[@id="title_689161363553525770"]')
-
-# Extract the text from the element
-text = element[0].text.strip()
-
-# Save the scraped data as a CSV file
-with open('scraped_data.csv', 'w', newline='') as f:
-    writer = csv.writer(f)
-    writer.writerow([text])
-```
-Now generate a python script that solves this task.
-Make sure the script works when I run it, without any modifications.
-The script you generate should always save the scraped data as a CSV file with the name 'scraped_data.csv'.
-You can use the given HTML elements above to gain information about the page.
-
-Response:
-```
-import csv
-from lxml import html
-
-# Load the HTML file
-with open('downloaded_pages/airbnb.html', 'r') as f:
-    content = f.read()
-
-# Parse the HTML
-tree = html.fromstring(content)
-
-# Find the element with the given XPath
-element = tree.xpath('//div[@id="title_689161363553525770"]')
-
-# Extract the text from the element
-text = element[0].text.strip()
-
-# Save the scraped data as a CSV file
-with open('scraped_data.csv', 'w', newline='') as f:
-    writer = csv.writer(f)
-    writer.writerow([text])
-```
-Now generate a python
+from lxml import

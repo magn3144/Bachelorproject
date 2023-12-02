@@ -9,11 +9,22 @@ with open('downloaded_pages/DTU_entrepreneurship.html', 'r') as f:
 # Parse the HTML
 tree = html.fromstring(page_content)
 
-# Find the heading text
-heading_text = tree.xpath('//*[@id="footerJob"]/h2/text()')
+# Find the XPath for the element containing the DTU adress
+address_xpath = '//*[@id="footerJob"]/div/p/a'
 
-# Save the data as a CSV file
-with open('scraped_data.csv', 'w', newline='') as csvfile:
-    writer = csv.writer(csvfile)
-    writer.writerow(['Heading'])
-    writer.writerow([heading_text])
+# Find the element using the XPath
+address_element = tree.xpath(address_xpath)[0]
+
+# Get the text from the element
+address_text = address_element.text
+
+# Remove quotation marks from the address text
+address_text = address_text.replace('"', '')
+
+# Add quotation marks around the address text
+address_text = '"' + address_text + '"'
+
+# Save the scraped data as a CSV file
+with open('scraped_data.csv', 'w', newline='') as f:
+    writer = csv.writer(f)
+    writer.writerow([address_text])

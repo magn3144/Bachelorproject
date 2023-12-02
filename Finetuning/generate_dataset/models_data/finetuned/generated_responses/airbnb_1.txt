@@ -4,20 +4,20 @@ Here are some randomly selected HTML elements (containing text), and their corre
 <a class="l1ovpqvx c1kblhex dir dir-ltr">Airbnb-friendly apartments</a>
 /html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[1]/section[2]/ul/li[6]/a
 ----------------
-<a class="_r243u8q l1ovpqvx dir dir-ltr">Sitemap</a>
-/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[2]/section/div[3]/div[1]/div/div[2]/span[2]/ol/li[2]/a
+<a class="_r243u8q l1ovpqvx dir dir-ltr">Terms</a>
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[2]/section/div[1]/div[2]/div/div[2]/span[2]/ol/li[1]/a
 ----------------
 <span class="u17llcap dir dir-ltr">Learn about Guest Favorites, the most loved homes </span>
-/html/body/div[5]/div/div/div[1]/div/div[2]/div[1]/div/div/div/div/h1/div[3]/a/span
+/html/body/div[5]/div/div/div[1]/div/div[2]/div[1]/div/div/div/div/h1/div[1]/a/span
 ----------------
-<span class="ti7yjx dir dir-ltr">Grand pianos</span>
-/html/body/div[5]/div/div/div[1]/div/div[2]/div[3]/div/div/div/div/div/div/div/div[1]/div/div/div/div/div[3]/div/div/div/div/label[48]/div/span/div/span
+<span class="dir dir-ltr">Nov 18 – 25</span>
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[2]/div/div/div/div/div[1]/div[10]/div/div[2]/div/div/div/div/div/div[2]/div[3]/span/span
 ----------------
-<div class="t1jojoys dir dir-ltr" id="title_689161363553525770">Nykøbing Sjælland, Denmark</div>
-/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[2]/div/div/div/div/div[1]/div[35]/div/div[2]/div/div/div/div/div/div[2]/div[1]
+<div class="db9tcim dir dir-ltr" id="category-bar-description">17 of 61 Airbnb Categories showing</div>
+/html/body/div[5]/div/div/div[1]/div/div[2]/div[3]/div/div/div/div/div/div/div/div[1]/div/div/div/div/div[1]
 ----------------
 <div class="t1qa5xaj dir dir-ltr">Guest favorite</div>
-/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[2]/div/div/div/div/div[1]/div[24]/div/div[2]/div/div/div/div/div/div[1]/div/div/div[1]/div/div[1]/div[1]/div/div
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[2]/div/div/div/div/div[1]/div[20]/div/div[2]/div/div/div/div/div/div[1]/div/div/div[1]/div/div[1]/div[1]/div/div
 ----------------
 <h2 class="hifxi0b dir dir-ltr">Inspiration for future getaways</h2>
 /html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[1]/div/div/div/div/h2
@@ -25,64 +25,64 @@ Here are some randomly selected HTML elements (containing text), and their corre
 <h2 id="footerHeading">Site Footer</h2>
 /html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/span/h2
 ----------------
-<h3 class="trsc28b dir dir-ltr">Hosting</h3>
-/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[1]/section[2]/h3
+<h3 class="trsc28b dir dir-ltr">Airbnb</h3>
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[1]/section[3]/h3
 ----------------
 <a class="l1ovpqvx c1kblhex dir dir-ltr">Airbnb.org emergency stays</a>
 /html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[1]/section[3]/ul/li[6]/a
 ----------------
-<a class="l1ovpqvx c1kblhex dir dir-ltr">AirCover</a>
-/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[1]/section[1]/ul/li[2]/a
+<a class="l1ovpqvx c1kblhex dir dir-ltr">Careers</a>
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[1]/section[3]/ul/li[3]/a
 ----------------
 <span class="u17llcap dir dir-ltr">Learn about Guest Favorites, the most loved homes </span>
-/html/body/div[5]/div/div/div[1]/div/div[2]/div[1]/div/div/div/div/h1/div[2]/div/a/span
+/html/body/div[5]/div/div/div[1]/div/div[2]/div[1]/div/div/div/div/h1/div[3]/a/span
 ----------------
-<span class="ti7yjx dir dir-ltr">Earth homes</span>
-/html/body/div[5]/div/div/div[1]/div/div[2]/div[3]/div/div/div/div/div/div/div/div[1]/div/div/div/div/div[3]/div/div/div/div/label[34]/div/span/div/span
+<span class="t4m7o8q t1mat252 dir dir-ltr">Glasgow</span>
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[1]/div/div/div/div/div/div[2]/div[1]/ul/li[60]/a/span[1]
 ----------------
-<div class="db9tcim dir dir-ltr" id="category-bar-description">17 of 61 Airbnb Categories showing</div>
-/html/body/div[5]/div/div/div[1]/div/div[2]/div[3]/div/div/div/div/div/div/div/div[1]/div/div/div/div/div[1]
+<div class="t1jojoys dir dir-ltr" id="title_689161363553525770">Nykøbing Sjælland, Denmark</div>
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[2]/div/div/div/div/div[1]/div[35]/div/div[2]/div/div/div/div/div/div[2]/div[1]
 ----------------
-<div class="t1jojoys dir dir-ltr" id="title_12457951">Tisvildeleje, Denmark</div>
-/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[2]/div/div/div/div/div[1]/div[32]/div/div[2]/div/div/div/div/div/div[2]/div[1]
-----------------
-<h3 class="trsc28b dir dir-ltr">Airbnb</h3>
-/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[1]/section[3]/h3
-----------------
-<a class="l1ovpqvx c1kblhex dir dir-ltr">Report neighborhood concern</a>
-/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[1]/section[1]/ul/li[6]/a
-----------------
-<a class="l1ovpqvx c1kblhex dir dir-ltr">Cancellation options</a>
-/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[1]/section[1]/ul/li[5]/a
-----------------
-<span class="u17llcap dir dir-ltr">Learn about Guest Favorites, the most loved homes </span>
-/html/body/div[5]/div/div/div[1]/div/div[2]/div[1]/div/div/div/div/h1/div[1]/a/span
-----------------
-<span class="dir dir-ltr">Nov 13 – 18</span>
-/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[2]/div/div/div/div/div[1]/div[1]/div/div[2]/div/div/div/div/div/div[2]/div[3]/span/span
-----------------
-<div class="t1qa5xaj dir dir-ltr">Guest favorite</div>
-/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[2]/div/div/div/div/div[1]/div[7]/div/div[2]/div/div/div/div/div/div[1]/div/div/div[1]/div/div[1]/div[1]/div/div
+<div class="t1jojoys dir dir-ltr" id="title_43448743">Frederiksværk, Denmark</div>
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[2]/div/div/div/div/div[1]/div[13]/div/div[2]/div/div/div/div/div/div[2]/div[1]
 ----------------
 <h3 class="trsc28b dir dir-ltr">Support</h3>
 /html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[1]/section[1]/h3
 ----------------
-<a class="l1ovpqvx c1kblhex dir dir-ltr">Airbnb your home</a>
-/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[1]/section[2]/ul/li[1]/a
+<a class="l1ovpqvx c1kblhex dir dir-ltr">Report neighborhood concern</a>
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[1]/section[1]/ul/li[6]/a
 ----------------
-<span class="r1dxllyb dir dir-ltr">4.92</span>
-/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[2]/div/div/div/div/div[1]/div[19]/div/div[2]/div/div/div/div/div/div[2]/span/span[2]
+<a class="l1ovpqvx c1kblhex dir dir-ltr">New features</a>
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[1]/section[3]/ul/li[2]/a
 ----------------
-<div class="pz9siyu pk4ruxu dir dir-ltr">Add dates</div>
-/html/body/div[5]/div/div/div[1]/div/div[2]/div[2]/div/div/div/header/div/div[2]/div[2]/div/div/div/form/div[2]/div[1]/div[3]/div[1]/div/div/div[2]
+<span class="u17llcap dir dir-ltr">Learn about Guest Favorites, the most loved homes </span>
+/html/body/div[5]/div/div/div[1]/div/div[2]/div[1]/div/div/div/div/h1/div[2]/div/a/span
 ----------------
-<a class="l1ovpqvx c1kblhex dir dir-ltr">Newsroom</a>
-/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[1]/section[3]/ul/li[1]/a
+<span class="t4m7o8q t1mat252 dir dir-ltr">Santorini</span>
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[1]/div/div/div/div/div/div[2]/div[1]/ul/li[38]/a/span[1]
 ----------------
-<span class="ti7yjx dir dir-ltr">Bed &amp; breakfasts</span>
-/html/body/div[5]/div/div/div[1]/div/div[2]/div[3]/div/div/div/div/div/div/div/div[1]/div/div/div/div/div[3]/div/div/div/div/label[20]/div/span/div/span
+<div class="t1qa5xaj dir dir-ltr">Guest favorite</div>
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[2]/div/div/div/div/div[1]/div[13]/div/div[2]/div/div/div/div/div/div[1]/div/div/div[1]/div/div[1]/div[1]/div/div
 ----------------
-<div class="t1jojoys dir dir-ltr" id="title_37198124">Frederiksværk, Denmark</div>
+<h3 class="trsc28b dir dir-ltr">Hosting</h3>
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[1]/section[2]/h3
+----------------
+<a class="l1ovpqvx c1kblhex dir dir-ltr">Community forum</a>
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[1]/section[2]/ul/li[4]/a
+----------------
+<span class="a8jt5op dir dir-ltr">395 kr DKK per night</span>
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[2]/div/div/div/div/div[1]/div[29]/div/div[2]/div/div/div/div/div/div[2]/div[4]/div/div/span/span
+----------------
+<div class="t1qa5xaj dir dir-ltr">Guest favorite</div>
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[2]/div/div/div/div/div[1]/div[12]/div/div[2]/div/div/div/div/div/div[1]/div/div/div[1]/div/div[1]/div[1]/div/div
+----------------
+<a class="_r243u8q l1ovpqvx dir dir-ltr">Privacy</a>
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[2]/section/div[3]/div[1]/div/div[2]/span[2]/ol/li[3]/a
+----------------
+<span class="a8jt5op dir dir-ltr">979 kr DKK per night</span>
+/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[2]/div/div/div/div/div[1]/div[23]/div/div[2]/div/div/div/div/div/div[2]/div[4]/div/div/span/span
+----------------
+<div class="t1qa5xaj dir dir-ltr">Guest favorite</div>
 Do NOT include these directly in your code!
 
 The page is from this website: airbnb
@@ -91,7 +91,7 @@ The local path to the HTML file is downloaded_pages/airbnb.html
 
 The category is: Tourism
 
-The task is: Scrape the Sitemap page and save the information as a CSV file.
+The task is: Save the classes of the "show more" button in seperate rows in a CSV file.
 
 Now generate a python script that solves this task.
 Make sure the script works when I run it, without any modifications.
@@ -107,27 +107,17 @@ with open('downloaded_pages/airbnb.html', 'r') as f:
 # Parse the HTML
 tree = html.fromstring(content)
 
-# Find the sitemap link
-sitemap_link = tree.xpath('//a[contains(text(), "Site")]')[0].get('href')
+# Find the "show more" buttons
+show_more_buttons = tree.xpath('//div[@class="_b0zlx4m"]/button[@class="_14lwomh"]')
 
-# Download the sitemap
-with open('sitemap.html', 'w') as f:
-    f.write(sitemap_link)
+# Extract the classes of the buttons
+button_classes = [button.attrib['class'] for button in show_more_buttons]
 
-# Parse the sitemap
-tree = html.fromstring(content)
-
-# Find all the listings
-listings = tree.xpath('//div[contains(@class, "t1jojoys")]')
-
-# Save the scraped data as a CSV file
-with open('scraped_data.csv', 'w') as f:
+# Save the data as a CSV file
+with open('scraped_data.csv', 'w', newline='') as f:
     writer = csv.writer(f)
-    writer.writerow(['Title', 'URL'])
-    for listing in listings:
-        title = listing.xpath('div[@class="t1jojoys dir dir-ltr"]')[0].text
-        url = listing.xpath('a[@class="l1ovpqvx c1kblhex dir dir-ltr"]')[0].get('href')
-        writer.writerow([title, url])
+    writer.writerow(['Classes'])
+    writer.writerows([button_classes])
 ```
 Now generate a python script that solves this task.
 Make sure the script works when I run it, without any modifications.
@@ -146,34 +136,20 @@ with open('downloaded_pages/airbnb.html', 'r') as f:
 # Parse the HTML
 tree = html.fromstring(content)
 
-# Find the sitemap link
-sitemap_link = tree.xpath('//a[contains(text(), "Site")]')[0].get('href')
+# Find the "show more" buttons
+show_more_buttons = tree.xpath('//div[@class="_b0zlx4m"]/button[@class="_14lwomh"]')
 
-# Download the sitemap
-with open('sitemap.html', 'w') as f:
-    f.write(sitemap_link)
+# Extract the classes of the buttons
+button_classes = [button.attrib['class'] for button in show_more_buttons]
 
-# Parse the sitemap
-tree = html.fromstring(content)
-
-# Find all the listings
-listings = tree.xpath('//div[contains(@class, "t1jojoys")]')
-
-# Save the scraped data as a CSV file
-with open('scraped_data.csv', 'w') as f:
+# Save the data as a CSV file
+with open('scraped_data.csv', 'w', newline='') as f:
     writer = csv.writer(f)
-    writer.writerow(['Title', 'URL'])
-    for listing in listings:
-        title = listing.xpath('div[@class="t1jojoys dir dir-ltr"]')[0].text
-        url = listing.xpath('a[@class="l1ovpqvx c1kblhex dir dir-ltr"]')[0].get('href')
-        writer.writerow([title, url])
+    writer.writerow(['Classes'])
+    writer.writerows([button_classes])
 ```
 
-</details>
-
-<details>
-<summary>Solution</summary>
-
+### Response:
 ```
 import csv
 from lxml import html
@@ -185,88 +161,166 @@ with open('downloaded_pages/airbnb.html', 'r') as f:
 # Parse the HTML
 tree = html.fromstring(content)
 
-# Find the sitemap link
-sitemap_link = tree.xpath('//a[contains(text(), "Site")]')[0].get('href')
+# Find the "show more" buttons
+show_more_buttons = tree.xpath('//div[@class="_b0zlx4m"]/button[@class="_14lwomh"]')
 
-# Download the sitemap
-with open('sitemap.html', 'w') as f:
-    f.write(sitemap_link)
+# Extract the classes of the buttons
+button_classes = [button.attrib['class'] for button in show_more_buttons]
 
-# Parse the sitemap
+# Save the data as a CSV file
+with open('scraped_data.csv', 'w', newline='') as f:
+    writer = csv.writer(f)
+    writer.writerow(['Classes'])
+    writer.writerows([button_classes])
+```
+
+### Response:
+```
+import csv
+from lxml import html
+
+# Load the HTML file
+with open('downloaded_pages/airbnb.html', 'r') as f:
+    content = f.read()
+
+# Parse the HTML
 tree = html.fromstring(content)
 
-# Find all the listings
-listings = tree.xpath('//div[contains(@class, "t1jojoys")]')
+# Find the "show more" buttons
+show_more_buttons = tree.xpath('//div[@class="_b0zlx4m"]/button[@class="_14lwomh"]')
 
-# Save the scraped data as a CSV file
-with open('scraped_data.csv', 'w') as f:
+# Extract the classes of the buttons
+button_classes = [button.attrib['class'] for button in show_more_buttons]
+
+# Save the data as a CSV file
+with open('scraped_data.csv', 'w', newline='') as f:
     writer = csv.writer(f)
-    writer.writerow(['Title', 'URL'])
-    for listing in listings:
-        title = listing.xpath('div[@class="t1jojoys dir dir-ltr"]')[0].text
-        url = listing.xpath('a[@class="l1ovpqvx c1kblhex dir dir-ltr"]')[0].get('href')
-        writer.writerow([title, url])
+    writer.writerow(['Classes'])
+    writer.writerows([button_classes])
 ```
 
-</details>
+### Response:
+```
+import csv
+from lxml import html
 
-<details>
-<summary>Discussion</summary>
+# Load the HTML file
+with open('downloaded_pages/airbnb.html', 'r') as f:
+    content = f.read()
 
+# Parse the HTML
+tree = html.fromstring(content)
+
+# Find the "show more" buttons
+show_more_buttons = tree.xpath('//div[@class="_b0zlx4m"]/button[@class="_14lwomh"]')
+
+# Extract the classes of the buttons
+button_classes = [button.attrib['class'] for button in show_more_buttons]
+
+# Save the data as a CSV file
+with open('scraped_data.csv', 'w', newline='') as f:
+    writer = csv.writer(f)
+    writer.writerow(['Classes'])
+    writer.writerows([button_classes])
 ```
 
+### Response:
+```
+import csv
+from lxml import html
+
+# Load the HTML file
+with open('downloaded_pages/airbnb.html', 'r') as f:
+    content = f.read()
+
+# Parse the HTML
+tree = html.fromstring(content)
+
+# Find the "show more" buttons
+show_more_buttons = tree.xpath('//div[@class="_b0zlx4m"]/button[@class="_14lwomh"]')
+
+# Extract the classes of the buttons
+button_classes = [button.attrib['class'] for button in show_more_buttons]
+
+# Save the data as a CSV file
+with open('scraped_data.csv', 'w', newline='') as f:
+    writer = csv.writer(f)
+    writer.writerow(['Classes'])
+    writer.writerows([button_classes])
 ```
 
-</details>
+### Response:
+```
+import csv
+from lxml import html
 
-<details>
-<summary>Response</summary>
+# Load the HTML file
+with open('downloaded_pages/airbnb.html', 'r') as f:
+    content = f.read()
 
+# Parse the HTML
+tree = html.fromstring(content)
+
+# Find the "show more" buttons
+show_more_buttons = tree.xpath('//div[@class="_b0zlx4m"]/button[@class="_14lwomh"]')
+
+# Extract the classes of the buttons
+button_classes = [button.attrib['class'] for button in show_more_buttons]
+
+# Save the data as a CSV file
+with open('scraped_data.csv', 'w', newline='') as f:
+    writer = csv.writer(f)
+    writer.writerow(['Classes'])
+    writer.writerows([button_classes])
 ```
 
+### Response:
+```
+import csv
+from lxml import html
+
+# Load the HTML file
+with open('downloaded_pages/airbnb.html', 'r') as f:
+    content = f.read()
+
+# Parse the HTML
+tree = html.fromstring(content)
+
+# Find the "show more" buttons
+show_more_buttons = tree.xpath('//div[@class="_b0zlx4m"]/button[@class="_14lwomh"]')
+
+# Extract the classes of the buttons
+button_classes = [button.attrib['class'] for button in show_more_buttons]
+
+# Save the data as a CSV file
+with open('scraped_data.csv', 'w', newline='') as f:
+    writer = csv.writer(f)
+    writer.writerow(['Classes'])
+    writer.writerows([button_classes])
 ```
 
-</details>
+### Response:
+```
+import csv
+from lxml import html
 
-<div class="container">
-<div class="row">
-<div class="col-sm-10 col-sm-offset-1">
-<div class="panel-group" id="accordion">
-<div class="panel panel-default">
-<div class="panel-heading">
-<h4 class="panel-title">How to solve this task?</h4>
-</div>
-<div class="panel-body">
-<p>
-You are given a web page, the category of the page, randomly selected html elements on that page, the local path to the HTML file that should be scraped and a web-scraping task that you should solve.
-</p>
-<p>
-Here are some randomly selected HTML elements (containing text), and their corresponding XPaths from the target page:
-</p>
-<p>
-<a class="l1ovpqvx c1kblhex dir dir-ltr">Airbnb-friendly apartments</a>
-/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[1]/section[2]/ul/li[6]/a
-</p>
-<p>
-<a class="_r243u8q l1ovpqvx dir dir-ltr">Sitemap</a>
-/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[3]/div[2]/footer/div/div/div[2]/section/div[3]/div[1]/div/div[2]/span[2]/ol/li[2]/a
-</p>
-<p>
-<span class="u17llcap dir dir-ltr">Learn about Guest Favorites, the most loved homes </span>
-/html/body/div[5]/div/div/div[1]/div/div[2]/div[1]/div/div/div/div/h1/div[3]/a/span
-</p>
-<p>
-<span class="ti7yjx dir dir-ltr">Grand pianos</span>
-/html/body/div[5]/div/div/div[1]/div/div[2]/div[3]/div/div/div/div/div/div/div/div[1]/div/div/div/div/div[3]/div/div/div/div/label[48]/div/span/div/span
-</p>
-<p>
-<div class="t1jojoys dir dir-ltr" id="title_689161363553525770">Nykøbing Sjælland, Denmark</div>
-/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[2]/div/div/div/div/div[1]/div[35]/div/div[2]/div/div/div/div/div/div[2]/div[1]
-</p>
-<p>
-<div class="t1qa5xaj dir dir-ltr">Guest favorite</div>
-/html/body/div[5]/div/div/div[1]/div/div[2]/main/div[2]/div/div/div/div/div[1]/div[24]/div/div[2]/div/div/div/div/div/div[1]/div/div/div[1]/div/div[1]/div[1]/div/div
-</p>
-<p>
-<h2 class="hifxi0b dir dir-ltr">Inspiration for future getaways</h2>
-/html
+# Load the HTML file
+with open('downloaded_pages/airbnb.html', 'r') as f:
+    content = f.read()
+
+# Parse the HTML
+tree = html.fromstring(content)
+
+# Find the "show more" buttons
+show_more_buttons = tree.xpath('//div[@class="_b0zlx4m"]/button[@class="_14lwomh"]')
+
+# Extract the classes of the buttons
+button_classes = [button.attrib['class'] for button in show_more_buttons]
+
+# Save the data as a CSV file
+with open('scraped_data.csv', 'w', newline='') as f:
+    writer = csv.writer(f)
+    writer.writerow(['Classes'])
+    writer.writerows([button_classes])
+```
+
