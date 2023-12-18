@@ -1,3 +1,6 @@
+### THIS SCRIPT WAS INSPIRED BY THIS ARTICLE: https://medium.com/@csakash03/fine-tuning-llama-2-llm-on-google-colab-a-step-by-step-guide-cf7bb367e790"
+
+
 # Save a txt file to trained_models folder, to show that this script has started
 print("1: This script has started")
 
@@ -31,7 +34,7 @@ def reload_model(model_name, dataset, r, epochs, lr):
         quantization_config=bnb_config,
         device_map={"": 0}
     )
-    model.config.use_cache = False # silence the warnings. Please re-enable for inference!
+    model.config.use_cache = False # silence the warnings. Re-enable for inference.
     model.config.pretraining_tp = 1
     print("2b: model loaded")
     # Load LLaMA tokenizer

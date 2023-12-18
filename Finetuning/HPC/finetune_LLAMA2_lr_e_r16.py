@@ -1,3 +1,6 @@
+### THIS SCRIPT WAS INSPIRED BY THIS ARTICLE: https://medium.com/@csakash03/fine-tuning-llama-2-llm-on-google-colab-a-step-by-step-guide-cf7bb367e790"
+
+
 # Save a txt file to trained_models folder, to show that this script has started
 print("1: This script has started")
 
